@@ -16,499 +16,796 @@
   "music_mood": "upbeat",
   "topics": [
     {
-      "topic": "Octopuses Have Three Hearts",
+      "id": 1,
+      "title": "Octopuses Have Three Hearts",
       "hook": "This Animal Has Three Hearts...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sloths Can Hold Breath 40 Minutes",
+      "id": 2,
+      "title": "Sloths Can Hold Breath 40 Minutes",
       "hook": "Sloths Can Do This Underwater...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dolphins Have Names For Each Other",
+      "id": 3,
+      "title": "Dolphins Have Names For Each Other",
       "hook": "Dolphins Actually Call Each Other...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Koalas Sleep 22 Hours Daily",
+      "id": 4,
+      "title": "Koalas Sleep 22 Hours Daily",
       "hook": "Koalas Sleep This Many Hours...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Penguins Propose With Pebbles",
+      "id": 5,
+      "title": "Penguins Propose With Pebbles",
       "hook": "Penguins Propose With A Pebble...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Elephants Cannot Jump",
+      "id": 6,
+      "title": "Elephants Cannot Jump",
       "hook": "Elephants Physically Cannot Do This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Butterflies Taste With Their Feet",
+      "id": 7,
+      "title": "Butterflies Taste With Their Feet",
       "hook": "Butterflies Taste Food With Their...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Crows Remember Human Faces",
+      "id": 8,
+      "title": "Crows Remember Human Faces",
       "hook": "Crows Will Remember Your Face...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Snails Can Sleep For 3 Years",
+      "id": 9,
+      "title": "Snails Can Sleep For 3 Years",
       "hook": "Snails Sleep For Three Entire Years...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mantis Shrimp See 16 Color Types",
+      "id": 10,
+      "title": "Mantis Shrimp See 16 Color Types",
       "hook": "This Shrimp Sees Colors You Cannot...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Flamingos Are Pink From Food",
+      "id": 11,
+      "title": "Flamingos Are Pink From Food",
       "hook": "Flamingos Are Not Born Pink...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sharks Existed Before Trees",
+      "id": 12,
+      "title": "Sharks Existed Before Trees",
       "hook": "Sharks Are Older Than Trees...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hummingbirds Cannot Walk",
+      "id": 13,
+      "title": "Hummingbirds Cannot Walk",
       "hook": "Hummingbirds Can Never Walk...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Frogs Absorb Water Through Skin",
+      "id": 14,
+      "title": "Frogs Absorb Water Through Skin",
       "hook": "Frogs Never Actually Drink Water...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Owls Cannot Move Their Eyeballs",
+      "id": 15,
+      "title": "Owls Cannot Move Their Eyeballs",
       "hook": "Owls Have Eyeballs That Cannot...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Seahorses Mate For Life",
+      "id": 16,
+      "title": "Seahorses Mate For Life",
       "hook": "Seahorses Choose One Partner Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giraffes Have Black Tongues",
+      "id": 17,
+      "title": "Giraffes Have Black Tongues",
       "hook": "Giraffe Tongues Are Completely Black...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Polar Bears Have Black Skin",
+      "id": 18,
+      "title": "Polar Bears Have Black Skin",
       "hook": "Polar Bears Are Not White...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jellyfish Have No Brain",
+      "id": 19,
+      "title": "Jellyfish Have No Brain",
       "hook": "Jellyfish Survive Without A Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tigers Have Striped Skin",
+      "id": 20,
+      "title": "Tigers Have Striped Skin",
       "hook": "Tiger Stripes Go Deeper Than Fur...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolves Change River Ecosystems",
+      "id": 21,
+      "title": "Wolves Change River Ecosystems",
       "hook": "Wolves Literally Change Rivers Themselves...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bees Recognize Human Faces",
+      "id": 22,
+      "title": "Bees Recognize Human Faces",
       "hook": "Bees Can Recognize Your Face...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cheetahs Cannot Roar",
+      "id": 23,
+      "title": "Cheetahs Cannot Roar",
       "hook": "Cheetahs Can Never Roar Like Lions...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lobsters Do Not Age",
+      "id": 24,
+      "title": "Lobsters Do Not Age",
       "hook": "Lobsters Literally Never Age...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cats Have 32 Muscles Per Ear",
+      "id": 25,
+      "title": "Cats Have 32 Muscles Per Ear",
       "hook": "Cat Ears Have This Many Muscles...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Horses Cannot Vomit",
+      "id": 26,
+      "title": "Horses Cannot Vomit",
       "hook": "Horses Physically Cannot Vomit...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ants Never Sleep",
+      "id": 27,
+      "title": "Ants Never Sleep",
       "hook": "Ants Have Never Slept Ever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Platypus Produce Venom",
+      "id": 28,
+      "title": "Platypus Produce Venom",
       "hook": "Platypus Males Are Actually Venomous...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bats Always Turn Left",
+      "id": 29,
+      "title": "Bats Always Turn Left",
       "hook": "Bats Always Exit Caves This Way...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Raccoons Wash Their Food",
+      "id": 30,
+      "title": "Raccoons Wash Their Food",
       "hook": "Raccoons Always Wash Food Before Eating...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Woodpeckers Tongues Wrap Around Brain",
+      "id": 31,
+      "title": "Woodpeckers Tongues Wrap Around Brain",
       "hook": "Woodpecker Tongues Wrap Around Their Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Crocodiles Cannot Stick Tongue Out",
+      "id": 32,
+      "title": "Crocodiles Cannot Stick Tongue Out",
       "hook": "Crocodiles Can Never Stick Tongues Out...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Squirrels Plant Thousands Of Trees",
+      "id": 33,
+      "title": "Squirrels Plant Thousands Of Trees",
       "hook": "Squirrels Accidentally Plant Forests...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Otters Hold Hands While Sleeping",
+      "id": 34,
+      "title": "Otters Hold Hands While Sleeping",
       "hook": "Otters Hold Hands So They Do Not...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pigeons Can Detect Earthquakes",
+      "id": 35,
+      "title": "Pigeons Can Detect Earthquakes",
       "hook": "Pigeons Sense Earthquakes Before They Happen...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hippos Sweat Turns Red",
+      "id": 36,
+      "title": "Hippos Sweat Turns Red",
       "hook": "Hippo Sweat Turns Blood Red...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kangaroos Cannot Walk Backwards",
+      "id": 37,
+      "title": "Kangaroos Cannot Walk Backwards",
       "hook": "Kangaroos Can Never Walk Backwards...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Beavers Teeth Never Stop Growing",
+      "id": 38,
+      "title": "Beavers Teeth Never Stop Growing",
       "hook": "Beaver Teeth Grow Forever Without...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Foxes Use Earths Magnetic Field",
+      "id": 39,
+      "title": "Foxes Use Earths Magnetic Field",
       "hook": "Foxes Hunt Using Magnetic Fields...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pigs Cannot Look At Sky",
+      "id": 40,
+      "title": "Pigs Cannot Look At Sky",
       "hook": "Pigs Physically Cannot Look Up...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Spiders Can Survive Without Food Year",
+      "id": 41,
+      "title": "Spiders Can Survive Without Food Year",
       "hook": "Spiders Survive A Year Without Food...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gorillas Can Catch Human Colds",
+      "id": 42,
+      "title": "Gorillas Can Catch Human Colds",
       "hook": "Gorillas Get Sick From Your Cold...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Chameleons Change Color From Mood",
+      "id": 43,
+      "title": "Chameleons Change Color From Mood",
       "hook": "Chameleons Change Color From Emotions...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ostriches Have Bigger Eyes Than Brain",
+      "id": 44,
+      "title": "Ostriches Have Bigger Eyes Than Brain",
       "hook": "Ostrich Eyes Are Bigger Than Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ravens Hold Grudges For Years",
+      "id": 45,
+      "title": "Ravens Hold Grudges For Years",
       "hook": "Ravens Will Remember And Punish You...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Blue Whales Heart Size Car",
+      "id": 46,
+      "title": "Blue Whales Heart Size Car",
       "hook": "Blue Whale Hearts Are Car Sized...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Clownfish Can Change Gender",
+      "id": 47,
+      "title": "Clownfish Can Change Gender",
       "hook": "Clownfish Actually Change Their Gender...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Armadillos Always Birth Identical Quadruplets",
+      "id": 48,
+      "title": "Armadillos Always Birth Identical Quadruplets",
       "hook": "Armadillos Always Have Four Identical Babies...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Naked Mole Rats Feel No Pain",
+      "id": 49,
+      "title": "Naked Mole Rats Feel No Pain",
       "hook": "These Rats Literally Cannot Feel Pain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wombats Poop Cubes",
+      "id": 50,
+      "title": "Wombats Poop Cubes",
       "hook": "Wombats Poop Comes Out As Cubes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Axolotls Regenerate Entire Brain",
+      "id": 51,
+      "title": "Axolotls Regenerate Entire Brain",
       "hook": "Axolotls Regrow Their Entire Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tardigrades Survive Outer Space",
+      "id": 52,
+      "title": "Tardigrades Survive Outer Space",
       "hook": "This Animal Survives In Outer Space...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Turritopsis Jellyfish Immortal",
+      "id": 53,
+      "title": "Turritopsis Jellyfish Immortal",
       "hook": "This Jellyfish Literally Cannot Die...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cuttlefish Have W Shaped Pupils",
+      "id": 54,
+      "title": "Cuttlefish Have W Shaped Pupils",
       "hook": "Cuttlefish Pupils Are Shaped Like This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Electric Eels Generate 860 Volts",
+      "id": 55,
+      "title": "Electric Eels Generate 860 Volts",
       "hook": "Electric Eels Shock With This Voltage...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Puffins Mate For Life",
+      "id": 56,
+      "title": "Puffins Mate For Life",
       "hook": "Puffins Choose One Partner Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Harp Seals Recognize Songs",
+      "id": 57,
+      "title": "Harp Seals Recognize Songs",
       "hook": "Seals Actually Recognize Music Patterns...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Moles Can Smell In Stereo",
+      "id": 58,
+      "title": "Moles Can Smell In Stereo",
       "hook": "Moles Smell In Three Dimensions...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Parrots Name Their Babies",
+      "id": 59,
+      "title": "Parrots Name Their Babies",
       "hook": "Parrots Give Their Chicks Names...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Walruses Can Sleep Anywhere",
+      "id": 60,
+      "title": "Walruses Can Sleep Anywhere",
       "hook": "Walruses Sleep While Floating Vertically...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Moose Dive 20 Feet Deep",
+      "id": 61,
+      "title": "Moose Dive 20 Feet Deep",
       "hook": "Moose Can Dive Six Meters Deep...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lyrebirds Mimic Chainsaws Perfectly",
+      "id": 62,
+      "title": "Lyrebirds Mimic Chainsaws Perfectly",
       "hook": "This Bird Mimics Chainsaws And Cameras...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sea Cucumbers Eject Internal Organs",
+      "id": 63,
+      "title": "Sea Cucumbers Eject Internal Organs",
       "hook": "Sea Cucumbers Throw Out Their Organs...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Meerkats Have Babysitters",
+      "id": 64,
+      "title": "Meerkats Have Babysitters",
       "hook": "Meerkats Hire Professional Babysitters...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pistol Shrimp Create Plasma Bubbles",
+      "id": 65,
+      "title": "Pistol Shrimp Create Plasma Bubbles",
       "hook": "This Shrimp Creates Underwater Plasma...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Komodo Dragons Are Venomous",
+      "id": 66,
+      "title": "Komodo Dragons Are Venomous",
       "hook": "Komodo Dragons Have Deadly Venom...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Reindeer Eyes Change Color",
+      "id": 67,
+      "title": "Reindeer Eyes Change Color",
       "hook": "Reindeer Eyes Change Color By Season...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Binturongs Smell Like Popcorn",
+      "id": 68,
+      "title": "Binturongs Smell Like Popcorn",
       "hook": "This Animal Smells Exactly Like Popcorn...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Vampire Bats Share Blood",
+      "id": 69,
+      "title": "Vampire Bats Share Blood",
       "hook": "Vampire Bats Share Food With Friends...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Arctic Foxes Survive Minus 70",
+      "id": 70,
+      "title": "Arctic Foxes Survive Minus 70",
       "hook": "Arctic Foxes Survive Negative Seventy Degrees...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Peregrine Falcons Dive 240 MPH",
+      "id": 71,
+      "title": "Peregrine Falcons Dive 240 MPH",
       "hook": "This Bird Reaches Two Forty MPH...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hagfish Produce Slime Instantly",
+      "id": 72,
+      "title": "Hagfish Produce Slime Instantly",
       "hook": "Hagfish Create Gallons Of Slime Instantly...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolverines Take Down Moose",
+      "id": 73,
+      "title": "Wolverines Take Down Moose",
       "hook": "Wolverines Kill Animals Ten Times Bigger...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ribbon Worms Eject Proboscis",
+      "id": 74,
+      "title": "Ribbon Worms Eject Proboscis",
       "hook": "This Worm Shoots Out Its Mouth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pangolins Are Most Trafficked",
+      "id": 75,
+      "title": "Pangolins Are Most Trafficked",
       "hook": "This Is The Most Trafficked Mammal...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Stonefish Are Most Venomous",
+      "id": 76,
+      "title": "Stonefish Are Most Venomous",
       "hook": "This Fish Is The Most Venomous...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Glass Frogs Have Transparent Bellies",
+      "id": 77,
+      "title": "Glass Frogs Have Transparent Bellies",
       "hook": "You Can See Through This Frog...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Honey Badgers Eat Venomous Snakes",
+      "id": 78,
+      "title": "Honey Badgers Eat Venomous Snakes",
       "hook": "Honey Badgers Are Immune To Venom...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Narwhals Have Ten Foot Tusks",
+      "id": 79,
+      "title": "Narwhals Have Ten Foot Tusks",
       "hook": "Narwhal Tusks Are Ten Feet Long...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Basilisk Lizards Walk On Water",
+      "id": 80,
+      "title": "Basilisk Lizards Walk On Water",
       "hook": "This Lizard Literally Walks On Water...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Archerfish Shoot Water Bullets",
+      "id": 81,
+      "title": "Archerfish Shoot Water Bullets",
       "hook": "Archerfish Shoot Insects With Water Jets...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kiwi Birds Lay Massive Eggs",
+      "id": 82,
+      "title": "Kiwi Birds Lay Massive Eggs",
       "hook": "Kiwi Eggs Are Twenty Percent Body Weight...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bombardier Beetles Spray Boiling Acid",
+      "id": 83,
+      "title": "Bombardier Beetles Spray Boiling Acid",
       "hook": "This Beetle Shoots Boiling Acid...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Leafcutter Ants Farm Fungus",
+      "id": 84,
+      "title": "Leafcutter Ants Farm Fungus",
       "hook": "These Ants Are Underground Farmers...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mimic Octopus Impersonates 15 Species",
+      "id": 85,
+      "title": "Mimic Octopus Impersonates 15 Species",
       "hook": "This Octopus Impersonates Fifteen Animals...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Horned Lizards Squirt Blood From Eyes",
+      "id": 86,
+      "title": "Horned Lizards Squirt Blood From Eyes",
       "hook": "This Lizard Shoots Blood From Eyes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Flying Snakes Glide 100 Meters",
+      "id": 87,
+      "title": "Flying Snakes Glide 100 Meters",
       "hook": "These Snakes Actually Fly Through Air...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Coconut Crabs Crack Coconuts",
+      "id": 88,
+      "title": "Coconut Crabs Crack Coconuts",
       "hook": "This Crab Crushes Coconuts With Claws...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Aye Ayes Have Skeletal Finger",
+      "id": 89,
+      "title": "Aye Ayes Have Skeletal Finger",
       "hook": "Aye Aye Fingers Look Like Bones...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Peacock Mantis Shrimp Punch Breaks Glass",
+      "id": 90,
+      "title": "Peacock Mantis Shrimp Punch Breaks Glass",
       "hook": "This Shrimp Punch Shatters Aquarium Glass...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fennec Foxes Have Massive Ears",
+      "id": 91,
+      "title": "Fennec Foxes Have Massive Ears",
       "hook": "Fennec Fox Ears Are Half Body Length...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Box Jellyfish Have 24 Eyes",
+      "id": 92,
+      "title": "Box Jellyfish Have 24 Eyes",
       "hook": "Box Jellyfish Have Twenty Four Eyes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tarsiers Have Huge Eyes",
+      "id": 93,
+      "title": "Tarsiers Have Huge Eyes",
       "hook": "Tarsier Eyes Are Bigger Than Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sailfish Are Fastest Fish",
+      "id": 94,
+      "title": "Sailfish Are Fastest Fish",
       "hook": "Sailfish Swim Sixty Eight Miles Per Hour...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gharials Have 110 Teeth",
+      "id": 95,
+      "title": "Gharials Have 110 Teeth",
       "hook": "Gharials Have One Hundred Ten Teeth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Colossal Squid Have Basketball Eyes",
+      "id": 96,
+      "title": "Colossal Squid Have Basketball Eyes",
       "hook": "Colossal Squid Eyes Are Basketball Sized...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Proboscis Monkeys Have Giant Noses",
+      "id": 97,
+      "title": "Proboscis Monkeys Have Giant Noses",
       "hook": "Male Proboscis Monkey Noses Are Enormous...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Trap Jaw Ants Snap 145 MPH",
+      "id": 98,
+      "title": "Trap Jaw Ants Snap 145 MPH",
       "hook": "Trap Jaw Ant Jaws Close This Fast...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Star Nosed Moles Have 22 Tentacles",
+      "id": 99,
+      "title": "Star Nosed Moles Have 22 Tentacles",
       "hook": "Star Nosed Moles Have Twenty Two Tentacles...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     }
   ]
 }

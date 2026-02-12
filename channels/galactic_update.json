@@ -4,504 +4,809 @@
   "github_environment": "GalacticUpdate",
   "category": "Science & Technology",
   "youtube_category_id": "28",
-  "default_tags": ["space", "nasa", "astronomy", "science", "universe", "cosmos", "shorts"],
+  "default_tags": [
+    "space",
+    "nasa",
+    "astronomy",
+    "science",
+    "universe",
+    "cosmos",
+    "shorts"
+  ],
   "pexels_search_prefix": "space galaxy stars",
   "music_mood": "epic",
   "topics": [
     {
-      "topic": "Water Found On Mars",
+      "id": 1,
+      "title": "Water Found On Mars",
       "hook": "NASA Just Found Water On Mars...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Black Hole Eating A Star",
+      "id": 2,
+      "title": "Black Hole Eating A Star",
       "hook": "This Black Hole Is Eating A Star...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "James Webb Telescope Discovers Oldest Galaxy",
+      "id": 3,
+      "title": "James Webb Telescope Discovers Oldest Galaxy",
       "hook": "Webb Telescope Sees The Impossible...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mysterious Radio Signal From Deep Space",
+      "id": 4,
+      "title": "Mysterious Radio Signal From Deep Space",
       "hook": "We Detected A Signal From Space...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Venus Might Have Life",
+      "id": 5,
+      "title": "Venus Might Have Life",
       "hook": "Venus Has Something We Never Expected...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rogue Planet Wandering Through Space",
+      "id": 6,
+      "title": "Rogue Planet Wandering Through Space",
       "hook": "This Planet Has No Star...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Saturn Losing Its Rings",
+      "id": 7,
+      "title": "Saturn Losing Its Rings",
       "hook": "Saturn Is Losing Its Rings Fast...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Interstellar Object Entering Solar System",
+      "id": 8,
+      "title": "Interstellar Object Entering Solar System",
       "hook": "Something Just Entered Our Solar System...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Moon Shrinking Over Time",
+      "id": 9,
+      "title": "Moon Shrinking Over Time",
       "hook": "The Moon Is Shrinking Right Now...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Supermassive Black Hole At Galaxy Center",
+      "id": 10,
+      "title": "Supermassive Black Hole At Galaxy Center",
       "hook": "This Black Hole Should Not Exist...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Europa Has Underground Ocean",
+      "id": 11,
+      "title": "Europa Has Underground Ocean",
       "hook": "This Moon Hides An Entire Ocean...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fastest Star Ever Recorded",
+      "id": 12,
+      "title": "Fastest Star Ever Recorded",
       "hook": "This Star Moves At Impossible Speed...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Diamond Planet Discovered",
+      "id": 13,
+      "title": "Diamond Planet Discovered",
       "hook": "NASA Found A Planet Made Of Diamonds...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Voyager 1 Leaves Solar System",
+      "id": 14,
+      "title": "Voyager 1 Leaves Solar System",
       "hook": "Voyager Just Left Our Solar System...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Asteroid Mining Could Make Trillionaires",
+      "id": 15,
+      "title": "Asteroid Mining Could Make Trillionaires",
       "hook": "This Asteroid Is Worth More Than Earth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mysterious Dark Matter Discovery",
+      "id": 16,
+      "title": "Mysterious Dark Matter Discovery",
       "hook": "Scientists Finally Detected Dark Matter...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sun Will Swallow Earth Eventually",
+      "id": 17,
+      "title": "Sun Will Swallow Earth Eventually",
       "hook": "The Sun Will Destroy Earth Soon...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Parallel Universe Evidence Found",
+      "id": 18,
+      "title": "Parallel Universe Evidence Found",
       "hook": "We May Have Found A Parallel Universe...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alien Megastructure Around Star",
+      "id": 19,
+      "title": "Alien Megastructure Around Star",
       "hook": "This Star Has Something Orbiting It...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gamma Ray Burst Nearly Hit Earth",
+      "id": 20,
+      "title": "Gamma Ray Burst Nearly Hit Earth",
       "hook": "This Event Almost Destroyed All Life...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ice Volcanoes On Pluto",
+      "id": 21,
+      "title": "Ice Volcanoes On Pluto",
       "hook": "Pluto Has Volcanoes Made Of Ice...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Time Moves Slower Near Black Holes",
+      "id": 22,
+      "title": "Time Moves Slower Near Black Holes",
       "hook": "Black Holes Can Stop Time Itself...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Betelgeuse About To Explode",
+      "id": 23,
+      "title": "Betelgeuse About To Explode",
       "hook": "This Star Could Explode Any Day Now...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Habitable Exoplanet Found Nearby",
+      "id": 24,
+      "title": "Habitable Exoplanet Found Nearby",
       "hook": "We Found Another Earth Nearby...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jupiter Protects Earth From Asteroids",
+      "id": 25,
+      "title": "Jupiter Protects Earth From Asteroids",
       "hook": "Jupiter Saves Earth Every Single Day...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Neutron Star Collision Creates Gold",
+      "id": 26,
+      "title": "Neutron Star Collision Creates Gold",
       "hook": "All Gold On Earth Came From Space...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Microwave Background Radiation",
+      "id": 27,
+      "title": "Cosmic Microwave Background Radiation",
       "hook": "You Can See The Big Bang On TV...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Andromeda Galaxy Collision Course",
+      "id": 28,
+      "title": "Andromeda Galaxy Collision Course",
       "hook": "Andromeda Will Collide With Us Soon...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "White Dwarf Star Explodes",
+      "id": 29,
+      "title": "White Dwarf Star Explodes",
       "hook": "This Dead Star Just Came Back To Life...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gravitational Waves Detected",
+      "id": 30,
+      "title": "Gravitational Waves Detected",
       "hook": "Einstein Was Right About Everything...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mars Had Rivers And Oceans",
+      "id": 31,
+      "title": "Mars Had Rivers And Oceans",
       "hook": "Mars Used To Look Like Earth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Void Larger Than Universe",
+      "id": 32,
+      "title": "Cosmic Void Larger Than Universe",
       "hook": "Scientists Found A Hole In Space...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Magnetar Most Magnetic Object",
+      "id": 33,
+      "title": "Magnetar Most Magnetic Object",
       "hook": "This Star Would Kill You Instantly...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Titan Has Lakes Of Methane",
+      "id": 34,
+      "title": "Titan Has Lakes Of Methane",
       "hook": "This Moon Has Lakes And Rain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Quasar Brightest Object In Universe",
+      "id": 35,
+      "title": "Quasar Brightest Object In Universe",
       "hook": "This Object Outshines Entire Galaxies...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Space Smells Like Burning Metal",
+      "id": 36,
+      "title": "Space Smells Like Burning Metal",
       "hook": "Space Has A Smell Nobody Expected...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Proxima Centauri Has Habitable Zone",
+      "id": 37,
+      "title": "Proxima Centauri Has Habitable Zone",
       "hook": "The Nearest Star Has Habitable Planets...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Universe Expanding Faster Than Expected",
+      "id": 38,
+      "title": "Universe Expanding Faster Than Expected",
       "hook": "The Universe Is Breaking Physics Laws...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lunar Dust Toxic To Humans",
+      "id": 39,
+      "title": "Lunar Dust Toxic To Humans",
       "hook": "Moon Dust Could Kill Astronauts...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pulsar Spins 700 Times Per Second",
+      "id": 40,
+      "title": "Pulsar Spins 700 Times Per Second",
       "hook": "This Star Spins At Impossible Speed...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Galactic Cannibalism Happening Now",
+      "id": 41,
+      "title": "Galactic Cannibalism Happening Now",
       "hook": "Our Galaxy Is Eating Other Galaxies...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kepler 452b Most Earth Like Planet",
+      "id": 42,
+      "title": "Kepler 452b Most Earth Like Planet",
       "hook": "We Found An Earth Twin Finally...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Solar Flare Could Knock Out Power",
+      "id": 43,
+      "title": "Solar Flare Could Knock Out Power",
       "hook": "The Sun Could End Civilization Tomorrow...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Enceladus Shoots Water Into Space",
+      "id": 44,
+      "title": "Enceladus Shoots Water Into Space",
       "hook": "This Moon Has Geysers Miles High...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Universe Could Collapse Any Moment",
+      "id": 45,
+      "title": "Universe Could Collapse Any Moment",
       "hook": "Everything Could End Right Now...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Brown Dwarf Failed Star",
+      "id": 46,
+      "title": "Brown Dwarf Failed Star",
       "hook": "This Star Failed To Become A Star...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Inflation Faster Than Light",
+      "id": 47,
+      "title": "Cosmic Inflation Faster Than Light",
       "hook": "The Universe Once Moved Faster Than Light...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Great Attractor Pulling Galaxies",
+      "id": 48,
+      "title": "Great Attractor Pulling Galaxies",
       "hook": "Something Is Pulling Our Galaxy Away...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Planets Raining Diamonds",
+      "id": 49,
+      "title": "Planets Raining Diamonds",
       "hook": "It Rains Diamonds On These Planets...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Red Giant Star Expansion",
+      "id": 50,
+      "title": "Red Giant Star Expansion",
       "hook": "This Star Just Swallowed Its Planets...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Strings May Exist",
+      "id": 51,
+      "title": "Cosmic Strings May Exist",
       "hook": "Space Has Cracks In It...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ganymede Has Magnetic Field",
+      "id": 52,
+      "title": "Ganymede Has Magnetic Field",
       "hook": "This Moon Acts Like A Planet...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wormholes Might Be Real",
+      "id": 53,
+      "title": "Wormholes Might Be Real",
       "hook": "Shortcuts Through Space May Exist...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pioneer Anomaly Unsolved",
+      "id": 54,
+      "title": "Pioneer Anomaly Unsolved",
       "hook": "Something Is Pulling On Our Spacecraft...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Helium Rain On Jupiter",
+      "id": 55,
+      "title": "Helium Rain On Jupiter",
       "hook": "It Rains Liquid Helium On Jupiter...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Vacuum Decay Could Destroy Universe",
+      "id": 56,
+      "title": "Vacuum Decay Could Destroy Universe",
       "hook": "Reality Could Collapse At Light Speed...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Asteroid Belt Could Have Been Planet",
+      "id": 57,
+      "title": "Asteroid Belt Could Have Been Planet",
       "hook": "Jupiter Destroyed An Entire Planet...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fast Radio Bursts Mystery",
+      "id": 58,
+      "title": "Fast Radio Bursts Mystery",
       "hook": "We Keep Getting Signals From Space...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hawking Radiation From Black Holes",
+      "id": 59,
+      "title": "Hawking Radiation From Black Holes",
       "hook": "Black Holes Are Slowly Evaporating...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Multiverse Theory Evidence",
+      "id": 60,
+      "title": "Multiverse Theory Evidence",
       "hook": "Infinite Versions Of You May Exist...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Planet Nine Still Hidden",
+      "id": 61,
+      "title": "Planet Nine Still Hidden",
       "hook": "A Giant Planet Is Hiding From Us...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Oort Cloud Surrounds Solar System",
+      "id": 62,
+      "title": "Oort Cloud Surrounds Solar System",
       "hook": "Trillions Of Comets Surround Our System...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Rays Hitting Earth Constantly",
+      "id": 63,
+      "title": "Cosmic Rays Hitting Earth Constantly",
       "hook": "Space Radiation Hits You Right Now...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hypervelocity Stars Escaping Galaxy",
+      "id": 64,
+      "title": "Hypervelocity Stars Escaping Galaxy",
       "hook": "These Stars Are Escaping The Galaxy...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kuiper Belt Beyond Neptune",
+      "id": 65,
+      "title": "Kuiper Belt Beyond Neptune",
       "hook": "We Found A Second Asteroid Belt...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Solar Wind Strips Mars Atmosphere",
+      "id": 66,
+      "title": "Solar Wind Strips Mars Atmosphere",
       "hook": "The Sun Is Destroying Mars Slowly...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lagrange Points Gravitational Sweet Spots",
+      "id": 67,
+      "title": "Lagrange Points Gravitational Sweet Spots",
       "hook": "Space Has Points Where Gravity Cancels Out...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Great Red Spot Shrinking",
+      "id": 68,
+      "title": "Great Red Spot Shrinking",
       "hook": "Jupiter Is Losing Its Red Spot...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fermi Paradox Where Are Aliens",
+      "id": 69,
+      "title": "Fermi Paradox Where Are Aliens",
       "hook": "Why Have We Never Met Aliens Yet...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mercury Has Ice In Craters",
+      "id": 70,
+      "title": "Mercury Has Ice In Craters",
       "hook": "The Hottest Planet Has Ice On It...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Horizon Limit Of Universe",
+      "id": 71,
+      "title": "Cosmic Horizon Limit Of Universe",
       "hook": "We Can Never See Most Of The Universe...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Type III Civilization Could Harvest Galaxies",
+      "id": 72,
+      "title": "Type III Civilization Could Harvest Galaxies",
       "hook": "Aliens Could Be Harvesting Entire Galaxies...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Trojan Asteroids Share Planet Orbits",
+      "id": 73,
+      "title": "Trojan Asteroids Share Planet Orbits",
       "hook": "Earth Has Secret Asteroid Companions...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Web Structure Of Universe",
+      "id": 74,
+      "title": "Cosmic Web Structure Of Universe",
       "hook": "The Universe Looks Like A Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Solar Eclipse Rare Cosmic Coincidence",
+      "id": 75,
+      "title": "Solar Eclipse Rare Cosmic Coincidence",
       "hook": "Solar Eclipses Should Not Be Possible...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Io Most Volcanic Object",
+      "id": 76,
+      "title": "Io Most Volcanic Object",
       "hook": "This Moon Has 400 Active Volcanoes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Big Crunch Possible Universe End",
+      "id": 77,
+      "title": "Big Crunch Possible Universe End",
       "hook": "The Universe Might Collapse Backwards...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Methane On Mars Mystery",
+      "id": 78,
+      "title": "Methane On Mars Mystery",
       "hook": "Mars Has Methane From Unknown Source...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Spacecraft Graveyard In Pacific Ocean",
+      "id": 79,
+      "title": "Spacecraft Graveyard In Pacific Ocean",
       "hook": "We Crash Spacecraft In The Ocean...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tidal Locking Keeps Moon Same Face",
+      "id": 80,
+      "title": "Tidal Locking Keeps Moon Same Face",
       "hook": "We Never See The Dark Side Of The Moon...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rogue Black Holes Wandering Space",
+      "id": 81,
+      "title": "Rogue Black Holes Wandering Space",
       "hook": "Black Holes Are Wandering Through Space...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Phosphine On Venus Sign Of Life",
+      "id": 82,
+      "title": "Phosphine On Venus Sign Of Life",
       "hook": "Venus Might Have Life In Its Clouds...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Microwave Background Perfect Temperature",
+      "id": 83,
+      "title": "Cosmic Microwave Background Perfect Temperature",
       "hook": "Space Has A Perfect Temperature Everywhere...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sunspot Cycle Every 11 Years",
+      "id": 84,
+      "title": "Sunspot Cycle Every 11 Years",
       "hook": "The Sun Has Mood Swings Every Decade...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Binary Star Systems Common",
+      "id": 85,
+      "title": "Binary Star Systems Common",
       "hook": "Most Stars Have A Twin Star...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Space Junk Threatening Satellites",
+      "id": 86,
+      "title": "Space Junk Threatening Satellites",
       "hook": "Space Trash Could Trap Us On Earth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Zodiacal Light From Asteroid Dust",
+      "id": 87,
+      "title": "Zodiacal Light From Asteroid Dust",
       "hook": "You Can See Asteroid Dust At Night...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kugelblitz Black Hole From Light",
+      "id": 88,
+      "title": "Kugelblitz Black Hole From Light",
       "hook": "Light Itself Can Create Black Holes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Enceladus Could Harbor Life",
+      "id": 89,
+      "title": "Enceladus Could Harbor Life",
       "hook": "This Tiny Moon Might Have Alien Life...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Solar Sails Use Light For Propulsion",
+      "id": 90,
+      "title": "Solar Sails Use Light For Propulsion",
       "hook": "We Can Travel Using Only Light...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Naked Eye Supernovae Visible From Earth",
+      "id": 91,
+      "title": "Naked Eye Supernovae Visible From Earth",
       "hook": "You Might See A Star Explode Soon...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Triton Orbits Neptune Backwards",
+      "id": 92,
+      "title": "Triton Orbits Neptune Backwards",
       "hook": "This Moon Orbits The Wrong Way...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dark Energy Accelerating Universe",
+      "id": 93,
+      "title": "Dark Energy Accelerating Universe",
       "hook": "Something Is Pushing The Universe Apart...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Olympus Mons Largest Volcano",
+      "id": 94,
+      "title": "Olympus Mons Largest Volcano",
       "hook": "Mars Has The Biggest Mountain Ever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Photons Take Millions Of Years To Escape Sun",
+      "id": 95,
+      "title": "Photons Take Millions Of Years To Escape Sun",
       "hook": "Sunlight Is Millions Of Years Old...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Heliosphere Protects Solar System",
+      "id": 96,
+      "title": "Heliosphere Protects Solar System",
       "hook": "The Sun Creates A Shield Around Us...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Great Observatories Program Revolutionary",
+      "id": 97,
+      "title": "Great Observatories Program Revolutionary",
       "hook": "These Telescopes Changed Everything We Know...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Terraforming Mars Possible",
+      "id": 98,
+      "title": "Terraforming Mars Possible",
       "hook": "We Could Make Mars Like Earth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cosmic Dust Creates New Stars",
+      "id": 99,
+      "title": "Cosmic Dust Creates New Stars",
       "hook": "Dead Stars Become New Stars Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     }
   ]
 }

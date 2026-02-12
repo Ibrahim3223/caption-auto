@@ -16,504 +16,804 @@
   "music_mood": "epic",
   "topics": [
     {
-      "topic": "Mantis Shrimp Punch Boils Water",
+      "id": 1,
+      "title": "Mantis Shrimp Punch Boils Water",
       "hook": "This Shrimp Punch Creates Plasma...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Honey Badger Fights Lions",
+      "id": 2,
+      "title": "Honey Badger Fights Lions",
       "hook": "Honey Badgers Fight Entire Lion Prides...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cassowary Deadly Kick",
+      "id": 3,
+      "title": "Cassowary Deadly Kick",
       "hook": "Cassowaries Kill With One Kick...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mudskipper Climbs Trees",
+      "id": 4,
+      "title": "Mudskipper Climbs Trees",
       "hook": "This Fish Climbs Trees At Night...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hippo Most Dangerous Animal",
+      "id": 5,
+      "title": "Hippo Most Dangerous Animal",
       "hook": "Hippos Are The Deadliest Animal...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pistol Shrimp Sonic Weapon",
+      "id": 6,
+      "title": "Pistol Shrimp Sonic Weapon",
       "hook": "This Shrimp Uses Sonic Weapons...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Komodo Dragon Venomous Bite",
+      "id": 7,
+      "title": "Komodo Dragon Venomous Bite",
       "hook": "Komodo Venom Causes Unstoppable Bleeding...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Electric Eel 860 Volts",
+      "id": 8,
+      "title": "Electric Eel 860 Volts",
       "hook": "This Eel Generates 860 Volts...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolverine Fights Bears",
+      "id": 9,
+      "title": "Wolverine Fights Bears",
       "hook": "Wolverines Kill Full Grown Bears...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Box Jellyfish Deadly Sting",
+      "id": 10,
+      "title": "Box Jellyfish Deadly Sting",
       "hook": "Box Jellyfish Kill In 3 Minutes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Orca Hunts Great White Sharks",
+      "id": 11,
+      "title": "Orca Hunts Great White Sharks",
       "hook": "Orcas Hunt Great Whites For Livers...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "African Wild Dog Pack Hunting",
+      "id": 12,
+      "title": "African Wild Dog Pack Hunting",
       "hook": "Wild Dogs Have 80 Percent Success Rate...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Saltwater Crocodile Death Roll",
+      "id": 13,
+      "title": "Saltwater Crocodile Death Roll",
       "hook": "Croc Death Rolls Tear Prey Apart...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Secretary Bird Stomps Snakes",
+      "id": 14,
+      "title": "Secretary Bird Stomps Snakes",
       "hook": "This Bird Stomps Snakes To Death...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tasmanian Devil Bone Crushing Bite",
+      "id": 15,
+      "title": "Tasmanian Devil Bone Crushing Bite",
       "hook": "Tasmanian Devils Bite Through Bones...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Stonefish Deadliest Fish",
+      "id": 16,
+      "title": "Stonefish Deadliest Fish",
       "hook": "Stonefish Venom Causes Instant Paralysis...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Inland Taipan Venom Potency",
+      "id": 17,
+      "title": "Inland Taipan Venom Potency",
       "hook": "One Bite Kills 100 Grown Men...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Polar Bear Hunts Beluga Whales",
+      "id": 18,
+      "title": "Polar Bear Hunts Beluga Whales",
       "hook": "Polar Bears Dive 12 Feet For Whales...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cone Snail Deadly Harpoon",
+      "id": 19,
+      "title": "Cone Snail Deadly Harpoon",
       "hook": "This Snail Shoots Poisonous Harpoons...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Harpy Eagle Snatches Monkeys",
+      "id": 20,
+      "title": "Harpy Eagle Snatches Monkeys",
       "hook": "Harpy Eagles Snatch Monkeys From Trees...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Candiru Fish Attacks Humans",
+      "id": 21,
+      "title": "Candiru Fish Attacks Humans",
       "hook": "This Fish Swims Up Your Urethra...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giant Anteater Kills Jaguars",
+      "id": 22,
+      "title": "Giant Anteater Kills Jaguars",
       "hook": "Anteaters Kill Jaguars With Claws...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Blue Ringed Octopus Venom",
+      "id": 23,
+      "title": "Blue Ringed Octopus Venom",
       "hook": "Tiny Octopus Kills 26 People...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gharial Crocodile Fish Specialist",
+      "id": 24,
+      "title": "Gharial Crocodile Fish Specialist",
       "hook": "This Croc Has 110 Razor Teeth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Leopard Seal Hunts Penguins",
+      "id": 25,
+      "title": "Leopard Seal Hunts Penguins",
       "hook": "Leopard Seals Launch Penguins 15 Feet...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Brazilian Wandering Spider Venom",
+      "id": 26,
+      "title": "Brazilian Wandering Spider Venom",
       "hook": "Deadliest Spider Hides In Bananas...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Moose Charges Trains",
+      "id": 27,
+      "title": "Moose Charges Trains",
       "hook": "Angry Moose Charge Moving Trains...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Poison Dart Frog Skin Toxins",
+      "id": 28,
+      "title": "Poison Dart Frog Skin Toxins",
       "hook": "One Frog Kills 10 Grown Men...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tiger Shark Eats Anything",
+      "id": 29,
+      "title": "Tiger Shark Eats Anything",
       "hook": "Tiger Sharks Eat License Plates...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giant Petrel Vomit Defense",
+      "id": 30,
+      "title": "Giant Petrel Vomit Defense",
       "hook": "This Bird Vomits Acid At Attackers...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sperm Whale Deepest Diver",
+      "id": 31,
+      "title": "Sperm Whale Deepest Diver",
       "hook": "Sperm Whales Dive 10000 Feet Deep...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Black Mamba Speed Strike",
+      "id": 32,
+      "title": "Black Mamba Speed Strike",
       "hook": "Black Mambas Strike 12 Times Instantly...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Peacock Mantis Shrimp Vision",
+      "id": 33,
+      "title": "Peacock Mantis Shrimp Vision",
       "hook": "This Shrimp Sees Colors You Cannot...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Grizzly Bear Skull Crushing Bite",
+      "id": 34,
+      "title": "Grizzly Bear Skull Crushing Bite",
       "hook": "Grizzlies Bite With 1160 Pounds Force...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Goblin Shark Extending Jaws",
+      "id": 35,
+      "title": "Goblin Shark Extending Jaws",
       "hook": "This Shark Launches Its Jaws Forward...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Haast Eagle Hunted Humans",
+      "id": 36,
+      "title": "Haast Eagle Hunted Humans",
       "hook": "Extinct Eagle Hunted Ancient Humans...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giant Squid Deep Sea Monster",
+      "id": 37,
+      "title": "Giant Squid Deep Sea Monster",
       "hook": "Giant Squid Have Eyes Like Basketballs...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hyena Bite Force Breaks Bones",
+      "id": 38,
+      "title": "Hyena Bite Force Breaks Bones",
       "hook": "Hyenas Crack Elephant Bones Easily...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Deathstalker Scorpion Venom",
+      "id": 39,
+      "title": "Deathstalker Scorpion Venom",
       "hook": "Deathstalker Venom Attacks Your Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Archerfish Shoots Water Bullets",
+      "id": 40,
+      "title": "Archerfish Shoots Water Bullets",
       "hook": "This Fish Shoots Insects From Air...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Peregrine Falcon Dive Speed",
+      "id": 41,
+      "title": "Peregrine Falcon Dive Speed",
       "hook": "Falcons Dive At 240 Miles Per Hour...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nile Crocodile Ambush Predator",
+      "id": 42,
+      "title": "Nile Crocodile Ambush Predator",
       "hook": "Nile Crocs Wait Underwater For Years...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Coconut Crab Breaks Coconuts",
+      "id": 43,
+      "title": "Coconut Crab Breaks Coconuts",
       "hook": "This Crab Crushes Skulls With Claws...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tarantula Hawk Wasp Sting",
+      "id": 44,
+      "title": "Tarantula Hawk Wasp Sting",
       "hook": "Most Painful Insect Sting On Earth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Anaconda Constriction Power",
+      "id": 45,
+      "title": "Anaconda Constriction Power",
       "hook": "Anacondas Crush With 90 Pounds Pressure...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Barracuda Speed Attack",
+      "id": 46,
+      "title": "Barracuda Speed Attack",
       "hook": "Barracudas Hit 36 Miles Per Hour...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sydney Funnel Web Spider Fangs",
+      "id": 47,
+      "title": "Sydney Funnel Web Spider Fangs",
       "hook": "This Spider Bites Through Fingernails...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Goliath Birdeater Size",
+      "id": 48,
+      "title": "Goliath Birdeater Size",
       "hook": "This Spider Weighs More Than Puppies...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bull Shark Freshwater Attacks",
+      "id": 49,
+      "title": "Bull Shark Freshwater Attacks",
       "hook": "Bull Sharks Swim Up Rivers Inland...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "King Cobra Neurotoxic Venom",
+      "id": 50,
+      "title": "King Cobra Neurotoxic Venom",
       "hook": "King Cobras Inject Entire Cups Venom...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jaguar Skull Crushing Bite",
+      "id": 51,
+      "title": "Jaguar Skull Crushing Bite",
       "hook": "Jaguars Bite Directly Through Skulls...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Army Ants Colony Raids",
+      "id": 52,
+      "title": "Army Ants Colony Raids",
       "hook": "Army Ants Devour Everything Alive...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cookiecutter Shark Bite Chunks",
+      "id": 53,
+      "title": "Cookiecutter Shark Bite Chunks",
       "hook": "This Shark Bites Perfect Cookie Shapes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Crowned Eagle Hunts Monkeys",
+      "id": 54,
+      "title": "Crowned Eagle Hunts Monkeys",
       "hook": "This Eagle Specializes In Primates...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sloth Bear Attacks Humans",
+      "id": 55,
+      "title": "Sloth Bear Attacks Humans",
       "hook": "Sloth Bears Maul More Than Tigers...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Vampire Bat Blood Feeding",
+      "id": 56,
+      "title": "Vampire Bat Blood Feeding",
       "hook": "Vampire Bats Drink Half Their Weight...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Thresher Shark Tail Whip",
+      "id": 57,
+      "title": "Thresher Shark Tail Whip",
       "hook": "This Shark Whips Prey To Death...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Japanese Giant Hornet Venom",
+      "id": 58,
+      "title": "Japanese Giant Hornet Venom",
       "hook": "Giant Hornets Melt Human Flesh...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Greenland Shark Lives 500 Years",
+      "id": 59,
+      "title": "Greenland Shark Lives 500 Years",
       "hook": "This Shark Was Born In 1500...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Platypus Venomous Spurs",
+      "id": 60,
+      "title": "Platypus Venomous Spurs",
       "hook": "Male Platypus Venom Causes Agony...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolverine Frog Breaks Own Bones",
+      "id": 61,
+      "title": "Wolverine Frog Breaks Own Bones",
       "hook": "This Frog Breaks Bones Into Claws...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giant Pacific Octopus Intelligence",
+      "id": 62,
+      "title": "Giant Pacific Octopus Intelligence",
       "hook": "This Octopus Escapes Any Tank...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Stoat Hypnotic Dance Kills",
+      "id": 63,
+      "title": "Stoat Hypnotic Dance Kills",
       "hook": "Stoats Hypnotize Prey With Dance...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bombardier Beetle Chemical Spray",
+      "id": 64,
+      "title": "Bombardier Beetle Chemical Spray",
       "hook": "This Beetle Shoots Boiling Acid...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Saltwater Crocodile Size Record",
+      "id": 65,
+      "title": "Saltwater Crocodile Size Record",
       "hook": "Largest Croc Ever Was 23 Feet...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Osprey Fishing Technique",
+      "id": 66,
+      "title": "Osprey Fishing Technique",
       "hook": "Ospreys Dive Feet First Into Water...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Inland Taipan Strike Speed",
+      "id": 67,
+      "title": "Inland Taipan Strike Speed",
       "hook": "Fastest Snake Strikes 8 Times Instantly...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolverine Scavenger Strength",
+      "id": 68,
+      "title": "Wolverine Scavenger Strength",
       "hook": "Wolverines Drag Entire Moose Carcasses...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giant Centipede Hunts Bats",
+      "id": 69,
+      "title": "Giant Centipede Hunts Bats",
       "hook": "This Centipede Catches Flying Bats...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "African Buffalo Kills Lions",
+      "id": 70,
+      "title": "African Buffalo Kills Lions",
       "hook": "Buffalo Kill More Lions Than Vice Versa...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Blue Whale Heart Size",
+      "id": 71,
+      "title": "Blue Whale Heart Size",
       "hook": "Blue Whale Hearts Weigh 400 Pounds...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tarantula Urticating Hairs",
+      "id": 72,
+      "title": "Tarantula Urticating Hairs",
       "hook": "Tarantulas Shoot Barbed Hairs At Eyes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pufferfish Tetrodotoxin Poison",
+      "id": 73,
+      "title": "Pufferfish Tetrodotoxin Poison",
       "hook": "Pufferfish Poison Has No Antidote...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Geoduck Clam Lifespan",
+      "id": 74,
+      "title": "Geoduck Clam Lifespan",
       "hook": "This Clam Lives 168 Years...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolverine Territorial Aggression",
+      "id": 75,
+      "title": "Wolverine Territorial Aggression",
       "hook": "Wolverines Patrol 500 Square Miles...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lionfish Venomous Spines",
+      "id": 76,
+      "title": "Lionfish Venomous Spines",
       "hook": "Lionfish Have 18 Venomous Needles...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Moray Eel Second Jaw",
+      "id": 77,
+      "title": "Moray Eel Second Jaw",
       "hook": "Moray Eels Have Alien Pharyngeal Jaws...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giant Otter Hunts Caimans",
+      "id": 78,
+      "title": "Giant Otter Hunts Caimans",
       "hook": "Giant Otters Gang Up On Crocodiles...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Irukandji Jellyfish Tiny Terror",
+      "id": 79,
+      "title": "Irukandji Jellyfish Tiny Terror",
       "hook": "Worlds Deadliest Jellyfish Is Tiny...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Anaconda Swallows Prey Whole",
+      "id": 80,
+      "title": "Anaconda Swallows Prey Whole",
       "hook": "Anacondas Swallow Full Grown Deer...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Shoebill Stork Decapitates Prey",
+      "id": 81,
+      "title": "Shoebill Stork Decapitates Prey",
       "hook": "This Bird Decapitates Prey Instantly...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alligator Snapping Turtle Bite",
+      "id": 82,
+      "title": "Alligator Snapping Turtle Bite",
       "hook": "This Turtle Bites Through Broomsticks...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tiger Territory Size",
+      "id": 83,
+      "title": "Tiger Territory Size",
       "hook": "Tigers Patrol 386 Square Miles Alone...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Assassin Bug Wears Corpses",
+      "id": 84,
+      "title": "Assassin Bug Wears Corpses",
       "hook": "This Bug Wears Dead Bodies...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Goblin Shark Rare Deep Sea",
+      "id": 85,
+      "title": "Goblin Shark Rare Deep Sea",
       "hook": "Goblin Sharks Live 4300 Feet Deep...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rhino Beetle Strength",
+      "id": 86,
+      "title": "Rhino Beetle Strength",
       "hook": "This Beetle Lifts 850 Times Weight...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Aye Aye Finds Grubs",
+      "id": 87,
+      "title": "Aye Aye Finds Grubs",
       "hook": "Aye Ayes Hear Grubs Inside Trees...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Stonefish Camouflage Master",
+      "id": 88,
+      "title": "Stonefish Camouflage Master",
       "hook": "Stonefish Are Completely Invisible...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mata Mata Turtle Vacuum Mouth",
+      "id": 89,
+      "title": "Mata Mata Turtle Vacuum Mouth",
       "hook": "This Turtle Vacuums Prey Whole...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Electric Catfish Stuns Prey",
+      "id": 90,
+      "title": "Electric Catfish Stuns Prey",
       "hook": "This Catfish Generates 350 Volts...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dragonfly Hunting Success Rate",
+      "id": 91,
+      "title": "Dragonfly Hunting Success Rate",
       "hook": "Dragonflies Catch 95 Percent Of Prey...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolverine Climbs Vertical Cliffs",
+      "id": 92,
+      "title": "Wolverine Climbs Vertical Cliffs",
       "hook": "Wolverines Scale Sheer Ice Walls...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Giant Isopod Deep Sea Scavenger",
+      "id": 93,
+      "title": "Giant Isopod Deep Sea Scavenger",
       "hook": "This Deep Sea Bug Stays Alive Years Without Food...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sawfish Blade Weapon",
+      "id": 94,
+      "title": "Sawfish Blade Weapon",
       "hook": "Sawfish Slash Prey With Chainsaws...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bald Eagle Grip Strength",
+      "id": 95,
+      "title": "Bald Eagle Grip Strength",
       "hook": "Bald Eagles Grip With 400 Pounds...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fer De Lance Snake Aggression",
+      "id": 96,
+      "title": "Fer De Lance Snake Aggression",
       "hook": "This Snake Causes Most Human Deaths...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gharial Crocodile Population Collapse",
+      "id": 97,
+      "title": "Gharial Crocodile Population Collapse",
       "hook": "Only 200 Gharials Remain On Earth...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Horned Lizard Shoots Blood",
+      "id": 98,
+      "title": "Horned Lizard Shoots Blood",
       "hook": "This Lizard Shoots Blood From Eyes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Goliath Grouper Swallows Sharks",
+      "id": 99,
+      "title": "Goliath Grouper Swallows Sharks",
       "hook": "This Fish Swallows 4 Foot Sharks...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mantis Shrimp Color Vision",
+      "id": 100,
+      "title": "Mantis Shrimp Color Vision",
       "hook": "Mantis Shrimp See 16 Color Channels...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     }
   ]
 }

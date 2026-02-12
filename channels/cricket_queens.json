@@ -16,504 +16,804 @@
   "music_mood": "upbeat",
   "topics": [
     {
-      "topic": "Meg Lanning 7 World Cup Titles",
+      "id": 1,
+      "title": "Meg Lanning 7 World Cup Titles",
       "hook": "She Won 7 World Cups Before 30...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ellyse Perry All Rounder Dominance",
+      "id": 2,
+      "title": "Ellyse Perry All Rounder Dominance",
       "hook": "She Dominates With Both Bat And Ball...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fastest Century In Womens Cricket",
+      "id": 3,
+      "title": "Fastest Century In Womens Cricket",
       "hook": "The Fastest Century Ever Recorded...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mithali Raj 23 Year International Career",
+      "id": 4,
+      "title": "Mithali Raj 23 Year International Career",
       "hook": "She Played For 23 Years Straight...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Deandra Dottin 6 Sixes Record",
+      "id": 5,
+      "title": "Deandra Dottin 6 Sixes Record",
       "hook": "She Hit 6 Sixes In One Over...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Smriti Mandhana Fastest To 2000 ODI Runs",
+      "id": 6,
+      "title": "Smriti Mandhana Fastest To 2000 ODI Runs",
       "hook": "Nobody Reached 2000 Runs Faster...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sophie Ecclestone Bowling Domination",
+      "id": 7,
+      "title": "Sophie Ecclestone Bowling Domination",
       "hook": "This Bowler Is Literally Unplayable...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Australia Women 26 Match Win Streak",
+      "id": 8,
+      "title": "Australia Women 26 Match Win Streak",
       "hook": "They Won 26 Matches In A Row...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alyssa Healy 170 World Cup Final",
+      "id": 9,
+      "title": "Alyssa Healy 170 World Cup Final",
       "hook": "She Destroyed India In The Final...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jhulan Goswami 355 Wickets Record",
+      "id": 10,
+      "title": "Jhulan Goswami 355 Wickets Record",
       "hook": "Nobody Has More Wickets Than Her...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Charlotte Edwards 20000 International Runs",
+      "id": 11,
+      "title": "Charlotte Edwards 20000 International Runs",
       "hook": "She Scored More Than Anyone Ever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Harmanpreet Kaur 171 Not Out Semifinal",
+      "id": 12,
+      "title": "Harmanpreet Kaur 171 Not Out Semifinal",
       "hook": "This Innings Changed Cricket History...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Suzie Bates Most T20I Runs",
+      "id": 13,
+      "title": "Suzie Bates Most T20I Runs",
       "hook": "She Owns Every T20 Record...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sarah Taylor Wicketkeeping Legend",
+      "id": 14,
+      "title": "Sarah Taylor Wicketkeeping Legend",
       "hook": "The Greatest Keeper Ever Played...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Anya Shrubsole 6 For 46 Final",
+      "id": 15,
+      "title": "Anya Shrubsole 6 For 46 Final",
       "hook": "She Single Handedly Won The Final...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Beth Mooney Back To Back Finals MVP",
+      "id": 16,
+      "title": "Beth Mooney Back To Back Finals MVP",
       "hook": "She Won Two Finals Alone...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Katherine Brunt 500 International Wickets",
+      "id": 17,
+      "title": "Katherine Brunt 500 International Wickets",
       "hook": "She Terrorized Batters For 15 Years...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lizelle Lee 132 Not Out T20",
+      "id": 18,
+      "title": "Lizelle Lee 132 Not Out T20",
       "hook": "The Highest T20 Score Ever Made...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Stafanie Taylor Caribbean Cricket Icon",
+      "id": 19,
+      "title": "Stafanie Taylor Caribbean Cricket Icon",
       "hook": "She Carried West Indies For Decades...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nat Sciver Power Hitting Record",
+      "id": 20,
+      "title": "Nat Sciver Power Hitting Record",
       "hook": "Nobody Hits Harder Than Her...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Heather Knight England Captain Success",
+      "id": 21,
+      "title": "Heather Knight England Captain Success",
       "hook": "She Led England To Glory Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Shabnim Ismail Fastest Ball Ever",
+      "id": 22,
+      "title": "Shabnim Ismail Fastest Ball Ever",
       "hook": "She Bowls Faster Than Most Men...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Laura Wolvaardt Youngest Century Record",
+      "id": 23,
+      "title": "Laura Wolvaardt Youngest Century Record",
       "hook": "She Was Just 18 Years Old...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rachael Haynes Opening Partnership Dominance",
+      "id": 24,
+      "title": "Rachael Haynes Opening Partnership Dominance",
       "hook": "They Never Got Out Early...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dane Van Niekerk All Round Excellence",
+      "id": 25,
+      "title": "Dane Van Niekerk All Round Excellence",
       "hook": "She Does Everything Better Than You...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Shafali Verma Teen Sensation",
+      "id": 26,
+      "title": "Shafali Verma Teen Sensation",
       "hook": "She Changed Cricket At Age 16...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Perry And Lanning Partnership Record",
+      "id": 27,
+      "title": "Perry And Lanning Partnership Record",
       "hook": "This Duo Is Actually Unstoppable...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Chamari Athapaththu Sri Lanka Legend",
+      "id": 28,
+      "title": "Chamari Athapaththu Sri Lanka Legend",
       "hook": "She Carries Her Team Every Game...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Marizanne Kapp Death Bowling Mastery",
+      "id": 29,
+      "title": "Marizanne Kapp Death Bowling Mastery",
       "hook": "Nobody Can Score Off Her...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tammy Beaumont 148 World Cup Knock",
+      "id": 30,
+      "title": "Tammy Beaumont 148 World Cup Knock",
       "hook": "She Destroyed South Africa Completely...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Javeria Khan Pakistan Cricket Pioneer",
+      "id": 31,
+      "title": "Javeria Khan Pakistan Cricket Pioneer",
       "hook": "She Built Pakistani Cricket Alone...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Annabel Sutherland Rising Star",
+      "id": 32,
+      "title": "Annabel Sutherland Rising Star",
       "hook": "She Dominated Before Age 22...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Deepti Sharma All Round Brilliance",
+      "id": 33,
+      "title": "Deepti Sharma All Round Brilliance",
       "hook": "She Does Everything For India...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kim Garth Ireland Cricket Icon",
+      "id": 34,
+      "title": "Kim Garth Ireland Cricket Icon",
       "hook": "She Put Ireland On The Map...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Amelia Kerr 232 And 5 Wickets",
+      "id": 35,
+      "title": "Amelia Kerr 232 And 5 Wickets",
       "hook": "She Scored 232 And Took 5 Wickets...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hayley Matthews West Indies Power",
+      "id": 36,
+      "title": "Hayley Matthews West Indies Power",
       "hook": "She Dominates Every Single Format...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ash Gardner Explosive All Rounder",
+      "id": 37,
+      "title": "Ash Gardner Explosive All Rounder",
       "hook": "She Can Win Games In Minutes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Renuka Singh Bowling Breakthrough",
+      "id": 38,
+      "title": "Renuka Singh Bowling Breakthrough",
       "hook": "She Takes Wickets For Fun...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Darcie Brown Express Pace",
+      "id": 39,
+      "title": "Darcie Brown Express Pace",
       "hook": "She Bowls Lightning Fast Deliveries...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kate Cross England Bowling Weapon",
+      "id": 40,
+      "title": "Kate Cross England Bowling Weapon",
       "hook": "Batters Fear Her New Ball...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Richa Ghosh Teen Wicketkeeper Sensation",
+      "id": 41,
+      "title": "Richa Ghosh Teen Wicketkeeper Sensation",
       "hook": "She Became Star At Just 17...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Anneke Bosch South Africa Batting Hope",
+      "id": 42,
+      "title": "Anneke Bosch South Africa Batting Hope",
       "hook": "She Scores Runs Nobody Else Can...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Freya Kemp Young All Rounder Talent",
+      "id": 43,
+      "title": "Freya Kemp Young All Rounder Talent",
       "hook": "She Changed English Cricket Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tahlia McGrath Match Winning Performances",
+      "id": 44,
+      "title": "Tahlia McGrath Match Winning Performances",
       "hook": "Australia Never Loses When She Plays...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lea Tahuhu New Zealand Pace Attack",
+      "id": 45,
+      "title": "Lea Tahuhu New Zealand Pace Attack",
       "hook": "She Terrorizes Every Batting Lineup...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fatima Sana Pakistan All Rounder",
+      "id": 46,
+      "title": "Fatima Sana Pakistan All Rounder",
       "hook": "She Does It All For Pakistan...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alice Capsey London Spirit Star",
+      "id": 47,
+      "title": "Alice Capsey London Spirit Star",
       "hook": "She Became Famous At Age 17...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Radha Yadav Spin Bowling Artist",
+      "id": 48,
+      "title": "Radha Yadav Spin Bowling Artist",
       "hook": "Nobody Can Read Her Spin...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Georgia Wareham Leg Spin Magic",
+      "id": 49,
+      "title": "Georgia Wareham Leg Spin Magic",
       "hook": "Her Googly Is Actually Unreadable...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nigar Sultana Bangladesh Captain Leader",
+      "id": 50,
+      "title": "Nigar Sultana Bangladesh Captain Leader",
       "hook": "She Transformed Bangladesh Cricket Completely...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Phoebe Litchfield Teenage Prodigy",
+      "id": 51,
+      "title": "Phoebe Litchfield Teenage Prodigy",
       "hook": "She Became Elite At Just 19...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lauren Bell England Fast Bowler",
+      "id": 52,
+      "title": "Lauren Bell England Fast Bowler",
       "hook": "She Destroys Top Order Batters...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Yastika Bhatia Wicketkeeper Batter",
+      "id": 53,
+      "title": "Yastika Bhatia Wicketkeeper Batter",
       "hook": "She Changed Indian Cricket Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tayla Vlaeminck Pace And Bounce",
+      "id": 54,
+      "title": "Tayla Vlaeminck Pace And Bounce",
       "hook": "She Bowls The Fastest Bouncer Ever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nida Dar Pakistan Spin Legend",
+      "id": 55,
+      "title": "Nida Dar Pakistan Spin Legend",
       "hook": "She Won Matches Nobody Expected...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ayabonga Khaka South Africa Pace",
+      "id": 56,
+      "title": "Ayabonga Khaka South Africa Pace",
       "hook": "She Takes Crucial Wickets Always...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mignon du Preez Proteas Icon",
+      "id": 57,
+      "title": "Mignon du Preez Proteas Icon",
       "hook": "She Defined South African Cricket...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Salma Khatun Bangladesh Pioneer",
+      "id": 58,
+      "title": "Salma Khatun Bangladesh Pioneer",
       "hook": "She Built Cricket In Bangladesh...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Devine And Bates Opening Pair",
+      "id": 59,
+      "title": "Devine And Bates Opening Pair",
       "hook": "This Partnership Destroys Every Attack...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pooja Vastrakar Emerging All Rounder",
+      "id": 60,
+      "title": "Pooja Vastrakar Emerging All Rounder",
       "hook": "She Saves India Every Game...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Issy Wong Express Pace Bowler",
+      "id": 61,
+      "title": "Issy Wong Express Pace Bowler",
       "hook": "She Bowls Faster Than Anyone Expected...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bismah Maroof Pakistan Captain",
+      "id": 62,
+      "title": "Bismah Maroof Pakistan Captain",
       "hook": "She Led Pakistan Through Everything...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sophia Dunkley England Batter Breakthrough",
+      "id": 63,
+      "title": "Sophia Dunkley England Batter Breakthrough",
       "hook": "She Saved England In The Ashes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jess Jonassen Spin And Lower Order Hitting",
+      "id": 64,
+      "title": "Jess Jonassen Spin And Lower Order Hitting",
       "hook": "She Wins Games With Bat And Ball...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Diana Baig Pakistan Pace Pioneer",
+      "id": 65,
+      "title": "Diana Baig Pakistan Pace Pioneer",
       "hook": "She Brought Pace To Pakistan Cricket...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sophie Devine Power Hitting Records",
+      "id": 66,
+      "title": "Sophie Devine Power Hitting Records",
       "hook": "She Hits More Sixes Than Anyone...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rumana Ahmed Bangladesh All Rounder",
+      "id": 67,
+      "title": "Rumana Ahmed Bangladesh All Rounder",
       "hook": "She Does Everything For Her Team...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Chloe Tryon South Africa Finisher",
+      "id": 68,
+      "title": "Chloe Tryon South Africa Finisher",
       "hook": "She Finishes Games In Final Overs...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alana King Leg Spin Breakthrough",
+      "id": 69,
+      "title": "Alana King Leg Spin Breakthrough",
       "hook": "She Took Wickets From Nowhere...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sidra Ameen Pakistan Opening Batter",
+      "id": 70,
+      "title": "Sidra Ameen Pakistan Opening Batter",
       "hook": "She Gives Pakistan Perfect Starts...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hannah Rowe New Zealand All Rounder",
+      "id": 71,
+      "title": "Hannah Rowe New Zealand All Rounder",
       "hook": "She Changed The Game Completely...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Danni Wyatt England Power Hitter",
+      "id": 72,
+      "title": "Danni Wyatt England Power Hitter",
       "hook": "She Destroys Bowling Attacks Instantly...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nahida Akter Bangladesh Spin Star",
+      "id": 73,
+      "title": "Nahida Akter Bangladesh Spin Star",
       "hook": "She Became Elite At Age 20...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sneh Rana India All Rounder Clutch",
+      "id": 74,
+      "title": "Sneh Rana India All Rounder Clutch",
       "hook": "She Saved India So Many Times...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Molly Strano Tasmania Spin Queen",
+      "id": 75,
+      "title": "Molly Strano Tasmania Spin Queen",
       "hook": "Nobody Reads Her Variations Ever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jahanara Alam Bangladesh Pace Attack",
+      "id": 76,
+      "title": "Jahanara Alam Bangladesh Pace Attack",
       "hook": "She Built Pace Bowling In Bangladesh...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Amy Jones England Wicketkeeper Batter",
+      "id": 77,
+      "title": "Amy Jones England Wicketkeeper Batter",
       "hook": "She Saves And Scores For England...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Maddy Green New Zealand All Rounder",
+      "id": 78,
+      "title": "Maddy Green New Zealand All Rounder",
       "hook": "She Does Everything For New Zealand...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Meghna Singh India Pace Bowler",
+      "id": 79,
+      "title": "Meghna Singh India Pace Bowler",
       "hook": "She Takes Wickets When India Needs...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fran Jonas New Zealand Spin Bowler",
+      "id": 80,
+      "title": "Fran Jonas New Zealand Spin Bowler",
       "hook": "She Spins The Ball Both Ways...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sune Luus South Africa Captain",
+      "id": 81,
+      "title": "Sune Luus South Africa Captain",
       "hook": "She Led Proteas To New Heights...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rosemary Mair New Zealand Fast Bowler",
+      "id": 82,
+      "title": "Rosemary Mair New Zealand Fast Bowler",
       "hook": "She Bowls Unplayable Yorkers Always...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Anjum Chopra India Cricket Pioneer",
+      "id": 83,
+      "title": "Anjum Chopra India Cricket Pioneer",
       "hook": "She Started Womens Cricket In India...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Megan Schutt Death Bowling Queen",
+      "id": 84,
+      "title": "Megan Schutt Death Bowling Queen",
       "hook": "She Never Gets Hit In Death...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rachel Priest New Zealand Keeper Batter",
+      "id": 85,
+      "title": "Rachel Priest New Zealand Keeper Batter",
       "hook": "She Changed Keeping And Batting Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rumana Sultana Bangladesh Wicketkeeper",
+      "id": 86,
+      "title": "Rumana Sultana Bangladesh Wicketkeeper",
       "hook": "She Revolutionized Bangladesh Keeping...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Claire Polosak First Female Umpire",
+      "id": 87,
+      "title": "Claire Polosak First Female Umpire",
       "hook": "She Broke Every Umpiring Barrier...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Amanda Wellington Adelaide Striker Star",
+      "id": 88,
+      "title": "Amanda Wellington Adelaide Striker Star",
       "hook": "She Spins Teams Out Every Match...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kirstie Gordon Scotland Cricket Icon",
+      "id": 89,
+      "title": "Kirstie Gordon Scotland Cricket Icon",
       "hook": "She Put Scotland Cricket On Map...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Natalie Sciver 169 Record Partnership",
+      "id": 90,
+      "title": "Natalie Sciver 169 Record Partnership",
       "hook": "This Partnership Saved England Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lauren Winfield Hill Opening Batter",
+      "id": 91,
+      "title": "Lauren Winfield Hill Opening Batter",
       "hook": "She Gave England Perfect Starts...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ayesha Zafar Pakistan Opener",
+      "id": 92,
+      "title": "Ayesha Zafar Pakistan Opener",
       "hook": "She Dominated When Nobody Expected...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nicola Carey Tasmania All Rounder",
+      "id": 93,
+      "title": "Nicola Carey Tasmania All Rounder",
       "hook": "She Carries Tasmania Every Season...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Grace Harris Big Bash Power Hitter",
+      "id": 94,
+      "title": "Grace Harris Big Bash Power Hitter",
       "hook": "She Hits The Biggest Sixes Ever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Katey Martin New Zealand Keeper Legend",
+      "id": 95,
+      "title": "Katey Martin New Zealand Keeper Legend",
       "hook": "She Kept For 15 Years Straight...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Fargana Hoque Bangladesh Top Order",
+      "id": 96,
+      "title": "Fargana Hoque Bangladesh Top Order",
       "hook": "She Anchors Every Bangladesh Innings...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jenny Gunn England All Rounder Icon",
+      "id": 97,
+      "title": "Jenny Gunn England All Rounder Icon",
       "hook": "She Did Everything For England...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mady Villiers England Spin Talent",
+      "id": 98,
+      "title": "Mady Villiers England Spin Talent",
       "hook": "She Became Star At Just 20...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Brooke Halliday New Zealand Emerging Star",
+      "id": 99,
+      "title": "Brooke Halliday New Zealand Emerging Star",
       "hook": "She Changed New Zealand Cricket...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Hundred Tournament Impact",
+      "id": 100,
+      "title": "The Hundred Tournament Impact",
       "hook": "This Tournament Changed Everything Forever...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     }
   ]
 }

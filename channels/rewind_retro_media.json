@@ -17,499 +17,796 @@
   "music_mood": "upbeat",
   "topics": [
     {
-      "topic": "When Blockbuster Was King",
+      "id": 1,
+      "title": "When Blockbuster Was King",
       "hook": "You Miss Blockbuster Until You Remember...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Flip Phone Era",
+      "id": 2,
+      "title": "The Flip Phone Era",
       "hook": "Flip Phones Were Cool Until This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "MySpace Top 8 Drama",
+      "id": 3,
+      "title": "MySpace Top 8 Drama",
       "hook": "MySpace Top 8 Destroyed Friendships Because...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dial Up Internet Sounds",
+      "id": 4,
+      "title": "Dial Up Internet Sounds",
       "hook": "Dial Up Internet Scarred An Entire...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rewinding VHS Tapes",
+      "id": 5,
+      "title": "Rewinding VHS Tapes",
       "hook": "Rewinding VHS Tapes Was Actually...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nokia 3310 Indestructible",
+      "id": 6,
+      "title": "Nokia 3310 Indestructible",
       "hook": "Nokia 3310 Could Survive Anything Except...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Limewire Virus Hell",
+      "id": 7,
+      "title": "Limewire Virus Hell",
       "hook": "Limewire Destroyed Every Family Computer Because...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "AOL Instant Messenger Away Messages",
+      "id": 8,
+      "title": "AOL Instant Messenger Away Messages",
       "hook": "AIM Away Messages Revealed Too Much...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Burning CDs For Friends",
+      "id": 9,
+      "title": "Burning CDs For Friends",
       "hook": "Burning Mix CDs Was Love Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "MapQuest Printed Directions",
+      "id": 10,
+      "title": "MapQuest Printed Directions",
       "hook": "MapQuest Got Everyone Lost Because...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tamagotchi Deaths",
+      "id": 11,
+      "title": "Tamagotchi Deaths",
       "hook": "Tamagotchi Taught Kids About Death When...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Calling Landlines Nervously",
+      "id": 12,
+      "title": "Calling Landlines Nervously",
       "hook": "Calling Your Crush Landline Was Terrifying...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Waiting For Photos To Develop",
+      "id": 13,
+      "title": "Waiting For Photos To Develop",
       "hook": "Disposable Cameras Ruined Everything When You...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "TV Guide Channel Wait",
+      "id": 14,
+      "title": "TV Guide Channel Wait",
       "hook": "TV Guide Channel Made You Wait...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Scholastic Book Fair Chaos",
+      "id": 15,
+      "title": "Scholastic Book Fair Chaos",
       "hook": "Scholastic Book Fairs Were Battlegrounds For...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pencil And Cassette Tape Trick",
+      "id": 16,
+      "title": "Pencil And Cassette Tape Trick",
       "hook": "Pencils Saved Your Cassette Tapes Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Oregon Trail School Computer Game",
+      "id": 17,
+      "title": "Oregon Trail School Computer Game",
       "hook": "Oregon Trail Taught Kids That Everyone...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Encarta Encyclopedia CD-ROM",
+      "id": 18,
+      "title": "Encarta Encyclopedia CD-ROM",
       "hook": "Encarta Was Wikipedia Before Kids Learned...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Razor Scooter Ankle Destruction",
+      "id": 19,
+      "title": "Razor Scooter Ankle Destruction",
       "hook": "Razor Scooters Destroyed Every Single Ankle...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Heelys Banned From School",
+      "id": 20,
+      "title": "Heelys Banned From School",
       "hook": "Heelys Got Banned Because Kids Were...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "iPod Shuffle Random Confusion",
+      "id": 21,
+      "title": "iPod Shuffle Random Confusion",
       "hook": "iPod Shuffle Was Chaos Because You...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Walkman Cassette Player",
+      "id": 22,
+      "title": "Walkman Cassette Player",
       "hook": "Walkmans Ate Your Favorite Tape Right...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Floppy Disk Save Icon",
+      "id": 23,
+      "title": "Floppy Disk Save Icon",
       "hook": "Floppy Disks Hold Nothing But Kids...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Skipping Burned CDs In Car",
+      "id": 24,
+      "title": "Skipping Burned CDs In Car",
       "hook": "Burned CDs Skipped During Every Favorite...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Low Battery Beep Game Boy",
+      "id": 25,
+      "title": "Low Battery Beep Game Boy",
       "hook": "Game Boy Low Battery Sound Meant...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nintendo Cartridge Blowing Myth",
+      "id": 26,
+      "title": "Nintendo Cartridge Blowing Myth",
       "hook": "Blowing Nintendo Cartridges Never Worked But...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nickelodeon Slime Everywhere",
+      "id": 27,
+      "title": "Nickelodeon Slime Everywhere",
       "hook": "Nickelodeon Slime Looked Fun Until Reality...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dunkaroos Lunch Box Treasure",
+      "id": 28,
+      "title": "Dunkaroos Lunch Box Treasure",
       "hook": "Dunkaroos Made You Playground Royalty Unless...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lunchables Trading Economy",
+      "id": 29,
+      "title": "Lunchables Trading Economy",
       "hook": "Lunchables Created A Black Market For...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Capri Sun Straw Struggle",
+      "id": 30,
+      "title": "Capri Sun Straw Struggle",
       "hook": "Capri Sun Straws Defeated Everyone Because...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Waiting For Saturday Morning Cartoons",
+      "id": 31,
+      "title": "Waiting For Saturday Morning Cartoons",
       "hook": "Saturday Morning Cartoons Stopped And Childhood...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "One TV Remote War",
+      "id": 32,
+      "title": "One TV Remote War",
       "hook": "Fighting Over The Remote Tore Families...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "VCR Recording Timer Confusion",
+      "id": 33,
+      "title": "VCR Recording Timer Confusion",
       "hook": "VCR Timers Confused Every Single Parent...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Blank VHS Recording Over Memories",
+      "id": 34,
+      "title": "Blank VHS Recording Over Memories",
       "hook": "Recording Over VHS Tapes Erased Family...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Caller ID Changed Everything",
+      "id": 35,
+      "title": "Caller ID Changed Everything",
       "hook": "Caller ID Ruined The Mystery And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Three Way Calling Drama",
+      "id": 36,
+      "title": "Three Way Calling Drama",
       "hook": "Three Way Calling Started Every High...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Beepers And Numeric Codes",
+      "id": 37,
+      "title": "Beepers And Numeric Codes",
       "hook": "Beeper Codes Made No Sense Unless...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pizza Hut Reading Rewards",
+      "id": 38,
+      "title": "Pizza Hut Reading Rewards",
       "hook": "Book It Program Made Kids Read...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Toys R Us Endless Aisles",
+      "id": 39,
+      "title": "Toys R Us Endless Aisles",
       "hook": "Toys R Us Closing Hurt Because...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "KB Toys Mall Memories",
+      "id": 40,
+      "title": "KB Toys Mall Memories",
       "hook": "KB Toys Disappeared And Mall Childhood...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Circuit City Electronics Wonderland",
+      "id": 41,
+      "title": "Circuit City Electronics Wonderland",
       "hook": "Circuit City Had Everything Until They...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "CompUSA Overwhelming Confusion",
+      "id": 42,
+      "title": "CompUSA Overwhelming Confusion",
       "hook": "CompUSA Was Paradise For Nerds Who...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hollywood Video Last Resort",
+      "id": 43,
+      "title": "Hollywood Video Last Resort",
       "hook": "Hollywood Video Was There When Blockbuster...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Borders Bookstore Hangouts",
+      "id": 44,
+      "title": "Borders Bookstore Hangouts",
       "hook": "Borders Bookstore Was Heaven Until Amazon...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sam Goody Music Store",
+      "id": 45,
+      "title": "Sam Goody Music Store",
       "hook": "Sam Goody Overcharged For CDs Because...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tower Records Concert Tickets",
+      "id": 46,
+      "title": "Tower Records Concert Tickets",
       "hook": "Tower Records Was Music Culture Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Suncoast Motion Picture Company",
+      "id": 47,
+      "title": "Suncoast Motion Picture Company",
       "hook": "Suncoast Sold VHS For Insane Prices...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "FYE Mall Music Madness",
+      "id": 48,
+      "title": "FYE Mall Music Madness",
       "hook": "FYE Survived By Selling Random Stuff...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Radio Shack Weird Survival",
+      "id": 49,
+      "title": "Radio Shack Weird Survival",
       "hook": "Radio Shack Had Everything Nobody Needed...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Payphone Quarter Hoarding",
+      "id": 50,
+      "title": "Payphone Quarter Hoarding",
       "hook": "Payphones Required Exact Change That Nobody...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Collect Call Secret Messages",
+      "id": 51,
+      "title": "Collect Call Secret Messages",
       "hook": "Collect Calls Let You Hack Messages...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pagers At Movie Theater",
+      "id": 52,
+      "title": "Pagers At Movie Theater",
       "hook": "Restaurant Pagers Were High Tech Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Trapper Keeper Organization",
+      "id": 53,
+      "title": "Trapper Keeper Organization",
       "hook": "Trapper Keepers Organized Nothing But Kids...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lisa Frank Everything Explosion",
+      "id": 54,
+      "title": "Lisa Frank Everything Explosion",
       "hook": "Lisa Frank Was Everywhere Until Taste...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gel Pens Obsession Phase",
+      "id": 55,
+      "title": "Gel Pens Obsession Phase",
       "hook": "Gel Pens Ruled School Until They...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Scented Markers Sniffing",
+      "id": 56,
+      "title": "Scented Markers Sniffing",
       "hook": "Scented Markers Smelled Suspicious But Everyone...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Overhead Projector Presentations",
+      "id": 57,
+      "title": "Overhead Projector Presentations",
       "hook": "Overhead Projectors Made Teachers Look Ancient...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Parachute Day Gym Class",
+      "id": 58,
+      "title": "Parachute Day Gym Class",
       "hook": "Parachute Day Was The Best Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Scooter Boards Finger Destruction",
+      "id": 59,
+      "title": "Scooter Boards Finger Destruction",
       "hook": "Scooter Boards Crushed Every Single Finger...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Climbing Rope Gym Challenge",
+      "id": 60,
+      "title": "Climbing Rope Gym Challenge",
       "hook": "Climbing The Rope Separated Winners From...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Presidential Fitness Test Trauma",
+      "id": 61,
+      "title": "Presidential Fitness Test Trauma",
       "hook": "Presidential Fitness Test Humiliated Every Kid...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "MASH Fortune Telling Game",
+      "id": 62,
+      "title": "MASH Fortune Telling Game",
       "hook": "MASH Predicted Your Future And It...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cootie Catcher Paper Folding",
+      "id": 63,
+      "title": "Cootie Catcher Paper Folding",
       "hook": "Cootie Catchers Told Fortunes That Always...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Friendship Bracelet Making",
+      "id": 64,
+      "title": "Friendship Bracelet Making",
       "hook": "Friendship Bracelets Took Forever And Then...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pogs Collecting Craze",
+      "id": 65,
+      "title": "Pogs Collecting Craze",
       "hook": "Pogs Were Worthless But Kids Fought...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Beanie Babies Investment Scam",
+      "id": 66,
+      "title": "Beanie Babies Investment Scam",
       "hook": "Beanie Babies Would Be Valuable Except...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pokemon Card First Edition Hunt",
+      "id": 67,
+      "title": "Pokemon Card First Edition Hunt",
       "hook": "Pokemon Cards Were Worth Thousands Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Yu-Gi-Oh Card Playground Battles",
+      "id": 68,
+      "title": "Yu-Gi-Oh Card Playground Battles",
       "hook": "Yu-Gi-Oh Cards Got Banned Because Kids...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Magic The Gathering Complexity",
+      "id": 69,
+      "title": "Magic The Gathering Complexity",
       "hook": "Magic Cards Confused Every Parent Who...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Furby Nightmare Possession",
+      "id": 70,
+      "title": "Furby Nightmare Possession",
       "hook": "Furbys Never Stopped Talking Even When...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tickle Me Elmo Stampede",
+      "id": 71,
+      "title": "Tickle Me Elmo Stampede",
       "hook": "Tickle Me Elmo Caused Riots Because...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bop It Frustration Game",
+      "id": 72,
+      "title": "Bop It Frustration Game",
       "hook": "Bop It Made Everyone Rage Quit...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Simon Says Electronic Memory",
+      "id": 73,
+      "title": "Simon Says Electronic Memory",
       "hook": "Simon Says Humiliated Your Memory Skills...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Skip It Ankle Breaker",
+      "id": 74,
+      "title": "Skip It Ankle Breaker",
       "hook": "Skip It Destroyed Ankles Worse Than...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Moon Shoes Broken Ankles",
+      "id": 75,
+      "title": "Moon Shoes Broken Ankles",
       "hook": "Moon Shoes Promised Bouncing But Delivered...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Socker Boppers Violence",
+      "id": 76,
+      "title": "Socker Boppers Violence",
       "hook": "Socker Boppers Let Kids Fight Legally...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Super Soaker Water Wars",
+      "id": 77,
+      "title": "Super Soaker Water Wars",
       "hook": "Super Soakers Started Neighborhood Wars Every...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Slip N Slide Injuries",
+      "id": 78,
+      "title": "Slip N Slide Injuries",
       "hook": "Slip N Slides Sent Everyone To...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Easy Bake Oven Tiny Food",
+      "id": 79,
+      "title": "Easy Bake Oven Tiny Food",
       "hook": "Easy Bake Ovens Cooked Nothing But...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Creepy Crawlers Bug Maker",
+      "id": 80,
+      "title": "Creepy Crawlers Bug Maker",
       "hook": "Creepy Crawlers Burned Every Single Kid...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lite Brite Choking Hazard",
+      "id": 81,
+      "title": "Lite Brite Choking Hazard",
       "hook": "Lite Brite Pegs Went Missing And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Etch A Sketch Impossible Art",
+      "id": 82,
+      "title": "Etch A Sketch Impossible Art",
       "hook": "Etch A Sketch Circles Were Impossible...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Viewmaster 3D Slides",
+      "id": 83,
+      "title": "Viewmaster 3D Slides",
       "hook": "Viewmasters Showed 3D Magic Until You...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Polaroid Instant Camera Magic",
+      "id": 84,
+      "title": "Polaroid Instant Camera Magic",
       "hook": "Polaroids Were Magic But Film Cost...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Film Camera 24 Exposure Limit",
+      "id": 85,
+      "title": "Film Camera 24 Exposure Limit",
       "hook": "Film Cameras Had 24 Shots So...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Double Print Photo Doubles",
+      "id": 86,
+      "title": "Double Print Photo Doubles",
       "hook": "Double Prints Wasted Money On Duplicates...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Photo Album Sticky Pages",
+      "id": 87,
+      "title": "Photo Album Sticky Pages",
       "hook": "Photo Albums Trapped Memories Forever When...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mall Photo Booth Strips",
+      "id": 88,
+      "title": "Mall Photo Booth Strips",
       "hook": "Photo Booth Strips Captured Cringe That...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Glamour Shots Awkward Photos",
+      "id": 89,
+      "title": "Glamour Shots Awkward Photos",
       "hook": "Glamour Shots Made Everyone Look Ridiculous...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Olan Mills Family Portraits",
+      "id": 90,
+      "title": "Olan Mills Family Portraits",
       "hook": "Olan Mills Portraits Embarrassed Entire Families...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "JCPenney Portrait Studio",
+      "id": 91,
+      "title": "JCPenney Portrait Studio",
       "hook": "JCPenney Portraits Were Stiff And Everyone...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "School Picture Day Hair Disaster",
+      "id": 92,
+      "title": "School Picture Day Hair Disaster",
       "hook": "Picture Day Hair Never Cooperated And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Laser Background School Photos",
+      "id": 93,
+      "title": "Laser Background School Photos",
       "hook": "Laser Backgrounds Made School Photos Look...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Yearbook Signing Goodbye Messages",
+      "id": 94,
+      "title": "Yearbook Signing Goodbye Messages",
       "hook": "Yearbook Signatures Revealed Who Really Liked...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Passed Notes Folding Techniques",
+      "id": 95,
+      "title": "Passed Notes Folding Techniques",
       "hook": "Passed Notes Got Everyone Detention When...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Book Covers From Paper Bags",
+      "id": 96,
+      "title": "Book Covers From Paper Bags",
       "hook": "Paper Bag Book Covers Fell Apart...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pencil Grip Rubber Thing",
+      "id": 97,
+      "title": "Pencil Grip Rubber Thing",
       "hook": "Pencil Grips Helped Nobody But Teachers...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pencil Sharpener Hand Crank",
+      "id": 98,
+      "title": "Pencil Sharpener Hand Crank",
       "hook": "Hand Crank Sharpeners Ate Entire Pencils...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mechanical Pencil Lead Breaking",
+      "id": 99,
+      "title": "Mechanical Pencil Lead Breaking",
       "hook": "Mechanical Pencil Lead Broke Every Single...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     }
   ]
 }

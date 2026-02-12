@@ -16,504 +16,804 @@
   "music_mood": "epic",
   "topics": [
     {
-      "topic": "Batman In The Harry Potter Universe",
+      "id": 1,
+      "title": "Batman In The Harry Potter Universe",
       "hook": "BATMAN WOULD NEVER SURVIVE HOGWARTS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Iron Man In Medieval Times",
+      "id": 2,
+      "title": "Iron Man In Medieval Times",
       "hook": "IRON MAN IN 1200 AD...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Darth Vader Meets The Avengers",
+      "id": 3,
+      "title": "Darth Vader Meets The Avengers",
       "hook": "DARTH VADER MEETS THE AVENGERS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Harry Potter In Star Wars Universe",
+      "id": 4,
+      "title": "Harry Potter In Star Wars Universe",
       "hook": "HARRY POTTER IN STAR WARS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sherlock Holmes Meets Walter White",
+      "id": 5,
+      "title": "Sherlock Holmes Meets Walter White",
       "hook": "IF SHERLOCK MET WALTER WHITE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Spider-Man In The Hunger Games",
+      "id": 6,
+      "title": "Spider-Man In The Hunger Games",
       "hook": "SPIDER-MAN WOULD RUIN THE HUNGER GAMES...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jon Snow In Modern New York",
+      "id": 7,
+      "title": "Jon Snow In Modern New York",
       "hook": "JON SNOW IN NEW YORK CITY...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Thanos In The Lord Of The Rings",
+      "id": 8,
+      "title": "Thanos In The Lord Of The Rings",
       "hook": "THANOS WOULD DESTROY MIDDLE EARTH...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Eleven From Stranger Things In Hogwarts",
+      "id": 9,
+      "title": "Eleven From Stranger Things In Hogwarts",
       "hook": "ELEVEN VERSUS VOLDEMORT...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Joker In Gotham But Without Batman",
+      "id": 10,
+      "title": "The Joker In Gotham But Without Batman",
       "hook": "JOKER WITHOUT BATMAN IS TERRIFYING...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rick Sanchez In The Marvel Universe",
+      "id": 11,
+      "title": "Rick Sanchez In The Marvel Universe",
       "hook": "RICK SANCHEZ WOULD EMBARRASS STARK...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gandalf In The Star Wars Galaxy",
+      "id": 12,
+      "title": "Gandalf In The Star Wars Galaxy",
       "hook": "GANDALF VERSUS THE SITH...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Walter White As A Hogwarts Professor",
+      "id": 13,
+      "title": "Walter White As A Hogwarts Professor",
       "hook": "WALTER WHITE TEACHING AT HOGWARTS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Terminator In Ancient Rome",
+      "id": 14,
+      "title": "The Terminator In Ancient Rome",
       "hook": "TERMINATOR IN 44 BC...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tony Stark In The Jurassic Park",
+      "id": 15,
+      "title": "Tony Stark In The Jurassic Park",
       "hook": "IRON MAN VERSUS DINOSAURS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gollum In The Marvel Universe",
+      "id": 16,
+      "title": "Gollum In The Marvel Universe",
       "hook": "GOLLUM MEETS THE INFINITY STONES...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Captain America In World War 1",
+      "id": 17,
+      "title": "Captain America In World War 1",
       "hook": "CAPTAIN AMERICA IN THE WRONG WAR...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Luke Skywalker In Game Of Thrones",
+      "id": 18,
+      "title": "Luke Skywalker In Game Of Thrones",
       "hook": "LUKE SKYWALKER IN WESTEROS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Doctor Strange In The Pokemon World",
+      "id": 19,
+      "title": "Doctor Strange In The Pokemon World",
       "hook": "DOCTOR STRANGE VERSUS POKEMON...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Legolas In Modern Day Military",
+      "id": 20,
+      "title": "Legolas In Modern Day Military",
       "hook": "LEGOLAS IN A MODERN WARZONE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wolverine In The Walking Dead",
+      "id": 21,
+      "title": "Wolverine In The Walking Dead",
       "hook": "WOLVERINE WOULD END THE ZOMBIE APOCALYPSE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Thor In Ancient Greek Mythology",
+      "id": 22,
+      "title": "Thor In Ancient Greek Mythology",
       "hook": "THOR VERSUS THE GREEK GODS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Flash In The Maze Runner",
+      "id": 23,
+      "title": "The Flash In The Maze Runner",
       "hook": "THE FLASH RUINS THE MAZE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Loki In The Harry Potter Universe",
+      "id": 24,
+      "title": "Loki In The Harry Potter Universe",
       "hook": "LOKI WOULD OUTSMART DUMBLEDORE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "John Wick In The Purge",
+      "id": 25,
+      "title": "John Wick In The Purge",
       "hook": "JOHN WICK ON PURGE NIGHT...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Yoda In The Matrix",
+      "id": 26,
+      "title": "Yoda In The Matrix",
       "hook": "YODA DISCOVERS THE MATRIX...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Katniss Everdeen In The Battle Royale",
+      "id": 27,
+      "title": "Katniss Everdeen In The Battle Royale",
       "hook": "KATNISS IN THE REAL BATTLE ROYALE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Elsa From Frozen In Game Of Thrones",
+      "id": 28,
+      "title": "Elsa From Frozen In Game Of Thrones",
       "hook": "ELSA WOULD CONQUER THE IRON THRONE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Indiana Jones In The Tomb Raider World",
+      "id": 29,
+      "title": "Indiana Jones In The Tomb Raider World",
       "hook": "INDIANA JONES MEETS LARA CROFT...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Hulk In The Fast And Furious",
+      "id": 30,
+      "title": "The Hulk In The Fast And Furious",
       "hook": "HULK JOINS THE FAST FAMILY...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Frodo Baggins In The Hunger Games",
+      "id": 31,
+      "title": "Frodo Baggins In The Hunger Games",
       "hook": "FRODO IN THE HUNGER GAMES...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Deadpool In The DC Universe",
+      "id": 32,
+      "title": "Deadpool In The DC Universe",
       "hook": "DEADPOOL MEETS BATMAN...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hermione Granger In The Marvel Universe",
+      "id": 33,
+      "title": "Hermione Granger In The Marvel Universe",
       "hook": "HERMIONE WOULD OUTSMART TONY STARK...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Predator In Medieval Times",
+      "id": 34,
+      "title": "The Predator In Medieval Times",
       "hook": "PREDATOR VERSUS KNIGHTS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Black Widow In The James Bond World",
+      "id": 35,
+      "title": "Black Widow In The James Bond World",
       "hook": "BLACK WIDOW VERSUS JAMES BOND...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sauron In The Star Wars Galaxy",
+      "id": 36,
+      "title": "Sauron In The Star Wars Galaxy",
       "hook": "SAURON MEETS THE EMPIRE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Spock In The Doctor Who Universe",
+      "id": 37,
+      "title": "Spock In The Doctor Who Universe",
       "hook": "SPOCK MEETS THE DOCTOR...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jason Bourne In The Kingsman World",
+      "id": 38,
+      "title": "Jason Bourne In The Kingsman World",
       "hook": "JASON BOURNE JOINS KINGSMAN...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Neo From The Matrix In Inception",
+      "id": 39,
+      "title": "Neo From The Matrix In Inception",
       "hook": "NEO VERSUS INCEPTION...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jack Sparrow In The Pirates Of Penzance",
+      "id": 40,
+      "title": "Jack Sparrow In The Pirates Of Penzance",
       "hook": "JACK SPARROW IN MUSICAL THEATER...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Optimus Prime In Transformers Beast Wars",
+      "id": 41,
+      "title": "Optimus Prime In Transformers Beast Wars",
       "hook": "OPTIMUS PRIME MEETS THE BEAST WARS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Aragorn In The Vikings TV Show",
+      "id": 42,
+      "title": "Aragorn In The Vikings TV Show",
       "hook": "ARAGORN JOINS THE VIKINGS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wonder Woman In Ancient Sparta",
+      "id": 43,
+      "title": "Wonder Woman In Ancient Sparta",
       "hook": "WONDER WOMAN IN SPARTA...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hannibal Lecter In The Dexter Universe",
+      "id": 44,
+      "title": "Hannibal Lecter In The Dexter Universe",
       "hook": "HANNIBAL LECTER MEETS DEXTER...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Doctor In The Star Trek Universe",
+      "id": 45,
+      "title": "The Doctor In The Star Trek Universe",
       "hook": "DOCTOR WHO MEETS STAR TREK...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Goku In The Dragon Ball Z Movie Universe",
+      "id": 46,
+      "title": "Goku In The Dragon Ball Z Movie Universe",
       "hook": "GOKU IN THE MCU...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Arya Stark In Assassins Creed",
+      "id": 47,
+      "title": "Arya Stark In Assassins Creed",
       "hook": "ARYA STARK JOINS THE ASSASSINS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Paul Atreides In The Star Wars Universe",
+      "id": 48,
+      "title": "Paul Atreides In The Star Wars Universe",
       "hook": "PAUL ATREIDES VERSUS THE JEDI...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Blade In The Twilight Universe",
+      "id": 49,
+      "title": "Blade In The Twilight Universe",
       "hook": "BLADE VERSUS TWILIGHT VAMPIRES...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Master Chief In The Alien Universe",
+      "id": 50,
+      "title": "Master Chief In The Alien Universe",
       "hook": "MASTER CHIEF VERSUS XENOMORPHS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Edward Scissorhands In The X-Men",
+      "id": 51,
+      "title": "Edward Scissorhands In The X-Men",
       "hook": "EDWARD SCISSORHANDS JOINS THE X-MEN...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mulan In The Game Of Thrones",
+      "id": 52,
+      "title": "Mulan In The Game Of Thrones",
       "hook": "MULAN WOULD DOMINATE WESTEROS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ellen Ripley In The Predator Universe",
+      "id": 53,
+      "title": "Ellen Ripley In The Predator Universe",
       "hook": "RIPLEY VERSUS THE PREDATOR...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Magneto In The Star Wars Galaxy",
+      "id": 54,
+      "title": "Magneto In The Star Wars Galaxy",
       "hook": "MAGNETO WOULD DESTROY STAR WARS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jason Voorhees In The Scream Universe",
+      "id": 55,
+      "title": "Jason Voorhees In The Scream Universe",
       "hook": "JASON MEETS GHOSTFACE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Voldemort In The Lord Of The Rings",
+      "id": 56,
+      "title": "Voldemort In The Lord Of The Rings",
       "hook": "VOLDEMORT VERSUS SAURON...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mad Max In The Fallout Universe",
+      "id": 57,
+      "title": "Mad Max In The Fallout Universe",
       "hook": "MAD MAX IN THE WASTELAND...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tyler Durden In The Wolf Of Wall Street",
+      "id": 58,
+      "title": "Tyler Durden In The Wolf Of Wall Street",
       "hook": "TYLER DURDEN MEETS JORDAN BELFORT...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Geralt Of Rivia In Game Of Thrones",
+      "id": 59,
+      "title": "Geralt Of Rivia In Game Of Thrones",
       "hook": "GERALT WOULD END GAME OF THRONES...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Professor X In The Star Trek Universe",
+      "id": 60,
+      "title": "Professor X In The Star Trek Universe",
       "hook": "PROFESSOR X MEETS THE VULCANS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Naruto In The Avatar The Last Airbender World",
+      "id": 61,
+      "title": "Naruto In The Avatar The Last Airbender World",
       "hook": "NARUTO VERSUS THE AVATAR...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Saitama From One Punch Man In Dragon Ball Z",
+      "id": 62,
+      "title": "Saitama From One Punch Man In Dragon Ball Z",
       "hook": "ONE PUNCH MAN VERSUS GOKU...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Freddy Krueger In The Inception Universe",
+      "id": 63,
+      "title": "Freddy Krueger In The Inception Universe",
       "hook": "FREDDY KRUEGER ENTERS INCEPTION...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Bride From Kill Bill In John Wick",
+      "id": 64,
+      "title": "The Bride From Kill Bill In John Wick",
       "hook": "BEATRIX KIDDO MEETS JOHN WICK...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Saruman In The Marvel Universe",
+      "id": 65,
+      "title": "Saruman In The Marvel Universe",
       "hook": "SARUMAN JOINS THE MCU...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Maximus From Gladiator In Spartacus",
+      "id": 66,
+      "title": "Maximus From Gladiator In Spartacus",
       "hook": "MAXIMUS IN THE SPARTACUS REBELLION...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "T-800 In The Blade Runner Universe",
+      "id": 67,
+      "title": "T-800 In The Blade Runner Universe",
       "hook": "TERMINATOR MEETS BLADE RUNNER...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Morpheus In The Doctor Who Universe",
+      "id": 68,
+      "title": "Morpheus In The Doctor Who Universe",
       "hook": "MORPHEUS DISCOVERS THE TARDIS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Daenerys Targaryen In The House Of The Dragon",
+      "id": 69,
+      "title": "Daenerys Targaryen In The House Of The Dragon",
       "hook": "DAENERYS MEETS HER ANCESTORS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "V From V For Vendetta In The Hunger Games",
+      "id": 70,
+      "title": "V From V For Vendetta In The Hunger Games",
       "hook": "V JOINS THE REBELLION...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Leonidas From 300 In Game Of Thrones",
+      "id": 71,
+      "title": "Leonidas From 300 In Game Of Thrones",
       "hook": "LEONIDAS DEFENDS THE WALL...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sherlock Holmes In The Westworld",
+      "id": 72,
+      "title": "Sherlock Holmes In The Westworld",
       "hook": "SHERLOCK DISCOVERS WESTWORLD...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Willy Wonka In The Squid Game",
+      "id": 73,
+      "title": "Willy Wonka In The Squid Game",
       "hook": "WILLY WONKA DESIGNS SQUID GAME...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jack Reacher In The Taken Universe",
+      "id": 74,
+      "title": "Jack Reacher In The Taken Universe",
       "hook": "JACK REACHER VERSUS LIAM NEESON...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dr Manhattan In The DC Universe",
+      "id": 75,
+      "title": "Dr Manhattan In The DC Universe",
       "hook": "DR MANHATTAN MEETS SUPERMAN...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mystique In The Mission Impossible World",
+      "id": 76,
+      "title": "Mystique In The Mission Impossible World",
       "hook": "MYSTIQUE JOINS IMPOSSIBLE MISSIONS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Punisher In The John Wick Universe",
+      "id": 77,
+      "title": "The Punisher In The John Wick Universe",
       "hook": "PUNISHER VERSUS JOHN WICK...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Legolas In The Hunger Games Arena",
+      "id": 78,
+      "title": "Legolas In The Hunger Games Arena",
       "hook": "LEGOLAS WINS HUNGER GAMES INSTANTLY...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Agent Smith In The Terminator Universe",
+      "id": 79,
+      "title": "Agent Smith In The Terminator Universe",
       "hook": "AGENT SMITH VERSUS SKYNET...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Qui-Gon Jinn In The Lord Of The Rings",
+      "id": 80,
+      "title": "Qui-Gon Jinn In The Lord Of The Rings",
       "hook": "QUI-GON JINN IN MIDDLE EARTH...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lex Luthor In The Marvel Universe",
+      "id": 81,
+      "title": "Lex Luthor In The Marvel Universe",
       "hook": "LEX LUTHOR MEETS TONY STARK...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Trinity From The Matrix In Cyberpunk 2077",
+      "id": 82,
+      "title": "Trinity From The Matrix In Cyberpunk 2077",
       "hook": "TRINITY IN NIGHT CITY...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Obi-Wan Kenobi In The Star Trek Universe",
+      "id": 83,
+      "title": "Obi-Wan Kenobi In The Star Trek Universe",
       "hook": "OBI-WAN MEETS THE FEDERATION...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Mask In The Joker Universe",
+      "id": 84,
+      "title": "The Mask In The Joker Universe",
       "hook": "THE MASK VERSUS THE JOKER...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Eleven In The X-Men Universe",
+      "id": 85,
+      "title": "Eleven In The X-Men Universe",
       "hook": "ELEVEN JOINS THE X-MEN...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Kratos In The Marvel Universe",
+      "id": 86,
+      "title": "Kratos In The Marvel Universe",
       "hook": "KRATOS VERSUS THOR AND ODIN...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "John Constantine In The Supernatural Universe",
+      "id": 87,
+      "title": "John Constantine In The Supernatural Universe",
       "hook": "CONSTANTINE MEETS THE WINCHESTERS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Daredevil In The Batman Universe",
+      "id": 88,
+      "title": "Daredevil In The Batman Universe",
       "hook": "DAREDEVIL PROTECTS GOTHAM...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Quicksilver In The Flash Universe",
+      "id": 89,
+      "title": "Quicksilver In The Flash Universe",
       "hook": "QUICKSILVER VERSUS THE FLASH...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Dumbledore In The Lord Of The Rings",
+      "id": 90,
+      "title": "Dumbledore In The Lord Of The Rings",
       "hook": "DUMBLEDORE JOINS THE FELLOWSHIP...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Aquaman In The Pirates Of The Caribbean",
+      "id": 91,
+      "title": "Aquaman In The Pirates Of The Caribbean",
       "hook": "AQUAMAN MEETS JACK SPARROW...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Peeta Mellark In The Squid Game",
+      "id": 92,
+      "title": "Peeta Mellark In The Squid Game",
       "hook": "PEETA IN SQUID GAME...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mystique In The Hitman Universe",
+      "id": 93,
+      "title": "Mystique In The Hitman Universe",
       "hook": "MYSTIQUE BECOMES AGENT 47...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "RoboCop In The Judge Dredd Universe",
+      "id": 94,
+      "title": "RoboCop In The Judge Dredd Universe",
       "hook": "ROBOCOP MEETS JUDGE DREDD...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cloud Strife In The Witcher Universe",
+      "id": 95,
+      "title": "Cloud Strife In The Witcher Universe",
       "hook": "CLOUD STRIFE BECOMES A WITCHER...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Lara Croft In The Uncharted Universe",
+      "id": 96,
+      "title": "Lara Croft In The Uncharted Universe",
       "hook": "LARA CROFT VERSUS NATHAN DRAKE...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Joker In The Purge Universe",
+      "id": 97,
+      "title": "The Joker In The Purge Universe",
       "hook": "JOKER ON PURGE NIGHT...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hannibal Lecter In The Silence Of The Lambs TV Show",
+      "id": 98,
+      "title": "Hannibal Lecter In The Silence Of The Lambs TV Show",
       "hook": "HANNIBAL IN THE FBI...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ezio Auditore In Game Of Thrones",
+      "id": 99,
+      "title": "Ezio Auditore In Game Of Thrones",
       "hook": "EZIO ASSASSINATES THE LANNISTERS...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Aang From Avatar In The Dragon Ball Universe",
+      "id": 100,
+      "title": "Aang From Avatar In The Dragon Ball Universe",
       "hook": "AANG LEARNS TO GO SUPER SAIYAN...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     }
   ]
 }

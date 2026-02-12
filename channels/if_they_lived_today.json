@@ -16,494 +16,788 @@
   "music_mood": "upbeat",
   "topics": [
     {
-      "topic": "Einstein With ChatGPT",
+      "id": 1,
+      "title": "Einstein With ChatGPT",
+      "hook": "Einstein Would Break ChatGPT...",
       "status": "pending",
-      "hook": "Einstein Would Break ChatGPT..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mozart On TikTok",
+      "id": 2,
+      "title": "Mozart On TikTok",
+      "hook": "Mozart Would Dominate TikTok...",
       "status": "pending",
-      "hook": "Mozart Would Dominate TikTok..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cleopatra Instagram Queen",
+      "id": 3,
+      "title": "Cleopatra Instagram Queen",
+      "hook": "Cleopatra Would Own Instagram...",
       "status": "pending",
-      "hook": "Cleopatra Would Own Instagram..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Napoleon With Nuclear Weapons",
+      "id": 4,
+      "title": "Napoleon With Nuclear Weapons",
+      "hook": "Napoleon With Nukes Changes Everything...",
       "status": "pending",
-      "hook": "Napoleon With Nukes Changes Everything..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tesla Would Break Internet",
+      "id": 5,
+      "title": "Tesla Would Break Internet",
+      "hook": "Tesla Would Revolutionize Technology Today...",
       "status": "pending",
-      "hook": "Tesla Would Revolutionize Technology Today..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Da Vinci Sees AI Art",
+      "id": 6,
+      "title": "Da Vinci Sees AI Art",
+      "hook": "Da Vinci Sees AI Art...",
       "status": "pending",
-      "hook": "Da Vinci Sees AI Art..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Genghis Khan With Drones",
+      "id": 7,
+      "title": "Genghis Khan With Drones",
+      "hook": "Genghis Khan With Military Drones...",
       "status": "pending",
-      "hook": "Genghis Khan With Military Drones..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Shakespeare Writing Netflix Shows",
+      "id": 8,
+      "title": "Shakespeare Writing Netflix Shows",
+      "hook": "Shakespeare Would Dominate Netflix...",
       "status": "pending",
-      "hook": "Shakespeare Would Dominate Netflix..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Marie Curie In Modern Lab",
+      "id": 9,
+      "title": "Marie Curie In Modern Lab",
+      "hook": "Marie Curie With Modern Technology...",
       "status": "pending",
-      "hook": "Marie Curie With Modern Technology..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Julius Caesar On Twitter",
+      "id": 10,
+      "title": "Julius Caesar On Twitter",
+      "hook": "Caesar Would Control Social Media...",
       "status": "pending",
-      "hook": "Caesar Would Control Social Media..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Beethoven With Spotify",
+      "id": 11,
+      "title": "Beethoven With Spotify",
+      "hook": "Beethoven Would Break Spotify Records...",
       "status": "pending",
-      "hook": "Beethoven Would Break Spotify Records..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Joan Of Arc Leading Protests",
+      "id": 12,
+      "title": "Joan Of Arc Leading Protests",
+      "hook": "Joan Of Arc Would Lead Millions...",
       "status": "pending",
-      "hook": "Joan Of Arc Would Lead Millions..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Steve Jobs Meets Zuckerberg",
+      "id": 13,
+      "title": "Steve Jobs Meets Zuckerberg",
+      "hook": "Steve Jobs Would Destroy Zuckerberg...",
       "status": "pending",
-      "hook": "Steve Jobs Would Destroy Zuckerberg..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Aristotle On YouTube",
+      "id": 14,
+      "title": "Aristotle On YouTube",
+      "hook": "Aristotle Would Dominate YouTube Education...",
       "status": "pending",
-      "hook": "Aristotle Would Dominate YouTube Education..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Gandhi Using Social Media",
+      "id": 15,
+      "title": "Gandhi Using Social Media",
+      "hook": "Gandhi Would Change Social Media...",
       "status": "pending",
-      "hook": "Gandhi Would Change Social Media..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Van Gogh With Instagram",
+      "id": 16,
+      "title": "Van Gogh With Instagram",
+      "hook": "Van Gogh Would Finally Be Rich...",
       "status": "pending",
-      "hook": "Van Gogh Would Finally Be Rich..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Picasso Sees Digital Art",
+      "id": 17,
+      "title": "Picasso Sees Digital Art",
+      "hook": "Picasso Would Hate Digital Art...",
       "status": "pending",
-      "hook": "Picasso Would Hate Digital Art..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "MLK Jr With Modern Media",
+      "id": 18,
+      "title": "MLK Jr With Modern Media",
+      "hook": "MLK Would Transform Modern America...",
       "status": "pending",
-      "hook": "MLK Would Transform Modern America..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alexander The Great With Tanks",
+      "id": 19,
+      "title": "Alexander The Great With Tanks",
+      "hook": "Alexander With Modern Weapons Unstoppable...",
       "status": "pending",
-      "hook": "Alexander With Modern Weapons Unstoppable..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Wright Brothers See SpaceX",
+      "id": 20,
+      "title": "Wright Brothers See SpaceX",
+      "hook": "Wright Brothers See SpaceX Launch...",
       "status": "pending",
-      "hook": "Wright Brothers See SpaceX Launch..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Galileo With James Webb Telescope",
+      "id": 21,
+      "title": "Galileo With James Webb Telescope",
+      "hook": "Galileo Sees James Webb Images...",
       "status": "pending",
-      "hook": "Galileo Sees James Webb Images..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Darwin Discovers CRISPR",
+      "id": 22,
+      "title": "Darwin Discovers CRISPR",
+      "hook": "Darwin Would Love Gene Editing...",
       "status": "pending",
-      "hook": "Darwin Would Love Gene Editing..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Socrates On Reddit",
+      "id": 23,
+      "title": "Socrates On Reddit",
+      "hook": "Socrates Would Destroy Reddit Debates...",
       "status": "pending",
-      "hook": "Socrates Would Destroy Reddit Debates..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sun Tzu Teaching Business",
+      "id": 24,
+      "title": "Sun Tzu Teaching Business",
+      "hook": "Sun Tzu Would Dominate Wall Street...",
       "status": "pending",
-      "hook": "Sun Tzu Would Dominate Wall Street..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Confucius On LinkedIn",
+      "id": 25,
+      "title": "Confucius On LinkedIn",
+      "hook": "Confucius Would Break LinkedIn Algorithms...",
       "status": "pending",
-      "hook": "Confucius Would Break LinkedIn Algorithms..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Frida Kahlo On Instagram",
+      "id": 26,
+      "title": "Frida Kahlo On Instagram",
+      "hook": "Frida Kahlo Would Own Instagram Art...",
       "status": "pending",
-      "hook": "Frida Kahlo Would Own Instagram Art..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hemingway Writing Tweets",
+      "id": 27,
+      "title": "Hemingway Writing Tweets",
+      "hook": "Hemingway Would Master Twitter Threads...",
       "status": "pending",
-      "hook": "Hemingway Would Master Twitter Threads..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Churchill During COVID Pandemic",
+      "id": 28,
+      "title": "Churchill During COVID Pandemic",
+      "hook": "Churchill Would Handle COVID Differently...",
       "status": "pending",
-      "hook": "Churchill Would Handle COVID Differently..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rosa Parks And BLM Movement",
+      "id": 29,
+      "title": "Rosa Parks And BLM Movement",
+      "hook": "Rosa Parks Sees BLM Movement...",
       "status": "pending",
-      "hook": "Rosa Parks Sees BLM Movement..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Edison Vs Elon Musk",
+      "id": 30,
+      "title": "Edison Vs Elon Musk",
+      "hook": "Edison Would Hate Elon Musk...",
       "status": "pending",
-      "hook": "Edison Would Hate Elon Musk..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alan Turing Sees Modern AI",
+      "id": 31,
+      "title": "Alan Turing Sees Modern AI",
+      "hook": "Turing Would Be Terrified Today...",
       "status": "pending",
-      "hook": "Turing Would Be Terrified Today..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Harriet Tubman Using GPS",
+      "id": 32,
+      "title": "Harriet Tubman Using GPS",
+      "hook": "Harriet Tubman With Modern Technology...",
       "status": "pending",
-      "hook": "Harriet Tubman With Modern Technology..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Marco Polo On Google Maps",
+      "id": 33,
+      "title": "Marco Polo On Google Maps",
+      "hook": "Marco Polo Discovers Google Maps...",
       "status": "pending",
-      "hook": "Marco Polo Discovers Google Maps..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nostradamus Predicting 2026",
+      "id": 34,
+      "title": "Nostradamus Predicting 2026",
+      "hook": "Nostradamus Predicted This Exactly...",
       "status": "pending",
-      "hook": "Nostradamus Predicted This Exactly..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Queen Victoria Sees Modern Royals",
+      "id": 35,
+      "title": "Queen Victoria Sees Modern Royals",
+      "hook": "Queen Victoria Would Be Furious...",
       "status": "pending",
-      "hook": "Queen Victoria Would Be Furious..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Benjamin Franklin With Bitcoin",
+      "id": 36,
+      "title": "Benjamin Franklin With Bitcoin",
+      "hook": "Ben Franklin Would Love Crypto...",
       "status": "pending",
-      "hook": "Ben Franklin Would Love Crypto..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sigmund Freud On TikTok",
+      "id": 37,
+      "title": "Sigmund Freud On TikTok",
+      "hook": "Freud Would Analyze TikTok Trends...",
       "status": "pending",
-      "hook": "Freud Would Analyze TikTok Trends..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Bruce Lee Sees UFC",
+      "id": 38,
+      "title": "Bruce Lee Sees UFC",
+      "hook": "Bruce Lee Would Dominate UFC...",
       "status": "pending",
-      "hook": "Bruce Lee Would Dominate UFC..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nikola Tesla Vs Jeff Bezos",
+      "id": 39,
+      "title": "Nikola Tesla Vs Jeff Bezos",
+      "hook": "Tesla Would Destroy Jeff Bezos...",
       "status": "pending",
-      "hook": "Tesla Would Destroy Jeff Bezos..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Helen Keller With Modern Tech",
+      "id": 40,
+      "title": "Helen Keller With Modern Tech",
+      "hook": "Helen Keller Discovers Modern Technology...",
       "status": "pending",
-      "hook": "Helen Keller Discovers Modern Technology..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rasputin On Dating Apps",
+      "id": 41,
+      "title": "Rasputin On Dating Apps",
+      "hook": "Rasputin Would Break Dating Apps...",
       "status": "pending",
-      "hook": "Rasputin Would Break Dating Apps..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Machiavelli In Modern Politics",
+      "id": 42,
+      "title": "Machiavelli In Modern Politics",
+      "hook": "Machiavelli Would Control Modern Politics...",
       "status": "pending",
-      "hook": "Machiavelli Would Control Modern Politics..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Edgar Allan Poe Writing Horror",
+      "id": 43,
+      "title": "Edgar Allan Poe Writing Horror",
+      "hook": "Poe Would Terrify Modern Audiences...",
       "status": "pending",
-      "hook": "Poe Would Terrify Modern Audiences..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Columbus Discovers Google Earth",
+      "id": 44,
+      "title": "Columbus Discovers Google Earth",
+      "hook": "Columbus Sees Google Earth Map...",
       "status": "pending",
-      "hook": "Columbus Sees Google Earth Map..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Jane Austen Writing Rom-Coms",
+      "id": 45,
+      "title": "Jane Austen Writing Rom-Coms",
+      "hook": "Jane Austen Would Dominate Romance...",
       "status": "pending",
-      "hook": "Jane Austen Would Dominate Romance..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Malcolm X On Social Media",
+      "id": 46,
+      "title": "Malcolm X On Social Media",
+      "hook": "Malcolm X Would Transform Twitter...",
       "status": "pending",
-      "hook": "Malcolm X Would Transform Twitter..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Blackbeard The Pirate Today",
+      "id": 47,
+      "title": "Blackbeard The Pirate Today",
+      "hook": "Blackbeard Would Be A Billionaire...",
       "status": "pending",
-      "hook": "Blackbeard Would Be A Billionaire..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Anne Frank Sees Instagram",
+      "id": 48,
+      "title": "Anne Frank Sees Instagram",
+      "hook": "Anne Frank Would Warn Us...",
       "status": "pending",
-      "hook": "Anne Frank Would Warn Us..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Oscar Wilde On Twitter",
+      "id": 49,
+      "title": "Oscar Wilde On Twitter",
+      "hook": "Oscar Wilde Would Break Twitter...",
       "status": "pending",
-      "hook": "Oscar Wilde Would Break Twitter..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Harriet Beecher Stowe Today",
+      "id": 50,
+      "title": "Harriet Beecher Stowe Today",
+      "hook": "Harriet Stowe Would Expose Everything...",
       "status": "pending",
-      "hook": "Harriet Stowe Would Expose Everything..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Plato Teaching Online",
+      "id": 51,
+      "title": "Plato Teaching Online",
+      "hook": "Plato Would Revolutionize Online Education...",
       "status": "pending",
-      "hook": "Plato Would Revolutionize Online Education..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Copernicus With NASA Data",
+      "id": 52,
+      "title": "Copernicus With NASA Data",
+      "hook": "Copernicus Sees NASA Universe Maps...",
       "status": "pending",
-      "hook": "Copernicus Sees NASA Universe Maps..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Houdini Escaping Modern Security",
+      "id": 53,
+      "title": "Houdini Escaping Modern Security",
+      "hook": "Houdini Would Break Out Anywhere...",
       "status": "pending",
-      "hook": "Houdini Would Break Out Anywhere..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "JFK In 2026 Politics",
+      "id": 54,
+      "title": "JFK In 2026 Politics",
+      "hook": "JFK Would Change Everything Today...",
       "status": "pending",
-      "hook": "JFK Would Change Everything Today..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Marilyn Monroe On Instagram",
+      "id": 55,
+      "title": "Marilyn Monroe On Instagram",
+      "hook": "Marilyn Would Have Billions Followers...",
       "status": "pending",
-      "hook": "Marilyn Would Have Billions Followers..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Abraham Lincoln Using Twitter",
+      "id": 56,
+      "title": "Abraham Lincoln Using Twitter",
+      "hook": "Lincoln Would Unite Social Media...",
       "status": "pending",
-      "hook": "Lincoln Would Unite Social Media..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Florence Nightingale Fighting COVID",
+      "id": 57,
+      "title": "Florence Nightingale Fighting COVID",
+      "hook": "Florence Would Have Saved Millions...",
       "status": "pending",
-      "hook": "Florence Would Have Saved Millions..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "King Arthur With Modern Army",
+      "id": 58,
+      "title": "King Arthur With Modern Army",
+      "hook": "King Arthur Would Conquer Nations...",
       "status": "pending",
-      "hook": "King Arthur Would Conquer Nations..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mark Twain Writing Satire Today",
+      "id": 59,
+      "title": "Mark Twain Writing Satire Today",
+      "hook": "Mark Twain Would Roast Everyone...",
       "status": "pending",
-      "hook": "Mark Twain Would Roast Everyone..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Amelia Earhart Sees SpaceX",
+      "id": 60,
+      "title": "Amelia Earhart Sees SpaceX",
+      "hook": "Amelia Would Fly To Mars...",
       "status": "pending",
-      "hook": "Amelia Would Fly To Mars..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Walt Disney With CGI",
+      "id": 61,
+      "title": "Walt Disney With CGI",
+      "hook": "Walt Disney Discovers Modern Animation...",
       "status": "pending",
-      "hook": "Walt Disney Discovers Modern Animation..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Tchaikovsky Making EDM Music",
+      "id": 62,
+      "title": "Tchaikovsky Making EDM Music",
+      "hook": "Tchaikovsky Would Dominate EDM Festivals...",
       "status": "pending",
-      "hook": "Tchaikovsky Would Dominate EDM Festivals..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Caravaggio With Photoshop",
+      "id": 63,
+      "title": "Caravaggio With Photoshop",
+      "hook": "Caravaggio Discovers Digital Painting Tools...",
       "status": "pending",
-      "hook": "Caravaggio Discovers Digital Painting Tools..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Boudicca Leading Feminism",
+      "id": 64,
+      "title": "Boudicca Leading Feminism",
+      "hook": "Boudicca Would Lead Modern Feminism...",
       "status": "pending",
-      "hook": "Boudicca Would Lead Modern Feminism..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "H.P. Lovecraft Sees Horror Today",
+      "id": 65,
+      "title": "H.P. Lovecraft Sees Horror Today",
+      "hook": "Lovecraft Would Be Terrified Now...",
       "status": "pending",
-      "hook": "Lovecraft Would Be Terrified Now..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Mary Shelley Creating Sci-Fi",
+      "id": 66,
+      "title": "Mary Shelley Creating Sci-Fi",
+      "hook": "Mary Shelley Would Predict Our Future...",
       "status": "pending",
-      "hook": "Mary Shelley Would Predict Our Future..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Isaac Newton With Quantum Physics",
+      "id": 67,
+      "title": "Isaac Newton With Quantum Physics",
+      "hook": "Newton Discovers Quantum Mechanics Today...",
       "status": "pending",
-      "hook": "Newton Discovers Quantum Mechanics Today..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Virginia Woolf On Mental Health",
+      "id": 68,
+      "title": "Virginia Woolf On Mental Health",
+      "hook": "Virginia Woolf Would Change Mental Health...",
       "status": "pending",
-      "hook": "Virginia Woolf Would Change Mental Health..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Spartacus Leading Revolution",
+      "id": 69,
+      "title": "Spartacus Leading Revolution",
+      "hook": "Spartacus Would Start Global Revolution...",
       "status": "pending",
-      "hook": "Spartacus Would Start Global Revolution..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Emily Dickinson On Instagram Poetry",
+      "id": 70,
+      "title": "Emily Dickinson On Instagram Poetry",
+      "hook": "Emily Dickinson Would Dominate Poetry...",
       "status": "pending",
-      "hook": "Emily Dickinson Would Dominate Poetry..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Michelangelo With 3D Printing",
+      "id": 71,
+      "title": "Michelangelo With 3D Printing",
+      "hook": "Michelangelo Discovers 3D Printing Technology...",
       "status": "pending",
-      "hook": "Michelangelo Discovers 3D Printing Technology..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Thomas Jefferson Sees America Now",
+      "id": 72,
+      "title": "Thomas Jefferson Sees America Now",
+      "hook": "Thomas Jefferson Would Be Shocked...",
       "status": "pending",
-      "hook": "Thomas Jefferson Would Be Shocked..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hypatia Teaching Mathematics Online",
+      "id": 73,
+      "title": "Hypatia Teaching Mathematics Online",
+      "hook": "Hypatia Would Revolutionize STEM Education...",
       "status": "pending",
-      "hook": "Hypatia Would Revolutionize STEM Education..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Attila The Hun With Missiles",
+      "id": 74,
+      "title": "Attila The Hun With Missiles",
+      "hook": "Attila With Modern Weapons Unstoppable...",
       "status": "pending",
-      "hook": "Attila With Modern Weapons Unstoppable..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sappho Writing Love Songs",
+      "id": 75,
+      "title": "Sappho Writing Love Songs",
+      "hook": "Sappho Would Dominate Pop Music...",
       "status": "pending",
-      "hook": "Sappho Would Dominate Pop Music..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ramses II Sees Dubai",
+      "id": 76,
+      "title": "Ramses II Sees Dubai",
+      "hook": "Ramses Discovers Modern Architecture Marvels...",
       "status": "pending",
-      "hook": "Ramses Discovers Modern Architecture Marvels..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Ada Lovelace Coding AI",
+      "id": 77,
+      "title": "Ada Lovelace Coding AI",
+      "hook": "Ada Lovelace Would Program Better AI...",
       "status": "pending",
-      "hook": "Ada Lovelace Would Program Better AI..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cleopatra Negotiating Oil Deals",
+      "id": 78,
+      "title": "Cleopatra Negotiating Oil Deals",
+      "hook": "Cleopatra Would Control World Economy...",
       "status": "pending",
-      "hook": "Cleopatra Would Control World Economy..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Frederick Douglass On Police Reform",
+      "id": 79,
+      "title": "Frederick Douglass On Police Reform",
+      "hook": "Frederick Douglass Would Demand Justice...",
       "status": "pending",
-      "hook": "Frederick Douglass Would Demand Justice..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Marie Antoinette Sees Wealth Gap",
+      "id": 80,
+      "title": "Marie Antoinette Sees Wealth Gap",
+      "hook": "Marie Antoinette Would Be Cancelled...",
       "status": "pending",
-      "hook": "Marie Antoinette Would Be Cancelled..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Archimedes With Supercomputers",
+      "id": 81,
+      "title": "Archimedes With Supercomputers",
+      "hook": "Archimedes Would Solve Everything Today...",
       "status": "pending",
-      "hook": "Archimedes Would Solve Everything Today..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Susan B Anthony Fighting Sexism",
+      "id": 82,
+      "title": "Susan B Anthony Fighting Sexism",
+      "hook": "Susan Anthony Would Lead MeToo...",
       "status": "pending",
-      "hook": "Susan Anthony Would Lead MeToo..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Cesar Chavez Organizing Workers",
+      "id": 83,
+      "title": "Cesar Chavez Organizing Workers",
+      "hook": "Cesar Chavez Would Unite Gig Workers...",
       "status": "pending",
-      "hook": "Cesar Chavez Would Unite Gig Workers..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Eleanor Roosevelt Using Podcasts",
+      "id": 84,
+      "title": "Eleanor Roosevelt Using Podcasts",
+      "hook": "Eleanor Would Have Biggest Podcast...",
       "status": "pending",
-      "hook": "Eleanor Would Have Biggest Podcast..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hammurabi Creating Modern Law",
+      "id": 85,
+      "title": "Hammurabi Creating Modern Law",
+      "hook": "Hammurabi Would Rewrite All Laws...",
       "status": "pending",
-      "hook": "Hammurabi Would Rewrite All Laws..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Rachel Carson Fighting Climate Change",
+      "id": 86,
+      "title": "Rachel Carson Fighting Climate Change",
+      "hook": "Rachel Carson Would Save Our Planet...",
       "status": "pending",
-      "hook": "Rachel Carson Would Save Our Planet..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Alexander Hamilton On Wall Street",
+      "id": 87,
+      "title": "Alexander Hamilton On Wall Street",
+      "hook": "Hamilton Would Control Wall Street...",
       "status": "pending",
-      "hook": "Hamilton Would Control Wall Street..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hatshepsut As Female CEO",
+      "id": 88,
+      "title": "Hatshepsut As Female CEO",
+      "hook": "Hatshepsut Would Dominate Corporate World...",
       "status": "pending",
-      "hook": "Hatshepsut Would Dominate Corporate World..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Euclid Teaching Geometry Online",
+      "id": 89,
+      "title": "Euclid Teaching Geometry Online",
+      "hook": "Euclid Would Revolutionize Math Education...",
       "status": "pending",
-      "hook": "Euclid Would Revolutionize Math Education..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Saladin Negotiating Peace Treaties",
+      "id": 90,
+      "title": "Saladin Negotiating Peace Treaties",
+      "hook": "Saladin Would End All Wars...",
       "status": "pending",
-      "hook": "Saladin Would End All Wars..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hildegard Of Bingen Making Music",
+      "id": 91,
+      "title": "Hildegard Of Bingen Making Music",
+      "hook": "Hildegard Would Create New Genre...",
       "status": "pending",
-      "hook": "Hildegard Would Create New Genre..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hannibal With Modern Military Strategy",
+      "id": 92,
+      "title": "Hannibal With Modern Military Strategy",
+      "hook": "Hannibal Would Be Unbeatable Today...",
       "status": "pending",
-      "hook": "Hannibal Would Be Unbeatable Today..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Hypatia Debating On Twitter",
+      "id": 93,
+      "title": "Hypatia Debating On Twitter",
+      "hook": "Hypatia Would Destroy Twitter Arguments...",
       "status": "pending",
-      "hook": "Hypatia Would Destroy Twitter Arguments..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Voltaire Roasting Politicians",
+      "id": 94,
+      "title": "Voltaire Roasting Politicians",
+      "hook": "Voltaire Would Cancel Every Politician...",
       "status": "pending",
-      "hook": "Voltaire Would Cancel Every Politician..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Sojourner Truth Fighting Injustice",
+      "id": 95,
+      "title": "Sojourner Truth Fighting Injustice",
+      "hook": "Sojourner Truth Would Lead Justice Movement...",
       "status": "pending",
-      "hook": "Sojourner Truth Would Lead Justice Movement..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Simon Bolivar Uniting Latin America",
+      "id": 96,
+      "title": "Simon Bolivar Uniting Latin America",
+      "hook": "Bolivar Would Unite Continents Today...",
       "status": "pending",
-      "hook": "Bolivar Would Unite Continents Today..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Catherine The Great Ruling Russia",
+      "id": 97,
+      "title": "Catherine The Great Ruling Russia",
+      "hook": "Catherine Would Transform Modern Russia...",
       "status": "pending",
-      "hook": "Catherine Would Transform Modern Russia..."
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Pythagoras Teaching Khan Academy",
+      "id": 98,
+      "title": "Pythagoras Teaching Khan Academy",
+      "hook": "Pythagoras Would Revolutionize Online Learning...",
       "status": "pending",
-      "hook": "Pythagoras Would Revolutionize Online Learning..."
+      "published_date": null,
+      "video_id": null
     }
   ]
 }

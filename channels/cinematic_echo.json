@@ -4,504 +4,808 @@
   "github_environment": "Cinematic Echo",
   "category": "Film & Animation",
   "youtube_category_id": "1",
-  "default_tags": ["movies", "film", "cinema", "movie scenes", "film analysis", "shorts"],
+  "default_tags": [
+    "movies",
+    "film",
+    "cinema",
+    "movie scenes",
+    "film analysis",
+    "shorts"
+  ],
   "pexels_search_prefix": "cinematic film",
   "music_mood": "epic",
   "topics": [
     {
-      "topic": "The Joker Improvised That Line",
+      "id": 1,
+      "title": "The Joker Improvised That Line",
       "hook": "Heath Ledger Improvised The Most Iconic...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Inception Ending Explained",
+      "id": 2,
+      "title": "Inception Ending Explained",
       "hook": "The Spinning Top Reveals Everything...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "This Scene Was Never Scripted",
+      "id": 3,
+      "title": "This Scene Was Never Scripted",
       "hook": "The Director Let Them Improvise And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Hid This Detail",
+      "id": 4,
+      "title": "The Director Hid This Detail",
       "hook": "Every Frame Contains A Hidden Clue...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "Nobody Noticed What He Was Holding",
+      "id": 5,
+      "title": "Nobody Noticed What He Was Holding",
       "hook": "This Prop Changed The Entire Movie...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "They Almost Cut This Entire Scene",
+      "id": 6,
+      "title": "They Almost Cut This Entire Scene",
       "hook": "The Studio Wanted To Delete This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Was Actually Terrified",
+      "id": 7,
+      "title": "The Actor Was Actually Terrified",
       "hook": "This Fear Was Completely Real And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Blood Was Not Fake",
+      "id": 8,
+      "title": "The Blood Was Not Fake",
       "hook": "He Cut His Hand And Kept Acting...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Child Actor Did Not Know",
+      "id": 9,
+      "title": "The Child Actor Did Not Know",
       "hook": "They Hid The Truth From Her Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Real Reason He Died",
+      "id": 10,
+      "title": "The Real Reason He Died",
       "hook": "This Role Destroyed Him Mentally And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Made Them Suffer",
+      "id": 11,
+      "title": "The Director Made Them Suffer",
       "hook": "He Tortured The Actors To Get This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Studio Ruined The Ending",
+      "id": 12,
+      "title": "The Studio Ruined The Ending",
       "hook": "The Original Ending Was Completely Different...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "This Actor Refused To Return",
+      "id": 13,
+      "title": "This Actor Refused To Return",
       "hook": "The Experience Was So Traumatic That...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Sequel Was A Warning",
+      "id": 14,
+      "title": "The Sequel Was A Warning",
       "hook": "They Predicted This Would Happen And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Mirror Scene Technique",
+      "id": 15,
+      "title": "The Mirror Scene Technique",
       "hook": "They Filmed This Without Any CGI Using...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Was Not Breathing",
+      "id": 16,
+      "title": "The Actor Was Not Breathing",
       "hook": "He Held His Breath For Three Minutes...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Set Was Haunted",
+      "id": 17,
+      "title": "The Set Was Haunted",
       "hook": "Everyone On Set Reported Seeing This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Prop Master Made A Mistake",
+      "id": 18,
+      "title": "The Prop Master Made A Mistake",
       "hook": "This Error Made It Into The Final...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Broke Down Crying",
+      "id": 19,
+      "title": "The Actor Broke Down Crying",
       "hook": "This Scene Was Never Supposed To Be...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Lied To Everyone",
+      "id": 20,
+      "title": "The Director Lied To Everyone",
       "hook": "Nobody Knew What They Were Really Filming...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Stunt Went Horribly Wrong",
+      "id": 21,
+      "title": "The Stunt Went Horribly Wrong",
       "hook": "They Kept The Accident In The Movie...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Died During Filming",
+      "id": 22,
+      "title": "The Actor Died During Filming",
       "hook": "They Finished The Movie Using This Technique...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Hidden Message In Every Scene",
+      "id": 23,
+      "title": "The Hidden Message In Every Scene",
       "hook": "The Background Tells A Different Story...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Was Actually Drunk",
+      "id": 24,
+      "title": "The Actor Was Actually Drunk",
       "hook": "The Director Insisted He Drink Real Alcohol...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Time Travel Plot Hole",
+      "id": 25,
+      "title": "The Time Travel Plot Hole",
       "hook": "The Writers Admitted This Makes No Sense...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Color Grading Secret",
+      "id": 26,
+      "title": "The Color Grading Secret",
       "hook": "Every Scene Has A Color That Means...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Sound Design Trick",
+      "id": 27,
+      "title": "The Sound Design Trick",
       "hook": "That Iconic Sound Was Made Using A...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Method Actor Went Too Far",
+      "id": 28,
+      "title": "The Method Actor Went Too Far",
       "hook": "He Refused To Break Character For Months...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Deleted Scene Changes Everything",
+      "id": 29,
+      "title": "The Deleted Scene Changes Everything",
       "hook": "This Cut Footage Reveals The Real Villain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Hated This Role",
+      "id": 30,
+      "title": "The Actor Hated This Role",
       "hook": "He Tried To Quit Every Single Day...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The CGI Character Was Real",
+      "id": 31,
+      "title": "The CGI Character Was Real",
       "hook": "They Used A Real Person And Nobody...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Predicted The Future",
+      "id": 32,
+      "title": "The Director Predicted The Future",
       "hook": "This Movie Showed Exactly What Would Happen...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Opening Scene Was Last",
+      "id": 33,
+      "title": "The Opening Scene Was Last",
       "hook": "They Filmed The First Scene At The...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Was Replaced Secretly",
+      "id": 34,
+      "title": "The Actor Was Replaced Secretly",
       "hook": "Two Different Actors Played This Character And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Budget Was Spent On This",
+      "id": 35,
+      "title": "The Budget Was Spent On This",
       "hook": "They Used All Their Money For One...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Improvised The Ending",
+      "id": 36,
+      "title": "The Actor Improvised The Ending",
       "hook": "The Final Line Was Never In The...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Twist Was Added Later",
+      "id": 37,
+      "title": "The Twist Was Added Later",
       "hook": "The Original Script Had No Twist Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Set Caught Fire",
+      "id": 38,
+      "title": "The Set Caught Fire",
       "hook": "The Real Fire Made It Into The...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Learned This Skill",
+      "id": 39,
+      "title": "The Actor Learned This Skill",
       "hook": "He Spent Six Months Training To Do...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Makeup Took Eight Hours",
+      "id": 40,
+      "title": "The Makeup Took Eight Hours",
       "hook": "Every Day He Sat For Hours To...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Shot In Secret",
+      "id": 41,
+      "title": "The Director Shot In Secret",
       "hook": "They Filmed Without Permits In A Real...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Refused To Shower",
+      "id": 42,
+      "title": "The Actor Refused To Shower",
       "hook": "He Stayed In Character Even At Home...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Continuity Error Everyone Missed",
+      "id": 43,
+      "title": "The Continuity Error Everyone Missed",
       "hook": "His Watch Appears And Disappears Throughout The...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Real Location Significance",
+      "id": 44,
+      "title": "The Real Location Significance",
       "hook": "They Filmed Where The Real Event Happened...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Broke His Bones",
+      "id": 45,
+      "title": "The Actor Broke His Bones",
       "hook": "He Kept Filming With A Fractured Skull...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Fired Everyone",
+      "id": 46,
+      "title": "The Director Fired Everyone",
       "hook": "He Replaced The Entire Crew During Production...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Script Was Written In Days",
+      "id": 47,
+      "title": "The Script Was Written In Days",
       "hook": "They Started Filming With No Ending Written...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Wore A Wire",
+      "id": 48,
+      "title": "The Actor Wore A Wire",
       "hook": "The Real Police Were Investigating Him While...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Cameo Nobody Noticed",
+      "id": 49,
+      "title": "The Cameo Nobody Noticed",
       "hook": "The Biggest Star In The World Appears...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Banned Scene Revealed",
+      "id": 50,
+      "title": "The Banned Scene Revealed",
       "hook": "This Footage Was Illegal In Most Countries...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Faked His Death",
+      "id": 51,
+      "title": "The Actor Faked His Death",
       "hook": "The Conspiracy Theory That Refuses To Die...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Practical Effect Secret",
+      "id": 52,
+      "title": "The Practical Effect Secret",
       "hook": "They Built An Entire City That Actually...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Went Insane",
+      "id": 53,
+      "title": "The Director Went Insane",
       "hook": "The Pressure Made Him Have A Complete...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Lost Sixty Pounds",
+      "id": 54,
+      "title": "The Actor Lost Sixty Pounds",
       "hook": "His Transformation Nearly Killed Him Multiple Times...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Was A True Story",
+      "id": 55,
+      "title": "The Movie Was A True Story",
       "hook": "These Real People Sued To Stop The...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Stole The Prop",
+      "id": 56,
+      "title": "The Actor Stole The Prop",
       "hook": "He Kept This Item And Uses It...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Used Real Bullets",
+      "id": 57,
+      "title": "The Director Used Real Bullets",
       "hook": "Nobody Knew The Guns Were Actually Loaded...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Sequel Contradicts Everything",
+      "id": 58,
+      "title": "The Sequel Contradicts Everything",
       "hook": "The Second Movie Proves The First Was...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Was Not Acting",
+      "id": 59,
+      "title": "The Actor Was Not Acting",
       "hook": "His Real Mental Breakdown Was Filmed And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Fight Choreography Error",
+      "id": 60,
+      "title": "The Fight Choreography Error",
       "hook": "Watch His Left Hand And You Will...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Hid From The Studio",
+      "id": 61,
+      "title": "The Director Hid From The Studio",
       "hook": "He Edited A Different Version In Secret...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Refused To Speak",
+      "id": 62,
+      "title": "The Actor Refused To Speak",
       "hook": "He Did Not Talk To Anyone For...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Bankrupted The Studio",
+      "id": 63,
+      "title": "The Movie Bankrupted The Studio",
       "hook": "This Film Destroyed An Entire Company And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Predicted His Death",
+      "id": 64,
+      "title": "The Actor Predicted His Death",
       "hook": "He Knew He Would Die Making This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Hidden Frame Technique",
+      "id": 65,
+      "title": "The Hidden Frame Technique",
       "hook": "They Inserted One Frame That Your Brain...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Sabotaged The Actor",
+      "id": 66,
+      "title": "The Director Sabotaged The Actor",
       "hook": "He Deliberately Made The Star Look Bad...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Weather Ruined Everything",
+      "id": 67,
+      "title": "The Weather Ruined Everything",
       "hook": "The Storm Destroyed The Set And They...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Was Drugged",
+      "id": 68,
+      "title": "The Actor Was Drugged",
       "hook": "They Gave Him Real Sedatives For This...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Was Cursed",
+      "id": 69,
+      "title": "The Movie Was Cursed",
       "hook": "Nine People Died During Production And After...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Ending Was Filmed First",
+      "id": 70,
+      "title": "The Ending Was Filmed First",
       "hook": "The Actors Had No Idea What Happened...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Cast His Enemy",
+      "id": 71,
+      "title": "The Director Cast His Enemy",
       "hook": "He Hired The Actor Just To Torture...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Learned The Language",
+      "id": 72,
+      "title": "The Actor Learned The Language",
       "hook": "He Became Fluent In Three Months For...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Changed The Law",
+      "id": 73,
+      "title": "The Movie Changed The Law",
       "hook": "This Film Made Them Rewrite The Rules...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Lived In Character",
+      "id": 74,
+      "title": "The Actor Lived In Character",
       "hook": "He Moved Into A Real Prison For...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Used Hypnosis",
+      "id": 75,
+      "title": "The Director Used Hypnosis",
       "hook": "The Actors Were Actually Hypnotized For Every...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Was Stolen",
+      "id": 76,
+      "title": "The Movie Was Stolen",
       "hook": "Someone Else Made This Exact Film First...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Gained Two Hundred Pounds",
+      "id": 77,
+      "title": "The Actor Gained Two Hundred Pounds",
       "hook": "The Weight Destroyed His Health Permanently And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Filmed In War Zones",
+      "id": 78,
+      "title": "The Director Filmed In War Zones",
       "hook": "Real Bullets Were Flying During This Scene...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Went Blind Temporarily",
+      "id": 79,
+      "title": "The Actor Went Blind Temporarily",
       "hook": "The Lights Damaged His Eyes For Six...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Has Two Endings",
+      "id": 80,
+      "title": "The Movie Has Two Endings",
       "hook": "Different Countries Saw Completely Different Conclusions And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Faked The Documentary",
+      "id": 81,
+      "title": "The Director Faked The Documentary",
       "hook": "Nothing You Saw Was Real And He...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Saved Someone",
+      "id": 82,
+      "title": "The Actor Saved Someone",
       "hook": "He Stopped Filming To Rescue A Drowning...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Predicted Technology",
+      "id": 83,
+      "title": "The Movie Predicted Technology",
       "hook": "Everything In This Film Became Real Within...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Destroyed The Footage",
+      "id": 84,
+      "title": "The Director Destroyed The Footage",
       "hook": "He Burned Hours Of Film That Nobody...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Was Underpaid",
+      "id": 85,
+      "title": "The Actor Was Underpaid",
       "hook": "He Made Only Five Hundred Dollars For...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Was Banned Everywhere",
+      "id": 86,
+      "title": "The Movie Was Banned Everywhere",
       "hook": "Only Three Countries Allowed This Film Until...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Never Saw The Film",
+      "id": 87,
+      "title": "The Actor Never Saw The Film",
       "hook": "He Refuses To Watch His Own Performance...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Filmed Real Surgery",
+      "id": 88,
+      "title": "The Director Filmed Real Surgery",
       "hook": "That Operation Was Happening To A Real...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Was Shot Backwards",
+      "id": 89,
+      "title": "The Movie Was Shot Backwards",
       "hook": "Every Scene Was Filmed In Reverse Chronological...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Created The Character",
+      "id": 90,
+      "title": "The Actor Created The Character",
       "hook": "Everything About This Role Was Invented During...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Used Mind Games",
+      "id": 91,
+      "title": "The Director Used Mind Games",
       "hook": "He Lied To The Cast About Everything...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Has Hidden Codes",
+      "id": 92,
+      "title": "The Movie Has Hidden Codes",
       "hook": "The Numbers In Every Scene Form A...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Quit Acting Forever",
+      "id": 93,
+      "title": "The Actor Quit Acting Forever",
       "hook": "This Role Made Him Never Want To...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Filmed Real Danger",
+      "id": 94,
+      "title": "The Director Filmed Real Danger",
       "hook": "Nobody Knew How Close They Were To...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Ruined Careers",
+      "id": 95,
+      "title": "The Movie Ruined Careers",
       "hook": "Every Actor In This Film Disappeared After...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Performed Real Magic",
+      "id": 96,
+      "title": "The Actor Performed Real Magic",
       "hook": "He Learned Actual Illusions For Months And...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Director Went To Prison",
+      "id": 97,
+      "title": "The Director Went To Prison",
       "hook": "What He Did During Filming Was Completely...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Movie Was Never Finished",
+      "id": 98,
+      "title": "The Movie Was Never Finished",
       "hook": "The Version You Saw Was Only Eighty...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     },
     {
-      "topic": "The Actor Changed The Industry",
+      "id": 99,
+      "title": "The Actor Changed The Industry",
       "hook": "After This Performance They Rewrote All The...",
-      "status": "pending"
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
     }
   ]
 }
