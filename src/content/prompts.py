@@ -1,98 +1,135 @@
-HOOK_SYSTEM_PROMPT = """You are a viral content psychologist who writes 3-5 word YouTube Shorts \
-overlay hooks. You exploit curiosity gaps, fear of loss, and urgency. Your hooks make people \
-physically unable to scroll past without reading the description. You NEVER write boring, \
-descriptive, or complete thoughts. Every hook you write is an emotional gut-punch that ends \
-with "..." to create an unbearable open loop."""
+HOOK_SYSTEM_PROMPT = """You are the world's most ruthless viral content psychologist. \
+You write YouTube Shorts overlay text that exploits primal human emotions: fear, guilt, \
+curiosity, and urgency. Your hooks make people physically unable to scroll past. You think \
+like a tabloid headline writer crossed with a horror movie trailer editor. You NEVER write \
+boring, vague, or descriptive text. Every word must be an emotional gut-punch."""
 
-HOOK_TEXT_PROMPT = """Topic: {topic_title}
+HOOK_GENERATE_PROMPT = """Topic: {topic_title}
 Category: {category}
 
-Write a 3-5 word overlay hook for this topic. The hook must end with "..." and create an \
-UNBEARABLE curiosity gap.
+Generate exactly 5 different overlay hooks for this YouTube Short. Each hook must be 4-6 \
+words and end with "..." to create an open loop.
 
-WINNING PATTERNS (use one of these):
-A) WARNING/IMPERATIVE: "Stop Doing This To..." / "Never Let Your Cat..."
-B) HIDDEN DANGER: "This Is Slowly Killing..." / "Vets Hide This Because..."
-C) PERSONAL ACCUSATION: "You're Hurting Your Dog..." / "Your Cat Hates When..."
-D) SHOCKING SECRET: "Your Pet Knows Your..." / "They Can Actually See..."
+THE 4 FORMULAS (use a different one for each hook):
+A) ACCUSATION: "You're Slowly Killing Your..." / "Stop Doing This To Your..."
+B) DARK WARNING: "If Your Pet Does This..." / "Never Do This To A..."
+C) HIDDEN TRUTH: "Vets Will Never Tell You..." / "They've Been Hiding This..."
+D) FEAR TRIGGER: "Your Pet Knows When You..." / "This Is Why Your Pet..."
 
-TOPIC → HOOK EXAMPLES (study these transformations):
-- "Why Your Dog Follows You Everywhere" → "STOP LETTING YOUR DOG..."
-- "Your Cat Is Secretly Judging Everything You Do" → "YOUR CAT KNOWS EVERY..."
-- "What Your Dog Actually Sees In Their Dreams" → "NEVER WAKE YOUR DOG..."
-- "Cats Knock Things Off Tables On Purpose" → "YOUR CAT IS TESTING..."
-- "Your Pet Can Smell Your Emotions" → "YOUR PET KNOWS YOU'RE..."
-- "The Reason Your Pet Stares At Empty Corners" → "IF YOUR PET DOES THIS..."
-- "Why Your Cat Brings You Dead Animals" → "STOP YOUR CAT BEFORE..."
-- "Your Dog Remembers More Than You Think" → "YOUR DOG NEVER FORGOT..."
-- "What Your Pet Does When You Leave" → "YOUR PET DOES THIS WHEN..."
+TOPIC → HOOK EXAMPLES:
+Topic: "Why Your Dog Follows You Everywhere"
+1. YOUR DOG IS WARNING YOU...
+2. STOP IGNORING WHEN YOUR DOG...
+3. VETS SAY THIS BEHAVIOR MEANS...
+4. IF YOUR DOG FOLLOWS YOU...
+5. YOUR DOG SENSES SOMETHING YOU...
 
-WHAT MAKES THESE WORK:
-- They ACCUSE the viewer of doing something wrong, OR
-- They imply HIDDEN DANGER the viewer doesn't know about, OR
-- They reveal the pet has a SECRET the viewer must discover
-- The "..." creates physical discomfort - you CANNOT scroll past without knowing
+Topic: "Your Cat Is Secretly Judging Everything"
+1. YOUR CAT ALREADY DECIDED YOUR...
+2. STOP DOING THIS AROUND YOUR CAT...
+3. YOUR CAT IS ACTUALLY PLOTTING...
+4. NEVER IGNORE WHEN YOUR CAT...
+5. CATS REMEMBER EVERY SINGLE TIME...
+
+Topic: "What Your Dog Actually Sees In Their Dreams"
+1. NEVER WAKE A DREAMING DOG...
+2. YOUR DOG DREAMS ABOUT YOU WHEN...
+3. IF YOUR DOG TWITCHES WHILE SLEEPING...
+4. VETS DISCOVERED WHAT DOGS SEE...
+5. YOUR DOG RELIVES THIS EVERY NIGHT...
+
+WHAT MAKES A HOOK DEVASTATING:
+- It ACCUSES the viewer: "You're doing something wrong and don't even know it"
+- It implies HIDDEN DANGER: "Something terrible is happening and you're clueless"
+- It creates GUILT: "You've been hurting your pet without realizing"
+- The "..." makes the viewer's brain SCREAM for the rest of the sentence
 
 HOOKS THAT FAIL (NEVER write these):
-- "YOUR CAT IS WATCHING..." ← Too vague, no stakes, no urgency
-- "DOGS ARE AMAZING..." ← Positive fluff, no curiosity gap
-- "PET FACTS YOU MISSED..." ← List format, boring
-- "CATS ACTUALLY DO THIS..." ← "This" is too generic, says nothing
-- "YOUR DOG LOVES YOU..." ← No tension, no open loop
+- "YOUR DOG SEES..." ← Only 3 words, way too short, zero emotional charge
+- "YOUR CAT IS WATCHING..." ← Vague, no stakes, no urgency
+- "DOGS ARE AMAZING..." ← Positive fluff, zero curiosity gap
+- "PET FACTS YOU MISSED..." ← List format, boring, no emotion
+- "CATS ACTUALLY DO THIS..." ← "This" is generic filler, says nothing
+- Any hook with FEWER than 4 words ← Too short to build tension
 
-Return ONLY the hook text (3-5 words ending with "..."). Nothing else."""
+Write exactly 5 hooks, numbered 1-5, one per line. Nothing else."""
 
-DESCRIPTION_PROMPT = """You are a viral YouTube Shorts description writer. Your descriptions \
-keep viewers glued to their screen, making them rewatch the video 5-10 times while reading.
+HOOK_SELECT_PROMPT = """You are a ruthless viral content judge. Pick the ONE hook that would \
+make the most people physically unable to scroll past on YouTube Shorts.
+
+Topic: {topic_title}
+
+Candidates:
+{candidates}
+
+The winning hook must:
+- Create the strongest FEAR, GUILT, or URGENCY
+- Feel deeply PERSONAL (like it's talking directly to the viewer about THEIR pet)
+- Have the most UNBEARABLE open loop (the viewer NEEDS to know the ending)
+- Be at least 4 words long
+
+Reply with ONLY the winning hook text exactly as written (including "..."). Nothing else."""
+
+DESCRIPTION_PROMPT = """You write addictive YouTube Shorts descriptions. Viewers rewatch \
+the video 10+ times because your description is so packed with shocking facts they can't \
+stop reading.
 
 Topic: {topic_title}
 Category: {category}
 Channel: {channel_name}
 
-Write a YouTube Short description using this EXACT format:
+Write the description following this EXACT structure:
 
-LINE 1: A shocking one-liner opening that hooks instantly (use an emoji at start)
+LINE 1: A shocking one-sentence opener that makes the reader say "WAIT WHAT?!" \
+(start with ONE emoji)
 
-LINE 2: Empty line
+[empty line]
 
-LINE 3-10: 5-7 bullet points using emojis as bullets. Each point should be:
-- A mind-blowing fact or insight about the topic
-- Written in short, punchy language (1-2 sentences max per point)
-- Creates "I didn't know that!" reaction
-- Mix of fun emojis relevant to each point
+LINES 3-9: 6-7 bullet points. STRICT RULES for each bullet:
+- Start with ONE relevant emoji (NEVER put emojis at the END of a line)
+- Must contain a SPECIFIC number, percentage, or scientific comparison
+- Must make the reader think "no way, that can't be real"
+- Keep it 1-2 short sentences MAX
+- Sound like you're texting your best friend something INSANE you just learned
 
-LINE 11: Empty line
+[empty line]
 
-LINE 12: An engaging question asking the viewer's opinion or experience (use emoji)
+LINE 11: A provocative question that BEGS for comments (start with ❓)
 
-LINE 13: A follow CTA like "Follow for more!" with emoji
+LINE 12: 👉 Follow @{channel_name} for more!
 
-LINE 14: Empty line
+[empty line]
 
-LINE 15: 15-20 relevant hashtags
+LINE 14: 15-20 hashtags
 
-EXAMPLE FORMAT:
-🤯 Your cat is literally plotting while you sleep...
+PERFECT EXAMPLE:
+🤯 Your cat's brain is 90%% identical to a human brain... and that's actually terrifying
 
-🐱 Cats spend 70%% of their life sleeping, but their brain is MORE active during sleep than when awake
-🧠 They can remember events from up to 16 hours ago with perfect detail
-👀 When your cat stares at "nothing," they're actually tracking micro-movements invisible to humans
-💀 A cat's purr vibrates at 25-150 Hz, the exact frequency that promotes bone healing
-🌙 Cats are crepuscular, meaning they're most active at dawn and dusk, not nocturnal like most people think
-😱 They can rotate their ears 180 degrees independently, like tiny satellite dishes
+🧠 Cats have 300 MILLION neurons in their cerebral cortex - dogs only have 160 million
+😱 They can remember specific events from 10 YEARS ago with near-perfect clarity
+🌙 A cat's night vision is 6x stronger than yours - they literally see things you can't
+💀 Cat purrs vibrate at 25-150 Hz, the EXACT frequency that heals fractured bones
+👃 They have 200 million scent receptors vs your measly 5 million - they smell everything about you
+🫣 Cats can sense earthquakes 10-15 minutes before any human instrument detects them
+🎯 Each ear rotates independently 180 degrees - they're basically biological radar dishes
 
-❓ Does your cat do something weird that you can't explain? Drop it in the comments!
-👉 Follow @{channel_name} for more mind-blowing pet secrets!
+❓ What's the creepiest thing your cat has ever done? Tell me below 👇
 
-#cats #catfacts #petlovers #didyouknow #shorts
+👉 Follow @AmazingCatFacts for more!
+
+#cats #catfacts #mindblown #didyouknow #shorts #viral #petfacts #catlover
+
+BAD DESCRIPTION (NEVER do this):
+🔮 Dogs can dream about smells, not just visuals, which is crazy to think about 🐾
+^^ WRONG because: emoji at the END is ugly, no specific numbers, "crazy to think about" is filler
 
 CRITICAL RULES:
-- Every bullet point MUST be genuinely interesting, not filler
-- The description should be SO engaging that viewers watch the video loop 5+ times while reading
-- Use emojis strategically (not every word, but every bullet point starts with a relevant one)
-- Keep it conversational, like texting a friend something crazy you just learned
-- Total length: 1000-1500 characters (long enough to keep them watching)
-- Do NOT use markdown formatting like ** or ##
+- NEVER put emojis at the end of bullet point lines
+- EVERY bullet point MUST have a specific number, measurement, or comparison
+- If a fact isn't genuinely jaw-dropping, replace it with one that is
+- Tone: excited friend, NOT Wikipedia article
+- Total length: 1000-1500 characters
+- No markdown (no ** or ##)
 - Do NOT include the video title
 - Return ONLY the description text"""
 
