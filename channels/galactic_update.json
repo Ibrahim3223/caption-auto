@@ -19,7 +19,7 @@
     {
       "id": 1,
       "title": "Water Found On Mars",
-      "hook": "NASA Just Found Water On Mars...",
+      "hook": "Where Did Mars Get Liquid Water...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -27,7 +27,7 @@
     {
       "id": 2,
       "title": "Black Hole Eating A Star",
-      "hook": "This Black Hole Is Eating A Star...",
+      "hook": "What Happens When Black Holes Eat...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "title": "James Webb Telescope Discovers Oldest Galaxy",
-      "hook": "Webb Telescope Sees The Impossible...",
+      "hook": "How Did Webb See The Impossible...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -43,7 +43,7 @@
     {
       "id": 4,
       "title": "Mysterious Radio Signal From Deep Space",
-      "hook": "We Detected A Signal From Space...",
+      "hook": "Why Are Aliens Sending Radio Signals...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -51,7 +51,7 @@
     {
       "id": 5,
       "title": "Venus Might Have Life",
-      "hook": "Venus Has Something We Never Expected...",
+      "hook": "Why Does Venus Have Life Molecules...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -59,7 +59,7 @@
     {
       "id": 6,
       "title": "Rogue Planet Wandering Through Space",
-      "hook": "This Planet Has No Star...",
+      "hook": "How Can Planets Survive Without Stars...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -67,7 +67,7 @@
     {
       "id": 7,
       "title": "Saturn Losing Its Rings",
-      "hook": "Saturn Is Losing Its Rings Fast...",
+      "hook": "Where Are Saturns Rings Going...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -75,7 +75,7 @@
     {
       "id": 8,
       "title": "Interstellar Object Entering Solar System",
-      "hook": "Something Just Entered Our Solar System...",
+      "hook": "What Just Entered Our Solar System...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "title": "Moon Shrinking Over Time",
-      "hook": "The Moon Is Shrinking Right Now...",
+      "hook": "Why Is The Moon Shrinking Forever...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -91,7 +91,7 @@
     {
       "id": 10,
       "title": "Supermassive Black Hole At Galaxy Center",
-      "hook": "This Black Hole Should Not Exist...",
+      "hook": "Why Does This Black Hole Exist...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -99,7 +99,7 @@
     {
       "id": 11,
       "title": "Europa Has Underground Ocean",
-      "hook": "This Moon Hides An Entire Ocean...",
+      "hook": "What Is Europa Hiding Underneath...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -107,7 +107,7 @@
     {
       "id": 12,
       "title": "Fastest Star Ever Recorded",
-      "hook": "This Star Moves At Impossible Speed...",
+      "hook": "How Fast Can Stars Really Move...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -115,7 +115,7 @@
     {
       "id": 13,
       "title": "Diamond Planet Discovered",
-      "hook": "NASA Found A Planet Made Of Diamonds...",
+      "hook": "Why Is This Planet Pure Diamond...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -123,7 +123,7 @@
     {
       "id": 14,
       "title": "Voyager 1 Leaves Solar System",
-      "hook": "Voyager Just Left Our Solar System...",
+      "hook": "Where Is Voyager Going Now...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -131,7 +131,7 @@
     {
       "id": 15,
       "title": "Asteroid Mining Could Make Trillionaires",
-      "hook": "This Asteroid Is Worth More Than Earth...",
+      "hook": "How Much Is This Asteroid Worth...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -139,7 +139,7 @@
     {
       "id": 16,
       "title": "Mysterious Dark Matter Discovery",
-      "hook": "Scientists Finally Detected Dark Matter...",
+      "hook": "What Is Dark Matter Made Of...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -147,7 +147,7 @@
     {
       "id": 17,
       "title": "Sun Will Swallow Earth Eventually",
-      "hook": "The Sun Will Destroy Earth Soon...",
+      "hook": "When Will The Sun Destroy Earth...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -155,7 +155,7 @@
     {
       "id": 18,
       "title": "Parallel Universe Evidence Found",
-      "hook": "We May Have Found A Parallel Universe...",
+      "hook": "Could Parallel Universes Really Exist...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -163,7 +163,7 @@
     {
       "id": 19,
       "title": "Alien Megastructure Around Star",
-      "hook": "This Star Has Something Orbiting It...",
+      "hook": "What Is Orbiting This Star...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -171,7 +171,7 @@
     {
       "id": 20,
       "title": "Gamma Ray Burst Nearly Hit Earth",
-      "hook": "This Event Almost Destroyed All Life...",
+      "hook": "How Close Did This Burst Come...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -179,7 +179,7 @@
     {
       "id": 21,
       "title": "Ice Volcanoes On Pluto",
-      "hook": "Pluto Has Volcanoes Made Of Ice...",
+      "hook": "Why Does Pluto Have Ice Volcanoes...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -187,7 +187,7 @@
     {
       "id": 22,
       "title": "Time Moves Slower Near Black Holes",
-      "hook": "Black Holes Can Stop Time Itself...",
+      "hook": "How Do Black Holes Stop Time...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -195,7 +195,7 @@
     {
       "id": 23,
       "title": "Betelgeuse About To Explode",
-      "hook": "This Star Could Explode Any Day Now...",
+      "hook": "When Will Betelgeuse Finally Explode...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -203,7 +203,7 @@
     {
       "id": 24,
       "title": "Habitable Exoplanet Found Nearby",
-      "hook": "We Found Another Earth Nearby...",
+      "hook": "Could Humans Live On This Planet...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -211,7 +211,7 @@
     {
       "id": 25,
       "title": "Jupiter Protects Earth From Asteroids",
-      "hook": "Jupiter Saves Earth Every Single Day...",
+      "hook": "How Does Jupiter Save Us Daily...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -219,7 +219,7 @@
     {
       "id": 26,
       "title": "Neutron Star Collision Creates Gold",
-      "hook": "All Gold On Earth Came From Space...",
+      "hook": "Where Does All Gold Come From...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -227,7 +227,7 @@
     {
       "id": 27,
       "title": "Cosmic Microwave Background Radiation",
-      "hook": "You Can See The Big Bang On TV...",
+      "hook": "How Can You See The Big Bang...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -235,7 +235,7 @@
     {
       "id": 28,
       "title": "Andromeda Galaxy Collision Course",
-      "hook": "Andromeda Will Collide With Us Soon...",
+      "hook": "When Will Andromeda Hit Our Galaxy...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -243,7 +243,7 @@
     {
       "id": 29,
       "title": "White Dwarf Star Explodes",
-      "hook": "This Dead Star Just Came Back To Life...",
+      "hook": "How Can Dead Stars Come Back...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -251,7 +251,7 @@
     {
       "id": 30,
       "title": "Gravitational Waves Detected",
-      "hook": "Einstein Was Right About Everything...",
+      "hook": "What Did Einstein Predict About Gravity...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -259,7 +259,7 @@
     {
       "id": 31,
       "title": "Mars Had Rivers And Oceans",
-      "hook": "Mars Used To Look Like Earth...",
+      "hook": "What Happened To Mars Water...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -267,7 +267,7 @@
     {
       "id": 32,
       "title": "Cosmic Void Larger Than Universe",
-      "hook": "Scientists Found A Hole In Space...",
+      "hook": "Why Is There A Hole In Space...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -275,7 +275,7 @@
     {
       "id": 33,
       "title": "Magnetar Most Magnetic Object",
-      "hook": "This Star Would Kill You Instantly...",
+      "hook": "How Can Magnetars Kill You Instantly...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -283,7 +283,7 @@
     {
       "id": 34,
       "title": "Titan Has Lakes Of Methane",
-      "hook": "This Moon Has Lakes And Rain...",
+      "hook": "Why Does Titan Have Liquid Lakes...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -291,7 +291,7 @@
     {
       "id": 35,
       "title": "Quasar Brightest Object In Universe",
-      "hook": "This Object Outshines Entire Galaxies...",
+      "hook": "What Makes Quasars Outshine Galaxies...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -299,7 +299,7 @@
     {
       "id": 36,
       "title": "Space Smells Like Burning Metal",
-      "hook": "Space Has A Smell Nobody Expected...",
+      "hook": "Why Does Space Have A Smell...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -307,7 +307,7 @@
     {
       "id": 37,
       "title": "Proxima Centauri Has Habitable Zone",
-      "hook": "The Nearest Star Has Habitable Planets...",
+      "hook": "Could Proxima Centauri Have Life...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -315,7 +315,7 @@
     {
       "id": 38,
       "title": "Universe Expanding Faster Than Expected",
-      "hook": "The Universe Is Breaking Physics Laws...",
+      "hook": "Why Is The Universe Breaking Physics...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -323,7 +323,7 @@
     {
       "id": 39,
       "title": "Lunar Dust Toxic To Humans",
-      "hook": "Moon Dust Could Kill Astronauts...",
+      "hook": "How Can Moon Dust Kill Astronauts...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -331,7 +331,7 @@
     {
       "id": 40,
       "title": "Pulsar Spins 700 Times Per Second",
-      "hook": "This Star Spins At Impossible Speed...",
+      "hook": "How Fast Can Pulsars Really Spin...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -339,7 +339,7 @@
     {
       "id": 41,
       "title": "Galactic Cannibalism Happening Now",
-      "hook": "Our Galaxy Is Eating Other Galaxies...",
+      "hook": "Why Is Our Galaxy Eating Others...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -347,7 +347,7 @@
     {
       "id": 42,
       "title": "Kepler 452b Most Earth Like Planet",
-      "hook": "We Found An Earth Twin Finally...",
+      "hook": "Could Kepler 452b Have Life...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -355,7 +355,7 @@
     {
       "id": 43,
       "title": "Solar Flare Could Knock Out Power",
-      "hook": "The Sun Could End Civilization Tomorrow...",
+      "hook": "When Will The Sun End Civilization...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -363,7 +363,7 @@
     {
       "id": 44,
       "title": "Enceladus Shoots Water Into Space",
-      "hook": "This Moon Has Geysers Miles High...",
+      "hook": "Why Does Enceladus Have Geysers...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -371,7 +371,7 @@
     {
       "id": 45,
       "title": "Universe Could Collapse Any Moment",
-      "hook": "Everything Could End Right Now...",
+      "hook": "When Could The Universe End...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -379,7 +379,7 @@
     {
       "id": 46,
       "title": "Brown Dwarf Failed Star",
-      "hook": "This Star Failed To Become A Star...",
+      "hook": "Why Did This Star Never Ignite...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -387,7 +387,7 @@
     {
       "id": 47,
       "title": "Cosmic Inflation Faster Than Light",
-      "hook": "The Universe Once Moved Faster Than Light...",
+      "hook": "How Did The Universe Beat Light...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -395,7 +395,7 @@
     {
       "id": 48,
       "title": "Great Attractor Pulling Galaxies",
-      "hook": "Something Is Pulling Our Galaxy Away...",
+      "hook": "What Is Pulling Our Galaxy Away...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -403,7 +403,7 @@
     {
       "id": 49,
       "title": "Planets Raining Diamonds",
-      "hook": "It Rains Diamonds On These Planets...",
+      "hook": "Where Does It Rain Diamonds...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -411,7 +411,7 @@
     {
       "id": 50,
       "title": "Red Giant Star Expansion",
-      "hook": "This Star Just Swallowed Its Planets...",
+      "hook": "What Happens When Stars Swallow Planets...",
       "status": "pending",
       "published_date": null,
       "video_id": null
