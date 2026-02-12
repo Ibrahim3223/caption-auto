@@ -4,16 +4,24 @@
   "github_environment": "Pet Inner Monologue",
   "category": "Entertainment",
   "youtube_category_id": "24",
-  "default_tags": ["pets", "funny pets", "cat", "dog", "pet thoughts", "inner monologue", "shorts"],
+  "default_tags": [
+    "pets",
+    "funny pets",
+    "cat",
+    "dog",
+    "pet thoughts",
+    "inner monologue",
+    "shorts"
+  ],
   "pexels_search_prefix": "funny pet",
   "music_mood": "upbeat",
   "topics": [
     {
       "id": 1,
       "title": "What Your Cat Really Thinks When You Leave Home",
-      "status": "pending",
-      "published_date": null,
-      "video_id": null
+      "status": "published",
+      "published_date": "2026-02-12T14:13:03.613185+00:00",
+      "video_id": "m29fu7oEmBA"
     },
     {
       "id": 2,
