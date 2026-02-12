@@ -1,0 +1,222 @@
+{
+  "channel_id": "pet_inner_monologue",
+  "channel_name": "Pet Inner Monologue",
+  "github_environment": "Pet Inner Monologue",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": ["pets", "funny pets", "cat", "dog", "pet thoughts", "inner monologue", "shorts"],
+  "pexels_search_prefix": "funny pet",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "What Your Cat Really Thinks When You Leave Home",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Why Your Dog Stares At You While Eating",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "3 Things Your Cat Judges You For Every Day",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "What Your Dog Dreams About At Night",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Why Cats Knock Things Off Tables On Purpose",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Your Pet Can Actually Sense Your Emotions",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Why Your Dog Follows You To The Bathroom",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "What Cats Think About Other Cats",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Why Your Pet Chooses That One Spot To Sleep",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Dogs Remember More Than You Think",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Why Your Cat Brings You Dead Animals",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "What Your Pet Does When Nobody Is Watching",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Your Dog Knows When You Are Lying",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Why Cats Purr When They Are Actually Angry",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "What Your Pet Thinks About The Vacuum Cleaner",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Why Dogs Tilt Their Head When You Talk",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Your Cat Has A Secret Favorite Human",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Why Pets Get The Zoomies At 3 AM",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "What Your Dog Thinks About Car Rides",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Cats Actually Train Their Owners Not The Other Way Around",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Why Your Pet Stares At Nothing In The Corner",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "What Dogs Think About Mailmen",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Your Cat Thinks It Owns The House Not You",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Why Your Dog Licks Your Face After You Cry",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Pets Can Actually Tell Time Better Than You Think",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "What Your Cat Does At 3 AM While You Sleep",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Why Dogs Spin In Circles Before Lying Down",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Your Pet Understands More Words Than You Realize",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Why Cats Sit In Boxes That Are Too Small",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "What Your Dog Really Thinks About Bath Time",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}
