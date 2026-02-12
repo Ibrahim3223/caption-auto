@@ -20,7 +20,7 @@ def escape_ffmpeg_text(text: str) -> str:
     """Escape special characters for FFmpeg drawtext filter."""
     text = text.replace("\\", "\\\\")
     text = text.replace(":", "\\:")
-    text = text.replace("'", "'\\''")
+    text = text.replace("'", "")
     text = text.replace("%", "%%")
     text = text.replace('"', '\\"')
     return text
