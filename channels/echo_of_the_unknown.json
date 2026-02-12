@@ -20,7 +20,9 @@
       "id": 1,
       "title": "The Hotel Room That Drives People Insane",
       "hook": "Guests Check In But Never Checkout...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-12T19:28:35.402745+00:00",
+      "video_id": "rcHQHcuPt8A"
     },
     {
       "id": 2,
