@@ -50,7 +50,7 @@ class FFmpegProcessor:
             str(output_path),
         ]
 
-        logger.info(f"Running FFmpeg to produce short...")
+        logger.info("Running FFmpeg to produce short...")
         result = subprocess.run(
             cmd,
             capture_output=True,
@@ -89,14 +89,24 @@ class FFmpegProcessor:
             f"crop={w}:{h},fps={self.fps},setsar=1[scaled]"
         )
 
-        # Step 2: Hook text overlays (multi-line)
+        # Step 2: Dark overlays for text readability
+        # Top region: semi-transparent black behind hook text
+        # Bottom region: semi-transparent black behind CTA
+        gradient_overlay = (
+            f"[scaled]drawbox=x=0:y=0:w={w}:h={int(h * 0.45)}:"
+            f"color=black@0.5:t=fill[topdarken];"
+            f"[topdarken]drawbox=x=0:y={int(h * 0.70)}:w={w}:h={int(h * 0.30)}:"
+            f"color=black@0.4:t=fill[darkened]"
+        )
+
+        # Step 3: Hook text overlays (multi-line, with fade-in)
         lines = wrap_hook_text(hook_text)
         hook_filters = self._build_hook_text_filters(lines)
 
-        # Step 3: CTA banner at bottom
+        # Step 4: CTA banner at bottom with arrow
         cta_filter = self._build_cta_banner_filter()
 
-        # Step 4: Audio mixing
+        # Step 5: Audio mixing
         if has_audio:
             audio_mix = (
                 f"[0:a]volume=0.3[vorig];"
@@ -105,25 +115,28 @@ class FFmpegProcessor:
                 f"[vorig][vmusic]amix=inputs=2:duration=shortest[aout]"
             )
         else:
-            # No original audio, use only background music
             audio_mix = (
                 f"[1:a]volume=0.25,afade=t=in:st=0:d=1,"
                 f"afade=t=out:st={self.max_duration - 1}:d=1[aout]"
             )
 
-        parts = [scale_crop] + hook_filters + [cta_filter, audio_mix]
+        parts = [scale_crop, gradient_overlay] + hook_filters + [cta_filter, audio_mix]
         return ";".join(parts)
 
     def _build_hook_text_filters(self, lines: list[str]) -> list[str]:
         filters = []
-        line_height = self.hook_font_size + 16
-        start_y = int(self.height * 0.15)
-        prev_label = "scaled"
+        line_height = self.hook_font_size + 20
+        start_y = int(self.height * 0.18)
+        prev_label = "darkened"
 
         for i, line in enumerate(lines):
             escaped = escape_ffmpeg_text(line)
             out_label = f"hook{i}"
             y_pos = start_y + (i * line_height)
+
+            # Fade-in: each line appears 0.3s after the previous
+            fade_start = 0.2 + (i * 0.3)
+            alpha_expr = f"if(lt(t\\,{fade_start})\\,0\\,min(1\\,(t-{fade_start})/0.5))"
 
             drawtext = (
                 f"[{prev_label}]drawtext="
@@ -131,10 +144,11 @@ class FFmpegProcessor:
                 f"text='{escaped}':"
                 f"fontcolor=white:"
                 f"fontsize={self.hook_font_size}:"
-                f"borderw=3:"
-                f"bordercolor=black:"
-                f"shadowcolor=black@0.6:"
-                f"shadowx=4:shadowy=4:"
+                f"alpha='{alpha_expr}':"
+                f"borderw=4:"
+                f"bordercolor=black@0.8:"
+                f"shadowcolor=black@0.7:"
+                f"shadowx=3:shadowy=3:"
                 f"x=(w-text_w)/2:"
                 f"y={y_pos}"
                 f"[{out_label}]"
@@ -149,9 +163,13 @@ class FFmpegProcessor:
         return filters
 
     def _build_cta_banner_filter(self) -> str:
-        cta_text = escape_ffmpeg_text("READ THE DESCRIPTION")
-        y_pos = int(self.height * 0.82)
-        box_padding = 20
+        # Down arrow + text
+        cta_text = escape_ffmpeg_text("READ THE DESCRIPTION \u2B07")
+        y_pos = int(self.height * 0.80)
+        box_padding = 22
+
+        # CTA fades in after hook text at ~1.5s
+        alpha_expr = "if(lt(t\\,1.5)\\,0\\,min(1\\,(t-1.5)/0.4))"
 
         return (
             f"[hooked]drawtext="
@@ -159,11 +177,11 @@ class FFmpegProcessor:
             f"text='{cta_text}':"
             f"fontcolor=white:"
             f"fontsize={self.cta_font_size}:"
+            f"alpha='{alpha_expr}':"
             f"box=1:"
-            f"boxcolor=#FF0040@0.85:"
+            f"boxcolor=#FF0040@0.9:"
             f"boxborderw={box_padding}:"
-            f"borderw=2:"
-            f"bordercolor=white:"
+            f"borderw=0:"
             f"x=(w-text_w)/2:"
             f"y={y_pos}"
             f"[vout]"
@@ -176,7 +194,6 @@ class FFmpegProcessor:
                 f"No music files found in {self.music_dir}. "
                 f"Add .mp3 files to assets/music/"
             )
-        # Try to match by mood in filename
         mood_files = [f for f in music_files if mood in f.stem.lower()]
         pool = mood_files if mood_files else music_files
         return random.choice(pool)

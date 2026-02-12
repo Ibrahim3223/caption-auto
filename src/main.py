@@ -46,9 +46,9 @@ def process_channel(channel_file: Path, config: Config) -> bool:
             topic.title, channel.category, channel.channel_name
         )
 
-        # Step 2: Fetch video from Pexels
-        search_query = f"{channel.pexels_search_prefix} {topic.title}"
-        logger.info(f"[{channel.channel_id}] Fetching Pexels video...")
+        # Step 2: Fetch video from Pexels (AI-generated search query)
+        search_query = groq.generate_pexels_query(topic.title, channel.category)
+        logger.info(f"[{channel.channel_id}] Fetching Pexels video: {search_query}")
         raw_video = pexels.search_and_download(search_query, work_dir)
 
         # Step 3: Produce the Short with FFmpeg

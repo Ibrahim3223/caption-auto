@@ -1,6 +1,6 @@
 from groq import Groq
 from ..config import Config
-from .prompts import HOOK_TEXT_PROMPT, DESCRIPTION_PROMPT
+from .prompts import HOOK_TEXT_PROMPT, DESCRIPTION_PROMPT, PEXELS_QUERY_PROMPT
 from ..utils.logger import get_logger
 
 logger = get_logger(__name__)
@@ -47,3 +47,19 @@ class GroqContentGenerator:
         description = response.choices[0].message.content.strip()
         logger.info(f"Generated description ({len(description)} chars)")
         return description
+
+    def generate_pexels_query(self, topic_title: str, category: str) -> str:
+        prompt = PEXELS_QUERY_PROMPT.format(
+            topic_title=topic_title,
+            category=category,
+        )
+        response = self.client.chat.completions.create(
+            messages=[{"role": "user", "content": prompt}],
+            model=self.model,
+            max_tokens=20,
+            temperature=0.3,
+        )
+        query = response.choices[0].message.content.strip()
+        query = query.strip('"').strip("'")
+        logger.info(f"Generated Pexels query: {query}")
+        return query
