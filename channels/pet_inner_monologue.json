@@ -19,7 +19,7 @@
     {
       "id": 1,
       "title": "What Your Cat Really Thinks When You Leave Home",
-      "hook": "What Does Your Cat Think When...",
+      "hook": "What Does Your Cat Think Leaving Home...",
       "status": "published",
       "published_date": "2026-02-12T14:13:03.613185+00:00",
       "video_id": "m29fu7oEmBA"
@@ -27,7 +27,7 @@
     {
       "id": 2,
       "title": "Why Your Dog Stares At You While Eating",
-      "hook": "Why Does Your Dog Always Stare...",
+      "hook": "Why Does Your Dog Stare While Eating...",
       "status": "published",
       "published_date": "2026-02-12T14:36:14.542433+00:00",
       "video_id": "hSMdcg3507M"
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "title": "Your Cat Is Secretly Judging Everything You Do",
-      "hook": "What Is Your Cat Always Judging...",
+      "hook": "What Is Your Cat Secretly Judging...",
       "status": "published",
       "published_date": "2026-02-12T14:54:37.136080+00:00",
       "video_id": "-OZ2Jo421_c"
@@ -43,7 +43,7 @@
     {
       "id": 4,
       "title": "What Your Dog Actually Sees In Their Dreams",
-      "hook": "What Does Your Dog Dream About...",
+      "hook": "What Do Dogs Really Dream About...",
       "status": "published",
       "published_date": "2026-02-12T15:27:59.730975+00:00",
       "video_id": "80A58iHWi5k"
@@ -59,7 +59,7 @@
     {
       "id": 6,
       "title": "Your Pet Can Literally Smell Your Emotions",
-      "hook": "How Your Dog Always Knows When...",
+      "hook": "How Does Your Dog Smell Your Emotions...",
       "status": "published",
       "published_date": "2026-02-12T16:29:29.146802+00:00",
       "video_id": "yERwa2jK6bI"
@@ -67,7 +67,7 @@
     {
       "id": 7,
       "title": "The Real Reason Your Dog Follows You Everywhere",
-      "hook": "Why Your Dog Never Leaves You...",
+      "hook": "Why Does Your Dog Follow You Everywhere...",
       "status": "published",
       "published_date": "2026-02-12T17:05:15.583353+00:00",
       "video_id": "36AaMthtXgU"
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "title": "The Secret Reason Your Pet Sleeps In That Exact Spot",
-      "hook": "Why Your Pet Always Sleeps Right...",
+      "hook": "Why Does Your Pet Choose That Spot...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -91,7 +91,7 @@
     {
       "id": 10,
       "title": "Your Dog Remembers More Than You Think",
-      "hook": "What Your Dog Never Forgot About...",
+      "hook": "What Does Your Dog Always Remember...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -99,7 +99,7 @@
     {
       "id": 11,
       "title": "Why Your Cat Brings You Dead Animals As Gifts",
-      "hook": "Why Your Cat Brings Dead Things...",
+      "hook": "Why Does Your Cat Bring Dead Animals...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -115,7 +115,7 @@
     {
       "id": 13,
       "title": "Your Dog Can Tell When You Are Lying To Them",
-      "hook": "How Your Dog Always Knows When...",
+      "hook": "How Does Your Dog Detect Your Lies...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -123,7 +123,7 @@
     {
       "id": 14,
       "title": "Cats Sometimes Purr When They Are Actually Furious",
-      "hook": "When Your Cat Purrs This Means...",
+      "hook": "What Does Your Cat Purring Really Mean...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -131,7 +131,7 @@
     {
       "id": 15,
       "title": "What Goes Through Your Pets Mind When The Vacuum Turns On",
-      "hook": "Why Your Pet Always Hides From...",
+      "hook": "Why Does Your Pet Fear The Vacuum...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -139,7 +139,7 @@
     {
       "id": 16,
       "title": "The Adorable Reason Dogs Tilt Their Head At You",
-      "hook": "Why Dogs Tilt Their Heads When...",
+      "hook": "Why Do Dogs Tilt Their Heads...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -147,7 +147,7 @@
     {
       "id": 17,
       "title": "Your Cat Already Picked Their Favorite Human And It Might Not Be You",
-      "hook": "How Your Cat Chose Their Favorite...",
+      "hook": "How Does Your Cat Pick Their Favorite...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -163,7 +163,7 @@
     {
       "id": 19,
       "title": "What Actually Goes Through Your Dogs Mind On Car Rides",
-      "hook": "Why Your Dog Thinks Every Ride...",
+      "hook": "What Goes Through Your Dog On Rides...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -171,7 +171,7 @@
     {
       "id": 20,
       "title": "Your Cat Has Been Training You This Whole Time",
-      "hook": "How Your Cat Secretly Trained You...",
+      "hook": "How Did Your Cat Train You...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -179,7 +179,7 @@
     {
       "id": 21,
       "title": "The Creepy Reason Your Pet Stares At Empty Corners",
-      "hook": "What Your Pet Sees In Empty...",
+      "hook": "What Does Your Pet See In Corners...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -195,7 +195,7 @@
     {
       "id": 23,
       "title": "Your Cat Genuinely Believes They Own Your Entire House",
-      "hook": "Why Your Cat Thinks They Own...",
+      "hook": "Why Does Your Cat Think They Own...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -211,7 +211,7 @@
     {
       "id": 25,
       "title": "Your Pet Actually Knows What Time It Is And How They Do It Is Wild",
-      "hook": "How Your Pet Always Knows When...",
+      "hook": "How Does Your Pet Tell The Time...",
       "status": "pending",
       "published_date": null,
       "video_id": null
@@ -251,7 +251,7 @@
     {
       "id": 30,
       "title": "What Your Dog Secretly Thinks About Bath Time",
-      "hook": "Why Your Dog Thinks Baths Are...",
+      "hook": "Why Does Your Dog Hate Bath Time...",
       "status": "pending",
       "published_date": null,
       "video_id": null
