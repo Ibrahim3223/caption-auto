@@ -19,18 +19,29 @@ permissions:
   contents: write
 
 jobs:
+  # Map channel ID to environment name
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      environment: ${{ steps.map-env.outputs.environment }}
+    steps:
+      - name: Map channel to environment
+        id: map-env
+        run: |
+          case "${{ inputs.channel }}" in
+            "pet_inner_monologue") echo "environment=Pet Inner Monologue" >> "$GITHUB_OUTPUT" ;;
+            "wt_facts_about_countries") echo "environment=WT Facts About Countries" >> "$GITHUB_OUTPUT" ;;
+            "tales_of_the_forgotten_realms") echo "environment=Tales of The Forgotten Realms" >> "$GITHUB_OUTPUT" ;;
+            "famous_quotes_explained") echo "environment=Famous Quotes Explained" >> "$GITHUB_OUTPUT" ;;
+            "taxwise_usa") echo "environment=TaxWise USA" >> "$GITHUB_OUTPUT" ;;
+            "echo_of_the_unknown") echo "environment=Echo of the Unknown" >> "$GITHUB_OUTPUT" ;;
+          esac
+
   process-channel:
+    needs: setup
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    # Use the environment based on the selected channel
-    environment: ${{
-      (inputs.channel == 'pet_inner_monologue' && 'Pet Inner Monologue') ||
-      (inputs.channel == 'wt_facts_about_countries' && 'WT Facts About Countries') ||
-      (inputs.channel == 'tales_of_the_forgotten_realms' && 'Tales of The Forgotten Realms') ||
-      (inputs.channel == 'famous_quotes_explained' && 'Famous Quotes Explained') ||
-      (inputs.channel == 'taxwise_usa' && 'TaxWise USA') ||
-      (inputs.channel == 'echo_of_the_unknown' && 'Echo of the Unknown')
-    }}
+    environment: ${{ needs.setup.outputs.environment }}
 
     steps:
       - name: Checkout repository
