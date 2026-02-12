@@ -1,0 +1,519 @@
+{
+  "channel_id": "cricket_queens",
+  "channel_name": "Cricket Queens",
+  "github_environment": "Cricket Queens",
+  "category": "Sports",
+  "youtube_category_id": "17",
+  "default_tags": [
+    "cricket",
+    "womens cricket",
+    "sports",
+    "female athletes",
+    "cricket highlights",
+    "shorts"
+  ],
+  "pexels_search_prefix": "cricket sports",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "topic": "Meg Lanning 7 World Cup Titles",
+      "hook": "She Won 7 World Cups Before 30...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ellyse Perry All Rounder Dominance",
+      "hook": "She Dominates With Both Bat And Ball...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fastest Century In Womens Cricket",
+      "hook": "The Fastest Century Ever Recorded...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mithali Raj 23 Year International Career",
+      "hook": "She Played For 23 Years Straight...",
+      "status": "pending"
+    },
+    {
+      "topic": "Deandra Dottin 6 Sixes Record",
+      "hook": "She Hit 6 Sixes In One Over...",
+      "status": "pending"
+    },
+    {
+      "topic": "Smriti Mandhana Fastest To 2000 ODI Runs",
+      "hook": "Nobody Reached 2000 Runs Faster...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sophie Ecclestone Bowling Domination",
+      "hook": "This Bowler Is Literally Unplayable...",
+      "status": "pending"
+    },
+    {
+      "topic": "Australia Women 26 Match Win Streak",
+      "hook": "They Won 26 Matches In A Row...",
+      "status": "pending"
+    },
+    {
+      "topic": "Alyssa Healy 170 World Cup Final",
+      "hook": "She Destroyed India In The Final...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jhulan Goswami 355 Wickets Record",
+      "hook": "Nobody Has More Wickets Than Her...",
+      "status": "pending"
+    },
+    {
+      "topic": "Charlotte Edwards 20000 International Runs",
+      "hook": "She Scored More Than Anyone Ever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Harmanpreet Kaur 171 Not Out Semifinal",
+      "hook": "This Innings Changed Cricket History...",
+      "status": "pending"
+    },
+    {
+      "topic": "Suzie Bates Most T20I Runs",
+      "hook": "She Owns Every T20 Record...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sarah Taylor Wicketkeeping Legend",
+      "hook": "The Greatest Keeper Ever Played...",
+      "status": "pending"
+    },
+    {
+      "topic": "Anya Shrubsole 6 For 46 Final",
+      "hook": "She Single Handedly Won The Final...",
+      "status": "pending"
+    },
+    {
+      "topic": "Beth Mooney Back To Back Finals MVP",
+      "hook": "She Won Two Finals Alone...",
+      "status": "pending"
+    },
+    {
+      "topic": "Katherine Brunt 500 International Wickets",
+      "hook": "She Terrorized Batters For 15 Years...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lizelle Lee 132 Not Out T20",
+      "hook": "The Highest T20 Score Ever Made...",
+      "status": "pending"
+    },
+    {
+      "topic": "Stafanie Taylor Caribbean Cricket Icon",
+      "hook": "She Carried West Indies For Decades...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nat Sciver Power Hitting Record",
+      "hook": "Nobody Hits Harder Than Her...",
+      "status": "pending"
+    },
+    {
+      "topic": "Heather Knight England Captain Success",
+      "hook": "She Led England To Glory Forever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Shabnim Ismail Fastest Ball Ever",
+      "hook": "She Bowls Faster Than Most Men...",
+      "status": "pending"
+    },
+    {
+      "topic": "Laura Wolvaardt Youngest Century Record",
+      "hook": "She Was Just 18 Years Old...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rachael Haynes Opening Partnership Dominance",
+      "hook": "They Never Got Out Early...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dane Van Niekerk All Round Excellence",
+      "hook": "She Does Everything Better Than You...",
+      "status": "pending"
+    },
+    {
+      "topic": "Shafali Verma Teen Sensation",
+      "hook": "She Changed Cricket At Age 16...",
+      "status": "pending"
+    },
+    {
+      "topic": "Perry And Lanning Partnership Record",
+      "hook": "This Duo Is Actually Unstoppable...",
+      "status": "pending"
+    },
+    {
+      "topic": "Chamari Athapaththu Sri Lanka Legend",
+      "hook": "She Carries Her Team Every Game...",
+      "status": "pending"
+    },
+    {
+      "topic": "Marizanne Kapp Death Bowling Mastery",
+      "hook": "Nobody Can Score Off Her...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tammy Beaumont 148 World Cup Knock",
+      "hook": "She Destroyed South Africa Completely...",
+      "status": "pending"
+    },
+    {
+      "topic": "Javeria Khan Pakistan Cricket Pioneer",
+      "hook": "She Built Pakistani Cricket Alone...",
+      "status": "pending"
+    },
+    {
+      "topic": "Annabel Sutherland Rising Star",
+      "hook": "She Dominated Before Age 22...",
+      "status": "pending"
+    },
+    {
+      "topic": "Deepti Sharma All Round Brilliance",
+      "hook": "She Does Everything For India...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kim Garth Ireland Cricket Icon",
+      "hook": "She Put Ireland On The Map...",
+      "status": "pending"
+    },
+    {
+      "topic": "Amelia Kerr 232 And 5 Wickets",
+      "hook": "She Scored 232 And Took 5 Wickets...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hayley Matthews West Indies Power",
+      "hook": "She Dominates Every Single Format...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ash Gardner Explosive All Rounder",
+      "hook": "She Can Win Games In Minutes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Renuka Singh Bowling Breakthrough",
+      "hook": "She Takes Wickets For Fun...",
+      "status": "pending"
+    },
+    {
+      "topic": "Darcie Brown Express Pace",
+      "hook": "She Bowls Lightning Fast Deliveries...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kate Cross England Bowling Weapon",
+      "hook": "Batters Fear Her New Ball...",
+      "status": "pending"
+    },
+    {
+      "topic": "Richa Ghosh Teen Wicketkeeper Sensation",
+      "hook": "She Became Star At Just 17...",
+      "status": "pending"
+    },
+    {
+      "topic": "Anneke Bosch South Africa Batting Hope",
+      "hook": "She Scores Runs Nobody Else Can...",
+      "status": "pending"
+    },
+    {
+      "topic": "Freya Kemp Young All Rounder Talent",
+      "hook": "She Changed English Cricket Forever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tahlia McGrath Match Winning Performances",
+      "hook": "Australia Never Loses When She Plays...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lea Tahuhu New Zealand Pace Attack",
+      "hook": "She Terrorizes Every Batting Lineup...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fatima Sana Pakistan All Rounder",
+      "hook": "She Does It All For Pakistan...",
+      "status": "pending"
+    },
+    {
+      "topic": "Alice Capsey London Spirit Star",
+      "hook": "She Became Famous At Age 17...",
+      "status": "pending"
+    },
+    {
+      "topic": "Radha Yadav Spin Bowling Artist",
+      "hook": "Nobody Can Read Her Spin...",
+      "status": "pending"
+    },
+    {
+      "topic": "Georgia Wareham Leg Spin Magic",
+      "hook": "Her Googly Is Actually Unreadable...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nigar Sultana Bangladesh Captain Leader",
+      "hook": "She Transformed Bangladesh Cricket Completely...",
+      "status": "pending"
+    },
+    {
+      "topic": "Phoebe Litchfield Teenage Prodigy",
+      "hook": "She Became Elite At Just 19...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lauren Bell England Fast Bowler",
+      "hook": "She Destroys Top Order Batters...",
+      "status": "pending"
+    },
+    {
+      "topic": "Yastika Bhatia Wicketkeeper Batter",
+      "hook": "She Changed Indian Cricket Forever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tayla Vlaeminck Pace And Bounce",
+      "hook": "She Bowls The Fastest Bouncer Ever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nida Dar Pakistan Spin Legend",
+      "hook": "She Won Matches Nobody Expected...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ayabonga Khaka South Africa Pace",
+      "hook": "She Takes Crucial Wickets Always...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mignon du Preez Proteas Icon",
+      "hook": "She Defined South African Cricket...",
+      "status": "pending"
+    },
+    {
+      "topic": "Salma Khatun Bangladesh Pioneer",
+      "hook": "She Built Cricket In Bangladesh...",
+      "status": "pending"
+    },
+    {
+      "topic": "Devine And Bates Opening Pair",
+      "hook": "This Partnership Destroys Every Attack...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pooja Vastrakar Emerging All Rounder",
+      "hook": "She Saves India Every Game...",
+      "status": "pending"
+    },
+    {
+      "topic": "Issy Wong Express Pace Bowler",
+      "hook": "She Bowls Faster Than Anyone Expected...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bismah Maroof Pakistan Captain",
+      "hook": "She Led Pakistan Through Everything...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sophia Dunkley England Batter Breakthrough",
+      "hook": "She Saved England In The Ashes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jess Jonassen Spin And Lower Order Hitting",
+      "hook": "She Wins Games With Bat And Ball...",
+      "status": "pending"
+    },
+    {
+      "topic": "Diana Baig Pakistan Pace Pioneer",
+      "hook": "She Brought Pace To Pakistan Cricket...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sophie Devine Power Hitting Records",
+      "hook": "She Hits More Sixes Than Anyone...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rumana Ahmed Bangladesh All Rounder",
+      "hook": "She Does Everything For Her Team...",
+      "status": "pending"
+    },
+    {
+      "topic": "Chloe Tryon South Africa Finisher",
+      "hook": "She Finishes Games In Final Overs...",
+      "status": "pending"
+    },
+    {
+      "topic": "Alana King Leg Spin Breakthrough",
+      "hook": "She Took Wickets From Nowhere...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sidra Ameen Pakistan Opening Batter",
+      "hook": "She Gives Pakistan Perfect Starts...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hannah Rowe New Zealand All Rounder",
+      "hook": "She Changed The Game Completely...",
+      "status": "pending"
+    },
+    {
+      "topic": "Danni Wyatt England Power Hitter",
+      "hook": "She Destroys Bowling Attacks Instantly...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nahida Akter Bangladesh Spin Star",
+      "hook": "She Became Elite At Age 20...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sneh Rana India All Rounder Clutch",
+      "hook": "She Saved India So Many Times...",
+      "status": "pending"
+    },
+    {
+      "topic": "Molly Strano Tasmania Spin Queen",
+      "hook": "Nobody Reads Her Variations Ever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jahanara Alam Bangladesh Pace Attack",
+      "hook": "She Built Pace Bowling In Bangladesh...",
+      "status": "pending"
+    },
+    {
+      "topic": "Amy Jones England Wicketkeeper Batter",
+      "hook": "She Saves And Scores For England...",
+      "status": "pending"
+    },
+    {
+      "topic": "Maddy Green New Zealand All Rounder",
+      "hook": "She Does Everything For New Zealand...",
+      "status": "pending"
+    },
+    {
+      "topic": "Meghna Singh India Pace Bowler",
+      "hook": "She Takes Wickets When India Needs...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fran Jonas New Zealand Spin Bowler",
+      "hook": "She Spins The Ball Both Ways...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sune Luus South Africa Captain",
+      "hook": "She Led Proteas To New Heights...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rosemary Mair New Zealand Fast Bowler",
+      "hook": "She Bowls Unplayable Yorkers Always...",
+      "status": "pending"
+    },
+    {
+      "topic": "Anjum Chopra India Cricket Pioneer",
+      "hook": "She Started Womens Cricket In India...",
+      "status": "pending"
+    },
+    {
+      "topic": "Megan Schutt Death Bowling Queen",
+      "hook": "She Never Gets Hit In Death...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rachel Priest New Zealand Keeper Batter",
+      "hook": "She Changed Keeping And Batting Forever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rumana Sultana Bangladesh Wicketkeeper",
+      "hook": "She Revolutionized Bangladesh Keeping...",
+      "status": "pending"
+    },
+    {
+      "topic": "Claire Polosak First Female Umpire",
+      "hook": "She Broke Every Umpiring Barrier...",
+      "status": "pending"
+    },
+    {
+      "topic": "Amanda Wellington Adelaide Striker Star",
+      "hook": "She Spins Teams Out Every Match...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kirstie Gordon Scotland Cricket Icon",
+      "hook": "She Put Scotland Cricket On Map...",
+      "status": "pending"
+    },
+    {
+      "topic": "Natalie Sciver 169 Record Partnership",
+      "hook": "This Partnership Saved England Forever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lauren Winfield Hill Opening Batter",
+      "hook": "She Gave England Perfect Starts...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ayesha Zafar Pakistan Opener",
+      "hook": "She Dominated When Nobody Expected...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nicola Carey Tasmania All Rounder",
+      "hook": "She Carries Tasmania Every Season...",
+      "status": "pending"
+    },
+    {
+      "topic": "Grace Harris Big Bash Power Hitter",
+      "hook": "She Hits The Biggest Sixes Ever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Katey Martin New Zealand Keeper Legend",
+      "hook": "She Kept For 15 Years Straight...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fargana Hoque Bangladesh Top Order",
+      "hook": "She Anchors Every Bangladesh Innings...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jenny Gunn England All Rounder Icon",
+      "hook": "She Did Everything For England...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mady Villiers England Spin Talent",
+      "hook": "She Became Star At Just 20...",
+      "status": "pending"
+    },
+    {
+      "topic": "Brooke Halliday New Zealand Emerging Star",
+      "hook": "She Changed New Zealand Cricket...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Hundred Tournament Impact",
+      "hook": "This Tournament Changed Everything Forever...",
+      "status": "pending"
+    }
+  ]
+}

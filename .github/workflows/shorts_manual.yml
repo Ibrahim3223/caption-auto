@@ -14,6 +14,15 @@ on:
           - famous_quotes_explained
           - taxwise_usa
           - echo_of_the_unknown
+          - flashback_minute
+          - universe_jumper
+          - if_they_lived_today
+          - rewind_retro_media
+          - cricket_queens
+          - galactic_update
+          - cinematic_echo
+          - critter_fact
+          - wild_wonder_caps
 
 permissions:
   contents: write
@@ -35,6 +44,15 @@ jobs:
             "famous_quotes_explained") echo "environment=Famous Quotes Explained" >> "$GITHUB_OUTPUT" ;;
             "taxwise_usa") echo "environment=TaxWise USA" >> "$GITHUB_OUTPUT" ;;
             "echo_of_the_unknown") echo "environment=Echo of the Unknown" >> "$GITHUB_OUTPUT" ;;
+            "flashback_minute") echo "environment=Flashback Minute" >> "$GITHUB_OUTPUT" ;;
+            "universe_jumper") echo "environment=Universe Jumper" >> "$GITHUB_OUTPUT" ;;
+            "if_they_lived_today") echo "environment=If They Lived Today" >> "$GITHUB_OUTPUT" ;;
+            "rewind_retro_media") echo "environment=Rewind Retro Media" >> "$GITHUB_OUTPUT" ;;
+            "cricket_queens") echo "environment=Cricket Queens" >> "$GITHUB_OUTPUT" ;;
+            "galactic_update") echo "environment=GalacticUpdate" >> "$GITHUB_OUTPUT" ;;
+            "cinematic_echo") echo "environment=Cinematic Echo" >> "$GITHUB_OUTPUT" ;;
+            "critter_fact") echo "environment=CritterFact" >> "$GITHUB_OUTPUT" ;;
+            "wild_wonder_caps") echo "environment=WildWonderCaps" >> "$GITHUB_OUTPUT" ;;
           esac
 
   process-channel:

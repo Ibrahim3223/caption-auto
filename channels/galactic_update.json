@@ -1,0 +1,507 @@
+{
+  "channel_id": "galactic_update",
+  "channel_name": "GalacticUpdate",
+  "github_environment": "GalacticUpdate",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": ["space", "nasa", "astronomy", "science", "universe", "cosmos", "shorts"],
+  "pexels_search_prefix": "space galaxy stars",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "topic": "Water Found On Mars",
+      "hook": "NASA Just Found Water On Mars...",
+      "status": "pending"
+    },
+    {
+      "topic": "Black Hole Eating A Star",
+      "hook": "This Black Hole Is Eating A Star...",
+      "status": "pending"
+    },
+    {
+      "topic": "James Webb Telescope Discovers Oldest Galaxy",
+      "hook": "Webb Telescope Sees The Impossible...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mysterious Radio Signal From Deep Space",
+      "hook": "We Detected A Signal From Space...",
+      "status": "pending"
+    },
+    {
+      "topic": "Venus Might Have Life",
+      "hook": "Venus Has Something We Never Expected...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rogue Planet Wandering Through Space",
+      "hook": "This Planet Has No Star...",
+      "status": "pending"
+    },
+    {
+      "topic": "Saturn Losing Its Rings",
+      "hook": "Saturn Is Losing Its Rings Fast...",
+      "status": "pending"
+    },
+    {
+      "topic": "Interstellar Object Entering Solar System",
+      "hook": "Something Just Entered Our Solar System...",
+      "status": "pending"
+    },
+    {
+      "topic": "Moon Shrinking Over Time",
+      "hook": "The Moon Is Shrinking Right Now...",
+      "status": "pending"
+    },
+    {
+      "topic": "Supermassive Black Hole At Galaxy Center",
+      "hook": "This Black Hole Should Not Exist...",
+      "status": "pending"
+    },
+    {
+      "topic": "Europa Has Underground Ocean",
+      "hook": "This Moon Hides An Entire Ocean...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fastest Star Ever Recorded",
+      "hook": "This Star Moves At Impossible Speed...",
+      "status": "pending"
+    },
+    {
+      "topic": "Diamond Planet Discovered",
+      "hook": "NASA Found A Planet Made Of Diamonds...",
+      "status": "pending"
+    },
+    {
+      "topic": "Voyager 1 Leaves Solar System",
+      "hook": "Voyager Just Left Our Solar System...",
+      "status": "pending"
+    },
+    {
+      "topic": "Asteroid Mining Could Make Trillionaires",
+      "hook": "This Asteroid Is Worth More Than Earth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mysterious Dark Matter Discovery",
+      "hook": "Scientists Finally Detected Dark Matter...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sun Will Swallow Earth Eventually",
+      "hook": "The Sun Will Destroy Earth Soon...",
+      "status": "pending"
+    },
+    {
+      "topic": "Parallel Universe Evidence Found",
+      "hook": "We May Have Found A Parallel Universe...",
+      "status": "pending"
+    },
+    {
+      "topic": "Alien Megastructure Around Star",
+      "hook": "This Star Has Something Orbiting It...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gamma Ray Burst Nearly Hit Earth",
+      "hook": "This Event Almost Destroyed All Life...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ice Volcanoes On Pluto",
+      "hook": "Pluto Has Volcanoes Made Of Ice...",
+      "status": "pending"
+    },
+    {
+      "topic": "Time Moves Slower Near Black Holes",
+      "hook": "Black Holes Can Stop Time Itself...",
+      "status": "pending"
+    },
+    {
+      "topic": "Betelgeuse About To Explode",
+      "hook": "This Star Could Explode Any Day Now...",
+      "status": "pending"
+    },
+    {
+      "topic": "Habitable Exoplanet Found Nearby",
+      "hook": "We Found Another Earth Nearby...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jupiter Protects Earth From Asteroids",
+      "hook": "Jupiter Saves Earth Every Single Day...",
+      "status": "pending"
+    },
+    {
+      "topic": "Neutron Star Collision Creates Gold",
+      "hook": "All Gold On Earth Came From Space...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Microwave Background Radiation",
+      "hook": "You Can See The Big Bang On TV...",
+      "status": "pending"
+    },
+    {
+      "topic": "Andromeda Galaxy Collision Course",
+      "hook": "Andromeda Will Collide With Us Soon...",
+      "status": "pending"
+    },
+    {
+      "topic": "White Dwarf Star Explodes",
+      "hook": "This Dead Star Just Came Back To Life...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gravitational Waves Detected",
+      "hook": "Einstein Was Right About Everything...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mars Had Rivers And Oceans",
+      "hook": "Mars Used To Look Like Earth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Void Larger Than Universe",
+      "hook": "Scientists Found A Hole In Space...",
+      "status": "pending"
+    },
+    {
+      "topic": "Magnetar Most Magnetic Object",
+      "hook": "This Star Would Kill You Instantly...",
+      "status": "pending"
+    },
+    {
+      "topic": "Titan Has Lakes Of Methane",
+      "hook": "This Moon Has Lakes And Rain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Quasar Brightest Object In Universe",
+      "hook": "This Object Outshines Entire Galaxies...",
+      "status": "pending"
+    },
+    {
+      "topic": "Space Smells Like Burning Metal",
+      "hook": "Space Has A Smell Nobody Expected...",
+      "status": "pending"
+    },
+    {
+      "topic": "Proxima Centauri Has Habitable Zone",
+      "hook": "The Nearest Star Has Habitable Planets...",
+      "status": "pending"
+    },
+    {
+      "topic": "Universe Expanding Faster Than Expected",
+      "hook": "The Universe Is Breaking Physics Laws...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lunar Dust Toxic To Humans",
+      "hook": "Moon Dust Could Kill Astronauts...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pulsar Spins 700 Times Per Second",
+      "hook": "This Star Spins At Impossible Speed...",
+      "status": "pending"
+    },
+    {
+      "topic": "Galactic Cannibalism Happening Now",
+      "hook": "Our Galaxy Is Eating Other Galaxies...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kepler 452b Most Earth Like Planet",
+      "hook": "We Found An Earth Twin Finally...",
+      "status": "pending"
+    },
+    {
+      "topic": "Solar Flare Could Knock Out Power",
+      "hook": "The Sun Could End Civilization Tomorrow...",
+      "status": "pending"
+    },
+    {
+      "topic": "Enceladus Shoots Water Into Space",
+      "hook": "This Moon Has Geysers Miles High...",
+      "status": "pending"
+    },
+    {
+      "topic": "Universe Could Collapse Any Moment",
+      "hook": "Everything Could End Right Now...",
+      "status": "pending"
+    },
+    {
+      "topic": "Brown Dwarf Failed Star",
+      "hook": "This Star Failed To Become A Star...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Inflation Faster Than Light",
+      "hook": "The Universe Once Moved Faster Than Light...",
+      "status": "pending"
+    },
+    {
+      "topic": "Great Attractor Pulling Galaxies",
+      "hook": "Something Is Pulling Our Galaxy Away...",
+      "status": "pending"
+    },
+    {
+      "topic": "Planets Raining Diamonds",
+      "hook": "It Rains Diamonds On These Planets...",
+      "status": "pending"
+    },
+    {
+      "topic": "Red Giant Star Expansion",
+      "hook": "This Star Just Swallowed Its Planets...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Strings May Exist",
+      "hook": "Space Has Cracks In It...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ganymede Has Magnetic Field",
+      "hook": "This Moon Acts Like A Planet...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wormholes Might Be Real",
+      "hook": "Shortcuts Through Space May Exist...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pioneer Anomaly Unsolved",
+      "hook": "Something Is Pulling On Our Spacecraft...",
+      "status": "pending"
+    },
+    {
+      "topic": "Helium Rain On Jupiter",
+      "hook": "It Rains Liquid Helium On Jupiter...",
+      "status": "pending"
+    },
+    {
+      "topic": "Vacuum Decay Could Destroy Universe",
+      "hook": "Reality Could Collapse At Light Speed...",
+      "status": "pending"
+    },
+    {
+      "topic": "Asteroid Belt Could Have Been Planet",
+      "hook": "Jupiter Destroyed An Entire Planet...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fast Radio Bursts Mystery",
+      "hook": "We Keep Getting Signals From Space...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hawking Radiation From Black Holes",
+      "hook": "Black Holes Are Slowly Evaporating...",
+      "status": "pending"
+    },
+    {
+      "topic": "Multiverse Theory Evidence",
+      "hook": "Infinite Versions Of You May Exist...",
+      "status": "pending"
+    },
+    {
+      "topic": "Planet Nine Still Hidden",
+      "hook": "A Giant Planet Is Hiding From Us...",
+      "status": "pending"
+    },
+    {
+      "topic": "Oort Cloud Surrounds Solar System",
+      "hook": "Trillions Of Comets Surround Our System...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Rays Hitting Earth Constantly",
+      "hook": "Space Radiation Hits You Right Now...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hypervelocity Stars Escaping Galaxy",
+      "hook": "These Stars Are Escaping The Galaxy...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kuiper Belt Beyond Neptune",
+      "hook": "We Found A Second Asteroid Belt...",
+      "status": "pending"
+    },
+    {
+      "topic": "Solar Wind Strips Mars Atmosphere",
+      "hook": "The Sun Is Destroying Mars Slowly...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lagrange Points Gravitational Sweet Spots",
+      "hook": "Space Has Points Where Gravity Cancels Out...",
+      "status": "pending"
+    },
+    {
+      "topic": "Great Red Spot Shrinking",
+      "hook": "Jupiter Is Losing Its Red Spot...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fermi Paradox Where Are Aliens",
+      "hook": "Why Have We Never Met Aliens Yet...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mercury Has Ice In Craters",
+      "hook": "The Hottest Planet Has Ice On It...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Horizon Limit Of Universe",
+      "hook": "We Can Never See Most Of The Universe...",
+      "status": "pending"
+    },
+    {
+      "topic": "Type III Civilization Could Harvest Galaxies",
+      "hook": "Aliens Could Be Harvesting Entire Galaxies...",
+      "status": "pending"
+    },
+    {
+      "topic": "Trojan Asteroids Share Planet Orbits",
+      "hook": "Earth Has Secret Asteroid Companions...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Web Structure Of Universe",
+      "hook": "The Universe Looks Like A Brain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Solar Eclipse Rare Cosmic Coincidence",
+      "hook": "Solar Eclipses Should Not Be Possible...",
+      "status": "pending"
+    },
+    {
+      "topic": "Io Most Volcanic Object",
+      "hook": "This Moon Has 400 Active Volcanoes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Big Crunch Possible Universe End",
+      "hook": "The Universe Might Collapse Backwards...",
+      "status": "pending"
+    },
+    {
+      "topic": "Methane On Mars Mystery",
+      "hook": "Mars Has Methane From Unknown Source...",
+      "status": "pending"
+    },
+    {
+      "topic": "Spacecraft Graveyard In Pacific Ocean",
+      "hook": "We Crash Spacecraft In The Ocean...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tidal Locking Keeps Moon Same Face",
+      "hook": "We Never See The Dark Side Of The Moon...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rogue Black Holes Wandering Space",
+      "hook": "Black Holes Are Wandering Through Space...",
+      "status": "pending"
+    },
+    {
+      "topic": "Phosphine On Venus Sign Of Life",
+      "hook": "Venus Might Have Life In Its Clouds...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Microwave Background Perfect Temperature",
+      "hook": "Space Has A Perfect Temperature Everywhere...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sunspot Cycle Every 11 Years",
+      "hook": "The Sun Has Mood Swings Every Decade...",
+      "status": "pending"
+    },
+    {
+      "topic": "Binary Star Systems Common",
+      "hook": "Most Stars Have A Twin Star...",
+      "status": "pending"
+    },
+    {
+      "topic": "Space Junk Threatening Satellites",
+      "hook": "Space Trash Could Trap Us On Earth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Zodiacal Light From Asteroid Dust",
+      "hook": "You Can See Asteroid Dust At Night...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kugelblitz Black Hole From Light",
+      "hook": "Light Itself Can Create Black Holes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Enceladus Could Harbor Life",
+      "hook": "This Tiny Moon Might Have Alien Life...",
+      "status": "pending"
+    },
+    {
+      "topic": "Solar Sails Use Light For Propulsion",
+      "hook": "We Can Travel Using Only Light...",
+      "status": "pending"
+    },
+    {
+      "topic": "Naked Eye Supernovae Visible From Earth",
+      "hook": "You Might See A Star Explode Soon...",
+      "status": "pending"
+    },
+    {
+      "topic": "Triton Orbits Neptune Backwards",
+      "hook": "This Moon Orbits The Wrong Way...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dark Energy Accelerating Universe",
+      "hook": "Something Is Pushing The Universe Apart...",
+      "status": "pending"
+    },
+    {
+      "topic": "Olympus Mons Largest Volcano",
+      "hook": "Mars Has The Biggest Mountain Ever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Photons Take Millions Of Years To Escape Sun",
+      "hook": "Sunlight Is Millions Of Years Old...",
+      "status": "pending"
+    },
+    {
+      "topic": "Heliosphere Protects Solar System",
+      "hook": "The Sun Creates A Shield Around Us...",
+      "status": "pending"
+    },
+    {
+      "topic": "Great Observatories Program Revolutionary",
+      "hook": "These Telescopes Changed Everything We Know...",
+      "status": "pending"
+    },
+    {
+      "topic": "Terraforming Mars Possible",
+      "hook": "We Could Make Mars Like Earth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cosmic Dust Creates New Stars",
+      "hook": "Dead Stars Become New Stars Forever...",
+      "status": "pending"
+    }
+  ]
+}

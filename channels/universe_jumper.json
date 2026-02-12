@@ -1,0 +1,519 @@
+{
+  "channel_id": "universe_jumper",
+  "channel_name": "Universe Jumper",
+  "github_environment": "Universe Jumper",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": [
+    "what if",
+    "alternate universe",
+    "fictional characters",
+    "crossover",
+    "entertainment",
+    "shorts"
+  ],
+  "pexels_search_prefix": "cinematic fantasy",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "topic": "Batman In The Harry Potter Universe",
+      "hook": "BATMAN WOULD NEVER SURVIVE HOGWARTS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Iron Man In Medieval Times",
+      "hook": "IRON MAN IN 1200 AD...",
+      "status": "pending"
+    },
+    {
+      "topic": "Darth Vader Meets The Avengers",
+      "hook": "DARTH VADER MEETS THE AVENGERS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Harry Potter In Star Wars Universe",
+      "hook": "HARRY POTTER IN STAR WARS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sherlock Holmes Meets Walter White",
+      "hook": "IF SHERLOCK MET WALTER WHITE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Spider-Man In The Hunger Games",
+      "hook": "SPIDER-MAN WOULD RUIN THE HUNGER GAMES...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jon Snow In Modern New York",
+      "hook": "JON SNOW IN NEW YORK CITY...",
+      "status": "pending"
+    },
+    {
+      "topic": "Thanos In The Lord Of The Rings",
+      "hook": "THANOS WOULD DESTROY MIDDLE EARTH...",
+      "status": "pending"
+    },
+    {
+      "topic": "Eleven From Stranger Things In Hogwarts",
+      "hook": "ELEVEN VERSUS VOLDEMORT...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Joker In Gotham But Without Batman",
+      "hook": "JOKER WITHOUT BATMAN IS TERRIFYING...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rick Sanchez In The Marvel Universe",
+      "hook": "RICK SANCHEZ WOULD EMBARRASS STARK...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gandalf In The Star Wars Galaxy",
+      "hook": "GANDALF VERSUS THE SITH...",
+      "status": "pending"
+    },
+    {
+      "topic": "Walter White As A Hogwarts Professor",
+      "hook": "WALTER WHITE TEACHING AT HOGWARTS...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Terminator In Ancient Rome",
+      "hook": "TERMINATOR IN 44 BC...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tony Stark In The Jurassic Park",
+      "hook": "IRON MAN VERSUS DINOSAURS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gollum In The Marvel Universe",
+      "hook": "GOLLUM MEETS THE INFINITY STONES...",
+      "status": "pending"
+    },
+    {
+      "topic": "Captain America In World War 1",
+      "hook": "CAPTAIN AMERICA IN THE WRONG WAR...",
+      "status": "pending"
+    },
+    {
+      "topic": "Luke Skywalker In Game Of Thrones",
+      "hook": "LUKE SKYWALKER IN WESTEROS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Doctor Strange In The Pokemon World",
+      "hook": "DOCTOR STRANGE VERSUS POKEMON...",
+      "status": "pending"
+    },
+    {
+      "topic": "Legolas In Modern Day Military",
+      "hook": "LEGOLAS IN A MODERN WARZONE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolverine In The Walking Dead",
+      "hook": "WOLVERINE WOULD END THE ZOMBIE APOCALYPSE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Thor In Ancient Greek Mythology",
+      "hook": "THOR VERSUS THE GREEK GODS...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Flash In The Maze Runner",
+      "hook": "THE FLASH RUINS THE MAZE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Loki In The Harry Potter Universe",
+      "hook": "LOKI WOULD OUTSMART DUMBLEDORE...",
+      "status": "pending"
+    },
+    {
+      "topic": "John Wick In The Purge",
+      "hook": "JOHN WICK ON PURGE NIGHT...",
+      "status": "pending"
+    },
+    {
+      "topic": "Yoda In The Matrix",
+      "hook": "YODA DISCOVERS THE MATRIX...",
+      "status": "pending"
+    },
+    {
+      "topic": "Katniss Everdeen In The Battle Royale",
+      "hook": "KATNISS IN THE REAL BATTLE ROYALE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Elsa From Frozen In Game Of Thrones",
+      "hook": "ELSA WOULD CONQUER THE IRON THRONE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Indiana Jones In The Tomb Raider World",
+      "hook": "INDIANA JONES MEETS LARA CROFT...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Hulk In The Fast And Furious",
+      "hook": "HULK JOINS THE FAST FAMILY...",
+      "status": "pending"
+    },
+    {
+      "topic": "Frodo Baggins In The Hunger Games",
+      "hook": "FRODO IN THE HUNGER GAMES...",
+      "status": "pending"
+    },
+    {
+      "topic": "Deadpool In The DC Universe",
+      "hook": "DEADPOOL MEETS BATMAN...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hermione Granger In The Marvel Universe",
+      "hook": "HERMIONE WOULD OUTSMART TONY STARK...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Predator In Medieval Times",
+      "hook": "PREDATOR VERSUS KNIGHTS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Black Widow In The James Bond World",
+      "hook": "BLACK WIDOW VERSUS JAMES BOND...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sauron In The Star Wars Galaxy",
+      "hook": "SAURON MEETS THE EMPIRE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Spock In The Doctor Who Universe",
+      "hook": "SPOCK MEETS THE DOCTOR...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jason Bourne In The Kingsman World",
+      "hook": "JASON BOURNE JOINS KINGSMAN...",
+      "status": "pending"
+    },
+    {
+      "topic": "Neo From The Matrix In Inception",
+      "hook": "NEO VERSUS INCEPTION...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jack Sparrow In The Pirates Of Penzance",
+      "hook": "JACK SPARROW IN MUSICAL THEATER...",
+      "status": "pending"
+    },
+    {
+      "topic": "Optimus Prime In Transformers Beast Wars",
+      "hook": "OPTIMUS PRIME MEETS THE BEAST WARS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Aragorn In The Vikings TV Show",
+      "hook": "ARAGORN JOINS THE VIKINGS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wonder Woman In Ancient Sparta",
+      "hook": "WONDER WOMAN IN SPARTA...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hannibal Lecter In The Dexter Universe",
+      "hook": "HANNIBAL LECTER MEETS DEXTER...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Doctor In The Star Trek Universe",
+      "hook": "DOCTOR WHO MEETS STAR TREK...",
+      "status": "pending"
+    },
+    {
+      "topic": "Goku In The Dragon Ball Z Movie Universe",
+      "hook": "GOKU IN THE MCU...",
+      "status": "pending"
+    },
+    {
+      "topic": "Arya Stark In Assassins Creed",
+      "hook": "ARYA STARK JOINS THE ASSASSINS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Paul Atreides In The Star Wars Universe",
+      "hook": "PAUL ATREIDES VERSUS THE JEDI...",
+      "status": "pending"
+    },
+    {
+      "topic": "Blade In The Twilight Universe",
+      "hook": "BLADE VERSUS TWILIGHT VAMPIRES...",
+      "status": "pending"
+    },
+    {
+      "topic": "Master Chief In The Alien Universe",
+      "hook": "MASTER CHIEF VERSUS XENOMORPHS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Edward Scissorhands In The X-Men",
+      "hook": "EDWARD SCISSORHANDS JOINS THE X-MEN...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mulan In The Game Of Thrones",
+      "hook": "MULAN WOULD DOMINATE WESTEROS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ellen Ripley In The Predator Universe",
+      "hook": "RIPLEY VERSUS THE PREDATOR...",
+      "status": "pending"
+    },
+    {
+      "topic": "Magneto In The Star Wars Galaxy",
+      "hook": "MAGNETO WOULD DESTROY STAR WARS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jason Voorhees In The Scream Universe",
+      "hook": "JASON MEETS GHOSTFACE...",
+      "status": "pending"
+    },
+    {
+      "topic": "Voldemort In The Lord Of The Rings",
+      "hook": "VOLDEMORT VERSUS SAURON...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mad Max In The Fallout Universe",
+      "hook": "MAD MAX IN THE WASTELAND...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tyler Durden In The Wolf Of Wall Street",
+      "hook": "TYLER DURDEN MEETS JORDAN BELFORT...",
+      "status": "pending"
+    },
+    {
+      "topic": "Geralt Of Rivia In Game Of Thrones",
+      "hook": "GERALT WOULD END GAME OF THRONES...",
+      "status": "pending"
+    },
+    {
+      "topic": "Professor X In The Star Trek Universe",
+      "hook": "PROFESSOR X MEETS THE VULCANS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Naruto In The Avatar The Last Airbender World",
+      "hook": "NARUTO VERSUS THE AVATAR...",
+      "status": "pending"
+    },
+    {
+      "topic": "Saitama From One Punch Man In Dragon Ball Z",
+      "hook": "ONE PUNCH MAN VERSUS GOKU...",
+      "status": "pending"
+    },
+    {
+      "topic": "Freddy Krueger In The Inception Universe",
+      "hook": "FREDDY KRUEGER ENTERS INCEPTION...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Bride From Kill Bill In John Wick",
+      "hook": "BEATRIX KIDDO MEETS JOHN WICK...",
+      "status": "pending"
+    },
+    {
+      "topic": "Saruman In The Marvel Universe",
+      "hook": "SARUMAN JOINS THE MCU...",
+      "status": "pending"
+    },
+    {
+      "topic": "Maximus From Gladiator In Spartacus",
+      "hook": "MAXIMUS IN THE SPARTACUS REBELLION...",
+      "status": "pending"
+    },
+    {
+      "topic": "T-800 In The Blade Runner Universe",
+      "hook": "TERMINATOR MEETS BLADE RUNNER...",
+      "status": "pending"
+    },
+    {
+      "topic": "Morpheus In The Doctor Who Universe",
+      "hook": "MORPHEUS DISCOVERS THE TARDIS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Daenerys Targaryen In The House Of The Dragon",
+      "hook": "DAENERYS MEETS HER ANCESTORS...",
+      "status": "pending"
+    },
+    {
+      "topic": "V From V For Vendetta In The Hunger Games",
+      "hook": "V JOINS THE REBELLION...",
+      "status": "pending"
+    },
+    {
+      "topic": "Leonidas From 300 In Game Of Thrones",
+      "hook": "LEONIDAS DEFENDS THE WALL...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sherlock Holmes In The Westworld",
+      "hook": "SHERLOCK DISCOVERS WESTWORLD...",
+      "status": "pending"
+    },
+    {
+      "topic": "Willy Wonka In The Squid Game",
+      "hook": "WILLY WONKA DESIGNS SQUID GAME...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jack Reacher In The Taken Universe",
+      "hook": "JACK REACHER VERSUS LIAM NEESON...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dr Manhattan In The DC Universe",
+      "hook": "DR MANHATTAN MEETS SUPERMAN...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mystique In The Mission Impossible World",
+      "hook": "MYSTIQUE JOINS IMPOSSIBLE MISSIONS...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Punisher In The John Wick Universe",
+      "hook": "PUNISHER VERSUS JOHN WICK...",
+      "status": "pending"
+    },
+    {
+      "topic": "Legolas In The Hunger Games Arena",
+      "hook": "LEGOLAS WINS HUNGER GAMES INSTANTLY...",
+      "status": "pending"
+    },
+    {
+      "topic": "Agent Smith In The Terminator Universe",
+      "hook": "AGENT SMITH VERSUS SKYNET...",
+      "status": "pending"
+    },
+    {
+      "topic": "Qui-Gon Jinn In The Lord Of The Rings",
+      "hook": "QUI-GON JINN IN MIDDLE EARTH...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lex Luthor In The Marvel Universe",
+      "hook": "LEX LUTHOR MEETS TONY STARK...",
+      "status": "pending"
+    },
+    {
+      "topic": "Trinity From The Matrix In Cyberpunk 2077",
+      "hook": "TRINITY IN NIGHT CITY...",
+      "status": "pending"
+    },
+    {
+      "topic": "Obi-Wan Kenobi In The Star Trek Universe",
+      "hook": "OBI-WAN MEETS THE FEDERATION...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Mask In The Joker Universe",
+      "hook": "THE MASK VERSUS THE JOKER...",
+      "status": "pending"
+    },
+    {
+      "topic": "Eleven In The X-Men Universe",
+      "hook": "ELEVEN JOINS THE X-MEN...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kratos In The Marvel Universe",
+      "hook": "KRATOS VERSUS THOR AND ODIN...",
+      "status": "pending"
+    },
+    {
+      "topic": "John Constantine In The Supernatural Universe",
+      "hook": "CONSTANTINE MEETS THE WINCHESTERS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Daredevil In The Batman Universe",
+      "hook": "DAREDEVIL PROTECTS GOTHAM...",
+      "status": "pending"
+    },
+    {
+      "topic": "Quicksilver In The Flash Universe",
+      "hook": "QUICKSILVER VERSUS THE FLASH...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dumbledore In The Lord Of The Rings",
+      "hook": "DUMBLEDORE JOINS THE FELLOWSHIP...",
+      "status": "pending"
+    },
+    {
+      "topic": "Aquaman In The Pirates Of The Caribbean",
+      "hook": "AQUAMAN MEETS JACK SPARROW...",
+      "status": "pending"
+    },
+    {
+      "topic": "Peeta Mellark In The Squid Game",
+      "hook": "PEETA IN SQUID GAME...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mystique In The Hitman Universe",
+      "hook": "MYSTIQUE BECOMES AGENT 47...",
+      "status": "pending"
+    },
+    {
+      "topic": "RoboCop In The Judge Dredd Universe",
+      "hook": "ROBOCOP MEETS JUDGE DREDD...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cloud Strife In The Witcher Universe",
+      "hook": "CLOUD STRIFE BECOMES A WITCHER...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lara Croft In The Uncharted Universe",
+      "hook": "LARA CROFT VERSUS NATHAN DRAKE...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Joker In The Purge Universe",
+      "hook": "JOKER ON PURGE NIGHT...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hannibal Lecter In The Silence Of The Lambs TV Show",
+      "hook": "HANNIBAL IN THE FBI...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ezio Auditore In Game Of Thrones",
+      "hook": "EZIO ASSASSINATES THE LANNISTERS...",
+      "status": "pending"
+    },
+    {
+      "topic": "Aang From Avatar In The Dragon Ball Universe",
+      "hook": "AANG LEARNS TO GO SUPER SAIYAN...",
+      "status": "pending"
+    }
+  ]
+}

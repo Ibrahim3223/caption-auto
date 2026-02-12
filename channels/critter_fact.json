@@ -1,0 +1,514 @@
+{
+  "channel_id": "critter_fact",
+  "channel_name": "CritterFact",
+  "github_environment": "CritterFact",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "animals",
+    "nature",
+    "wildlife",
+    "animal facts",
+    "education",
+    "shorts"
+  ],
+  "pexels_search_prefix": "wildlife animals",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "topic": "Octopuses Have Three Hearts",
+      "hook": "This Animal Has Three Hearts...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sloths Can Hold Breath 40 Minutes",
+      "hook": "Sloths Can Do This Underwater...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dolphins Have Names For Each Other",
+      "hook": "Dolphins Actually Call Each Other...",
+      "status": "pending"
+    },
+    {
+      "topic": "Koalas Sleep 22 Hours Daily",
+      "hook": "Koalas Sleep This Many Hours...",
+      "status": "pending"
+    },
+    {
+      "topic": "Penguins Propose With Pebbles",
+      "hook": "Penguins Propose With A Pebble...",
+      "status": "pending"
+    },
+    {
+      "topic": "Elephants Cannot Jump",
+      "hook": "Elephants Physically Cannot Do This...",
+      "status": "pending"
+    },
+    {
+      "topic": "Butterflies Taste With Their Feet",
+      "hook": "Butterflies Taste Food With Their...",
+      "status": "pending"
+    },
+    {
+      "topic": "Crows Remember Human Faces",
+      "hook": "Crows Will Remember Your Face...",
+      "status": "pending"
+    },
+    {
+      "topic": "Snails Can Sleep For 3 Years",
+      "hook": "Snails Sleep For Three Entire Years...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mantis Shrimp See 16 Color Types",
+      "hook": "This Shrimp Sees Colors You Cannot...",
+      "status": "pending"
+    },
+    {
+      "topic": "Flamingos Are Pink From Food",
+      "hook": "Flamingos Are Not Born Pink...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sharks Existed Before Trees",
+      "hook": "Sharks Are Older Than Trees...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hummingbirds Cannot Walk",
+      "hook": "Hummingbirds Can Never Walk...",
+      "status": "pending"
+    },
+    {
+      "topic": "Frogs Absorb Water Through Skin",
+      "hook": "Frogs Never Actually Drink Water...",
+      "status": "pending"
+    },
+    {
+      "topic": "Owls Cannot Move Their Eyeballs",
+      "hook": "Owls Have Eyeballs That Cannot...",
+      "status": "pending"
+    },
+    {
+      "topic": "Seahorses Mate For Life",
+      "hook": "Seahorses Choose One Partner Forever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giraffes Have Black Tongues",
+      "hook": "Giraffe Tongues Are Completely Black...",
+      "status": "pending"
+    },
+    {
+      "topic": "Polar Bears Have Black Skin",
+      "hook": "Polar Bears Are Not White...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jellyfish Have No Brain",
+      "hook": "Jellyfish Survive Without A Brain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tigers Have Striped Skin",
+      "hook": "Tiger Stripes Go Deeper Than Fur...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolves Change River Ecosystems",
+      "hook": "Wolves Literally Change Rivers Themselves...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bees Recognize Human Faces",
+      "hook": "Bees Can Recognize Your Face...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cheetahs Cannot Roar",
+      "hook": "Cheetahs Can Never Roar Like Lions...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lobsters Do Not Age",
+      "hook": "Lobsters Literally Never Age...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cats Have 32 Muscles Per Ear",
+      "hook": "Cat Ears Have This Many Muscles...",
+      "status": "pending"
+    },
+    {
+      "topic": "Horses Cannot Vomit",
+      "hook": "Horses Physically Cannot Vomit...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ants Never Sleep",
+      "hook": "Ants Have Never Slept Ever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Platypus Produce Venom",
+      "hook": "Platypus Males Are Actually Venomous...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bats Always Turn Left",
+      "hook": "Bats Always Exit Caves This Way...",
+      "status": "pending"
+    },
+    {
+      "topic": "Raccoons Wash Their Food",
+      "hook": "Raccoons Always Wash Food Before Eating...",
+      "status": "pending"
+    },
+    {
+      "topic": "Woodpeckers Tongues Wrap Around Brain",
+      "hook": "Woodpecker Tongues Wrap Around Their Brain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Crocodiles Cannot Stick Tongue Out",
+      "hook": "Crocodiles Can Never Stick Tongues Out...",
+      "status": "pending"
+    },
+    {
+      "topic": "Squirrels Plant Thousands Of Trees",
+      "hook": "Squirrels Accidentally Plant Forests...",
+      "status": "pending"
+    },
+    {
+      "topic": "Otters Hold Hands While Sleeping",
+      "hook": "Otters Hold Hands So They Do Not...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pigeons Can Detect Earthquakes",
+      "hook": "Pigeons Sense Earthquakes Before They Happen...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hippos Sweat Turns Red",
+      "hook": "Hippo Sweat Turns Blood Red...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kangaroos Cannot Walk Backwards",
+      "hook": "Kangaroos Can Never Walk Backwards...",
+      "status": "pending"
+    },
+    {
+      "topic": "Beavers Teeth Never Stop Growing",
+      "hook": "Beaver Teeth Grow Forever Without...",
+      "status": "pending"
+    },
+    {
+      "topic": "Foxes Use Earths Magnetic Field",
+      "hook": "Foxes Hunt Using Magnetic Fields...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pigs Cannot Look At Sky",
+      "hook": "Pigs Physically Cannot Look Up...",
+      "status": "pending"
+    },
+    {
+      "topic": "Spiders Can Survive Without Food Year",
+      "hook": "Spiders Survive A Year Without Food...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gorillas Can Catch Human Colds",
+      "hook": "Gorillas Get Sick From Your Cold...",
+      "status": "pending"
+    },
+    {
+      "topic": "Chameleons Change Color From Mood",
+      "hook": "Chameleons Change Color From Emotions...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ostriches Have Bigger Eyes Than Brain",
+      "hook": "Ostrich Eyes Are Bigger Than Brain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ravens Hold Grudges For Years",
+      "hook": "Ravens Will Remember And Punish You...",
+      "status": "pending"
+    },
+    {
+      "topic": "Blue Whales Heart Size Car",
+      "hook": "Blue Whale Hearts Are Car Sized...",
+      "status": "pending"
+    },
+    {
+      "topic": "Clownfish Can Change Gender",
+      "hook": "Clownfish Actually Change Their Gender...",
+      "status": "pending"
+    },
+    {
+      "topic": "Armadillos Always Birth Identical Quadruplets",
+      "hook": "Armadillos Always Have Four Identical Babies...",
+      "status": "pending"
+    },
+    {
+      "topic": "Naked Mole Rats Feel No Pain",
+      "hook": "These Rats Literally Cannot Feel Pain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wombats Poop Cubes",
+      "hook": "Wombats Poop Comes Out As Cubes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Axolotls Regenerate Entire Brain",
+      "hook": "Axolotls Regrow Their Entire Brain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tardigrades Survive Outer Space",
+      "hook": "This Animal Survives In Outer Space...",
+      "status": "pending"
+    },
+    {
+      "topic": "Turritopsis Jellyfish Immortal",
+      "hook": "This Jellyfish Literally Cannot Die...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cuttlefish Have W Shaped Pupils",
+      "hook": "Cuttlefish Pupils Are Shaped Like This...",
+      "status": "pending"
+    },
+    {
+      "topic": "Electric Eels Generate 860 Volts",
+      "hook": "Electric Eels Shock With This Voltage...",
+      "status": "pending"
+    },
+    {
+      "topic": "Puffins Mate For Life",
+      "hook": "Puffins Choose One Partner Forever...",
+      "status": "pending"
+    },
+    {
+      "topic": "Harp Seals Recognize Songs",
+      "hook": "Seals Actually Recognize Music Patterns...",
+      "status": "pending"
+    },
+    {
+      "topic": "Moles Can Smell In Stereo",
+      "hook": "Moles Smell In Three Dimensions...",
+      "status": "pending"
+    },
+    {
+      "topic": "Parrots Name Their Babies",
+      "hook": "Parrots Give Their Chicks Names...",
+      "status": "pending"
+    },
+    {
+      "topic": "Walruses Can Sleep Anywhere",
+      "hook": "Walruses Sleep While Floating Vertically...",
+      "status": "pending"
+    },
+    {
+      "topic": "Moose Dive 20 Feet Deep",
+      "hook": "Moose Can Dive Six Meters Deep...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lyrebirds Mimic Chainsaws Perfectly",
+      "hook": "This Bird Mimics Chainsaws And Cameras...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sea Cucumbers Eject Internal Organs",
+      "hook": "Sea Cucumbers Throw Out Their Organs...",
+      "status": "pending"
+    },
+    {
+      "topic": "Meerkats Have Babysitters",
+      "hook": "Meerkats Hire Professional Babysitters...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pistol Shrimp Create Plasma Bubbles",
+      "hook": "This Shrimp Creates Underwater Plasma...",
+      "status": "pending"
+    },
+    {
+      "topic": "Komodo Dragons Are Venomous",
+      "hook": "Komodo Dragons Have Deadly Venom...",
+      "status": "pending"
+    },
+    {
+      "topic": "Reindeer Eyes Change Color",
+      "hook": "Reindeer Eyes Change Color By Season...",
+      "status": "pending"
+    },
+    {
+      "topic": "Binturongs Smell Like Popcorn",
+      "hook": "This Animal Smells Exactly Like Popcorn...",
+      "status": "pending"
+    },
+    {
+      "topic": "Vampire Bats Share Blood",
+      "hook": "Vampire Bats Share Food With Friends...",
+      "status": "pending"
+    },
+    {
+      "topic": "Arctic Foxes Survive Minus 70",
+      "hook": "Arctic Foxes Survive Negative Seventy Degrees...",
+      "status": "pending"
+    },
+    {
+      "topic": "Peregrine Falcons Dive 240 MPH",
+      "hook": "This Bird Reaches Two Forty MPH...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hagfish Produce Slime Instantly",
+      "hook": "Hagfish Create Gallons Of Slime Instantly...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolverines Take Down Moose",
+      "hook": "Wolverines Kill Animals Ten Times Bigger...",
+      "status": "pending"
+    },
+    {
+      "topic": "Ribbon Worms Eject Proboscis",
+      "hook": "This Worm Shoots Out Its Mouth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pangolins Are Most Trafficked",
+      "hook": "This Is The Most Trafficked Mammal...",
+      "status": "pending"
+    },
+    {
+      "topic": "Stonefish Are Most Venomous",
+      "hook": "This Fish Is The Most Venomous...",
+      "status": "pending"
+    },
+    {
+      "topic": "Glass Frogs Have Transparent Bellies",
+      "hook": "You Can See Through This Frog...",
+      "status": "pending"
+    },
+    {
+      "topic": "Honey Badgers Eat Venomous Snakes",
+      "hook": "Honey Badgers Are Immune To Venom...",
+      "status": "pending"
+    },
+    {
+      "topic": "Narwhals Have Ten Foot Tusks",
+      "hook": "Narwhal Tusks Are Ten Feet Long...",
+      "status": "pending"
+    },
+    {
+      "topic": "Basilisk Lizards Walk On Water",
+      "hook": "This Lizard Literally Walks On Water...",
+      "status": "pending"
+    },
+    {
+      "topic": "Archerfish Shoot Water Bullets",
+      "hook": "Archerfish Shoot Insects With Water Jets...",
+      "status": "pending"
+    },
+    {
+      "topic": "Kiwi Birds Lay Massive Eggs",
+      "hook": "Kiwi Eggs Are Twenty Percent Body Weight...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bombardier Beetles Spray Boiling Acid",
+      "hook": "This Beetle Shoots Boiling Acid...",
+      "status": "pending"
+    },
+    {
+      "topic": "Leafcutter Ants Farm Fungus",
+      "hook": "These Ants Are Underground Farmers...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mimic Octopus Impersonates 15 Species",
+      "hook": "This Octopus Impersonates Fifteen Animals...",
+      "status": "pending"
+    },
+    {
+      "topic": "Horned Lizards Squirt Blood From Eyes",
+      "hook": "This Lizard Shoots Blood From Eyes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Flying Snakes Glide 100 Meters",
+      "hook": "These Snakes Actually Fly Through Air...",
+      "status": "pending"
+    },
+    {
+      "topic": "Coconut Crabs Crack Coconuts",
+      "hook": "This Crab Crushes Coconuts With Claws...",
+      "status": "pending"
+    },
+    {
+      "topic": "Aye Ayes Have Skeletal Finger",
+      "hook": "Aye Aye Fingers Look Like Bones...",
+      "status": "pending"
+    },
+    {
+      "topic": "Peacock Mantis Shrimp Punch Breaks Glass",
+      "hook": "This Shrimp Punch Shatters Aquarium Glass...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fennec Foxes Have Massive Ears",
+      "hook": "Fennec Fox Ears Are Half Body Length...",
+      "status": "pending"
+    },
+    {
+      "topic": "Box Jellyfish Have 24 Eyes",
+      "hook": "Box Jellyfish Have Twenty Four Eyes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tarsiers Have Huge Eyes",
+      "hook": "Tarsier Eyes Are Bigger Than Brain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sailfish Are Fastest Fish",
+      "hook": "Sailfish Swim Sixty Eight Miles Per Hour...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gharials Have 110 Teeth",
+      "hook": "Gharials Have One Hundred Ten Teeth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Colossal Squid Have Basketball Eyes",
+      "hook": "Colossal Squid Eyes Are Basketball Sized...",
+      "status": "pending"
+    },
+    {
+      "topic": "Proboscis Monkeys Have Giant Noses",
+      "hook": "Male Proboscis Monkey Noses Are Enormous...",
+      "status": "pending"
+    },
+    {
+      "topic": "Trap Jaw Ants Snap 145 MPH",
+      "hook": "Trap Jaw Ant Jaws Close This Fast...",
+      "status": "pending"
+    },
+    {
+      "topic": "Star Nosed Moles Have 22 Tentacles",
+      "hook": "Star Nosed Moles Have Twenty Two Tentacles...",
+      "status": "pending"
+    }
+  ]
+}

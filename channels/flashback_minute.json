@@ -1,0 +1,819 @@
+{
+  "channel_id": "flashback_minute",
+  "channel_name": "Flashback Minute",
+  "github_environment": "Flashback Minute",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "history",
+    "today in history",
+    "historical events",
+    "facts",
+    "education",
+    "shorts"
+  ],
+  "pexels_search_prefix": "historical vintage",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "The Day The Titanic Sank",
+      "hook": "They Were Warned Three Times...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "When The Berlin Wall Fell",
+      "hook": "One Man Changed History By Mistake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "The Moon Landing Broadcast",
+      "hook": "What They Didnt Show You...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "The Day Pearl Harbor Was Attacked",
+      "hook": "The Warning Arrived Too Late...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "When Hiroshima Changed War Forever",
+      "hook": "The World Almost Ended That Day...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "The Challenger Disaster Live On TV",
+      "hook": "NASA Knew The Risk But Launched...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "When JFK Was Assassinated In Dallas",
+      "hook": "They Still Hide The Real Truth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "The Day World War II Ended",
+      "hook": "Japan Surrendered For This Secret Reason...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "When The Twin Towers Fell",
+      "hook": "This Day Changed Everything Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "The Chernobyl Nuclear Disaster",
+      "hook": "They Lied About The Radiation Levels...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "When Martin Luther King Was Shot",
+      "hook": "The FBI Was Watching Him Die...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "The Day The Stock Market Crashed",
+      "hook": "They Jumped From The Windows...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "When Pompeii Was Buried Alive",
+      "hook": "They Had 17 Hours To Escape...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "The Assassination Of Abraham Lincoln",
+      "hook": "His Bodyguard Left For A Drink...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "When The Soviet Union Collapsed",
+      "hook": "A 70 Year Empire Died In Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "The Day Hitler Died In His Bunker",
+      "hook": "They Kept This Secret For Decades...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "When The Hindenburg Exploded",
+      "hook": "It Burned For 34 Seconds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "The Cuban Missile Crisis Ended",
+      "hook": "One Man Saved Eight Billion Lives...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "When Napoleon Was Defeated At Waterloo",
+      "hook": "His Final Battle Lasted 9 Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "The Day D-Day Invasion Began",
+      "hook": "They Landed In The Wrong Place...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "When Julius Caesar Was Stabbed",
+      "hook": "His Best Friend Killed Him Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "The Boston Tea Party Changed America",
+      "hook": "They Destroyed 342 Chests That Night...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "When The Great Fire Of London Started",
+      "hook": "One Bakery Burned 13000 Houses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "The Day Elvis Presley Died",
+      "hook": "The King Died Alone On The Floor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "When The Black Death Reached Europe",
+      "hook": "Half Of Europe Died In 5 Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "The Signing Of The Declaration Of Independence",
+      "hook": "They Signed Their Own Death Warrants...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "When The Space Shuttle Columbia Disintegrated",
+      "hook": "They Knew The Damage Before Reentry...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "The Day The Great Wall Of China Was Finished",
+      "hook": "Millions Died Building This Wall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "When Cleopatra Took Her Own Life",
+      "hook": "The Snake Was Not An Accident...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "The Fall Of Constantinople",
+      "hook": "An Empire Died In 53 Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "When The First Atomic Bomb Was Tested",
+      "hook": "They Thought It Might Ignite The Air...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "The Day Archduke Franz Ferdinand Was Shot",
+      "hook": "One Wrong Turn Started World War...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "When The Lusitania Was Torpedoed",
+      "hook": "1198 People Drowned In 18 Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "The Storming Of The Bastille",
+      "hook": "They Found Only 7 Prisoners Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "When Mount Vesuvius Erupted",
+      "hook": "The Ash Cloud Reached 20 Miles High...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "The Day Rosa Parks Refused To Move",
+      "hook": "One Woman Changed American History...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "When The Mayflower Reached America",
+      "hook": "Half Of Them Died First Winter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "The Night Kristallnacht Destroyed Germany",
+      "hook": "1400 Synagogues Burned In One Night...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "When The Spanish Flu Pandemic Began",
+      "hook": "100 Million Died In 2 Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "The Execution Of Marie Antoinette",
+      "hook": "She Never Said Let Them Eat Cake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "When The Wright Brothers First Flew",
+      "hook": "The Flight Lasted Only 12 Seconds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "The Day The Bastille Was Stormed",
+      "hook": "The French Revolution Started With 7...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "When Alexander The Great Died",
+      "hook": "His Empire Collapsed In Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "The Triangle Shirtwaist Factory Fire",
+      "hook": "They Locked The Workers Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "When The RMS Lusitania Sank",
+      "hook": "A Secret Cargo Doomed The Ship...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "The Day Genghis Khan Died",
+      "hook": "They Killed Everyone Who Saw Him...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "When The Gutenberg Bible Was Printed",
+      "hook": "One Book Changed Human History Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "The Boston Massacre Sparked Revolution",
+      "hook": "5 Deaths Started A War...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "When Rasputin Was Finally Murdered",
+      "hook": "They Shot Him Poisoned Him Drowned Him...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "The Night The Titanic Hit The Iceberg",
+      "hook": "The Lookouts Had No Binoculars...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "When The Apollo 13 Mission Failed",
+      "hook": "An Explosion 200000 Miles From Earth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "The Day The Plague Of Athens Began",
+      "hook": "A Third Of The City Died...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "When The Library Of Alexandria Burned",
+      "hook": "We Lost A Thousand Years Of Knowledge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "The Battle Of Thermopylae",
+      "hook": "300 Men Held Off 100000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "When The Aztec Empire Fell",
+      "hook": "500 Spaniards Destroyed An Empire...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "The Day The Colosseum Opened",
+      "hook": "100 Days Of Death And Blood...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "When Joan Of Arc Was Burned Alive",
+      "hook": "She Was Only 19 Years Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "The Day The Magna Carta Was Signed",
+      "hook": "A King Was Forced To Surrender...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "When Mussolini Was Executed",
+      "hook": "They Hung Him Upside Down...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "The Fall Of Saigon",
+      "hook": "America Lost Its First War...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "When The Great Chicago Fire Started",
+      "hook": "300 People Burned To Death...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "The Day The Vikings Raided Lindisfarne",
+      "hook": "The Viking Age Began With Blood...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "When Gandhi Was Assassinated",
+      "hook": "A Man Of Peace Died Violently...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "The Bombing Of Dresden",
+      "hook": "One Night 25000 People Vaporized...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "When The First Emperor United China",
+      "hook": "He Buried Scholars Alive For This...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "The Night John Lennon Was Shot",
+      "hook": "His Killer Asked For An Autograph...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "When The Battle Of Stalingrad Ended",
+      "hook": "2 Million People Died In This City...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "The Day The Bastille Fell",
+      "hook": "The Governor Was Beheaded On The Street...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "When Columbus Reached The Americas",
+      "hook": "He Thought He Was Somewhere Else...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "The Execution Of Saddam Hussein",
+      "hook": "They Filmed His Final Seconds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "When The Trojan Horse Was Opened",
+      "hook": "They Destroyed Troy In One Night...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "The Day President Lincoln Was Shot",
+      "hook": "His Guard Went To The Saloon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "When The Ottoman Empire Finally Collapsed",
+      "hook": "600 Years Ended In A Single Day...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "The San Francisco Earthquake Of 1906",
+      "hook": "The City Burned For 4 Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "When The Panama Canal Finally Opened",
+      "hook": "27000 Workers Died Building This...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "The Day Krakatoa Erupted",
+      "hook": "The Explosion Was Heard 3000 Miles Away...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "When The Battle Of Gettysburg Ended",
+      "hook": "51000 Casualties In 3 Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "The Night President Kennedy Was Assassinated",
+      "hook": "The Secret Service Failed That Day...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "When Rome Finally Fell",
+      "hook": "1000 Years Of Power Ended Overnight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "The Sinking Of The USS Arizona",
+      "hook": "1177 Men Still Trapped Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "When The Eiffel Tower Was Built",
+      "hook": "Paris Almost Tore It Down...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "The Day World War I Started",
+      "hook": "One Bullet Killed 20 Million People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "When The Spanish Armada Was Destroyed",
+      "hook": "A Storm Finished What England Started...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "The Death Of Osama Bin Laden",
+      "hook": "They Buried Him At Sea...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "When The Nazis Surrendered",
+      "hook": "Hitler Was Already Dead For Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "The Battle Of Marathon",
+      "hook": "One Man Ran 26 Miles And Died...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "When The Rosetta Stone Was Found",
+      "hook": "This Rock Unlocked Ancient Egypt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "The Day The Atom Was Split",
+      "hook": "We Created A Force Of God...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "When Tutankhamuns Tomb Was Opened",
+      "hook": "Everyone Who Entered This Tomb Died...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "The Fall Of The Alamo",
+      "hook": "189 Men Against 6000 Soldiers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "When The Dead Sea Scrolls Were Found",
+      "hook": "A Shepherd Boy Changed Biblical History...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "The Day The USS Indianapolis Sank",
+      "hook": "Sharks Ate 150 Men Alive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "When The Black Plague Ended",
+      "hook": "Nobody Knows Why It Stopped...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "The Night Nero Burned Rome",
+      "hook": "He Played Music While Rome Burned...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "When The First Crusade Began",
+      "hook": "They Marched 2000 Miles To Kill...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "The Execution Of Charles I",
+      "hook": "They Beheaded A King In Public...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "When The Great Depression Began",
+      "hook": "Banks Failed In A Single Day...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "The Battle Of Hastings Changed England",
+      "hook": "One Arrow Changed A Thousand Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "When The Space Race Finally Ended",
+      "hook": "America Won By Hours Not Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "The Day The Internet Was Born",
+      "hook": "The First Message Was Two Letters...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

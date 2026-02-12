@@ -1,0 +1,515 @@
+{
+  "channel_id": "rewind_retro_media",
+  "channel_name": "Rewind Retro Media",
+  "github_environment": "Rewind Retro Media",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": [
+    "nostalgia",
+    "retro",
+    "90s",
+    "2000s",
+    "throwback",
+    "vintage",
+    "shorts"
+  ],
+  "pexels_search_prefix": "vintage retro",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "topic": "When Blockbuster Was King",
+      "hook": "You Miss Blockbuster Until You Remember...",
+      "status": "pending"
+    },
+    {
+      "topic": "The Flip Phone Era",
+      "hook": "Flip Phones Were Cool Until This...",
+      "status": "pending"
+    },
+    {
+      "topic": "MySpace Top 8 Drama",
+      "hook": "MySpace Top 8 Destroyed Friendships Because...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dial Up Internet Sounds",
+      "hook": "Dial Up Internet Scarred An Entire...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rewinding VHS Tapes",
+      "hook": "Rewinding VHS Tapes Was Actually...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nokia 3310 Indestructible",
+      "hook": "Nokia 3310 Could Survive Anything Except...",
+      "status": "pending"
+    },
+    {
+      "topic": "Limewire Virus Hell",
+      "hook": "Limewire Destroyed Every Family Computer Because...",
+      "status": "pending"
+    },
+    {
+      "topic": "AOL Instant Messenger Away Messages",
+      "hook": "AIM Away Messages Revealed Too Much...",
+      "status": "pending"
+    },
+    {
+      "topic": "Burning CDs For Friends",
+      "hook": "Burning Mix CDs Was Love Until...",
+      "status": "pending"
+    },
+    {
+      "topic": "MapQuest Printed Directions",
+      "hook": "MapQuest Got Everyone Lost Because...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tamagotchi Deaths",
+      "hook": "Tamagotchi Taught Kids About Death When...",
+      "status": "pending"
+    },
+    {
+      "topic": "Calling Landlines Nervously",
+      "hook": "Calling Your Crush Landline Was Terrifying...",
+      "status": "pending"
+    },
+    {
+      "topic": "Waiting For Photos To Develop",
+      "hook": "Disposable Cameras Ruined Everything When You...",
+      "status": "pending"
+    },
+    {
+      "topic": "TV Guide Channel Wait",
+      "hook": "TV Guide Channel Made You Wait...",
+      "status": "pending"
+    },
+    {
+      "topic": "Scholastic Book Fair Chaos",
+      "hook": "Scholastic Book Fairs Were Battlegrounds For...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pencil And Cassette Tape Trick",
+      "hook": "Pencils Saved Your Cassette Tapes Until...",
+      "status": "pending"
+    },
+    {
+      "topic": "Oregon Trail School Computer Game",
+      "hook": "Oregon Trail Taught Kids That Everyone...",
+      "status": "pending"
+    },
+    {
+      "topic": "Encarta Encyclopedia CD-ROM",
+      "hook": "Encarta Was Wikipedia Before Kids Learned...",
+      "status": "pending"
+    },
+    {
+      "topic": "Razor Scooter Ankle Destruction",
+      "hook": "Razor Scooters Destroyed Every Single Ankle...",
+      "status": "pending"
+    },
+    {
+      "topic": "Heelys Banned From School",
+      "hook": "Heelys Got Banned Because Kids Were...",
+      "status": "pending"
+    },
+    {
+      "topic": "iPod Shuffle Random Confusion",
+      "hook": "iPod Shuffle Was Chaos Because You...",
+      "status": "pending"
+    },
+    {
+      "topic": "Walkman Cassette Player",
+      "hook": "Walkmans Ate Your Favorite Tape Right...",
+      "status": "pending"
+    },
+    {
+      "topic": "Floppy Disk Save Icon",
+      "hook": "Floppy Disks Hold Nothing But Kids...",
+      "status": "pending"
+    },
+    {
+      "topic": "Skipping Burned CDs In Car",
+      "hook": "Burned CDs Skipped During Every Favorite...",
+      "status": "pending"
+    },
+    {
+      "topic": "Low Battery Beep Game Boy",
+      "hook": "Game Boy Low Battery Sound Meant...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nintendo Cartridge Blowing Myth",
+      "hook": "Blowing Nintendo Cartridges Never Worked But...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nickelodeon Slime Everywhere",
+      "hook": "Nickelodeon Slime Looked Fun Until Reality...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dunkaroos Lunch Box Treasure",
+      "hook": "Dunkaroos Made You Playground Royalty Unless...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lunchables Trading Economy",
+      "hook": "Lunchables Created A Black Market For...",
+      "status": "pending"
+    },
+    {
+      "topic": "Capri Sun Straw Struggle",
+      "hook": "Capri Sun Straws Defeated Everyone Because...",
+      "status": "pending"
+    },
+    {
+      "topic": "Waiting For Saturday Morning Cartoons",
+      "hook": "Saturday Morning Cartoons Stopped And Childhood...",
+      "status": "pending"
+    },
+    {
+      "topic": "One TV Remote War",
+      "hook": "Fighting Over The Remote Tore Families...",
+      "status": "pending"
+    },
+    {
+      "topic": "VCR Recording Timer Confusion",
+      "hook": "VCR Timers Confused Every Single Parent...",
+      "status": "pending"
+    },
+    {
+      "topic": "Blank VHS Recording Over Memories",
+      "hook": "Recording Over VHS Tapes Erased Family...",
+      "status": "pending"
+    },
+    {
+      "topic": "Caller ID Changed Everything",
+      "hook": "Caller ID Ruined The Mystery And...",
+      "status": "pending"
+    },
+    {
+      "topic": "Three Way Calling Drama",
+      "hook": "Three Way Calling Started Every High...",
+      "status": "pending"
+    },
+    {
+      "topic": "Beepers And Numeric Codes",
+      "hook": "Beeper Codes Made No Sense Unless...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pizza Hut Reading Rewards",
+      "hook": "Book It Program Made Kids Read...",
+      "status": "pending"
+    },
+    {
+      "topic": "Toys R Us Endless Aisles",
+      "hook": "Toys R Us Closing Hurt Because...",
+      "status": "pending"
+    },
+    {
+      "topic": "KB Toys Mall Memories",
+      "hook": "KB Toys Disappeared And Mall Childhood...",
+      "status": "pending"
+    },
+    {
+      "topic": "Circuit City Electronics Wonderland",
+      "hook": "Circuit City Had Everything Until They...",
+      "status": "pending"
+    },
+    {
+      "topic": "CompUSA Overwhelming Confusion",
+      "hook": "CompUSA Was Paradise For Nerds Who...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hollywood Video Last Resort",
+      "hook": "Hollywood Video Was There When Blockbuster...",
+      "status": "pending"
+    },
+    {
+      "topic": "Borders Bookstore Hangouts",
+      "hook": "Borders Bookstore Was Heaven Until Amazon...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sam Goody Music Store",
+      "hook": "Sam Goody Overcharged For CDs Because...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tower Records Concert Tickets",
+      "hook": "Tower Records Was Music Culture Until...",
+      "status": "pending"
+    },
+    {
+      "topic": "Suncoast Motion Picture Company",
+      "hook": "Suncoast Sold VHS For Insane Prices...",
+      "status": "pending"
+    },
+    {
+      "topic": "FYE Mall Music Madness",
+      "hook": "FYE Survived By Selling Random Stuff...",
+      "status": "pending"
+    },
+    {
+      "topic": "Radio Shack Weird Survival",
+      "hook": "Radio Shack Had Everything Nobody Needed...",
+      "status": "pending"
+    },
+    {
+      "topic": "Payphone Quarter Hoarding",
+      "hook": "Payphones Required Exact Change That Nobody...",
+      "status": "pending"
+    },
+    {
+      "topic": "Collect Call Secret Messages",
+      "hook": "Collect Calls Let You Hack Messages...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pagers At Movie Theater",
+      "hook": "Restaurant Pagers Were High Tech Until...",
+      "status": "pending"
+    },
+    {
+      "topic": "Trapper Keeper Organization",
+      "hook": "Trapper Keepers Organized Nothing But Kids...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lisa Frank Everything Explosion",
+      "hook": "Lisa Frank Was Everywhere Until Taste...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gel Pens Obsession Phase",
+      "hook": "Gel Pens Ruled School Until They...",
+      "status": "pending"
+    },
+    {
+      "topic": "Scented Markers Sniffing",
+      "hook": "Scented Markers Smelled Suspicious But Everyone...",
+      "status": "pending"
+    },
+    {
+      "topic": "Overhead Projector Presentations",
+      "hook": "Overhead Projectors Made Teachers Look Ancient...",
+      "status": "pending"
+    },
+    {
+      "topic": "Parachute Day Gym Class",
+      "hook": "Parachute Day Was The Best Until...",
+      "status": "pending"
+    },
+    {
+      "topic": "Scooter Boards Finger Destruction",
+      "hook": "Scooter Boards Crushed Every Single Finger...",
+      "status": "pending"
+    },
+    {
+      "topic": "Climbing Rope Gym Challenge",
+      "hook": "Climbing The Rope Separated Winners From...",
+      "status": "pending"
+    },
+    {
+      "topic": "Presidential Fitness Test Trauma",
+      "hook": "Presidential Fitness Test Humiliated Every Kid...",
+      "status": "pending"
+    },
+    {
+      "topic": "MASH Fortune Telling Game",
+      "hook": "MASH Predicted Your Future And It...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cootie Catcher Paper Folding",
+      "hook": "Cootie Catchers Told Fortunes That Always...",
+      "status": "pending"
+    },
+    {
+      "topic": "Friendship Bracelet Making",
+      "hook": "Friendship Bracelets Took Forever And Then...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pogs Collecting Craze",
+      "hook": "Pogs Were Worthless But Kids Fought...",
+      "status": "pending"
+    },
+    {
+      "topic": "Beanie Babies Investment Scam",
+      "hook": "Beanie Babies Would Be Valuable Except...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pokemon Card First Edition Hunt",
+      "hook": "Pokemon Cards Were Worth Thousands Until...",
+      "status": "pending"
+    },
+    {
+      "topic": "Yu-Gi-Oh Card Playground Battles",
+      "hook": "Yu-Gi-Oh Cards Got Banned Because Kids...",
+      "status": "pending"
+    },
+    {
+      "topic": "Magic The Gathering Complexity",
+      "hook": "Magic Cards Confused Every Parent Who...",
+      "status": "pending"
+    },
+    {
+      "topic": "Furby Nightmare Possession",
+      "hook": "Furbys Never Stopped Talking Even When...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tickle Me Elmo Stampede",
+      "hook": "Tickle Me Elmo Caused Riots Because...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bop It Frustration Game",
+      "hook": "Bop It Made Everyone Rage Quit...",
+      "status": "pending"
+    },
+    {
+      "topic": "Simon Says Electronic Memory",
+      "hook": "Simon Says Humiliated Your Memory Skills...",
+      "status": "pending"
+    },
+    {
+      "topic": "Skip It Ankle Breaker",
+      "hook": "Skip It Destroyed Ankles Worse Than...",
+      "status": "pending"
+    },
+    {
+      "topic": "Moon Shoes Broken Ankles",
+      "hook": "Moon Shoes Promised Bouncing But Delivered...",
+      "status": "pending"
+    },
+    {
+      "topic": "Socker Boppers Violence",
+      "hook": "Socker Boppers Let Kids Fight Legally...",
+      "status": "pending"
+    },
+    {
+      "topic": "Super Soaker Water Wars",
+      "hook": "Super Soakers Started Neighborhood Wars Every...",
+      "status": "pending"
+    },
+    {
+      "topic": "Slip N Slide Injuries",
+      "hook": "Slip N Slides Sent Everyone To...",
+      "status": "pending"
+    },
+    {
+      "topic": "Easy Bake Oven Tiny Food",
+      "hook": "Easy Bake Ovens Cooked Nothing But...",
+      "status": "pending"
+    },
+    {
+      "topic": "Creepy Crawlers Bug Maker",
+      "hook": "Creepy Crawlers Burned Every Single Kid...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lite Brite Choking Hazard",
+      "hook": "Lite Brite Pegs Went Missing And...",
+      "status": "pending"
+    },
+    {
+      "topic": "Etch A Sketch Impossible Art",
+      "hook": "Etch A Sketch Circles Were Impossible...",
+      "status": "pending"
+    },
+    {
+      "topic": "Viewmaster 3D Slides",
+      "hook": "Viewmasters Showed 3D Magic Until You...",
+      "status": "pending"
+    },
+    {
+      "topic": "Polaroid Instant Camera Magic",
+      "hook": "Polaroids Were Magic But Film Cost...",
+      "status": "pending"
+    },
+    {
+      "topic": "Film Camera 24 Exposure Limit",
+      "hook": "Film Cameras Had 24 Shots So...",
+      "status": "pending"
+    },
+    {
+      "topic": "Double Print Photo Doubles",
+      "hook": "Double Prints Wasted Money On Duplicates...",
+      "status": "pending"
+    },
+    {
+      "topic": "Photo Album Sticky Pages",
+      "hook": "Photo Albums Trapped Memories Forever When...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mall Photo Booth Strips",
+      "hook": "Photo Booth Strips Captured Cringe That...",
+      "status": "pending"
+    },
+    {
+      "topic": "Glamour Shots Awkward Photos",
+      "hook": "Glamour Shots Made Everyone Look Ridiculous...",
+      "status": "pending"
+    },
+    {
+      "topic": "Olan Mills Family Portraits",
+      "hook": "Olan Mills Portraits Embarrassed Entire Families...",
+      "status": "pending"
+    },
+    {
+      "topic": "JCPenney Portrait Studio",
+      "hook": "JCPenney Portraits Were Stiff And Everyone...",
+      "status": "pending"
+    },
+    {
+      "topic": "School Picture Day Hair Disaster",
+      "hook": "Picture Day Hair Never Cooperated And...",
+      "status": "pending"
+    },
+    {
+      "topic": "Laser Background School Photos",
+      "hook": "Laser Backgrounds Made School Photos Look...",
+      "status": "pending"
+    },
+    {
+      "topic": "Yearbook Signing Goodbye Messages",
+      "hook": "Yearbook Signatures Revealed Who Really Liked...",
+      "status": "pending"
+    },
+    {
+      "topic": "Passed Notes Folding Techniques",
+      "hook": "Passed Notes Got Everyone Detention When...",
+      "status": "pending"
+    },
+    {
+      "topic": "Book Covers From Paper Bags",
+      "hook": "Paper Bag Book Covers Fell Apart...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pencil Grip Rubber Thing",
+      "hook": "Pencil Grips Helped Nobody But Teachers...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pencil Sharpener Hand Crank",
+      "hook": "Hand Crank Sharpeners Ate Entire Pencils...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mechanical Pencil Lead Breaking",
+      "hook": "Mechanical Pencil Lead Broke Every Single...",
+      "status": "pending"
+    }
+  ]
+}

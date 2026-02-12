@@ -1,0 +1,519 @@
+{
+  "channel_id": "wild_wonder_caps",
+  "channel_name": "WildWonderCaps",
+  "github_environment": "WildWonderCaps",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "animals",
+    "wild animals",
+    "nature",
+    "wildlife",
+    "extreme",
+    "shorts"
+  ],
+  "pexels_search_prefix": "wild nature animals",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "topic": "Mantis Shrimp Punch Boils Water",
+      "hook": "This Shrimp Punch Creates Plasma...",
+      "status": "pending"
+    },
+    {
+      "topic": "Honey Badger Fights Lions",
+      "hook": "Honey Badgers Fight Entire Lion Prides...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cassowary Deadly Kick",
+      "hook": "Cassowaries Kill With One Kick...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mudskipper Climbs Trees",
+      "hook": "This Fish Climbs Trees At Night...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hippo Most Dangerous Animal",
+      "hook": "Hippos Are The Deadliest Animal...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pistol Shrimp Sonic Weapon",
+      "hook": "This Shrimp Uses Sonic Weapons...",
+      "status": "pending"
+    },
+    {
+      "topic": "Komodo Dragon Venomous Bite",
+      "hook": "Komodo Venom Causes Unstoppable Bleeding...",
+      "status": "pending"
+    },
+    {
+      "topic": "Electric Eel 860 Volts",
+      "hook": "This Eel Generates 860 Volts...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolverine Fights Bears",
+      "hook": "Wolverines Kill Full Grown Bears...",
+      "status": "pending"
+    },
+    {
+      "topic": "Box Jellyfish Deadly Sting",
+      "hook": "Box Jellyfish Kill In 3 Minutes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Orca Hunts Great White Sharks",
+      "hook": "Orcas Hunt Great Whites For Livers...",
+      "status": "pending"
+    },
+    {
+      "topic": "African Wild Dog Pack Hunting",
+      "hook": "Wild Dogs Have 80 Percent Success Rate...",
+      "status": "pending"
+    },
+    {
+      "topic": "Saltwater Crocodile Death Roll",
+      "hook": "Croc Death Rolls Tear Prey Apart...",
+      "status": "pending"
+    },
+    {
+      "topic": "Secretary Bird Stomps Snakes",
+      "hook": "This Bird Stomps Snakes To Death...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tasmanian Devil Bone Crushing Bite",
+      "hook": "Tasmanian Devils Bite Through Bones...",
+      "status": "pending"
+    },
+    {
+      "topic": "Stonefish Deadliest Fish",
+      "hook": "Stonefish Venom Causes Instant Paralysis...",
+      "status": "pending"
+    },
+    {
+      "topic": "Inland Taipan Venom Potency",
+      "hook": "One Bite Kills 100 Grown Men...",
+      "status": "pending"
+    },
+    {
+      "topic": "Polar Bear Hunts Beluga Whales",
+      "hook": "Polar Bears Dive 12 Feet For Whales...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cone Snail Deadly Harpoon",
+      "hook": "This Snail Shoots Poisonous Harpoons...",
+      "status": "pending"
+    },
+    {
+      "topic": "Harpy Eagle Snatches Monkeys",
+      "hook": "Harpy Eagles Snatch Monkeys From Trees...",
+      "status": "pending"
+    },
+    {
+      "topic": "Candiru Fish Attacks Humans",
+      "hook": "This Fish Swims Up Your Urethra...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giant Anteater Kills Jaguars",
+      "hook": "Anteaters Kill Jaguars With Claws...",
+      "status": "pending"
+    },
+    {
+      "topic": "Blue Ringed Octopus Venom",
+      "hook": "Tiny Octopus Kills 26 People...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gharial Crocodile Fish Specialist",
+      "hook": "This Croc Has 110 Razor Teeth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Leopard Seal Hunts Penguins",
+      "hook": "Leopard Seals Launch Penguins 15 Feet...",
+      "status": "pending"
+    },
+    {
+      "topic": "Brazilian Wandering Spider Venom",
+      "hook": "Deadliest Spider Hides In Bananas...",
+      "status": "pending"
+    },
+    {
+      "topic": "Moose Charges Trains",
+      "hook": "Angry Moose Charge Moving Trains...",
+      "status": "pending"
+    },
+    {
+      "topic": "Poison Dart Frog Skin Toxins",
+      "hook": "One Frog Kills 10 Grown Men...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tiger Shark Eats Anything",
+      "hook": "Tiger Sharks Eat License Plates...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giant Petrel Vomit Defense",
+      "hook": "This Bird Vomits Acid At Attackers...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sperm Whale Deepest Diver",
+      "hook": "Sperm Whales Dive 10000 Feet Deep...",
+      "status": "pending"
+    },
+    {
+      "topic": "Black Mamba Speed Strike",
+      "hook": "Black Mambas Strike 12 Times Instantly...",
+      "status": "pending"
+    },
+    {
+      "topic": "Peacock Mantis Shrimp Vision",
+      "hook": "This Shrimp Sees Colors You Cannot...",
+      "status": "pending"
+    },
+    {
+      "topic": "Grizzly Bear Skull Crushing Bite",
+      "hook": "Grizzlies Bite With 1160 Pounds Force...",
+      "status": "pending"
+    },
+    {
+      "topic": "Goblin Shark Extending Jaws",
+      "hook": "This Shark Launches Its Jaws Forward...",
+      "status": "pending"
+    },
+    {
+      "topic": "Haast Eagle Hunted Humans",
+      "hook": "Extinct Eagle Hunted Ancient Humans...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giant Squid Deep Sea Monster",
+      "hook": "Giant Squid Have Eyes Like Basketballs...",
+      "status": "pending"
+    },
+    {
+      "topic": "Hyena Bite Force Breaks Bones",
+      "hook": "Hyenas Crack Elephant Bones Easily...",
+      "status": "pending"
+    },
+    {
+      "topic": "Deathstalker Scorpion Venom",
+      "hook": "Deathstalker Venom Attacks Your Brain...",
+      "status": "pending"
+    },
+    {
+      "topic": "Archerfish Shoots Water Bullets",
+      "hook": "This Fish Shoots Insects From Air...",
+      "status": "pending"
+    },
+    {
+      "topic": "Peregrine Falcon Dive Speed",
+      "hook": "Falcons Dive At 240 Miles Per Hour...",
+      "status": "pending"
+    },
+    {
+      "topic": "Nile Crocodile Ambush Predator",
+      "hook": "Nile Crocs Wait Underwater For Years...",
+      "status": "pending"
+    },
+    {
+      "topic": "Coconut Crab Breaks Coconuts",
+      "hook": "This Crab Crushes Skulls With Claws...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tarantula Hawk Wasp Sting",
+      "hook": "Most Painful Insect Sting On Earth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Anaconda Constriction Power",
+      "hook": "Anacondas Crush With 90 Pounds Pressure...",
+      "status": "pending"
+    },
+    {
+      "topic": "Barracuda Speed Attack",
+      "hook": "Barracudas Hit 36 Miles Per Hour...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sydney Funnel Web Spider Fangs",
+      "hook": "This Spider Bites Through Fingernails...",
+      "status": "pending"
+    },
+    {
+      "topic": "Goliath Birdeater Size",
+      "hook": "This Spider Weighs More Than Puppies...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bull Shark Freshwater Attacks",
+      "hook": "Bull Sharks Swim Up Rivers Inland...",
+      "status": "pending"
+    },
+    {
+      "topic": "King Cobra Neurotoxic Venom",
+      "hook": "King Cobras Inject Entire Cups Venom...",
+      "status": "pending"
+    },
+    {
+      "topic": "Jaguar Skull Crushing Bite",
+      "hook": "Jaguars Bite Directly Through Skulls...",
+      "status": "pending"
+    },
+    {
+      "topic": "Army Ants Colony Raids",
+      "hook": "Army Ants Devour Everything Alive...",
+      "status": "pending"
+    },
+    {
+      "topic": "Cookiecutter Shark Bite Chunks",
+      "hook": "This Shark Bites Perfect Cookie Shapes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Crowned Eagle Hunts Monkeys",
+      "hook": "This Eagle Specializes In Primates...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sloth Bear Attacks Humans",
+      "hook": "Sloth Bears Maul More Than Tigers...",
+      "status": "pending"
+    },
+    {
+      "topic": "Vampire Bat Blood Feeding",
+      "hook": "Vampire Bats Drink Half Their Weight...",
+      "status": "pending"
+    },
+    {
+      "topic": "Thresher Shark Tail Whip",
+      "hook": "This Shark Whips Prey To Death...",
+      "status": "pending"
+    },
+    {
+      "topic": "Japanese Giant Hornet Venom",
+      "hook": "Giant Hornets Melt Human Flesh...",
+      "status": "pending"
+    },
+    {
+      "topic": "Greenland Shark Lives 500 Years",
+      "hook": "This Shark Was Born In 1500...",
+      "status": "pending"
+    },
+    {
+      "topic": "Platypus Venomous Spurs",
+      "hook": "Male Platypus Venom Causes Agony...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolverine Frog Breaks Own Bones",
+      "hook": "This Frog Breaks Bones Into Claws...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giant Pacific Octopus Intelligence",
+      "hook": "This Octopus Escapes Any Tank...",
+      "status": "pending"
+    },
+    {
+      "topic": "Stoat Hypnotic Dance Kills",
+      "hook": "Stoats Hypnotize Prey With Dance...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bombardier Beetle Chemical Spray",
+      "hook": "This Beetle Shoots Boiling Acid...",
+      "status": "pending"
+    },
+    {
+      "topic": "Saltwater Crocodile Size Record",
+      "hook": "Largest Croc Ever Was 23 Feet...",
+      "status": "pending"
+    },
+    {
+      "topic": "Osprey Fishing Technique",
+      "hook": "Ospreys Dive Feet First Into Water...",
+      "status": "pending"
+    },
+    {
+      "topic": "Inland Taipan Strike Speed",
+      "hook": "Fastest Snake Strikes 8 Times Instantly...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolverine Scavenger Strength",
+      "hook": "Wolverines Drag Entire Moose Carcasses...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giant Centipede Hunts Bats",
+      "hook": "This Centipede Catches Flying Bats...",
+      "status": "pending"
+    },
+    {
+      "topic": "African Buffalo Kills Lions",
+      "hook": "Buffalo Kill More Lions Than Vice Versa...",
+      "status": "pending"
+    },
+    {
+      "topic": "Blue Whale Heart Size",
+      "hook": "Blue Whale Hearts Weigh 400 Pounds...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tarantula Urticating Hairs",
+      "hook": "Tarantulas Shoot Barbed Hairs At Eyes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Pufferfish Tetrodotoxin Poison",
+      "hook": "Pufferfish Poison Has No Antidote...",
+      "status": "pending"
+    },
+    {
+      "topic": "Geoduck Clam Lifespan",
+      "hook": "This Clam Lives 168 Years...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolverine Territorial Aggression",
+      "hook": "Wolverines Patrol 500 Square Miles...",
+      "status": "pending"
+    },
+    {
+      "topic": "Lionfish Venomous Spines",
+      "hook": "Lionfish Have 18 Venomous Needles...",
+      "status": "pending"
+    },
+    {
+      "topic": "Moray Eel Second Jaw",
+      "hook": "Moray Eels Have Alien Pharyngeal Jaws...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giant Otter Hunts Caimans",
+      "hook": "Giant Otters Gang Up On Crocodiles...",
+      "status": "pending"
+    },
+    {
+      "topic": "Irukandji Jellyfish Tiny Terror",
+      "hook": "Worlds Deadliest Jellyfish Is Tiny...",
+      "status": "pending"
+    },
+    {
+      "topic": "Anaconda Swallows Prey Whole",
+      "hook": "Anacondas Swallow Full Grown Deer...",
+      "status": "pending"
+    },
+    {
+      "topic": "Shoebill Stork Decapitates Prey",
+      "hook": "This Bird Decapitates Prey Instantly...",
+      "status": "pending"
+    },
+    {
+      "topic": "Alligator Snapping Turtle Bite",
+      "hook": "This Turtle Bites Through Broomsticks...",
+      "status": "pending"
+    },
+    {
+      "topic": "Tiger Territory Size",
+      "hook": "Tigers Patrol 386 Square Miles Alone...",
+      "status": "pending"
+    },
+    {
+      "topic": "Assassin Bug Wears Corpses",
+      "hook": "This Bug Wears Dead Bodies...",
+      "status": "pending"
+    },
+    {
+      "topic": "Goblin Shark Rare Deep Sea",
+      "hook": "Goblin Sharks Live 4300 Feet Deep...",
+      "status": "pending"
+    },
+    {
+      "topic": "Rhino Beetle Strength",
+      "hook": "This Beetle Lifts 850 Times Weight...",
+      "status": "pending"
+    },
+    {
+      "topic": "Aye Aye Finds Grubs",
+      "hook": "Aye Ayes Hear Grubs Inside Trees...",
+      "status": "pending"
+    },
+    {
+      "topic": "Stonefish Camouflage Master",
+      "hook": "Stonefish Are Completely Invisible...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mata Mata Turtle Vacuum Mouth",
+      "hook": "This Turtle Vacuums Prey Whole...",
+      "status": "pending"
+    },
+    {
+      "topic": "Electric Catfish Stuns Prey",
+      "hook": "This Catfish Generates 350 Volts...",
+      "status": "pending"
+    },
+    {
+      "topic": "Dragonfly Hunting Success Rate",
+      "hook": "Dragonflies Catch 95 Percent Of Prey...",
+      "status": "pending"
+    },
+    {
+      "topic": "Wolverine Climbs Vertical Cliffs",
+      "hook": "Wolverines Scale Sheer Ice Walls...",
+      "status": "pending"
+    },
+    {
+      "topic": "Giant Isopod Deep Sea Scavenger",
+      "hook": "This Deep Sea Bug Stays Alive Years Without Food...",
+      "status": "pending"
+    },
+    {
+      "topic": "Sawfish Blade Weapon",
+      "hook": "Sawfish Slash Prey With Chainsaws...",
+      "status": "pending"
+    },
+    {
+      "topic": "Bald Eagle Grip Strength",
+      "hook": "Bald Eagles Grip With 400 Pounds...",
+      "status": "pending"
+    },
+    {
+      "topic": "Fer De Lance Snake Aggression",
+      "hook": "This Snake Causes Most Human Deaths...",
+      "status": "pending"
+    },
+    {
+      "topic": "Gharial Crocodile Population Collapse",
+      "hook": "Only 200 Gharials Remain On Earth...",
+      "status": "pending"
+    },
+    {
+      "topic": "Horned Lizard Shoots Blood",
+      "hook": "This Lizard Shoots Blood From Eyes...",
+      "status": "pending"
+    },
+    {
+      "topic": "Goliath Grouper Swallows Sharks",
+      "hook": "This Fish Swallows 4 Foot Sharks...",
+      "status": "pending"
+    },
+    {
+      "topic": "Mantis Shrimp Color Vision",
+      "hook": "Mantis Shrimp See 16 Color Channels...",
+      "status": "pending"
+    }
+  ]
+}

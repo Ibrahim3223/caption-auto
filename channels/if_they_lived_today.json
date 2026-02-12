@@ -1,0 +1,509 @@
+{
+  "channel_id": "if_they_lived_today",
+  "channel_name": "If They Lived Today",
+  "github_environment": "If They Lived Today",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "history",
+    "what if",
+    "historical figures",
+    "modern day",
+    "education",
+    "shorts"
+  ],
+  "pexels_search_prefix": "modern city life",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "topic": "Einstein With ChatGPT",
+      "status": "pending",
+      "hook": "Einstein Would Break ChatGPT..."
+    },
+    {
+      "topic": "Mozart On TikTok",
+      "status": "pending",
+      "hook": "Mozart Would Dominate TikTok..."
+    },
+    {
+      "topic": "Cleopatra Instagram Queen",
+      "status": "pending",
+      "hook": "Cleopatra Would Own Instagram..."
+    },
+    {
+      "topic": "Napoleon With Nuclear Weapons",
+      "status": "pending",
+      "hook": "Napoleon With Nukes Changes Everything..."
+    },
+    {
+      "topic": "Tesla Would Break Internet",
+      "status": "pending",
+      "hook": "Tesla Would Revolutionize Technology Today..."
+    },
+    {
+      "topic": "Da Vinci Sees AI Art",
+      "status": "pending",
+      "hook": "Da Vinci Sees AI Art..."
+    },
+    {
+      "topic": "Genghis Khan With Drones",
+      "status": "pending",
+      "hook": "Genghis Khan With Military Drones..."
+    },
+    {
+      "topic": "Shakespeare Writing Netflix Shows",
+      "status": "pending",
+      "hook": "Shakespeare Would Dominate Netflix..."
+    },
+    {
+      "topic": "Marie Curie In Modern Lab",
+      "status": "pending",
+      "hook": "Marie Curie With Modern Technology..."
+    },
+    {
+      "topic": "Julius Caesar On Twitter",
+      "status": "pending",
+      "hook": "Caesar Would Control Social Media..."
+    },
+    {
+      "topic": "Beethoven With Spotify",
+      "status": "pending",
+      "hook": "Beethoven Would Break Spotify Records..."
+    },
+    {
+      "topic": "Joan Of Arc Leading Protests",
+      "status": "pending",
+      "hook": "Joan Of Arc Would Lead Millions..."
+    },
+    {
+      "topic": "Steve Jobs Meets Zuckerberg",
+      "status": "pending",
+      "hook": "Steve Jobs Would Destroy Zuckerberg..."
+    },
+    {
+      "topic": "Aristotle On YouTube",
+      "status": "pending",
+      "hook": "Aristotle Would Dominate YouTube Education..."
+    },
+    {
+      "topic": "Gandhi Using Social Media",
+      "status": "pending",
+      "hook": "Gandhi Would Change Social Media..."
+    },
+    {
+      "topic": "Van Gogh With Instagram",
+      "status": "pending",
+      "hook": "Van Gogh Would Finally Be Rich..."
+    },
+    {
+      "topic": "Picasso Sees Digital Art",
+      "status": "pending",
+      "hook": "Picasso Would Hate Digital Art..."
+    },
+    {
+      "topic": "MLK Jr With Modern Media",
+      "status": "pending",
+      "hook": "MLK Would Transform Modern America..."
+    },
+    {
+      "topic": "Alexander The Great With Tanks",
+      "status": "pending",
+      "hook": "Alexander With Modern Weapons Unstoppable..."
+    },
+    {
+      "topic": "Wright Brothers See SpaceX",
+      "status": "pending",
+      "hook": "Wright Brothers See SpaceX Launch..."
+    },
+    {
+      "topic": "Galileo With James Webb Telescope",
+      "status": "pending",
+      "hook": "Galileo Sees James Webb Images..."
+    },
+    {
+      "topic": "Darwin Discovers CRISPR",
+      "status": "pending",
+      "hook": "Darwin Would Love Gene Editing..."
+    },
+    {
+      "topic": "Socrates On Reddit",
+      "status": "pending",
+      "hook": "Socrates Would Destroy Reddit Debates..."
+    },
+    {
+      "topic": "Sun Tzu Teaching Business",
+      "status": "pending",
+      "hook": "Sun Tzu Would Dominate Wall Street..."
+    },
+    {
+      "topic": "Confucius On LinkedIn",
+      "status": "pending",
+      "hook": "Confucius Would Break LinkedIn Algorithms..."
+    },
+    {
+      "topic": "Frida Kahlo On Instagram",
+      "status": "pending",
+      "hook": "Frida Kahlo Would Own Instagram Art..."
+    },
+    {
+      "topic": "Hemingway Writing Tweets",
+      "status": "pending",
+      "hook": "Hemingway Would Master Twitter Threads..."
+    },
+    {
+      "topic": "Churchill During COVID Pandemic",
+      "status": "pending",
+      "hook": "Churchill Would Handle COVID Differently..."
+    },
+    {
+      "topic": "Rosa Parks And BLM Movement",
+      "status": "pending",
+      "hook": "Rosa Parks Sees BLM Movement..."
+    },
+    {
+      "topic": "Edison Vs Elon Musk",
+      "status": "pending",
+      "hook": "Edison Would Hate Elon Musk..."
+    },
+    {
+      "topic": "Alan Turing Sees Modern AI",
+      "status": "pending",
+      "hook": "Turing Would Be Terrified Today..."
+    },
+    {
+      "topic": "Harriet Tubman Using GPS",
+      "status": "pending",
+      "hook": "Harriet Tubman With Modern Technology..."
+    },
+    {
+      "topic": "Marco Polo On Google Maps",
+      "status": "pending",
+      "hook": "Marco Polo Discovers Google Maps..."
+    },
+    {
+      "topic": "Nostradamus Predicting 2026",
+      "status": "pending",
+      "hook": "Nostradamus Predicted This Exactly..."
+    },
+    {
+      "topic": "Queen Victoria Sees Modern Royals",
+      "status": "pending",
+      "hook": "Queen Victoria Would Be Furious..."
+    },
+    {
+      "topic": "Benjamin Franklin With Bitcoin",
+      "status": "pending",
+      "hook": "Ben Franklin Would Love Crypto..."
+    },
+    {
+      "topic": "Sigmund Freud On TikTok",
+      "status": "pending",
+      "hook": "Freud Would Analyze TikTok Trends..."
+    },
+    {
+      "topic": "Bruce Lee Sees UFC",
+      "status": "pending",
+      "hook": "Bruce Lee Would Dominate UFC..."
+    },
+    {
+      "topic": "Nikola Tesla Vs Jeff Bezos",
+      "status": "pending",
+      "hook": "Tesla Would Destroy Jeff Bezos..."
+    },
+    {
+      "topic": "Helen Keller With Modern Tech",
+      "status": "pending",
+      "hook": "Helen Keller Discovers Modern Technology..."
+    },
+    {
+      "topic": "Rasputin On Dating Apps",
+      "status": "pending",
+      "hook": "Rasputin Would Break Dating Apps..."
+    },
+    {
+      "topic": "Machiavelli In Modern Politics",
+      "status": "pending",
+      "hook": "Machiavelli Would Control Modern Politics..."
+    },
+    {
+      "topic": "Edgar Allan Poe Writing Horror",
+      "status": "pending",
+      "hook": "Poe Would Terrify Modern Audiences..."
+    },
+    {
+      "topic": "Columbus Discovers Google Earth",
+      "status": "pending",
+      "hook": "Columbus Sees Google Earth Map..."
+    },
+    {
+      "topic": "Jane Austen Writing Rom-Coms",
+      "status": "pending",
+      "hook": "Jane Austen Would Dominate Romance..."
+    },
+    {
+      "topic": "Malcolm X On Social Media",
+      "status": "pending",
+      "hook": "Malcolm X Would Transform Twitter..."
+    },
+    {
+      "topic": "Blackbeard The Pirate Today",
+      "status": "pending",
+      "hook": "Blackbeard Would Be A Billionaire..."
+    },
+    {
+      "topic": "Anne Frank Sees Instagram",
+      "status": "pending",
+      "hook": "Anne Frank Would Warn Us..."
+    },
+    {
+      "topic": "Oscar Wilde On Twitter",
+      "status": "pending",
+      "hook": "Oscar Wilde Would Break Twitter..."
+    },
+    {
+      "topic": "Harriet Beecher Stowe Today",
+      "status": "pending",
+      "hook": "Harriet Stowe Would Expose Everything..."
+    },
+    {
+      "topic": "Plato Teaching Online",
+      "status": "pending",
+      "hook": "Plato Would Revolutionize Online Education..."
+    },
+    {
+      "topic": "Copernicus With NASA Data",
+      "status": "pending",
+      "hook": "Copernicus Sees NASA Universe Maps..."
+    },
+    {
+      "topic": "Houdini Escaping Modern Security",
+      "status": "pending",
+      "hook": "Houdini Would Break Out Anywhere..."
+    },
+    {
+      "topic": "JFK In 2026 Politics",
+      "status": "pending",
+      "hook": "JFK Would Change Everything Today..."
+    },
+    {
+      "topic": "Marilyn Monroe On Instagram",
+      "status": "pending",
+      "hook": "Marilyn Would Have Billions Followers..."
+    },
+    {
+      "topic": "Abraham Lincoln Using Twitter",
+      "status": "pending",
+      "hook": "Lincoln Would Unite Social Media..."
+    },
+    {
+      "topic": "Florence Nightingale Fighting COVID",
+      "status": "pending",
+      "hook": "Florence Would Have Saved Millions..."
+    },
+    {
+      "topic": "King Arthur With Modern Army",
+      "status": "pending",
+      "hook": "King Arthur Would Conquer Nations..."
+    },
+    {
+      "topic": "Mark Twain Writing Satire Today",
+      "status": "pending",
+      "hook": "Mark Twain Would Roast Everyone..."
+    },
+    {
+      "topic": "Amelia Earhart Sees SpaceX",
+      "status": "pending",
+      "hook": "Amelia Would Fly To Mars..."
+    },
+    {
+      "topic": "Walt Disney With CGI",
+      "status": "pending",
+      "hook": "Walt Disney Discovers Modern Animation..."
+    },
+    {
+      "topic": "Tchaikovsky Making EDM Music",
+      "status": "pending",
+      "hook": "Tchaikovsky Would Dominate EDM Festivals..."
+    },
+    {
+      "topic": "Caravaggio With Photoshop",
+      "status": "pending",
+      "hook": "Caravaggio Discovers Digital Painting Tools..."
+    },
+    {
+      "topic": "Boudicca Leading Feminism",
+      "status": "pending",
+      "hook": "Boudicca Would Lead Modern Feminism..."
+    },
+    {
+      "topic": "H.P. Lovecraft Sees Horror Today",
+      "status": "pending",
+      "hook": "Lovecraft Would Be Terrified Now..."
+    },
+    {
+      "topic": "Mary Shelley Creating Sci-Fi",
+      "status": "pending",
+      "hook": "Mary Shelley Would Predict Our Future..."
+    },
+    {
+      "topic": "Isaac Newton With Quantum Physics",
+      "status": "pending",
+      "hook": "Newton Discovers Quantum Mechanics Today..."
+    },
+    {
+      "topic": "Virginia Woolf On Mental Health",
+      "status": "pending",
+      "hook": "Virginia Woolf Would Change Mental Health..."
+    },
+    {
+      "topic": "Spartacus Leading Revolution",
+      "status": "pending",
+      "hook": "Spartacus Would Start Global Revolution..."
+    },
+    {
+      "topic": "Emily Dickinson On Instagram Poetry",
+      "status": "pending",
+      "hook": "Emily Dickinson Would Dominate Poetry..."
+    },
+    {
+      "topic": "Michelangelo With 3D Printing",
+      "status": "pending",
+      "hook": "Michelangelo Discovers 3D Printing Technology..."
+    },
+    {
+      "topic": "Thomas Jefferson Sees America Now",
+      "status": "pending",
+      "hook": "Thomas Jefferson Would Be Shocked..."
+    },
+    {
+      "topic": "Hypatia Teaching Mathematics Online",
+      "status": "pending",
+      "hook": "Hypatia Would Revolutionize STEM Education..."
+    },
+    {
+      "topic": "Attila The Hun With Missiles",
+      "status": "pending",
+      "hook": "Attila With Modern Weapons Unstoppable..."
+    },
+    {
+      "topic": "Sappho Writing Love Songs",
+      "status": "pending",
+      "hook": "Sappho Would Dominate Pop Music..."
+    },
+    {
+      "topic": "Ramses II Sees Dubai",
+      "status": "pending",
+      "hook": "Ramses Discovers Modern Architecture Marvels..."
+    },
+    {
+      "topic": "Ada Lovelace Coding AI",
+      "status": "pending",
+      "hook": "Ada Lovelace Would Program Better AI..."
+    },
+    {
+      "topic": "Cleopatra Negotiating Oil Deals",
+      "status": "pending",
+      "hook": "Cleopatra Would Control World Economy..."
+    },
+    {
+      "topic": "Frederick Douglass On Police Reform",
+      "status": "pending",
+      "hook": "Frederick Douglass Would Demand Justice..."
+    },
+    {
+      "topic": "Marie Antoinette Sees Wealth Gap",
+      "status": "pending",
+      "hook": "Marie Antoinette Would Be Cancelled..."
+    },
+    {
+      "topic": "Archimedes With Supercomputers",
+      "status": "pending",
+      "hook": "Archimedes Would Solve Everything Today..."
+    },
+    {
+      "topic": "Susan B Anthony Fighting Sexism",
+      "status": "pending",
+      "hook": "Susan Anthony Would Lead MeToo..."
+    },
+    {
+      "topic": "Cesar Chavez Organizing Workers",
+      "status": "pending",
+      "hook": "Cesar Chavez Would Unite Gig Workers..."
+    },
+    {
+      "topic": "Eleanor Roosevelt Using Podcasts",
+      "status": "pending",
+      "hook": "Eleanor Would Have Biggest Podcast..."
+    },
+    {
+      "topic": "Hammurabi Creating Modern Law",
+      "status": "pending",
+      "hook": "Hammurabi Would Rewrite All Laws..."
+    },
+    {
+      "topic": "Rachel Carson Fighting Climate Change",
+      "status": "pending",
+      "hook": "Rachel Carson Would Save Our Planet..."
+    },
+    {
+      "topic": "Alexander Hamilton On Wall Street",
+      "status": "pending",
+      "hook": "Hamilton Would Control Wall Street..."
+    },
+    {
+      "topic": "Hatshepsut As Female CEO",
+      "status": "pending",
+      "hook": "Hatshepsut Would Dominate Corporate World..."
+    },
+    {
+      "topic": "Euclid Teaching Geometry Online",
+      "status": "pending",
+      "hook": "Euclid Would Revolutionize Math Education..."
+    },
+    {
+      "topic": "Saladin Negotiating Peace Treaties",
+      "status": "pending",
+      "hook": "Saladin Would End All Wars..."
+    },
+    {
+      "topic": "Hildegard Of Bingen Making Music",
+      "status": "pending",
+      "hook": "Hildegard Would Create New Genre..."
+    },
+    {
+      "topic": "Hannibal With Modern Military Strategy",
+      "status": "pending",
+      "hook": "Hannibal Would Be Unbeatable Today..."
+    },
+    {
+      "topic": "Hypatia Debating On Twitter",
+      "status": "pending",
+      "hook": "Hypatia Would Destroy Twitter Arguments..."
+    },
+    {
+      "topic": "Voltaire Roasting Politicians",
+      "status": "pending",
+      "hook": "Voltaire Would Cancel Every Politician..."
+    },
+    {
+      "topic": "Sojourner Truth Fighting Injustice",
+      "status": "pending",
+      "hook": "Sojourner Truth Would Lead Justice Movement..."
+    },
+    {
+      "topic": "Simon Bolivar Uniting Latin America",
+      "status": "pending",
+      "hook": "Bolivar Would Unite Continents Today..."
+    },
+    {
+      "topic": "Catherine The Great Ruling Russia",
+      "status": "pending",
+      "hook": "Catherine Would Transform Modern Russia..."
+    },
+    {
+      "topic": "Pythagoras Teaching Khan Academy",
+      "status": "pending",
+      "hook": "Pythagoras Would Revolutionize Online Learning..."
+    }
+  ]
+}
