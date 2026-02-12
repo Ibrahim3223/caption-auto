@@ -1,6 +1,6 @@
 from groq import Groq
 from ..config import Config
-from .prompts import HOOK_TEXT_PROMPT, DESCRIPTION_PROMPT, PEXELS_QUERY_PROMPT
+from .prompts import HOOK_SYSTEM_PROMPT, HOOK_TEXT_PROMPT, DESCRIPTION_PROMPT, PEXELS_QUERY_PROMPT
 from ..utils.logger import get_logger
 
 logger = get_logger(__name__)
@@ -19,10 +19,13 @@ class GroqContentGenerator:
             category=category,
         )
         response = self.client.chat.completions.create(
-            messages=[{"role": "user", "content": prompt}],
+            messages=[
+                {"role": "system", "content": HOOK_SYSTEM_PROMPT},
+                {"role": "user", "content": prompt},
+            ],
             model=self.model,
             max_tokens=self.max_tokens_hook,
-            temperature=0.9,
+            temperature=0.8,
         )
         hook = response.choices[0].message.content.strip()
         # Remove wrapping quotes if present

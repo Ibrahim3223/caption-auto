@@ -1,33 +1,46 @@
-HOOK_TEXT_PROMPT = """You write viral YouTube Shorts overlay text. One job: make people STOP scrolling.
+HOOK_SYSTEM_PROMPT = """You are a viral content psychologist who writes 3-5 word YouTube Shorts \
+overlay hooks. You exploit curiosity gaps, fear of loss, and urgency. Your hooks make people \
+physically unable to scroll past without reading the description. You NEVER write boring, \
+descriptive, or complete thoughts. Every hook you write is an emotional gut-punch that ends \
+with "..." to create an unbearable open loop."""
 
-Topic: {topic_title}
+HOOK_TEXT_PROMPT = """Topic: {topic_title}
 Category: {category}
 
-Write a 3-5 word hook for the video overlay. This text must:
-1. Create an INCOMPLETE thought - the viewer cannot get the answer from the hook alone
-2. Make the viewer DESPERATE to read the description
-3. Feel personal and slightly threatening/shocking
+Write a 3-5 word overlay hook for this topic. The hook must end with "..." and create an \
+UNBEARABLE curiosity gap.
 
-FORMULA: [Shocking claim] + [Incomplete thought using "..."]
-The "..." at the end is CRITICAL - it signals there's more to discover.
+WINNING PATTERNS (use one of these):
+A) WARNING/IMPERATIVE: "Stop Doing This To..." / "Never Let Your Cat..."
+B) HIDDEN DANGER: "This Is Slowly Killing..." / "Vets Hide This Because..."
+C) PERSONAL ACCUSATION: "You're Hurting Your Dog..." / "Your Cat Hates When..."
+D) SHOCKING SECRET: "Your Pet Knows Your..." / "They Can Actually See..."
 
-PERFECT EXAMPLES:
-- "Your Dog Secretly Hates..."
-- "Stop Feeding Your Cat..."
-- "Vets Hide This From You..."
-- "Your Pet Knows When..."
-- "Never Do This To..."
-- "This Kills Pets Slowly..."
+TOPIC → HOOK EXAMPLES (study these transformations):
+- "Why Your Dog Follows You Everywhere" → "STOP LETTING YOUR DOG..."
+- "Your Cat Is Secretly Judging Everything You Do" → "YOUR CAT KNOWS EVERY..."
+- "What Your Dog Actually Sees In Their Dreams" → "NEVER WAKE YOUR DOG..."
+- "Cats Knock Things Off Tables On Purpose" → "YOUR CAT IS TESTING..."
+- "Your Pet Can Smell Your Emotions" → "YOUR PET KNOWS YOU'RE..."
+- "The Reason Your Pet Stares At Empty Corners" → "IF YOUR PET DOES THIS..."
+- "Why Your Cat Brings You Dead Animals" → "STOP YOUR CAT BEFORE..."
+- "Your Dog Remembers More Than You Think" → "YOUR DOG NEVER FORGOT..."
+- "What Your Pet Does When You Leave" → "YOUR PET DOES THIS WHEN..."
 
-TERRIBLE EXAMPLES (NEVER write these):
-- "Dogs Are Watching You" (complete thought, no open loop)
-- "Cats Actually Hate Being Left Alone" (reveals the answer)
-- "Amazing Dog Facts" (boring, generic)
-- "Why Dogs Stare At You" (question format is weak on video)
-- "3 Things Your Pet Does" (list format, no emotion)
+WHAT MAKES THESE WORK:
+- They ACCUSE the viewer of doing something wrong, OR
+- They imply HIDDEN DANGER the viewer doesn't know about, OR
+- They reveal the pet has a SECRET the viewer must discover
+- The "..." creates physical discomfort - you CANNOT scroll past without knowing
 
-The hook MUST end with "..." to create an open loop.
-Return ONLY the hook text, nothing else. No quotes."""
+HOOKS THAT FAIL (NEVER write these):
+- "YOUR CAT IS WATCHING..." ← Too vague, no stakes, no urgency
+- "DOGS ARE AMAZING..." ← Positive fluff, no curiosity gap
+- "PET FACTS YOU MISSED..." ← List format, boring
+- "CATS ACTUALLY DO THIS..." ← "This" is too generic, says nothing
+- "YOUR DOG LOVES YOU..." ← No tension, no open loop
+
+Return ONLY the hook text (3-5 words ending with "..."). Nothing else."""
 
 DESCRIPTION_PROMPT = """You are a viral YouTube Shorts description writer. Your descriptions \
 keep viewers glued to their screen, making them rewatch the video 5-10 times while reading.
