@@ -89,24 +89,15 @@ class FFmpegProcessor:
             f"crop={w}:{h},fps={self.fps},setsar=1[scaled]"
         )
 
-        # Step 2: Dark overlays for text readability
-        # Top region: semi-transparent black behind hook text
-        # Bottom region: semi-transparent black behind CTA
-        gradient_overlay = (
-            f"[scaled]drawbox=x=0:y=0:w={w}:h={int(h * 0.45)}:"
-            f"color=black@0.5:t=fill[topdarken];"
-            f"[topdarken]drawbox=x=0:y={int(h * 0.70)}:w={w}:h={int(h * 0.30)}:"
-            f"color=black@0.4:t=fill[darkened]"
-        )
-
-        # Step 3: Hook text overlays (multi-line, with fade-in)
+        # Step 2: Hook text overlays - no dark overlay needed,
+        # thick outline + strong shadow handles readability on any background
         lines = wrap_hook_text(hook_text)
         hook_filters = self._build_hook_text_filters(lines)
 
-        # Step 4: CTA banner at bottom with arrow
+        # Step 3: CTA banner at bottom
         cta_filter = self._build_cta_banner_filter()
 
-        # Step 5: Audio mixing
+        # Step 4: Audio mixing
         if has_audio:
             audio_mix = (
                 f"[0:a]volume=0.3[vorig];"
@@ -120,14 +111,14 @@ class FFmpegProcessor:
                 f"afade=t=out:st={self.max_duration - 1}:d=1[aout]"
             )
 
-        parts = [scale_crop, gradient_overlay] + hook_filters + [cta_filter, audio_mix]
+        parts = [scale_crop] + hook_filters + [cta_filter, audio_mix]
         return ";".join(parts)
 
     def _build_hook_text_filters(self, lines: list[str]) -> list[str]:
         filters = []
         line_height = self.hook_font_size + 20
         start_y = int(self.height * 0.18)
-        prev_label = "darkened"
+        prev_label = "scaled"
 
         for i, line in enumerate(lines):
             escaped = escape_ffmpeg_text(line)
@@ -145,10 +136,10 @@ class FFmpegProcessor:
                 f"fontcolor=white:"
                 f"fontsize={self.hook_font_size}:"
                 f"alpha='{alpha_expr}':"
-                f"borderw=4:"
-                f"bordercolor=black@0.8:"
-                f"shadowcolor=black@0.7:"
-                f"shadowx=3:shadowy=3:"
+                f"borderw=5:"
+                f"bordercolor=black:"
+                f"shadowcolor=black@0.8:"
+                f"shadowx=4:shadowy=4:"
                 f"x=(w-text_w)/2:"
                 f"y={y_pos}"
                 f"[{out_label}]"
@@ -163,8 +154,8 @@ class FFmpegProcessor:
         return filters
 
     def _build_cta_banner_filter(self) -> str:
-        # Down arrow + text
-        cta_text = escape_ffmpeg_text("READ THE DESCRIPTION \u2B07")
+        # Clean text, no unicode emojis (font doesn't support them)
+        cta_text = escape_ffmpeg_text("READ THE DESCRIPTION")
         y_pos = int(self.height * 0.80)
         box_padding = 22
 

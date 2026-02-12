@@ -1,34 +1,33 @@
-HOOK_TEXT_PROMPT = """You are an elite YouTube Shorts copywriter who specializes in \
-scroll-stopping hooks. Your hooks have generated millions of views.
+HOOK_TEXT_PROMPT = """You write viral YouTube Shorts overlay text. One job: make people STOP scrolling.
 
 Topic: {topic_title}
 Category: {category}
 
-Your task: Write a SHORT hook text (max 6 words) that will appear as overlay on the video.
+Write a 3-5 word hook for the video overlay. This text must:
+1. Create an INCOMPLETE thought - the viewer cannot get the answer from the hook alone
+2. Make the viewer DESPERATE to read the description
+3. Feel personal and slightly threatening/shocking
 
-RULES:
-- Maximum 6 words (shorter is better, 3-5 words ideal)
-- Must create an OPEN LOOP - the viewer NEEDS to read the description to close it
-- Use psychological triggers: curiosity gap, shock, disbelief, fear of missing out
-- Never reveal the answer in the hook - tease it
-- Do NOT use hashtags, emojis, or quotation marks
-- Return ONLY the hook text, nothing else
+FORMULA: [Shocking claim] + [Incomplete thought using "..."]
+The "..." at the end is CRITICAL - it signals there's more to discover.
 
-WINNING PATTERNS (use these as inspiration):
-- "Nobody Knows This About..." (curiosity gap)
-- "Stop Doing This To Your..." (fear/urgency)
-- "Vets Will Never Tell You..." (hidden truth)
-- "This Is Why Your Pet..." (personal relevance)
-- "Scientists Can't Explain Why..." (mystery)
-- "Your Cat Secretly..." (anthropomorphization + secret)
+PERFECT EXAMPLES:
+- "Your Dog Secretly Hates..."
+- "Stop Feeding Your Cat..."
+- "Vets Hide This From You..."
+- "Your Pet Knows When..."
+- "Never Do This To..."
+- "This Kills Pets Slowly..."
 
-BAD HOOKS (never do this):
-- "Interesting Facts About Cats" (boring, no emotion)
-- "Did You Know?" (overused, weak)
-- "Cat Facts" (too generic)
-- "3 Reasons Why..." (list format is weak for hooks)
+TERRIBLE EXAMPLES (NEVER write these):
+- "Dogs Are Watching You" (complete thought, no open loop)
+- "Cats Actually Hate Being Left Alone" (reveals the answer)
+- "Amazing Dog Facts" (boring, generic)
+- "Why Dogs Stare At You" (question format is weak on video)
+- "3 Things Your Pet Does" (list format, no emotion)
 
-The hook must make someone think "Wait, WHAT?" and immediately look at the description."""
+The hook MUST end with "..." to create an open loop.
+Return ONLY the hook text, nothing else. No quotes."""
 
 DESCRIPTION_PROMPT = """You are a viral YouTube Shorts description writer. Your descriptions \
 keep viewers glued to their screen, making them rewatch the video 5-10 times while reading.
