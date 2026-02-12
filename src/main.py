@@ -39,9 +39,13 @@ def process_channel(channel_file: Path, config: Config) -> bool:
     work_dir = Path(tempfile.mkdtemp(prefix=f"shorts_{channel.channel_id}_"))
 
     try:
-        # Step 1: Generate hook text and description via Groq
-        logger.info(f"[{channel.channel_id}] Generating content with Groq...")
-        hook_text = groq.generate_hook_text(topic.title, channel.category)
+        # Step 1: Get hook text (pre-written or AI-generated) and description
+        if topic.hook:
+            hook_text = topic.hook
+            logger.info(f"[{channel.channel_id}] Using pre-written hook: {hook_text}")
+        else:
+            logger.info(f"[{channel.channel_id}] Generating hook with Groq...")
+            hook_text = groq.generate_hook_text(topic.title, channel.category)
         description = groq.generate_description(
             topic.title, channel.category, channel.channel_name
         )

@@ -9,6 +9,7 @@ class Topic:
     id: int
     title: str
     status: str  # "pending" | "published"
+    hook: Optional[str] = None
     published_date: Optional[str] = None
     video_id: Optional[str] = None
 
@@ -44,6 +45,7 @@ def load_channel(file_path: Path) -> Channel:
             id=t["id"],
             title=t["title"],
             status=t["status"],
+            hook=t.get("hook"),
             published_date=t.get("published_date"),
             video_id=t.get("video_id"),
         )
