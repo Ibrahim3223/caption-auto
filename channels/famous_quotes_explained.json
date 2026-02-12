@@ -20,7 +20,9 @@
       "id": 1,
       "title": "What Einstein Really Meant By This Quote",
       "hook": "Einstein Never Said This...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-12T19:19:01.742741+00:00",
+      "video_id": "eCXlNgC1nxI"
     },
     {
       "id": 2,
