@@ -1,0 +1,620 @@
+{
+  "channel_id": "famous_quotes_explained",
+  "channel_name": "Famous Quotes Explained",
+  "github_environment": "Famous Quotes Explained",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "quotes",
+    "famous",
+    "explained",
+    "meaning",
+    "wisdom",
+    "inspiration",
+    "shorts"
+  ],
+  "pexels_search_prefix": "thinking person",
+  "music_mood": "inspirational",
+  "topics": [
+    {
+      "id": 1,
+      "title": "What Einstein Really Meant By This Quote",
+      "hook": "Einstein Never Said This...",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "The Dark Truth Behind Marie Antoinette's Quote",
+      "hook": "She Never Said Let Them Eat Cake...",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Why This Gandhi Quote Is Completely Fake",
+      "hook": "Gandhi Never Wrote These Words...",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "The Real Meaning Behind Blood Sweat and Tears",
+      "hook": "Churchill Stole This Quote From...",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "What Nietzsche Actually Meant By That",
+      "hook": "This Was Taken Out Of Context...",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "title": "The Shocking Origin of Jack of All Trades",
+      "hook": "The Full Quote Means The Opposite...",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "title": "Why Money Is The Root of Evil Is Wrong",
+      "hook": "They Cut Out The Most Important Word...",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "title": "The Lost Context of Curiosity Killed the Cat",
+      "hook": "The Second Half Changes Everything...",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "title": "What Frankenstein Never Said About Monsters",
+      "hook": "Frankenstein Was Not The Monster...",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "title": "The Misquoted Sherlock Holmes Line Everyone Uses",
+      "hook": "Holmes Never Said Elementary My Dear...",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "title": "Why This Mandela Quote Is Totally Fabricated",
+      "hook": "Mandela Never Said This...",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "title": "The Dark Original Meaning of Blood Is Thicker",
+      "hook": "The Original Quote Meant The Opposite...",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "title": "What Darwin Really Said About Survival",
+      "hook": "Darwin Never Used These Exact Words...",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "title": "The Fake MLK Quote Everyone Shares",
+      "hook": "Mlk Never Wrote This Sentence...",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "title": "Why Luke I Am Your Father Is Wrong",
+      "hook": "Vader Never Said Luke In That Scene...",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "title": "The Real Author Behind This Famous Quote",
+      "hook": "Shakespeare Stole This From...",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "title": "What Marilyn Monroe Actually Meant By This",
+      "hook": "The Full Quote Was Cut Short...",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "title": "The Mistranslated Buddha Quote Everyone Uses",
+      "hook": "Buddha Spoke In Pali Not English...",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "title": "Why Great Power Quote Isnt From Spiderman",
+      "hook": "This Quote Is Centuries Old...",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "title": "The Fake Voltaire Quote About Disagreeing",
+      "hook": "Voltaire Never Said This...",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "title": "What Descartes Really Meant By I Think",
+      "hook": "The Translation Lost The Meaning...",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "title": "The Dark Truth About Shoot for the Moon",
+      "hook": "This Quote Has A Dark Origin...",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "title": "Why This Einstein Insanity Quote Is Fake",
+      "hook": "Einstein Never Defined Insanity...",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "title": "The Real Meaning of Rome Wasnt Built",
+      "hook": "The Full Quote Is A Warning...",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "title": "What Plato Actually Said About Democracy",
+      "hook": "Plato Hated Democracy Actually...",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "title": "The Fabricated Steve Jobs Quote About Focus",
+      "hook": "Jobs Never Said This Publicly...",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "title": "Why This Mark Twain Quote Is Ironic",
+      "hook": "Twain Never Wrote Most Twain Quotes...",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "title": "The Lost Context of Evil Men Do Lives After",
+      "hook": "Shakespeare Meant Something Darker...",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "title": "What Jefferson Really Meant By Pursuit",
+      "hook": "Pursuit Meant Something Else Then...",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "title": "The Misquoted Lincoln Battle Quote",
+      "hook": "Lincoln Never Said This...",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "title": "Why Hell Hath No Fury Is Incomplete",
+      "hook": "The Second Line Changes Everything...",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "title": "The Real Author of Winners Never Quit",
+      "hook": "This Quote Was Marketing Slogan...",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "title": "What Kafka Actually Meant By This Quote",
+      "hook": "The Translation Was Completely Wrong...",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "title": "The Fake Benjamin Franklin Kite Quote",
+      "hook": "Franklin Never Wrote This Down...",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "title": "Why Beam Me Up Scotty Was Never Said",
+      "hook": "Kirk Never Said These Words...",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "title": "The Dark Origin of Every Cloud Quote",
+      "hook": "The Original Had A Dark Twist...",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "title": "What Socrates Really Said About Wisdom",
+      "hook": "Socrates Wrote Nothing Down...",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "title": "The Fabricated Tesla Quote About Future",
+      "hook": "Tesla Never Said This Sentence...",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "title": "Why This Oscar Wilde Quote Is Backwards",
+      "hook": "Wilde Meant The Opposite Thing...",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "title": "The Real Meaning Behind Carpe Diem",
+      "hook": "Seize The Day Misses The Point...",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "title": "What Hemingway Never Said About Writing",
+      "hook": "Hemingway Never Wrote This Quote...",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "title": "The Misattributed JFK Moon Speech Line",
+      "hook": "Jfk Borrowed This From Another Speech...",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "title": "Why This Sun Tzu Quote Is Completely Fake",
+      "hook": "Sun Tzu Never Wrote This...",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "title": "The Lost Context of Necessity Mother Quote",
+      "hook": "Plato Meant This As A Criticism...",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "title": "What Freud Actually Meant By Cigar Quote",
+      "hook": "Freud Probably Never Said This...",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "title": "The Fake Confucius Quote About Journey",
+      "hook": "Confucius Never Said Single Step...",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "title": "Why Play It Again Sam Is Wrong",
+      "hook": "Bogart Never Said Play It Again...",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "title": "The Real Author of Live Laugh Love",
+      "hook": "This Quote Has A Dark History...",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "title": "What Camus Really Meant By Absurd",
+      "hook": "The Translation Failed Completely...",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "title": "The Fabricated Churchill Democracy Quote",
+      "hook": "Churchill Never Said This...",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "title": "Why This Yoda Quote Makes No Sense",
+      "hook": "Do Or Do Not Was Rewritten...",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "title": "The Mistranslated Rumi Quote Everyone Loves",
+      "hook": "Rumi Wrote In Persian Not English...",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "title": "What Newton Really Meant By Shoulders",
+      "hook": "Newton Was Being Sarcastic Actually...",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "title": "The Fake Wayne Gretzky Shot Quote",
+      "hook": "Gretzky Stole This From Someone Else...",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "title": "Why Early Bird Quote Is Incomplete",
+      "hook": "The Second Half Warns You...",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "title": "The Real Context of Nero Fiddling Quote",
+      "hook": "Nero Never Played The Fiddle...",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "title": "What Orwell Actually Said About Future",
+      "hook": "Orwell Never Wrote Boot On Face...",
+      "status": "pending"
+    },
+    {
+      "id": 58,
+      "title": "The Fabricated Mother Teresa Quote",
+      "hook": "Mother Teresa Never Said This...",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "title": "Why This Aristotle Quote Is Backwards",
+      "hook": "Aristotle Meant The Opposite Thing...",
+      "status": "pending"
+    },
+    {
+      "id": 60,
+      "title": "The Dark Origin of Boys Will Be Boys",
+      "hook": "The Original Quote Was About Growth...",
+      "status": "pending"
+    },
+    {
+      "id": 61,
+      "title": "What Wilde Really Meant By Gutter Quote",
+      "hook": "The Full Quote Is Much Darker...",
+      "status": "pending"
+    },
+    {
+      "id": 62,
+      "title": "The Misquoted Bible Eye for Eye Line",
+      "hook": "Jesus Said The Opposite After...",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "title": "Why This Da Vinci Quote Is Fake",
+      "hook": "Da Vinci Wrote In Mirror Script...",
+      "status": "pending"
+    },
+    {
+      "id": 64,
+      "title": "The Lost Meaning of Ignorance Is Bliss",
+      "hook": "The Poem Meant Something Else...",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "title": "What Washington Never Said About Lies",
+      "hook": "Washington Never Chopped Cherry Tree...",
+      "status": "pending"
+    },
+    {
+      "id": 66,
+      "title": "The Fabricated Napoleon Height Quote",
+      "hook": "Napoleon Was Not Short Actually...",
+      "status": "pending"
+    },
+    {
+      "id": 67,
+      "title": "Why Houston We Have Problem Is Wrong",
+      "hook": "Lovell Said Had Not Have...",
+      "status": "pending"
+    },
+    {
+      "id": 68,
+      "title": "The Real Author of What Doesnt Kill You",
+      "hook": "Nietzsche Meant This Literally Not Metaphor...",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "title": "What Poe Actually Meant By Nevermore",
+      "hook": "The Raven Was About Loss...",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "title": "The Misattributed Einstein God Quote",
+      "hook": "Einstein Was Not Religious Actually...",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "title": "Why Build It They Will Come Is Wrong",
+      "hook": "The Movie Said He Will Come...",
+      "status": "pending"
+    },
+    {
+      "id": 72,
+      "title": "The Dark Context of Spare Rod Quote",
+      "hook": "The Full Verse Is Much Worse...",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "title": "What Tolstoy Really Meant By Happy",
+      "hook": "The Translation Missed The Irony...",
+      "status": "pending"
+    },
+    {
+      "id": 74,
+      "title": "The Fake Bill Gates Internet Quote",
+      "hook": "Gates Never Said This Prediction...",
+      "status": "pending"
+    },
+    {
+      "id": 75,
+      "title": "Why This Thoreau Quote Is Incomplete",
+      "hook": "The Second Half Changes Everything...",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "title": "The Real Meaning Behind Et Tu Brute",
+      "hook": "Caesar Probably Didnt Say This...",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "title": "What Austen Never Wrote About Pride",
+      "hook": "Austen Never Said This Line...",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "title": "The Fabricated Edison Genius Quote",
+      "hook": "Edison Stole Most Of His Ideas...",
+      "status": "pending"
+    },
+    {
+      "id": 79,
+      "title": "Why This Dali Quote Makes No Sense",
+      "hook": "Dali Never Spoke Eng Lish Well...",
+      "status": "pending"
+    },
+    {
+      "id": 80,
+      "title": "The Lost Context of Actions Speak Quote",
+      "hook": "The Original Was About Silence...",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "title": "What Warhol Really Meant By 15 Minutes",
+      "hook": "Warhol Was Being Sarcastic Actually...",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "title": "The Misquoted Fitzgerald Jazz Age Line",
+      "hook": "Fitzgerald Hated The Jazz Age...",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "title": "Why This Hawking Quote Is Simplified",
+      "hook": "The Real Theory Is Much Darker...",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "title": "The Fake Cleopatra Beauty Quote",
+      "hook": "Cleopatra Was Not Beautiful Actually...",
+      "status": "pending"
+    },
+    {
+      "id": 85,
+      "title": "What Banksy Never Said About Art",
+      "hook": "Banksy Never Confirmed This...",
+      "status": "pending"
+    },
+    {
+      "id": 86,
+      "title": "The Fabricated Picasso Steal Quote",
+      "hook": "Picasso Actually Stole This Quote...",
+      "status": "pending"
+    },
+    {
+      "id": 87,
+      "title": "Why Me Tarzan You Jane Is Wrong",
+      "hook": "Tarzan Never Said This In Book...",
+      "status": "pending"
+    },
+    {
+      "id": 88,
+      "title": "The Real Author of Time Heals Quote",
+      "hook": "This Quote Is From A Tragedy...",
+      "status": "pending"
+    },
+    {
+      "id": 89,
+      "title": "What Dickens Meant By Best of Times",
+      "hook": "Dickens Was Being Ironic Actually...",
+      "status": "pending"
+    },
+    {
+      "id": 90,
+      "title": "The Misattributed Bruce Lee Water Quote",
+      "hook": "Lee Borrowed This From Ancient Text...",
+      "status": "pending"
+    },
+    {
+      "id": 91,
+      "title": "Why This Sagan Quote Is Incomplete",
+      "hook": "The Full Quote Has A Warning...",
+      "status": "pending"
+    },
+    {
+      "id": 92,
+      "title": "The Dark Truth Behind Disney Dream Quote",
+      "hook": "Disney Never Said If You Can Dream...",
+      "status": "pending"
+    },
+    {
+      "id": 93,
+      "title": "What Lennon Really Meant By Imagine",
+      "hook": "Lennon Owned Multiple Mansions...",
+      "status": "pending"
+    },
+    {
+      "id": 94,
+      "title": "The Fake Chomsky Manufacturing Quote",
+      "hook": "Chomsky Never Wrote This Exact Line...",
+      "status": "pending"
+    },
+    {
+      "id": 95,
+      "title": "Why This Angelou Quote Is Misunderstood",
+      "hook": "Angelou Meant The Opposite Thing...",
+      "status": "pending"
+    },
+    {
+      "id": 96,
+      "title": "The Lost Meaning of Fortune Favors Bold",
+      "hook": "The Romans Used This As Warning...",
+      "status": "pending"
+    },
+    {
+      "id": 97,
+      "title": "What Twain Really Said About Travel",
+      "hook": "Twain Never Left America Much...",
+      "status": "pending"
+    },
+    {
+      "id": 98,
+      "title": "The Fabricated Feynman Physics Quote",
+      "hook": "Feynman Never Said This In Lecture...",
+      "status": "pending"
+    },
+    {
+      "id": 99,
+      "title": "Why This Rowling Quote Is Backwards",
+      "hook": "Rowling Meant This As Self Criticism...",
+      "status": "pending"
+    },
+    {
+      "id": 100,
+      "title": "The Real Context of History Repeats Quote",
+      "hook": "Marx Added The Farce Part...",
+      "status": "pending"
+    }
+  ]
+}

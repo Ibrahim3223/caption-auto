@@ -1,0 +1,620 @@
+{
+  "channel_id": "tales_of_the_forgotten_realms",
+  "channel_name": "Tales of The Forgotten Realms",
+  "github_environment": "Tales of The Forgotten Realms",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "history",
+    "stories",
+    "ancient",
+    "historical",
+    "facts",
+    "education",
+    "shorts"
+  ],
+  "pexels_search_prefix": "ancient ruins",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "The Emperor Who Made His Horse A Senator",
+      "hook": "This Roman Emperor Did The Unthinkable...",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "The War That Lasted 38 Minutes",
+      "hook": "The Shortest War In History Was Brutal...",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "The Dancing Plague of 1518",
+      "hook": "Hundreds Danced Until They Dropped Dead...",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "The Library of Alexandria Burned",
+      "hook": "We Lost Millennia Of Knowledge...",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "The Civilization That Vanished Overnight",
+      "hook": "They Disappeared Without A Trace...",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "title": "The Pope Who Put a Corpse on Trial",
+      "hook": "They Dug Up A Dead Pope For Justice...",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "title": "The Ancient Battery Found in Iraq",
+      "hook": "Electricity Existed 2000 Years Ago...",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "title": "The Great Emu War of 1932",
+      "hook": "Australia Lost A War To Birds Seriously...",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "title": "The Tower of Babel Was Real",
+      "hook": "Archaeologists Found The Actual Tower...",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "title": "The Emperor Who Declared War on the Sea",
+      "hook": "He Ordered His Army To Stab Water...",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "title": "The Ancient Computer from 100 BC",
+      "hook": "They Had Technology We Cannot Explain...",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "title": "The City Built Entirely Underground",
+      "hook": "20000 People Lived Beneath The Earth...",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "title": "The Pharaoh Erased from History",
+      "hook": "Egypt Deleted This Ruler From Existence...",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "title": "The Trial of Animals in Medieval Courts",
+      "hook": "They Put Pigs On Trial For Murder...",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "title": "The Lost Roman Legion in China",
+      "hook": "Roman Soldiers Ended Up In Ancient China...",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "title": "The Lighthouse That Saved Civilization",
+      "hook": "This Ancient Wonder Guided The World...",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "title": "The Kingdom Ruled By Children",
+      "hook": "Kids Controlled An Entire Nation For Years...",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "title": "The Mysterious Disappearance of Roanoke",
+      "hook": "117 Colonists Vanished Without A Word...",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "title": "The Emperor Who Searched for Immortality",
+      "hook": "His Quest For Eternal Life Killed Him...",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "title": "The Ancient Greeks Had Flamethrowers",
+      "hook": "Greek Fire Burned Even On Water...",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "title": "The Forgotten Female Pharaoh",
+      "hook": "She Ruled Egypt But History Books Hid Her...",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "title": "The Time Two Popes Ruled at Once",
+      "hook": "The Church Split In Half For Decades...",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "title": "The Voynich Manuscript Mystery",
+      "hook": "This Ancient Book Cannot Be Decoded...",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "title": "The Empire That Fell in One Day",
+      "hook": "Centuries Of Power Collapsed Overnight...",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "title": "The Ancient Surgery That Actually Worked",
+      "hook": "They Drilled Holes In Skulls And Survived...",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "title": "The War Started By a Wooden Horse",
+      "hook": "Troy Fell For The Oldest Trick Ever...",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "title": "The Mummy Curse That Killed 12 People",
+      "hook": "Opening This Tomb Brought Only Death...",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "title": "The Civilization That Built With Sound",
+      "hook": "They Moved Stones Using Only Vibrations...",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "title": "The Roman Emperor Who Was Only 11",
+      "hook": "A Child Ruled The Greatest Empire On Earth...",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "title": "The Ancient Map That Shows Antarctica",
+      "hook": "This Map Predates Its Official Discovery...",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "title": "The Execution Method Too Brutal to Describe",
+      "hook": "History Books Refuse To Detail This...",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "title": "The Lost City of Gold",
+      "hook": "El Dorado Might Actually Be Real...",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "title": "The Queen Who Bathed in Blood",
+      "hook": "She Murdered 650 Girls For Beauty...",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "title": "The Ancient Civilization With Modern Plumbing",
+      "hook": "They Had Running Water 4000 Years Ago...",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "title": "The Philosopher Who Died Laughing",
+      "hook": "His Own Joke Literally Killed Him...",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "title": "The War That Never Officially Ended",
+      "hook": "These Two Nations Are Still At War Today...",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "title": "The Tomb That Took 40 Years to Build",
+      "hook": "This Monument Required 700000 Workers...",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "title": "The Ancient Stones That Float",
+      "hook": "Science Cannot Explain These Rocks...",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "title": "The King Who Sold His Kingdom",
+      "hook": "He Traded An Entire Nation For Crusade Funds...",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "title": "The Secret Society That Shaped History",
+      "hook": "They Controlled Empires From The Shadows...",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "title": "The Explosion Heard 3000 Miles Away",
+      "hook": "Krakatoa Eruption Was The Loudest Sound Ever...",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "title": "The Ancient Astronomer Who Predicted Eclipses",
+      "hook": "He Calculated The Stars Without Telescopes...",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "title": "The Warrior Queen Who Fought Rome",
+      "hook": "She Nearly Destroyed The Empire...",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "title": "The City That Sank Beneath the Waves",
+      "hook": "Atlantis Might Have Been Found Finally...",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "title": "The Prince Who Became a Beggar",
+      "hook": "He Abandoned Royalty To Find Enlightenment...",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "title": "The Ancient Weapon That Changed War",
+      "hook": "This Invention Made Castles Useless...",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "title": "The Mathematician Killed for His Discovery",
+      "hook": "His Proof Was So Deadly They Drowned Him...",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "title": "The Empire Built on Salt",
+      "hook": "This White Gold Created Kings And Wars...",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "title": "The Plague That Killed Half of Europe",
+      "hook": "The Black Death Erased 200 Million Lives...",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "title": "The Ancient Pyramid Older Than Egypt",
+      "hook": "These Structures Predate The Pharaohs...",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "title": "The Viking Who Discovered America First",
+      "hook": "Columbus Arrived 500 Years Too Late...",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "title": "The Ruler Who Changed Gender",
+      "hook": "History Erased This Incredible Story...",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "title": "The Ancient Concrete That Lasts Forever",
+      "hook": "Roman Formula Beats Modern Science...",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "title": "The Prophet Who Predicted His Death",
+      "hook": "He Knew Exactly When And How He Would Die...",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "title": "The Treasure Hidden for 2000 Years",
+      "hook": "The Dead Sea Scrolls Revealed Everything...",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "title": "The Army That Disappeared in the Desert",
+      "hook": "50000 Soldiers Vanished In A Sandstorm...",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "title": "The Ancient Surgery Performed While Awake",
+      "hook": "They Operated On Brains Without Anesthesia...",
+      "status": "pending"
+    },
+    {
+      "id": 58,
+      "title": "The Emperor Who Burned Books",
+      "hook": "He Destroyed All Knowledge Before His Reign...",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "title": "The Island Where Time Stopped",
+      "hook": "This Place Stayed Medieval For Centuries...",
+      "status": "pending"
+    },
+    {
+      "id": 60,
+      "title": "The Ancient Observatory Built in Stone",
+      "hook": "Stonehenge Was A Giant Calendar All Along...",
+      "status": "pending"
+    },
+    {
+      "id": 61,
+      "title": "The King Who Defied the Pope",
+      "hook": "He Created A New Religion For Divorce...",
+      "status": "pending"
+    },
+    {
+      "id": 62,
+      "title": "The Ancient Writing No One Can Read",
+      "hook": "Linear A Remains A Complete Mystery...",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "title": "The Warrior Who Never Lost a Battle",
+      "hook": "He Won 214 Consecutive Combats...",
+      "status": "pending"
+    },
+    {
+      "id": 64,
+      "title": "The City Built by One Man",
+      "hook": "He Carved An Entire Metropolis Alone...",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "title": "The Ancient Medical Text Still Used Today",
+      "hook": "These 2000 Year Old Cures Still Work...",
+      "status": "pending"
+    },
+    {
+      "id": 66,
+      "title": "The Empire That Collapsed from Inflation",
+      "hook": "Money Became So Worthless Rome Fell...",
+      "status": "pending"
+    },
+    {
+      "id": 67,
+      "title": "The Ancient Geoglyphs Seen From Space",
+      "hook": "Nazca Lines Were Drawn For The Gods...",
+      "status": "pending"
+    },
+    {
+      "id": 68,
+      "title": "The Queen Who Ruled Disguised as a Man",
+      "hook": "She Fooled An Entire Kingdom For Years...",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "title": "The Philosopher Who Lived in a Barrel",
+      "hook": "He Rejected All Wealth And Comfort...",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "title": "The Ancient Calendar More Accurate Than Ours",
+      "hook": "The Mayans Calculated Time Perfectly...",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "title": "The Ruler Who Built a Wall Across China",
+      "hook": "It Took 2000 Years And Million Lives...",
+      "status": "pending"
+    },
+    {
+      "id": 72,
+      "title": "The Ancient Ship That Sailed Alone",
+      "hook": "The Mary Celeste Crew Vanished Mid Voyage...",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "title": "The Emperor Who Ate Poison Daily",
+      "hook": "He Built Immunity To Every Toxin Known...",
+      "status": "pending"
+    },
+    {
+      "id": 74,
+      "title": "The Ancient Superweapon Called Archimedes Ray",
+      "hook": "He Burned Ships Using Only Mirrors...",
+      "status": "pending"
+    },
+    {
+      "id": 75,
+      "title": "The Civilization That Never Used Money",
+      "hook": "The Inca Empire Had No Currency Ever...",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "title": "The King Who Touched Everything Into Gold",
+      "hook": "The Midas Curse Was Actually Real...",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "title": "The Ancient Power Plant in Egypt",
+      "hook": "The Great Pyramid May Have Made Energy...",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "title": "The Warrior Monks Who Never Retreated",
+      "hook": "Spartans Chose Death Over Surrender...",
+      "status": "pending"
+    },
+    {
+      "id": 79,
+      "title": "The Ancient Text Written in Blood",
+      "hook": "This Grimoire Required Human Sacrifice...",
+      "status": "pending"
+    },
+    {
+      "id": 80,
+      "title": "The Emperor Who Wanted to Live Forever",
+      "hook": "His Mercury Pills Actually Killed Him...",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "title": "The Ancient Road That Connected the World",
+      "hook": "The Silk Road Shaped Every Civilization...",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "title": "The Throne Made of Swords",
+      "hook": "1000 Blades From Conquered Enemies Built It...",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "title": "The Ancient Poison Garden of Death",
+      "hook": "One Touch Of These Plants Kills You...",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "title": "The City That Moved Underground",
+      "hook": "Seattle Buried Its Entire First Floor...",
+      "status": "pending"
+    },
+    {
+      "id": 85,
+      "title": "The Ancient Assassins Who Never Failed",
+      "hook": "The Hashashins Never Missed A Target...",
+      "status": "pending"
+    },
+    {
+      "id": 86,
+      "title": "The Ruler Who Conquered Three Continents",
+      "hook": "Alexander Died At 32 Ruling Half The World...",
+      "status": "pending"
+    },
+    {
+      "id": 87,
+      "title": "The Ancient Monster That Was Real",
+      "hook": "Megalodon Sharks Were 60 Feet Long...",
+      "status": "pending"
+    },
+    {
+      "id": 88,
+      "title": "The Prophecy That Caused a War",
+      "hook": "One Prediction Destroyed Two Empires...",
+      "status": "pending"
+    },
+    {
+      "id": 89,
+      "title": "The Ancient Doomsday Book",
+      "hook": "This Census Recorded Every Person Alive...",
+      "status": "pending"
+    },
+    {
+      "id": 90,
+      "title": "The King Who Died on the Toilet",
+      "hook": "This Embarrassing Death Changed History...",
+      "status": "pending"
+    },
+    {
+      "id": 91,
+      "title": "The Ancient Stadium for 50000 People",
+      "hook": "The Colosseum Hosted Mass Executions...",
+      "status": "pending"
+    },
+    {
+      "id": 92,
+      "title": "The Empress Who Poisoned Her Enemies",
+      "hook": "She Ruled Through Fear And Toxins Alone...",
+      "status": "pending"
+    },
+    {
+      "id": 93,
+      "title": "The Ancient Bridge That Still Stands",
+      "hook": "Roman Engineering Defies Time Itself...",
+      "status": "pending"
+    },
+    {
+      "id": 94,
+      "title": "The War That Ended All Wars",
+      "hook": "World War One Killed 40 Million Souls...",
+      "status": "pending"
+    },
+    {
+      "id": 95,
+      "title": "The Ancient Mystery of Easter Island",
+      "hook": "Who Built These Giant Statues And Why...",
+      "status": "pending"
+    },
+    {
+      "id": 96,
+      "title": "The Pharaoh Who Changed Religion",
+      "hook": "He Forced Egypt To Worship One God...",
+      "status": "pending"
+    },
+    {
+      "id": 97,
+      "title": "The Ancient Metal Stronger Than Steel",
+      "hook": "Damascus Steel Secret Was Lost Forever...",
+      "status": "pending"
+    },
+    {
+      "id": 98,
+      "title": "The Explorer Who Found a New World",
+      "hook": "He Thought It Was India But Found America...",
+      "status": "pending"
+    },
+    {
+      "id": 99,
+      "title": "The Ancient Code That Hid Treasure",
+      "hook": "The Beale Cipher Promises Millions In Gold...",
+      "status": "pending"
+    },
+    {
+      "id": 100,
+      "title": "The Forgotten King Under a Parking Lot",
+      "hook": "Richard Three Was Buried And Forgotten...",
+      "status": "pending"
+    }
+  ]
+}

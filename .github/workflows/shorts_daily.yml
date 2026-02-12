@@ -1,12 +1,10 @@
-name: YouTube Shorts Pipeline
+name: YouTube Shorts - Daily Automated
 
 on:
   schedule:
-    # Run 3 times daily at 08:00, 14:00, 20:00 UTC
+    # Run 2 times daily at 08:00 and 20:00 UTC (different from other system)
     - cron: '0 8 * * *'
-    - cron: '0 14 * * *'
     - cron: '0 20 * * *'
-  workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write

@@ -1,0 +1,621 @@
+{
+  "channel_id": "taxwise_usa",
+  "channel_name": "TaxWise USA",
+  "github_environment": "TaxWise USA",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "tax",
+    "taxes",
+    "usa",
+    "irs",
+    "money",
+    "finance",
+    "education",
+    "shorts"
+  ],
+  "pexels_search_prefix": "money calculator",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "This Common Deduction Most Americans Miss",
+      "hook": "The Irs Hides This From Millions...",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "The IRS Does Not Want You To Know This",
+      "hook": "You Can Deduct This But...",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Home Office Deduction Secrets",
+      "hook": "Most Americans Miss This...",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "Charitable Donation Tax Trap",
+      "hook": "This Costs You Thousands...",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "Medical Expense Deduction Loophole",
+      "hook": "Your Doctor Bills Can Save You...",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "title": "Student Loan Interest You Can Claim",
+      "hook": "Paying Student Loans Wrong...",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "title": "Mortgage Interest Mistake Everyone Makes",
+      "hook": "Your Bank Hides This From You...",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "title": "Child Tax Credit You Are Missing",
+      "hook": "Parents Lose Thousands Yearly...",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "title": "401k Contribution Limit Most Ignore",
+      "hook": "You Can Contribute More Than...",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "title": "Side Hustle Tax Deductions",
+      "hook": "Your Side Gig Cant Be Taxed If...",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "title": "State Tax Deduction The IRS Allows",
+      "hook": "Deduct State Taxes From Federal...",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "title": "Business Meal Deduction Rules Changed",
+      "hook": "Business Lunches Are Now...",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "title": "Car Mileage Deduction Calculator",
+      "hook": "Every Mile You Drive Saves...",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "title": "Energy Efficient Home Tax Credit",
+      "hook": "New Windows Give You Thousands...",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "title": "Retirement Account Withdrawal Penalty",
+      "hook": "Touching Your 401K Before 59 Costs...",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "title": "Capital Gains Tax Avoidance Strategy",
+      "hook": "Sell Stocks Like This To Avoid...",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "title": "Crypto Tax Reporting Requirements",
+      "hook": "The Irs Knows About Your Crypto...",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "title": "Freelancer Quarterly Tax Mistake",
+      "hook": "Miss This Deadline Pay Huge Penalty...",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "title": "Dependent Claim Rules You Miss",
+      "hook": "Your Adult Child Still Counts If...",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "title": "IRA Contribution Deadline Extension",
+      "hook": "You Have Until April To...",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "title": "Tax Audit Red Flags To Avoid",
+      "hook": "Do This And The Irs Will Audit...",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "title": "Standard Deduction vs Itemizing",
+      "hook": "Most People Choose The Wrong One...",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "title": "Education Credit Worth Thousands",
+      "hook": "College Tuition Gives You Back...",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "title": "Moving Expenses Deduction Removed",
+      "hook": "You Can No Longer Deduct This...",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "title": "HSA Triple Tax Advantage",
+      "hook": "This Account Beats 401K For Taxes...",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "title": "Alimony Tax Rule Change",
+      "hook": "Divorced After 2019 Pay More Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "title": "Gambling Loss Deduction Limit",
+      "hook": "Casino Losses Only Count If You...",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "title": "Self Employment Tax Shock",
+      "hook": "Freelancers Pay Double The Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "title": "Gift Tax Exemption Amount",
+      "hook": "You Can Give Away This Much Tax Free...",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "title": "Rental Property Depreciation Benefit",
+      "hook": "Your Rental House Loses Value But...",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "title": "Social Security Income Taxation",
+      "hook": "Your Retirement Benefits Are Taxed...",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "title": "Estate Tax Exemption Limit",
+      "hook": "Leave Your Kids Millions Tax Free...",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "title": "Foreign Income Exclusion Rule",
+      "hook": "Work Abroad And Pay Zero Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "title": "Divorce Settlement Tax Consequences",
+      "hook": "Splitting Assets Triggers Huge Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "title": "Business Loss Carryforward Strategy",
+      "hook": "Your Failed Startup Saves Taxes For...",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "title": "Medicare Premium Surcharge Warning",
+      "hook": "Earn Too Much And Pay Extra For...",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "title": "Roth Conversion Tax Strategy",
+      "hook": "Convert Your Ira And Never Pay...",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "title": "Passive Activity Loss Limitation",
+      "hook": "Rental Losses Dont Reduce Your Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "title": "Estimated Tax Payment Calculator",
+      "hook": "Underpay Quarterly Face Huge Penalty...",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "title": "Tax Filing Extension Deadline",
+      "hook": "Need More Time But Still Pay By...",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "title": "Investment Interest Expense Deduction",
+      "hook": "Borrow To Invest Deduct The Interest...",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "title": "Adoption Tax Credit Amount",
+      "hook": "Adopt A Child Get Thousands Back...",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "title": "Disaster Loss Deduction Rules",
+      "hook": "Hurricane Damage Reduces Your Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "title": "Identity Theft Tax Refund Delay",
+      "hook": "Someone Filed Using Your Ssn...",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "title": "Innocent Spouse Relief Option",
+      "hook": "Your Partner Cheated On Taxes Not You...",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "title": "Tax Preparer Fraud Warning Signs",
+      "hook": "Your Accountant May Be Stealing From...",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "title": "Amended Return Filing Process",
+      "hook": "Found A Mistake Now File This Form...",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "title": "IRS Payment Plan Options",
+      "hook": "Owe Thousands But Pay Monthly Without...",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "title": "Offer In Compromise Acceptance Rate",
+      "hook": "Settle Your Tax Debt For Pennies...",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "title": "Tax Lien Release Timeline",
+      "hook": "Irs Lien Destroys Your Credit For...",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "title": "Wage Garnishment Stop Method",
+      "hook": "Irs Taking Your Paycheck Stop It...",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "title": "Offshore Account Reporting Penalty",
+      "hook": "Hide Foreign Money Pay Half In Fines...",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "title": "Cash Business Audit Risk",
+      "hook": "Accept Cash Only Get Audited Fast...",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "title": "Tax Evasion vs Avoidance Difference",
+      "hook": "One Is Legal One Gets You Jail Time...",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "title": "Hobby vs Business IRS Classification",
+      "hook": "Call It A Hobby Lose All Deductions...",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "title": "Independent Contractor Misclassification",
+      "hook": "Your Boss Calls You Contractor But...",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "title": "Barter Income Taxation Rule",
+      "hook": "Trade Services Pay Tax On The Value...",
+      "status": "pending"
+    },
+    {
+      "id": 58,
+      "title": "Life Insurance Payout Tax Status",
+      "hook": "Death Benefits Are Tax Free Unless...",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "title": "Unemployment Benefits Taxation",
+      "hook": "Your Jobless Checks Are Fully Taxable...",
+      "status": "pending"
+    },
+    {
+      "id": 60,
+      "title": "Inheritance Tax Free Transfer",
+      "hook": "Receive Millions Pay Zero Income Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 61,
+      "title": "Scholarship Money Tax Treatment",
+      "hook": "College Grants Are Tax Free If Used...",
+      "status": "pending"
+    },
+    {
+      "id": 62,
+      "title": "Settlement Payment Tax Category",
+      "hook": "Lawsuit Winnings Taxed Differently If...",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "title": "Cancellation Of Debt Income",
+      "hook": "Forgiven Loans Count As Taxable Income...",
+      "status": "pending"
+    },
+    {
+      "id": 64,
+      "title": "Prize Winnings Tax Withholding",
+      "hook": "Win A Car Pay Tax On Full Value...",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "title": "Nanny Tax Employer Requirement",
+      "hook": "Hire A Babysitter You Owe Payroll Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 66,
+      "title": "Online Sales Tax Nexus Rules",
+      "hook": "Sell On Ebay Now Collect Sales Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 67,
+      "title": "Gig Economy Tax Withholding",
+      "hook": "Uber Drivers Miss Quarterly Payments...",
+      "status": "pending"
+    },
+    {
+      "id": 68,
+      "title": "Airbnb Rental Income Rules",
+      "hook": "Rent Your Home Out Avoid Tax If Under...",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "title": "Stock Option Exercise Taxation",
+      "hook": "Employee Options Trigger Tax Before...",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "title": "Backdoor Roth IRA Strategy",
+      "hook": "Earn Too Much For Roth Do This Trick...",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "title": "Kiddie Tax On Investment Income",
+      "hook": "Your Kids Dividends Taxed At Your Rate...",
+      "status": "pending"
+    },
+    {
+      "id": 72,
+      "title": "Alternative Minimum Tax Trigger",
+      "hook": "Too Many Deductions Face Second Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "title": "Net Investment Income Surtax",
+      "hook": "High Earners Pay Extra Tax On...",
+      "status": "pending"
+    },
+    {
+      "id": 74,
+      "title": "Qualified Business Income Deduction",
+      "hook": "Own A Business Get 20 Percent Off Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 75,
+      "title": "Electric Vehicle Tax Credit",
+      "hook": "Buy An Ev Get Thousands Back If...",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "title": "First Time Homebuyer Benefits",
+      "hook": "Never Owned A Home Withdraw Ira No Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "title": "Solar Panel Tax Credit Amount",
+      "hook": "Install Solar Get 30 Percent Credit...",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "title": "Retirement Saver Credit Benefit",
+      "hook": "Low Income Savers Get Extra Credit...",
+      "status": "pending"
+    },
+    {
+      "id": 79,
+      "title": "Health Insurance Premium Deduction",
+      "hook": "Self Employed Deduct All Insurance Costs...",
+      "status": "pending"
+    },
+    {
+      "id": 80,
+      "title": "Tax Loss Harvesting Strategy",
+      "hook": "Sell Losing Stocks Offset Gains And...",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "title": "Bunching Deductions In Alternate Years",
+      "hook": "Double Donations Every Other Year...",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "title": "Donor Advised Fund Tax Benefit",
+      "hook": "Give To Charity Deduct Now Donate...",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "title": "Qualified Charitable Distribution",
+      "hook": "Over Age 70 Give Ira Money Tax Free...",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "title": "529 Plan Tax Free Growth",
+      "hook": "Save For College Withdrawals Never Taxed...",
+      "status": "pending"
+    },
+    {
+      "id": 85,
+      "title": "Coverdell Education Account Limit",
+      "hook": "Another Way To Save For School Tax Free...",
+      "status": "pending"
+    },
+    {
+      "id": 86,
+      "title": "Disability Income Exclusion",
+      "hook": "Disabled Workers May Pay Zero Tax On...",
+      "status": "pending"
+    },
+    {
+      "id": 87,
+      "title": "Military Combat Pay Exemption",
+      "hook": "Serve In Combat Zone Pay No Tax...",
+      "status": "pending"
+    },
+    {
+      "id": 88,
+      "title": "Minister Housing Allowance",
+      "hook": "Clergy Get Tax Free Home Benefits If...",
+      "status": "pending"
+    },
+    {
+      "id": 89,
+      "title": "Foster Care Payment Tax Status",
+      "hook": "Foster Parents Get Tax Free Stipends...",
+      "status": "pending"
+    },
+    {
+      "id": 90,
+      "title": "Workers Compensation Exclusion",
+      "hook": "Injured At Work Benefits Not Taxed...",
+      "status": "pending"
+    },
+    {
+      "id": 91,
+      "title": "Tax Refund Timing Expectation",
+      "hook": "Efile With Direct Deposit Wait Only...",
+      "status": "pending"
+    },
+    {
+      "id": 92,
+      "title": "IRS Notice Response Deadline",
+      "hook": "Ignore Irs Letter Lose Your Right To...",
+      "status": "pending"
+    },
+    {
+      "id": 93,
+      "title": "Tax Record Retention Period",
+      "hook": "Keep Tax Returns For At Least...",
+      "status": "pending"
+    },
+    {
+      "id": 94,
+      "title": "IRS Impersonation Scam Warning",
+      "hook": "Irs Never Calls Threatening Arrest...",
+      "status": "pending"
+    },
+    {
+      "id": 95,
+      "title": "Tax Software vs Professional Cost",
+      "hook": "Turbo Tax Costs Less But Misses...",
+      "status": "pending"
+    },
+    {
+      "id": 96,
+      "title": "Free File Program Eligibility",
+      "hook": "Earn Under This Amount File Free...",
+      "status": "pending"
+    },
+    {
+      "id": 97,
+      "title": "VITA Tax Help Service",
+      "hook": "Low Income Taxpayers Get Free Help At...",
+      "status": "pending"
+    },
+    {
+      "id": 98,
+      "title": "Tax Transcript Request Process",
+      "hook": "Need Proof Of Income Get Irs Transcript...",
+      "status": "pending"
+    },
+    {
+      "id": 99,
+      "title": "IRS Direct File Pilot Program",
+      "hook": "File Your Return Directly With Irs...",
+      "status": "pending"
+    },
+    {
+      "id": 100,
+      "title": "State Tax Reciprocity Agreements",
+      "hook": "Work Across State Lines Avoid Double...",
+      "status": "pending"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+name: YouTube Shorts - Manual Test
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: 'Select channel to process'
+        required: true
+        type: choice
+        options:
+          - pet_inner_monologue
+          - wt_facts_about_countries
+          - tales_of_the_forgotten_realms
+          - famous_quotes_explained
+          - taxwise_usa
+          - echo_of_the_unknown
+
+permissions:
+  contents: write
+
+jobs:
+  process-channel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # Use the environment based on the selected channel
+    environment: ${{
+      (inputs.channel == 'pet_inner_monologue' && 'Pet Inner Monologue') ||
+      (inputs.channel == 'wt_facts_about_countries' && 'WT Facts About Countries') ||
+      (inputs.channel == 'tales_of_the_forgotten_realms' && 'Tales of The Forgotten Realms') ||
+      (inputs.channel == 'famous_quotes_explained' && 'Famous Quotes Explained') ||
+      (inputs.channel == 'taxwise_usa' && 'TaxWise USA') ||
+      (inputs.channel == 'echo_of_the_unknown' && 'Echo of the Unknown')
+    }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline for ${{ inputs.channel }}
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python -m src.main --channel channels/${{ inputs.channel }}.json
+
+      - name: Commit updated channel state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels/*.json
+          git diff --staged --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update ${{ inputs.channel }} [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git pull --rebase origin main
+          git push

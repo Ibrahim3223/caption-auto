@@ -1,0 +1,620 @@
+{
+  "channel_id": "wt_facts_about_countries",
+  "channel_name": "WT Facts About Countries",
+  "github_environment": "WT Facts About Countries",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "countries",
+    "facts",
+    "geography",
+    "world",
+    "education",
+    "interesting",
+    "shorts"
+  ],
+  "pexels_search_prefix": "country landmark",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Iceland Has No Mosquitoes At All",
+      "hook": "This Country Has Zero Mosquitoes...",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Japan Has An Island Filled With Wild Rabbits",
+      "hook": "Hundreds Of Rabbits Rule This Island...",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Finland Fines Drivers Based On Their Income",
+      "hook": "One Speeding Ticket Cost 103,000...",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "Norway Knighted A Penguin",
+      "hook": "This Penguin Became A Military Knight...",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "Canada Has More Lakes Than The Rest Of The World Combined",
+      "hook": "This Nation Has 2 Million Lakes...",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "title": "Vatican City Has The Highest Crime Rate Per Capita",
+      "hook": "The Holiest Place Has Most Crime...",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "title": "Bhutan Measures Gross National Happiness Instead Of GDP",
+      "hook": "They Banned This Economic Metric...",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "title": "New Zealand Has More Sheep Than People",
+      "hook": "Sheep Outnumber Humans 5 To 1...",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "title": "Monaco Is Smaller Than Central Park",
+      "hook": "This Entire Country Fits In A Park...",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "title": "Switzerland Requires Bunkers In Every Home",
+      "hook": "Every House Has A Nuclear Shelter...",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "title": "Saudi Arabia Imports Camels From Australia",
+      "hook": "The Desert Nation Buys Camels From...",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "title": "Denmark Has An Official Flag That Falls From The Sky Legend",
+      "hook": "Their Flag Fell From Heaven...",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "title": "North Korea And Cuba Are The Only Places Without Coca-Cola",
+      "hook": "You Cannot Buy Coke In These Two...",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "title": "India Has A Floating Post Office On A Lake",
+      "hook": "This Post Office Floats On Water...",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "title": "Bolivia Has Two Capital Cities",
+      "hook": "This Nation Has Two Capitals...",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "title": "Russia Has 11 Time Zones",
+      "hook": "One Country Spans 11 Different Times...",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "title": "Egypt Has Pyramids Older Than Written History",
+      "hook": "These Structures Predate Writing...",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "title": "Australia Loses Against Emus In A War",
+      "hook": "The Military Lost To Giant Birds...",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "title": "Singapore Bans Chewing Gum Sales",
+      "hook": "You Cannot Buy Gum In This City...",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "title": "Netherlands Has More Bikes Than People",
+      "hook": "Bicycles Outnumber Citizens Here...",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "title": "Libya Is 99 Percent Desert",
+      "hook": "Only 1 Percent Is Not Sand...",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "title": "France Legally Owns The Most Time Zones",
+      "hook": "This Country Spans 12 Time Zones...",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "title": "Indonesia Has The Most Volcanoes In The World",
+      "hook": "127 Active Volcanoes In One Nation...",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "title": "Ireland Has No Native Snakes",
+      "hook": "Not A Single Snake Lives Here...",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "title": "Mongolia Has The Lowest Population Density",
+      "hook": "2 People Per Square Kilometer...",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "title": "The Philippines Has The Longest Christmas Season",
+      "hook": "Christmas Lasts 4 Months Here...",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "title": "South Korea Has Toilet Theme Parks",
+      "hook": "A Museum Dedicated To Toilets Exists...",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "title": "Brazil Borders Every South American Country Except Two",
+      "hook": "This Giant Touches 10 Countries...",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "title": "Lesotho Is Completely Surrounded By South Africa",
+      "hook": "This Entire Nation Is Inside Another...",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "title": "Turkey Is On Two Continents",
+      "hook": "One Nation Spans Europe And Asia...",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "title": "Chile Is 2,670 Miles Long But Only 110 Miles Wide",
+      "hook": "This Country Is 24 Times Longer...",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "title": "Nauru Has No Official Capital City",
+      "hook": "This Nation Has Zero Capital...",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "title": "Mexico City Sinks 10 Inches Every Year",
+      "hook": "The Capital Is Slowly Drowning...",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "title": "Afghanistan Has The Youngest Average Population",
+      "hook": "Half The Country Is Under 18...",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "title": "Japan Has Vending Machines For Everything",
+      "hook": "5 Million Machines Sell Everything...",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "title": "Ethiopia Uses A Different Calendar With 13 Months",
+      "hook": "This Nation Has 13 Months A Year...",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "title": "Somalia Has The Longest Coastline In Africa",
+      "hook": "1,880 Miles Of Unbroken Beach...",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "title": "Austria Started Both World Wars But Is Now Permanently Neutral",
+      "hook": "They Caused Two Wars Then Banned War...",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "title": "Bangladesh Is The Most Densely Populated Large Country",
+      "hook": "1,252 People Per Square Kilometer...",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "title": "Greenland Is Not Actually Green",
+      "hook": "80 Percent Is Covered In Ice...",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "title": "Peru Has More Than 3,000 Varieties Of Potatoes",
+      "hook": "One Nation Grows 3000 Potato Types...",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "title": "Madagascar Has Animals Found Nowhere Else On Earth",
+      "hook": "90 Percent Of Life Exists Only Here...",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "title": "Pakistan Has The Highest Paved International Road",
+      "hook": "This Highway Reaches 15,397 Feet High...",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "title": "Greece Has More Archaeological Museums Than Any Country",
+      "hook": "Ancient Ruins Are Everywhere Here...",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "title": "Poland Has The Biggest Castle In The World By Land Area",
+      "hook": "This Castle Covers 52 Acres Of Land...",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "title": "Venezuela Has The Highest Waterfall On Earth",
+      "hook": "Water Falls 3,212 Feet Straight Down...",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "title": "Iraq Invented Writing 5,000 Years Ago",
+      "hook": "The First Words Were Written Here...",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "title": "Yemen Has 2,500 Year Old Skyscrapers",
+      "hook": "Ancient Towers Reach 11 Stories High...",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "title": "Uganda Has The Youngest Population In The World",
+      "hook": "Average Age Is Only 15 Years...",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "title": "Portugal Decriminalized All Drugs In 2001",
+      "hook": "No Drug Is Illegal To Possess Here...",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "title": "Czech Republic Drinks The Most Beer Per Person",
+      "hook": "They Consume 468 Beers Per Year...",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "title": "Morocco Has A Blue Painted City",
+      "hook": "Every Building Is Painted Blue Here...",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "title": "Kazakhstan Is The Largest Landlocked Country",
+      "hook": "No Ocean For 1 Million Miles...",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "title": "Myanmar Has Five Different New Year Celebrations",
+      "hook": "They Celebrate New Year 5 Times...",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "title": "Albania Banned Religion For 23 Years",
+      "hook": "They Outlawed All Worship...",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "title": "Croatia Invented The Necktie",
+      "hook": "The Tie Was Born In This Nation...",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "title": "Sri Lanka Has The Highest Literacy Rate In South Asia",
+      "hook": "92 Percent Can Read And Write...",
+      "status": "pending"
+    },
+    {
+      "id": 58,
+      "title": "Fiji Has Never Won An Olympic Medal Except In Rugby",
+      "hook": "One Sport Dominates Their Olympics...",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "title": "Panama Is The Only Place Where You See Sunrise And Sunset On Different Oceans",
+      "hook": "Two Oceans Visible From One Spot...",
+      "status": "pending"
+    },
+    {
+      "id": 60,
+      "title": "Uruguay Was The First Country To Legalize Marijuana",
+      "hook": "This Tiny Nation Legalized It First...",
+      "status": "pending"
+    },
+    {
+      "id": 61,
+      "title": "Jordan Is 80 Percent Desert",
+      "hook": "Only 20 Percent Has Life On It...",
+      "status": "pending"
+    },
+    {
+      "id": 62,
+      "title": "Lebanon Has 18 Recognized Religions",
+      "hook": "18 Different Faiths Live Together...",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "title": "Estonia Has The Most Startups Per Person",
+      "hook": "One Startup For Every 1000 People...",
+      "status": "pending"
+    },
+    {
+      "id": 64,
+      "title": "Latvia Has The Tallest Women In The World",
+      "hook": "Average Height Is 5 Feet 7 Inches...",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "title": "Lithuania Was The Last Pagan Country In Europe",
+      "hook": "They Resisted Until The Year 1387...",
+      "status": "pending"
+    },
+    {
+      "id": 66,
+      "title": "Slovenia Has More Than Half Its Land Forested",
+      "hook": "58 Percent Is Pure Wilderness...",
+      "status": "pending"
+    },
+    {
+      "id": 67,
+      "title": "Slovakia Has The Highest Number Of Castles Per Person",
+      "hook": "180 Castles For 5 Million People...",
+      "status": "pending"
+    },
+    {
+      "id": 68,
+      "title": "Serbia Celebrates New Year Three Times",
+      "hook": "They Party On Three Different Days...",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "title": "Romania Has The Heaviest Building Ever Made",
+      "hook": "One Building Weighs 4 Billion Pounds...",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "title": "Bulgaria Invented The Cyrillic Alphabet",
+      "hook": "300 Million People Use Their Letters...",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "title": "Hungary Has Thermal Baths Everywhere",
+      "hook": "1500 Hot Springs Bubble Up Here...",
+      "status": "pending"
+    },
+    {
+      "id": 72,
+      "title": "Vietnam Has The Largest Cave In The World",
+      "hook": "A 747 Could Fly Through This Cave...",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "title": "Thailand Has A Monkey Feast Festival",
+      "hook": "4000 Monkeys Get A Giant Buffet...",
+      "status": "pending"
+    },
+    {
+      "id": 74,
+      "title": "Cambodia Has The Largest Religious Monument Ever Built",
+      "hook": "Angkor Wat Covers 400 Acres Of Land...",
+      "status": "pending"
+    },
+    {
+      "id": 75,
+      "title": "Laos Has More Unexploded Bombs Than People",
+      "hook": "80 Million Bombs Still Buried Here...",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "title": "Nepal Has The Only Non-Rectangular Flag",
+      "hook": "Their Flag Has Two Triangles...",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "title": "Maldives Is The Flattest Country On Earth",
+      "hook": "Highest Point Is Only 8 Feet Tall...",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "title": "Qatar Has The Highest GDP Per Capita",
+      "hook": "Average Person Earns 130000 Per Year...",
+      "status": "pending"
+    },
+    {
+      "id": 79,
+      "title": "Kuwait Has No Rivers Or Lakes",
+      "hook": "Not A Single Drop Of Natural Water...",
+      "status": "pending"
+    },
+    {
+      "id": 80,
+      "title": "Bahrain Was The First Arab State To Find Oil",
+      "hook": "They Discovered It In The Year 1932...",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "title": "Oman Has Frankincense Trees Nowhere Else Does",
+      "hook": "Biblical Treasure Grows Only Here...",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "title": "Brunei Has Free Healthcare And Education",
+      "hook": "Citizens Pay Zero For Schools Doctors...",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "title": "Azerbaijan Has Mud Volcanoes That Erupt Constantly",
+      "hook": "400 Mud Volcanoes Spit Up Earth...",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "title": "Georgia Invented Wine 8,000 Years Ago",
+      "hook": "The First Vineyard Was Planted Here...",
+      "status": "pending"
+    },
+    {
+      "id": 85,
+      "title": "Armenia Was The First Christian Nation",
+      "hook": "They Converted In The Year 301 Ad...",
+      "status": "pending"
+    },
+    {
+      "id": 86,
+      "title": "Malta Is The Most Densely Populated Country In EU",
+      "hook": "1600 People Per Square Kilometer...",
+      "status": "pending"
+    },
+    {
+      "id": 87,
+      "title": "Cyprus Is The Only Country With Its Map On The Flag",
+      "hook": "Their Flag Shows The Entire Island...",
+      "status": "pending"
+    },
+    {
+      "id": 88,
+      "title": "Luxembourg Has The Highest Minimum Wage In The World",
+      "hook": "Minimum Pay Is 2500 Per Month...",
+      "status": "pending"
+    },
+    {
+      "id": 89,
+      "title": "Liechtenstein Is The Richest Country By GDP Per Person",
+      "hook": "Average Wealth Is 180000 Per Person...",
+      "status": "pending"
+    },
+    {
+      "id": 90,
+      "title": "San Marino Is The Oldest Republic In The World",
+      "hook": "This Nation Was Founded In 301 Ad...",
+      "status": "pending"
+    },
+    {
+      "id": 91,
+      "title": "Andorra Has No Army",
+      "hook": "Zero Soldiers Defend This Nation...",
+      "status": "pending"
+    },
+    {
+      "id": 92,
+      "title": "Iceland Runs Entirely On Renewable Energy",
+      "hook": "100 Percent Clean Power Forever...",
+      "status": "pending"
+    },
+    {
+      "id": 93,
+      "title": "Tuvalu Has No Army, Navy, Or Air Force",
+      "hook": "This Nation Has Zero Military...",
+      "status": "pending"
+    },
+    {
+      "id": 94,
+      "title": "Kiribati Is The Only Country In All Four Hemispheres",
+      "hook": "They Exist In All Four Quadrants...",
+      "status": "pending"
+    },
+    {
+      "id": 95,
+      "title": "Palau Has A Jellyfish Lake Full Of Stingless Jellyfish",
+      "hook": "Millions Of Harmless Jellyfish Swim Here...",
+      "status": "pending"
+    },
+    {
+      "id": 96,
+      "title": "Tonga Never Got Colonized By Europeans",
+      "hook": "They Remained Free For 1000 Years...",
+      "status": "pending"
+    },
+    {
+      "id": 97,
+      "title": "Samoa Changed Timezones And Skipped A Whole Day",
+      "hook": "December 30 2011 Never Existed...",
+      "status": "pending"
+    },
+    {
+      "id": 98,
+      "title": "Vanuatu Has The Happiest People According To Studies",
+      "hook": "This Tiny Nation Wins Happiness Index...",
+      "status": "pending"
+    },
+    {
+      "id": 99,
+      "title": "Solomon Islands Has Bioluminescent Beaches",
+      "hook": "The Sand Glows Blue At Night...",
+      "status": "pending"
+    },
+    {
+      "id": 100,
+      "title": "Papua New Guinea Has 840 Different Languages",
+      "hook": "12 Percent Of All Languages Are Here...",
+      "status": "pending"
+    }
+  ]
+}

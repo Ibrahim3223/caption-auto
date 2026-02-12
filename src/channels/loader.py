@@ -67,7 +67,23 @@ def load_channel(file_path: Path) -> Channel:
 
 
 def get_next_pending_topic(channel: Channel) -> Optional[Topic]:
+    # First, try to find a pending topic
     for topic in channel.topics:
         if topic.status == "pending":
             return topic
-    return None
+
+    # No pending topics found - recycle the oldest published topic
+    # This ensures channels never run out of content
+    published_topics = [t for t in channel.topics if t.status == "published" and t.published_date]
+    if not published_topics:
+        return None  # No topics at all (shouldn't happen)
+
+    # Find topic with oldest published_date
+    oldest_topic = min(published_topics, key=lambda t: t.published_date)
+
+    # Reset to pending for re-upload
+    oldest_topic.status = "pending"
+    oldest_topic.published_date = None
+    oldest_topic.video_id = None
+
+    return oldest_topic

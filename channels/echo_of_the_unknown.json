@@ -1,0 +1,620 @@
+{
+  "channel_id": "echo_of_the_unknown",
+  "channel_name": "Echo of the Unknown",
+  "github_environment": "Echo of the Unknown",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": [
+    "horror",
+    "scary",
+    "creepy",
+    "mystery",
+    "paranormal",
+    "stories",
+    "shorts"
+  ],
+  "pexels_search_prefix": "dark abandoned",
+  "music_mood": "dark",
+  "topics": [
+    {
+      "id": 1,
+      "title": "The Hotel Room That Drives People Insane",
+      "hook": "Guests Check In But Never Checkout...",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "The Tunnel Where People Hear Their Own Screams",
+      "hook": "Walk In And Hear Your Future Death...",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "The Mirror That Shows Your Death",
+      "hook": "Look Once And See How You Will Die...",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "The Staircase That Never Ends",
+      "hook": "People Climb For Days With No Exit...",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "title": "The Phone Number That Kills You",
+      "hook": "Call This Number And Die In 7 Days...",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "title": "The Forest Where Time Stops",
+      "hook": "Enter At Dawn Emerge Decades Later...",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "title": "The Painting That Watches You Sleep",
+      "hook": "The Eyes Follow Every Movement...",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "title": "The Elevator to Floor 13",
+      "hook": "This Floor Does Not Exist But...",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "title": "The Doll That Moves When You Blink",
+      "hook": "Look Away For One Second And It...",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "title": "The Bridge Where Shadows Walk Alone",
+      "hook": "Your Shadow Stays Behind Forever...",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "title": "The Book That Writes Your Future",
+      "hook": "Read The Last Page And Seal Your Fate...",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "title": "The Radio Station That Broadcasts From Hell",
+      "hook": "Tune To This Frequency At Night...",
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "title": "The Basement Door That Knocks Back",
+      "hook": "Knock Three Times Something Knocks Four...",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "title": "The Cemetery Where Graves Open At Midnight",
+      "hook": "The Dead Rise But Never Leave...",
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "title": "The Photograph That Adds People",
+      "hook": "More Faces Appear Each Time You Look...",
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "title": "The Well That Echoes Tomorrow",
+      "hook": "Shout Down And Hear Your Last Words...",
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "title": "The Attic Where Children Laugh At Night",
+      "hook": "No Children Live Here Anymore But...",
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "title": "The Road That Leads Nowhere",
+      "hook": "Drive For Hours End Up Where You Began...",
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "title": "The Clock That Counts Down Your Life",
+      "hook": "When It Hits Zero Your Heart Stops...",
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "title": "The Playground Where Swings Move Alone",
+      "hook": "No Wind No Children Just Endless Swinging...",
+      "status": "pending"
+    },
+    {
+      "id": 21,
+      "title": "The Hospital Room Where Patients Never Die",
+      "hook": "Trapped Between Life And Death Forever...",
+      "status": "pending"
+    },
+    {
+      "id": 22,
+      "title": "The Lighthouse That Lures Ships to Doom",
+      "hook": "Follow The Light Never See Shore Again...",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "title": "The Music Box That Plays Your Nightmares",
+      "hook": "Open The Lid And Hear Your Fears...",
+      "status": "pending"
+    },
+    {
+      "id": 24,
+      "title": "The Cave Where Voices Call Your Name",
+      "hook": "Answer Back And Become One Of Them...",
+      "status": "pending"
+    },
+    {
+      "id": 25,
+      "title": "The Window That Shows Another World",
+      "hook": "Look Through And See Your Darkest Self...",
+      "status": "pending"
+    },
+    {
+      "id": 26,
+      "title": "The Statue That Moves Closer Each Night",
+      "hook": "Every Morning It Gets Nearer To You...",
+      "status": "pending"
+    },
+    {
+      "id": 27,
+      "title": "The Diary Written In Blood",
+      "hook": "Read One Entry Become The Next...",
+      "status": "pending"
+    },
+    {
+      "id": 28,
+      "title": "The Train That Never Arrives",
+      "hook": "Passengers Wait For Eternity On Platform...",
+      "status": "pending"
+    },
+    {
+      "id": 29,
+      "title": "The Mask That Becomes Your Face",
+      "hook": "Wear It Once And Never Take It Off...",
+      "status": "pending"
+    },
+    {
+      "id": 30,
+      "title": "The River Where Drowning Victims Swim",
+      "hook": "They Pull Others Down To Join Them...",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "title": "The Closet That Opens From Inside",
+      "hook": "Something Wants Out Every Single Night...",
+      "status": "pending"
+    },
+    {
+      "id": 32,
+      "title": "The Town That Vanished Overnight",
+      "hook": "3000 People Gone No Trace Left Behind...",
+      "status": "pending"
+    },
+    {
+      "id": 33,
+      "title": "The Teddy Bear That Cries Real Tears",
+      "hook": "When It Weeps Someone Dies Nearby...",
+      "status": "pending"
+    },
+    {
+      "id": 34,
+      "title": "The Hallway That Gets Longer At Night",
+      "hook": "Walk For Hours Never Reach The End...",
+      "status": "pending"
+    },
+    {
+      "id": 35,
+      "title": "The Ring That Tightens Around Your Finger",
+      "hook": "Put It On And Watch It Squeeze...",
+      "status": "pending"
+    },
+    {
+      "id": 36,
+      "title": "The Park Bench Where People Disappear",
+      "hook": "Sit Down For A Rest Wake Up Years Later...",
+      "status": "pending"
+    },
+    {
+      "id": 37,
+      "title": "The Typewriter That Types By Itself",
+      "hook": "It Writes Your Sins One By One By One...",
+      "status": "pending"
+    },
+    {
+      "id": 38,
+      "title": "The Swing Set That Swings At Midnight",
+      "hook": "Count The Swings Count Your Days Left...",
+      "status": "pending"
+    },
+    {
+      "id": 39,
+      "title": "The Box That Should Never Be Opened",
+      "hook": "Inside Waits Every Nightmare Ever Dreamed...",
+      "status": "pending"
+    },
+    {
+      "id": 40,
+      "title": "The Footsteps That Follow You Home",
+      "hook": "Turn Around And See Nothing But Hear Them...",
+      "status": "pending"
+    },
+    {
+      "id": 41,
+      "title": "The Baby Monitor That Picks Up Hell",
+      "hook": "Listen Closely And Hear Screaming Souls...",
+      "status": "pending"
+    },
+    {
+      "id": 42,
+      "title": "The Lake Where Bodies Rise Every Year",
+      "hook": "They Surface On The Same Date Annually...",
+      "status": "pending"
+    },
+    {
+      "id": 43,
+      "title": "The Chair That Rocks By Itself",
+      "hook": "Something Sits There Waiting For You...",
+      "status": "pending"
+    },
+    {
+      "id": 44,
+      "title": "The Polaroid That Shows Ghosts",
+      "hook": "Take A Photo And See Who Died Here...",
+      "status": "pending"
+    },
+    {
+      "id": 45,
+      "title": "The Crossroads Where Demons Make Deals",
+      "hook": "Bury The Box And Sell Your Soul...",
+      "status": "pending"
+    },
+    {
+      "id": 46,
+      "title": "The Bedroom Where Dreams Become Real",
+      "hook": "Nightmares Manifest When You Wake Up...",
+      "status": "pending"
+    },
+    {
+      "id": 47,
+      "title": "The Asylum Where Patients Still Scream",
+      "hook": "Abandoned For Years But Voices Remain...",
+      "status": "pending"
+    },
+    {
+      "id": 48,
+      "title": "The Compass That Points To Death",
+      "hook": "Follow The Needle Find Your Own Grave...",
+      "status": "pending"
+    },
+    {
+      "id": 49,
+      "title": "The Movie Theater That Shows Your Death",
+      "hook": "Buy A Ticket And Watch How You Die...",
+      "status": "pending"
+    },
+    {
+      "id": 50,
+      "title": "The Necklace That Strangles Its Owner",
+      "hook": "Wear It To Bed Wake Up Choking...",
+      "status": "pending"
+    },
+    {
+      "id": 51,
+      "title": "The School Where Children Never Left",
+      "hook": "Classes Ended But Students Still Learn...",
+      "status": "pending"
+    },
+    {
+      "id": 52,
+      "title": "The Bathtub That Fills With Blood",
+      "hook": "Drain It Empty But It Refills Nightly...",
+      "status": "pending"
+    },
+    {
+      "id": 53,
+      "title": "The Cottage Where Time Loops Forever",
+      "hook": "Live The Same Day Die The Same Way...",
+      "status": "pending"
+    },
+    {
+      "id": 54,
+      "title": "The Mannequin That Blinks",
+      "hook": "Watch Its Eyes And See Them Move...",
+      "status": "pending"
+    },
+    {
+      "id": 55,
+      "title": "The Basement Where Shadows Have Teeth",
+      "hook": "Go Down The Stairs Never Come Back Up...",
+      "status": "pending"
+    },
+    {
+      "id": 56,
+      "title": "The Funeral Home Where Corpses Sit Up",
+      "hook": "Midnight Comes And They All Awaken...",
+      "status": "pending"
+    },
+    {
+      "id": 57,
+      "title": "The Ouija Board That Never Says Goodbye",
+      "hook": "Start The Session Trap Yourself Forever...",
+      "status": "pending"
+    },
+    {
+      "id": 58,
+      "title": "The Motel Where Guests Check In Dead",
+      "hook": "Alive At The Desk Dead In The Room...",
+      "status": "pending"
+    },
+    {
+      "id": 59,
+      "title": "The Perfume That Attracts Ghosts",
+      "hook": "Spray It On And Feel Cold Hands...",
+      "status": "pending"
+    },
+    {
+      "id": 60,
+      "title": "The Nursery Rhyme That Kills Children",
+      "hook": "Sing All Ten Verses Never Wake Up...",
+      "status": "pending"
+    },
+    {
+      "id": 61,
+      "title": "The Prison Cell That Holds Your Soul",
+      "hook": "Enter Once And Leave Your Body...",
+      "status": "pending"
+    },
+    {
+      "id": 62,
+      "title": "The Antique Shop Where Objects Are Cursed",
+      "hook": "Buy One Item And Regret It Forever...",
+      "status": "pending"
+    },
+    {
+      "id": 63,
+      "title": "The Carousel That Spins Backwards",
+      "hook": "Ride It Once And Age In Reverse...",
+      "status": "pending"
+    },
+    {
+      "id": 64,
+      "title": "The Handprint That Appears On Your Wall",
+      "hook": "Paint Over It But It Bleeds Through...",
+      "status": "pending"
+    },
+    {
+      "id": 65,
+      "title": "The Shipwreck Where Sailors Still Drown",
+      "hook": "Dive Down And Hear Them Calling You...",
+      "status": "pending"
+    },
+    {
+      "id": 66,
+      "title": "The Lullaby That Summons Demons",
+      "hook": "Hum The Tune And Open The Gateway...",
+      "status": "pending"
+    },
+    {
+      "id": 67,
+      "title": "The Swing Bridge That Swings Alone",
+      "hook": "Cross At Night And Fall Through Time...",
+      "status": "pending"
+    },
+    {
+      "id": 68,
+      "title": "The Taxidermy That Comes Alive",
+      "hook": "Mounted On Walls But Hunting At Night...",
+      "status": "pending"
+    },
+    {
+      "id": 69,
+      "title": "The Confession Booth That Damns Your Soul",
+      "hook": "Confess Your Sins Trade Them For Worse...",
+      "status": "pending"
+    },
+    {
+      "id": 70,
+      "title": "The Snowglobe That Traps People Inside",
+      "hook": "Shake It And See Tiny People Screaming...",
+      "status": "pending"
+    },
+    {
+      "id": 71,
+      "title": "The Subway Stop That Does Not Exist",
+      "hook": "Get Off Here And Never Find Your Way...",
+      "status": "pending"
+    },
+    {
+      "id": 72,
+      "title": "The Grandfather Clock That Stops At Death",
+      "hook": "When It Chimes Thirteen Someone Dies Here...",
+      "status": "pending"
+    },
+    {
+      "id": 73,
+      "title": "The Wishing Well That Grants Dark Wishes",
+      "hook": "Throw In A Coin Lose What You Love...",
+      "status": "pending"
+    },
+    {
+      "id": 74,
+      "title": "The Birdcage That Holds Human Souls",
+      "hook": "Hear Them Singing Begging For Freedom...",
+      "status": "pending"
+    },
+    {
+      "id": 75,
+      "title": "The Fireplace That Burns With Screams",
+      "hook": "Light A Fire And Hear Voices Crying...",
+      "status": "pending"
+    },
+    {
+      "id": 76,
+      "title": "The Birthday Cake That Ages You",
+      "hook": "Eat One Slice And Lose Ten Years...",
+      "status": "pending"
+    },
+    {
+      "id": 77,
+      "title": "The Hammock That Rocks You To Death",
+      "hook": "Lie Down To Rest Never Wake Up...",
+      "status": "pending"
+    },
+    {
+      "id": 78,
+      "title": "The Fountain That Runs With Tears",
+      "hook": "Drink The Water Cry Blood Forever...",
+      "status": "pending"
+    },
+    {
+      "id": 79,
+      "title": "The Treehouse Where Kids Went Missing",
+      "hook": "Climb Up The Ladder Disappear Into Fog...",
+      "status": "pending"
+    },
+    {
+      "id": 80,
+      "title": "The Wardrobe That Leads To Nowhere",
+      "hook": "Step Inside And Fall Forever Down...",
+      "status": "pending"
+    },
+    {
+      "id": 81,
+      "title": "The Chessboard That Plays For Souls",
+      "hook": "Lose One Game And Become A Piece...",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "title": "The Candle That Shows Your Lifespan",
+      "hook": "Watch The Flame And See It Shrinking...",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "title": "The Rocking Horse That Gallops At Night",
+      "hook": "Hear It Racing Through Empty Halls...",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "title": "The Library Where Books Write Themselves",
+      "hook": "Open One And Read Your Own Obituary...",
+      "status": "pending"
+    },
+    {
+      "id": 85,
+      "title": "The Ice Cream Truck That Plays At Midnight",
+      "hook": "Follow The Music Join The Missing...",
+      "status": "pending"
+    },
+    {
+      "id": 86,
+      "title": "The Webcam That Records Your Death",
+      "hook": "Watch The Footage See Yourself Die...",
+      "status": "pending"
+    },
+    {
+      "id": 87,
+      "title": "The Tent Where Campers Never Leave",
+      "hook": "Zip It Closed And Trap Yourself Inside...",
+      "status": "pending"
+    },
+    {
+      "id": 88,
+      "title": "The Cuckoo Clock That Steals Time",
+      "hook": "Every Hour It Chimes You Lose A Day...",
+      "status": "pending"
+    },
+    {
+      "id": 89,
+      "title": "The Garden Where Flowers Scream",
+      "hook": "Pick One Bloom And Hear It Shriek...",
+      "status": "pending"
+    },
+    {
+      "id": 90,
+      "title": "The Harmonica That Plays Your Regrets",
+      "hook": "Blow One Note And Relive Your Shame...",
+      "status": "pending"
+    },
+    {
+      "id": 91,
+      "title": "The Mailbox That Delivers Death Threats",
+      "hook": "Check Your Mail And Find Your Deadline...",
+      "status": "pending"
+    },
+    {
+      "id": 92,
+      "title": "The Sandbox Where Children Sink",
+      "hook": "Play In The Sand Disappear Below It...",
+      "status": "pending"
+    },
+    {
+      "id": 93,
+      "title": "The Vending Machine That Takes Souls",
+      "hook": "Insert Your Coins Lose Your Humanity...",
+      "status": "pending"
+    },
+    {
+      "id": 94,
+      "title": "The Kazoo That Summons The Dead",
+      "hook": "Play Three Notes Wake The Graveyard...",
+      "status": "pending"
+    },
+    {
+      "id": 95,
+      "title": "The Chandelier That Falls On Schedule",
+      "hook": "Stand Beneath It Wait For Midnight...",
+      "status": "pending"
+    },
+    {
+      "id": 96,
+      "title": "The Wallet That Empties Your Life",
+      "hook": "Spend One Dollar Lose One Memory...",
+      "status": "pending"
+    },
+    {
+      "id": 97,
+      "title": "The Microwave That Cooks Your Future",
+      "hook": "Set The Timer And Age In Seconds...",
+      "status": "pending"
+    },
+    {
+      "id": 98,
+      "title": "The Porch Swing That Swings With Ghosts",
+      "hook": "Sit Down And Feel Cold Hands Pushing...",
+      "status": "pending"
+    },
+    {
+      "id": 99,
+      "title": "The Trophy Case That Displays Victims",
+      "hook": "Look Inside And See Faces Trapped In Glass...",
+      "status": "pending"
+    },
+    {
+      "id": 100,
+      "title": "The Wind Chimes That Ring With Souls",
+      "hook": "Listen Closely And Hear Names Whispered...",
+      "status": "pending"
+    }
+  ]
+}

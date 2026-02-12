@@ -78,6 +78,10 @@ Topic: {topic_title}
 Category: {category}
 Channel: {channel_name}
 
+IMPORTANT: Adapt your content to match the Category. Use domain-specific facts, terminology, \
+and context appropriate for the topic. The example below shows FORMAT only - your content \
+must match the actual category (Education, History, Finance, Horror, etc.).
+
 Write the description following this EXACT structure:
 
 LINE 1: A shocking one-sentence opener that makes the reader say "WAIT WHAT?!" \
