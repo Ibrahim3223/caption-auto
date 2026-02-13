@@ -44,7 +44,9 @@
       "id": 4,
       "title": "The Staircase That Never Ends",
       "hook": "What Happens When You Reach Top...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-13T20:25:01.662717+00:00",
+      "video_id": "6LKlvHjsEMM"
     },
     {
       "id": 5,
