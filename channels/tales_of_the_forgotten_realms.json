@@ -36,7 +36,9 @@
       "id": 3,
       "title": "The Dancing Plague of 1518",
       "hook": "What Caused 400 To Dance...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-14T20:14:01.111480+00:00",
+      "video_id": "Wbz6CB1sM0o"
     },
     {
       "id": 4,
