@@ -68,7 +68,9 @@
       "id": 7,
       "title": "The Painting That Watches You Sleep",
       "hook": "What Painting Watches You Always...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-15T08:19:36.771468+00:00",
+      "video_id": "QT3rxBqH8ak"
     },
     {
       "id": 8,
