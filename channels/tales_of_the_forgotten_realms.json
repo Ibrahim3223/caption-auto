@@ -44,7 +44,9 @@
       "id": 4,
       "title": "The Library of Alexandria Burned",
       "hook": "What Burned In 48 Hours...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-15T08:19:36.075068+00:00",
+      "video_id": "Hf7Khrf9bSM"
     },
     {
       "id": 5,
