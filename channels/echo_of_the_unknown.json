@@ -76,7 +76,9 @@
       "id": 8,
       "title": "The Elevator to Floor 13",
       "hook": "What Happens On Floor 13...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-15T20:14:06.819192+00:00",
+      "video_id": "c9w-GZGuBXU"
     },
     {
       "id": 9,
