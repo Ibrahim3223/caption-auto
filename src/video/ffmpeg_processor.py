@@ -1,5 +1,4 @@
 import subprocess
-import random
 from pathlib import Path
 from ..config import Config
 from .text_wrapper import wrap_hook_text, escape_ffmpeg_text
@@ -25,10 +24,10 @@ class FFmpegProcessor:
         self,
         raw_video_path: Path,
         hook_text: str,
-        music_mood: str,
+        topic_index: int,
         output_path: Path,
     ) -> Path:
-        music_file = self._pick_music(music_mood)
+        music_file = self._pick_music(topic_index)
         has_audio = self._has_audio_stream(raw_video_path)
         filter_complex = self._build_filter_complex(hook_text, has_audio)
 
@@ -178,13 +177,13 @@ class FFmpegProcessor:
             f"[vout]"
         )
 
-    def _pick_music(self, mood: str) -> Path:
-        music_files = list(self.music_dir.glob("*.mp3"))
+    def _pick_music(self, topic_index: int) -> Path:
+        music_files = sorted(self.music_dir.glob("*.mp3"))
         if not music_files:
             raise FileNotFoundError(
                 f"No music files found in {self.music_dir}. "
                 f"Add .mp3 files to assets/music/"
             )
-        mood_files = [f for f in music_files if mood in f.stem.lower()]
-        pool = mood_files if mood_files else music_files
-        return random.choice(pool)
+        selected = music_files[(topic_index - 1) % len(music_files)]
+        logger.info(f"Music: {selected.name} (track {(topic_index - 1) % len(music_files) + 1}/{len(music_files)})")
+        return selected

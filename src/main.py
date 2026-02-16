@@ -61,7 +61,7 @@ def process_channel(channel_file: Path, config: Config) -> bool:
         ffmpeg.produce_short(
             raw_video_path=raw_video,
             hook_text=hook_text,
-            music_mood=channel.music_mood,
+            topic_index=topic.id,
             output_path=output_path,
         )
 
