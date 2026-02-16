@@ -1,0 +1,819 @@
+{
+  "channel_id": "fixit_fast",
+  "channel_name": "FixIt Fast",
+  "github_environment": "FixIt Fast",
+  "category": "Howto & Style",
+  "youtube_category_id": "26",
+  "default_tags": [
+    "DIY",
+    "repair",
+    "fix",
+    "hacks",
+    "how to",
+    "shorts"
+  ],
+  "pexels_search_prefix": "repair tools DIY",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Fix Leaky Faucets Fast Today",
+      "hook": "What Causes Leaks In 5 Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Seven Common Household Pests",
+      "hook": "Where Are Seven Pests Hiding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Ten Dollar Tool Box Essentials",
+      "hook": "How Can Ten Dollars Fix...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Five Easy Wall Repair Hacks",
+      "hook": "When Will Five Hacks Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Honda Car Maintenance Tips Daily",
+      "hook": "Can Honda Cars Last Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Diy Furniture Repair Kits Available",
+      "hook": "What Diy Kit Cant Fix...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Twenty Five Plumbing Quick Fixes",
+      "hook": "Why Twenty Five Fixes Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Electrical Safety Tips For Kids",
+      "hook": "How Can Kids Never Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Three Simple Door Lock Repairs",
+      "hook": "What Three Locks Always Need...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Bosch Drill Bits Last Longer",
+      "hook": "Why Bosch Bits Last Longer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Fix Squeaky Floors In Minutes",
+      "hook": "When Will Squeaky Floors Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Home Security Camera Installation Guide",
+      "hook": "How Can Home Security Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Four Easy Ways To Unclog Drains",
+      "hook": "What Four Drains Cant Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Toyota Oil Change Schedule Guide",
+      "hook": "When Is Toyota Oil Change...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Fifteen Common Household Problems Solved",
+      "hook": "Why Fifteen Problems Never Disappear...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Dewalt Power Tools For Beginners",
+      "hook": "What Dewalt Tools Beginners Need...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Quick Fix For Broken Zippers",
+      "hook": "How Can Zippers Never Break...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Ceiling Fan Installation Made Easy",
+      "hook": "When Is Ceiling Fan Installation...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Nissan Tire Pressure Monitoring System",
+      "hook": "Why Nissan Tires Always Lose...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Six Easy Ways To Organize Toolbox",
+      "hook": "What Six Toolbox Hacks Cant...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Water Heater Maintenance Tips Monthly",
+      "hook": "What Causes Water Heater Failure...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Ryobi Cordless Drill Review Guide",
+      "hook": "How Does Ryobi Cordless Drill Compare...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Five Minute Fix For Loose Screws",
+      "hook": "When Will Loose Screws Fall Off...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Kitchen Sink Drain Cleaning Hacks",
+      "hook": "Why Cant Kitchen Sinks Drain Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Ford F150 Maintenance Schedule Guide",
+      "hook": "What Happens If Ford F150 Maintenance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Diy Home Decor On Budget",
+      "hook": "Can You Decorate A Home Under 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Eight Easy Ways To Fix Floors",
+      "hook": "Where Can You Find Eight Floor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Black And Decker Tool Set Review",
+      "hook": "What Makes Black And Decker Tools...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Quick Fix For Jammed Drawers",
+      "hook": "Why Cant Jammed Drawers Open Easily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Ladder Safety Tips For Beginners",
+      "hook": "Can Ladder Accidents Happen To Beginners...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Ten Easy Ways To Paint Walls",
+      "hook": "Why Paint Ten Walls In One Day...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Ceiling Leak Repair Made Easy",
+      "hook": "When Will Ceiling Leaks Stop Completely...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Volkswagen Golf Maintenance Tips Daily",
+      "hook": "What Daily Tips Keep Volkswagen Golf...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Four Easy Ways To Fix Blinds",
+      "hook": "What Fixes Four Blind Types Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Makita Power Tools For Pros",
+      "hook": "What Makes Makita Power Tools Pro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Diy Photo Display On Wall",
+      "hook": "Where To Hang Diy Photo Displays...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Seven Easy Ways To Fix Doors",
+      "hook": "Why Cant Seven Door Types Open...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Home Theater System Installation Guide",
+      "hook": "Can You Install Home Theater Alone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Five Easy Ways To Clean Grout",
+      "hook": "What Removes Grout Dirt Completely And...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Hyundai Car Maintenance Tips Monthly",
+      "hook": "When To Check Hyundai Car Maintenance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Toolbox Organization Ideas For Small Spaces",
+      "hook": "What Are 5 Toolbox Hacks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Quick Fix For Broken Toys",
+      "hook": "Can You Fix 10 Toys...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Dishwasher Installation Made Easy",
+      "hook": "Why Install A Dishwasher Without Help...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Six Easy Ways To Fix Lights",
+      "hook": "Why Do 6 Lights Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Patio Furniture Repair Hacks Diy",
+      "hook": "Where To Find Patio Repair...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Kia Sorento Maintenance Schedule Guide",
+      "hook": "When Does Kia Sorento Need...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Eight Easy Ways To Fix Pipes",
+      "hook": "What Are 8 Pipe Fixes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Power Tool Safety Tips For Beginners",
+      "hook": "Can Beginners Use Power Tools...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Five Minute Fix For Broken Chairs",
+      "hook": "Can You Fix 5 Chairs In Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Roof Leak Repair Made Easy",
+      "hook": "Why Does Roof Always Leak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Subaru Outback Maintenance Tips Daily",
+      "hook": "What Are Subaru Outback Tips...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Diy Wall Art On Budget",
+      "hook": "What Makes DIY Art Last Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Four Easy Ways To Fix Sinks",
+      "hook": "Can You Fix 4 Sinks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Lawn Mower Maintenance Tips Monthly",
+      "hook": "When To Maintain Lawn Mower...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Ten Easy Ways To Fix Windows",
+      "hook": "What Are 10 Window Fixes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Ceiling Fan Repair Made Easy",
+      "hook": "Why Cant You Fix Ceiling Fans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Jeep Grand Cherokee Maintenance Schedule",
+      "hook": "Why Does Jeep Need Maintenance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Seven Easy Ways To Fix Furniture",
+      "hook": "Can You Fix 7 Furniture...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Quick Fix For Clogged Vacuum",
+      "hook": "What Clogs Your Vacuum Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "BMW Car Maintenance Tips Daily",
+      "hook": "What Does BMW Maintenance Really Need...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Diy Home Security System Guide",
+      "hook": "What Causes Diy Home Security...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Six Easy Ways To Fix Appliances",
+      "hook": "Can You Fix 6 Appliances Yourself...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Honda Civic Maintenance Schedule Guide",
+      "hook": "When Does Honda Civic Require...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Five Easy Ways To Fix Doors",
+      "hook": "Can You Fix 5 Doors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Patio Heater Repair Hacks Diy",
+      "hook": "Why Patio Heaters Always Break...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Toyota Camry Maintenance Tips Monthly",
+      "hook": "How Often Toyota Camry Needs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Eight Easy Ways To Fix Roofs",
+      "hook": "What Fixes 8 Roof Issues...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Power Washer Maintenance Tips Daily",
+      "hook": "Can Daily Power Washer Maintenance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Four Easy Ways To Fix Taps",
+      "hook": "Why Do 4 Taps Always Leak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Nissan Altima Maintenance Schedule Guide",
+      "hook": "When Nissan Altima Needs Maintenance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Diy Picture Frame On Wall",
+      "hook": "What Makes DIY Frames Look Professional...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Ceiling Repair Made Easy Steps",
+      "hook": "What Makes Ceiling Repair Easy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Volkswagen Jetta Maintenance Tips Daily",
+      "hook": "Why Volkswagen Jetta Needs Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Seven Easy Ways To Fix Pipes",
+      "hook": "Can You Fix 7 Pipes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Quick Fix For Broken Lamps",
+      "hook": "Why Cant Most People Fix Lamps...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Ford Mustang Maintenance Schedule Guide",
+      "hook": "What Is Ford Mustang Schedule...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Five Easy Ways To Fix Floors",
+      "hook": "Can You Fix 5 Floor Types...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Home Gym Equipment Installation Guide",
+      "hook": "Can Home Gym Equipment Install...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Six Easy Ways To Fix Walls",
+      "hook": "What Fixes 6 Wall Issues...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Kia Optima Maintenance Tips Monthly",
+      "hook": "When Kia Optima Needs Maintenance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Toolbox Organization Ideas For Pros",
+      "hook": "What 10 Tools Cant Be Missing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Diy Room Decor On Budget",
+      "hook": "What Can You Decorate With Only 50...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Eight Easy Ways To Fix Doors",
+      "hook": "When Do 8 Doors Need Fixing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Subaru Forester Maintenance Schedule Guide",
+      "hook": "Why Subaru Forester Needs 5000 Mile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Four Easy Ways To Fix Sinks",
+      "hook": "Can 4 Sink Fixes Take Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Patio Furniture Repair Hacks Easy",
+      "hook": "Where Are 7 Patio Furniture Hacks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Hyundai Elantra Maintenance Tips Daily",
+      "hook": "How Hyundai Elantra Owners Save Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Ceiling Fan Installation Guide Steps",
+      "hook": "What 5 Steps Install Ceiling Fans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Five Minute Fix For Broken Toys",
+      "hook": "Why 5 Minutes Fix Broken Toys...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Jeep Wrangler Maintenance Schedule Guide",
+      "hook": "When Jeep Wrangler Needs 10000 Mile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Quick Fix For Clogged Drains",
+      "hook": "Can Clogged Drains Be Fixed Instantly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "BMW X5 Maintenance Tips Monthly",
+      "hook": "How Bmw X5 Owners Check Monthly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Seven Easy Ways To Fix Furniture",
+      "hook": "What 7 Furniture Fixes Take Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Power Tool Maintenance Tips Daily",
+      "hook": "Why Power Tools Need Daily Checks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Toyota Corolla Maintenance Schedule Guide",
+      "hook": "When Toyota Corolla Needs 30000 Mile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Six Easy Ways To Fix Appliances",
+      "hook": "How 6 Appliances Can Be Fixed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Nissan Sentra Maintenance Tips Daily",
+      "hook": "What Nissan Sentra Owners Check Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Diy Home Office On Budget",
+      "hook": "Can Home Office Be Built For $100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Eight Easy Ways To Fix Roofs",
+      "hook": "Why 8 Roof Fixes Are Absolutely Necessary...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Honda Accord Maintenance Schedule Guide",
+      "hook": "When Honda Accord Needs 50000 Mile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

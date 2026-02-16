@@ -1,0 +1,819 @@
+{
+  "channel_id": "one_day_inside",
+  "channel_name": "One Day Inside",
+  "github_environment": "One Day Inside",
+  "category": "People & Blogs",
+  "youtube_category_id": "22",
+  "default_tags": [
+    "day in life",
+    "inside look",
+    "jobs",
+    "places",
+    "experience",
+    "shorts"
+  ],
+  "pexels_search_prefix": "workplace daily life",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "NASA Astronauts Daily Routine",
+      "hook": "What Do Nasa Astronauts Eat Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "5000 Feet Underwater Lab Life",
+      "hook": "How Can Scientists Live 5000 Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Dubai Police Officer Training",
+      "hook": "Where Do Dubai Police Train Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Seven Days On Mars Base",
+      "hook": "When Will Humans Colonize Mars Base...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Tokyo Subway Operator Work",
+      "hook": "Can One Operator Run Tokyo Subway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Fifteen Firefighters In Action",
+      "hook": "How Do Fifteen Firefighters Respond...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Amazon Rainforest Guide Tours",
+      "hook": "What Secrets Do Amazon Guides Know...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Ten Hours In Chernobyl Zone",
+      "hook": "Why Cant Humans Stay Ten Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Beijing Air Traffic Control",
+      "hook": "How Does Beijing Control Air Traffic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Twenty Four Hours On Everest",
+      "hook": "What Happens Twenty Four Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Google Data Center Workers",
+      "hook": "Why Do Google Workers Use Secret...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Eighty Feet Tall Wind Turbines",
+      "hook": "How Tall Are The Tallest Wind...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "CIA Intelligence Analyst Job",
+      "hook": "What Does A Cia Analyst See...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Moscow Metro Construction Site",
+      "hook": "When Will Moscow Metro Be Finished...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Thirty Minutes With SpaceX",
+      "hook": "What Will SpaceX Achieve In Thirty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Las Vegas Casino Surveillance",
+      "hook": "How Do Las Vegas Casinos Monitor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Five Scientists In Antarctica",
+      "hook": "What Do Five Scientists Discover Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Hong Kong Harbor Master Work",
+      "hook": "Who Controls The Hong Kong Harbor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Ninety Nine Percent Dark Matter",
+      "hook": "What Is The Ninety Nine Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Paris Catacombs Tour Guide",
+      "hook": "What Lies Beneath The Paris Catacombs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Forty Eight Hours On Oil Rig",
+      "hook": "What Happens On Oil Rig...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Indian Navy Submarine Life",
+      "hook": "How Do Indian Navy Submarines Dive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Twelve Months On Research Vessel",
+      "hook": "Where Is Research Vessel Headed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Shanghai Maglev Train Operators",
+      "hook": "Can Shanghai Maglev Train Reach...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Sixty Feet Below Sea Level",
+      "hook": "Why Cant Divers Go Deeper...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "New York City Subway Engineers",
+      "hook": "When Do New York Subway Engineers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Eighty Days In Desert Storm",
+      "hook": "What Does Desert Storm Feel Like...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "London City Airport Control",
+      "hook": "How Does London City Airport Control...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Twenty Five Years In Prison",
+      "hook": "Why Cant Prisoners Leave After...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Seoul Subway Rush Hour Chaos",
+      "hook": "What Causes Seoul Subway Rush...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Fourteen Hours In Intensive Care",
+      "hook": "How Do Intensive Care Units...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Cape Canaveral Launch Site Tour",
+      "hook": "Where Is Cape Canaveral Launching...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Vatican City Swiss Guards Duty",
+      "hook": "What Do Vatican Swiss Guards...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Bangkok Street Food Vendor Life",
+      "hook": "How Much Does Bangkok Street...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Nineteen Hours In Emergency Room",
+      "hook": "Why Cant Emergency Rooms Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Sydney Opera House Stagehand",
+      "hook": "What Goes On Sydney Opera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Thirty Six Hours In Wilderness",
+      "hook": "How Do Wilderness Survivors Find...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Mexico City Traffic Police Work",
+      "hook": "What Do Mexico City Traffic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Eleven Minutes With Fbi Agents",
+      "hook": "What Do Fbi Agents Discuss...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Rio De Janeiro Carnival Preps",
+      "hook": "When Does Rio Carnival Begin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Fifty Five Degrees Below Zero",
+      "hook": "What Happens At 55 Degrees Below...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "San Francisco Bay Bridge Workers",
+      "hook": "How Do San Francisco Bay Workers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Twenty One Days In Orbit",
+      "hook": "When Will Twenty One Days End...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Moscow Kremlin Guard Duty",
+      "hook": "Why Cant Moscow Kremlin Guards Smile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "One Hundred Feet Tall Trees",
+      "hook": "Where Are One Hundred Feet Trees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Australian Outback Ranger Life",
+      "hook": "How Do Australian Outback Rangers Survive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Thirteen Hours In Operating Room",
+      "hook": "Can Surgeons Work Thirteen Hours Straight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Istanbul Bosphorus Bridge Control",
+      "hook": "What Controls Istanbul Bosphorus Bridge Traffic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Forty Nine Days At Sea",
+      "hook": "When Will Forty Nine Days At Sea...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Beijing Forbidden City Guards",
+      "hook": "Why Do Beijing Forbidden City Guards...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Seventy Five Years Old Lighthouse",
+      "hook": "What Is Inside Seventy Five Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Dallas Cowboys Stadium Tour",
+      "hook": "How Big Is Dallas Cowboys Stadium...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Nine To Five In Pyongyang",
+      "hook": "What Is Nine To Five In Pyongyang...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Thirty Two Hours In Space",
+      "hook": "Can Astronauts Survive Thirty Two Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Cairo Pyramids Conservation Work",
+      "hook": "Why Is Cairo Pyramids Conservation Important...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Sixteen Hours In Newsroom Chaos",
+      "hook": "How Does Newsroom Chaos Last Sixteen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Honolulu Volcanoes National Park",
+      "hook": "What Lies In Honolulu Volcanoes National...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Twenty Three Hours In ICU",
+      "hook": "Can Doctors Work Twenty Three Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Berlin Wall Memorial Site Tour",
+      "hook": "What Is Behind Berlin Wall Memorial...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Fifty Feet Tall Roller Coaster",
+      "hook": "How Scary Is Fifty Feet Tall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Melbourne Cricket Ground Staff",
+      "hook": "What Happens At Melbourne Cricket...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Eleven Hours In Radio Station",
+      "hook": "How Do Radio Stations Run Eleven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Qinghai Tibet Railway Workers",
+      "hook": "Where Do Qinghai Tibet Railway Workers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Forty Hours In Desert Survival",
+      "hook": "Can You Survive Forty Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Stockholm Royal Palace Guards",
+      "hook": "When Do Stockholm Royal Palace Guards...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Ninety Eight Percent Water",
+      "hook": "What Is Ninety Eight Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Houston Space Center Tour Guide",
+      "hook": "How Does Houston Space Center Tour...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Thirty Nine Hours In Hospital",
+      "hook": "What Happens In Thirty Nine Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Jerusalem Old City Tour Guides",
+      "hook": "Why Do Jerusalem Old City Tour...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Twelve Hours In Power Plant",
+      "hook": "How Do Power Plant Workers Survive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Vancouver Film Production Crew",
+      "hook": "What Does Vancouver Film Production Crew...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Eighteen Hours In Air Traffic",
+      "hook": "Can Air Traffic Controllers Handle Eighteen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Kuala Lumpur Petronas Towers",
+      "hook": "What Lies Inside Kuala Lumpur Petronas...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Forty Five Days In Isolation",
+      "hook": "How Long Cant You Last Forty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Christ The Redeemer Statue Workers",
+      "hook": "What Do Christ The Redeemer Statue Workers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Twenty Nine Hours In Studio",
+      "hook": "When Do Studio Workers Take Breaks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Atlanta Airport Baggage Handlers",
+      "hook": "How Do Atlanta Airport Baggage Handlers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Seventy Feet Tall Water Slides",
+      "hook": "What Is Behind Seventy Feet Tall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Copenhagen Harbor Master Work",
+      "hook": "Where Do Copenhagen Harbor Master Workers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Thirty Eight Hours In Courtroom",
+      "hook": "Can Judges Handle Thirty Eight Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Brisbane River Ferry Operators",
+      "hook": "What Drives Brisbane Ferry Operators...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Fifteen Hours In Television Studio",
+      "hook": "How Spend Fifteen Hours On Set...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Dubai Mall Aquarium Staff Life",
+      "hook": "Where Do Dubai Aquarium Staff Hide...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Ninety Nine Percent Vacuum",
+      "hook": "Can Ninety Nine Percent Be Achieved...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Phoenix Desert Botanical Garden",
+      "hook": "Why Visit Phoenix Desert Botanical...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Twenty Seven Hours In Laboratory",
+      "hook": "When Will Twenty Seven Hours End...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Singapore Changi Airport Staff",
+      "hook": "How Do Singapore Changi Staff Manage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Forty Two Hours In Theater",
+      "hook": "What Happens After Forty Two Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Madrid Metro Construction Site",
+      "hook": "Can Madrid Metro Construction Be Finished...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Eleven Hours In Weather Station",
+      "hook": "Why Eleven Hours In Weather Station...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Calgary Stampede Rodeo Clowns",
+      "hook": "How Do Calgary Stampede Clowns Survive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Thirty Hours In Recording Studio",
+      "hook": "What Takes Thirty Hours In Studio...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Johannesburg Gold Mine Workers",
+      "hook": "Where Do Johannesburg Gold Miners Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Seventeen Hours In Broadcast News",
+      "hook": "Can Seventeen Hours Of News Be Broadcast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Denver International Airport Art",
+      "hook": "Why Is Denver Airport Art Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Twenty Six Hours In Casino",
+      "hook": "How Do Twenty Six Hours In Casino...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Auckland Harbour Bridge Workers",
+      "hook": "What Do Auckland Harbour Workers Face...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Forty Hours In Film Editing",
+      "hook": "Can Forty Hours Of Film Editing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Bogota Coffee Plantation Workers",
+      "hook": "Why Do Bogota Coffee Workers Struggle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Ninety Five Percent Oxygen",
+      "hook": "What Happens At Ninety Five Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

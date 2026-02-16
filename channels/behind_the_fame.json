@@ -1,0 +1,819 @@
+{
+  "channel_id": "behind_the_fame",
+  "channel_name": "BehindTheFame",
+  "github_environment": "BehindTheFame",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": [
+    "celebrities",
+    "famous people",
+    "biography",
+    "behind the scenes",
+    "fame",
+    "shorts"
+  ],
+  "pexels_search_prefix": "celebrity spotlight",
+  "music_mood": "dramatic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Michael Jacksons Secret Life",
+      "hook": "What Secrets Did Michael Jackson Hide...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Seven Famous Failures Before Success",
+      "hook": "How Did 7 Famous People Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Tom Hanks Hidden Talent",
+      "hook": "What Is Tom Hanks Hidden Talent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Fifty Shades Of Beyonce",
+      "hook": "What Are Fifty Shades Of Beyonce...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Eighteen Celebrities With Phobias",
+      "hook": "Which 18 Celebrities Have Phobias Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Lady Gaga Cant Sing",
+      "hook": "Can Lady Gaga Really Sing Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Twelve Hidden Stories Of Elvis",
+      "hook": "What Are Twelve Hidden Elvis Stories...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Justin Bieber Has Four Tattoos",
+      "hook": "Why Does Justin Bieber Have Four...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Nine Facts About Julia Roberts",
+      "hook": "What Are Nine Julia Roberts Facts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Twenty Five Famous People Born",
+      "hook": "When Were 25 Famous People Born...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Keanu Reeves Gives Away Money",
+      "hook": "Why Does Keanu Reeves Give Away...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Six Things About Brad Pitt",
+      "hook": "What Are Six Brad Pitt Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Rihanna Has Nine Number Ones",
+      "hook": "How Did Rihanna Get Nine Number...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Fifty Celebrities With Mental Health",
+      "hook": "Which 50 Celebrities Have Mental Health...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Five Famous People Who Failed",
+      "hook": "Why Did 5 Famous People Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Jennifer Lawrence Has Twelve Pets",
+      "hook": "What Are Jennifer Lawrences 12 Pets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Twenty Three Celebrities With Secret",
+      "hook": "What Are 23 Celebrities Secretly Hiding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Ariana Grande Has Five Albums",
+      "hook": "How Did Ariana Grande Make Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Eleven Famous People Who Overcame",
+      "hook": "What Did 11 Famous People Overcome...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Chris Hemsworth Was A Dropout",
+      "hook": "Why Did Chris Hemsworth Dropout Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Seven Celebrities With Unusual Habits",
+      "hook": "What Drives Seven Celebs Crazy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Taylor Swift Writes Songs Fast",
+      "hook": "How Fast Does Taylor Swift Write...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Thirteen Famous People With Hidden",
+      "hook": "What Hides Behind Thirteen Faces...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Fifty Six Celebrities With Strange",
+      "hook": "Why Fifty Six Stars Are Strange...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Katy Perry Has Four Grammys",
+      "hook": "What Makes Katy Perry Special...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Eight Celebrities With Famous Parents",
+      "hook": "Can Eight Celebs Live Up...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Miley Cyrus Has Ten Number",
+      "hook": "How Many Records Does Miley...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Nineteen Famous People With Dark",
+      "hook": "What Haunts Nineteen Famous Souls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Fourteen Celebrities Who Were Bullied",
+      "hook": "Why Fourteen Celebs Were Bullied...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Selena Gomez Has Twenty Tattoos",
+      "hook": "What Lies Behind Selena Gomez...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Justin Timberlake Has Five Movies",
+      "hook": "How Many Movies Did Justin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Twelve Famous People With Famous",
+      "hook": "What Makes Twelve Famous People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Twenty One Celebrities With Secret",
+      "hook": "What Secrets Do Twenty One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Seven Famous People Who Went",
+      "hook": "Why Seven Famous People Changed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Rihanna Has Eight Number One",
+      "hook": "How Many Hits Does Rihanna...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Eleven Celebrities With Mental Health",
+      "hook": "Can Eleven Celebs Overcome Mental...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Five Famous People Who Changed",
+      "hook": "What Changed Five Famous Lives...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Chris Evans Has Ten Movies",
+      "hook": "How Many Movies Has Chris...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Six Celebrities With Famous Siblings",
+      "hook": "What Makes Six Celebs Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Taylor Swift Has Twelve Number",
+      "hook": "How Many Records Does Taylor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Nine Famous People Who Failed",
+      "hook": "What Made Katy Perry Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Katy Perry Has Seven Albums",
+      "hook": "How Did Katy Perry Make Seven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Twenty Four Celebrities With Hidden",
+      "hook": "Where Are Twenty Four Celebrities...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Jennifer Lopez Has Ten Number",
+      "hook": "When Did Jennifer Lopez Get Ten...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Eight Famous People With Phobias",
+      "hook": "Why Do Eight Famous People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Fifty Two Celebrities With Strange",
+      "hook": "How Do Fifty Two Celebrities Have...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Four Celebrities Who Were Homeless",
+      "hook": "What Happened To Four Homeless...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Miley Cyrus Has Five Number",
+      "hook": "Can Miley Cyrus Get Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Thirteen Famous People With Secret",
+      "hook": "What Are Thirteen Famous People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Ariana Grande Has Ten Number",
+      "hook": "How Does Ariana Grande Have Ten...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Seven Famous People Who Overcame",
+      "hook": "Why Did Seven Famous People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Justin Bieber Has Five Number",
+      "hook": "When Will Justin Bieber Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Twelve Celebrities With Unusual Habits",
+      "hook": "What Do Twelve Celebrities Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Selena Gomez Has Five Albums",
+      "hook": "How Many Albums Does Selena...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Six Famous People Who Were Bullied",
+      "hook": "Why Were Six Famous People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Taylor Swift Has Nine Number",
+      "hook": "Can Taylor Swift Get Nine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Eleven Celebrities With Famous Parents",
+      "hook": "Where Are Eleven Celebrities From...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Rihanna Has Seven Number One",
+      "hook": "How Did Rihanna Get Seven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Twenty Celebrities With Mental Health",
+      "hook": "What Affects Twenty Celebrities Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Katy Perry Has Six Grammys",
+      "hook": "Why Does Katy Perry Have...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Five Famous People Who Were Fired",
+      "hook": "What Famous People Got Fired...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Chris Hemsworth Has Ten Movies",
+      "hook": "How Did Chris Hemsworth Make Ten...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Eight Celebrities With Famous Siblings",
+      "hook": "Where Do Eight Celebrities Get Fame...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Jennifer Lawrence Has Eight Pets",
+      "hook": "Why Does Jennifer Lawrence Have Eight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Fourteen Famous People With Dark",
+      "hook": "What Dark Secrets Do Fourteen Celebs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Seven Celebrities With Secret Habits",
+      "hook": "Can Seven Celebrities Keep Secret Habits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Justin Timberlake Has Seven Movies",
+      "hook": "How Did Justin Timberlake Make Seven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Twelve Famous People With Famous",
+      "hook": "What Makes Twelve Famous People Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Twenty Two Celebrities With Hidden",
+      "hook": "Would Twenty Two Celebs Hide Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Taylor Swift Writes Songs Daily",
+      "hook": "When Does Taylor Swift Write Songs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Nine Celebrities With Mental Health",
+      "hook": "Why Do Nine Celebrities Struggle Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Six Famous People Who Changed",
+      "hook": "How Did Six Famous People Change...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Katy Perry Has Five Number",
+      "hook": "What Made Katy Perry Hit Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Eleven Celebrities With Unusual Habits",
+      "hook": "Can Eleven Celebrities Break Habits Rules...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Miley Cyrus Has Four Number",
+      "hook": "Why Does Miley Cyrus Have Four...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Thirteen Famous People With Secret",
+      "hook": "What Secrets Do Thirteen Famous People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Fifty One Celebrities With Strange",
+      "hook": "How Do Fifty One Celebs Stay...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Ariana Grande Has Nine Number",
+      "hook": "What Made Ariana Grande Hit Nine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Seven Famous People Who Failed",
+      "hook": "Why Did Seven Famous People Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Jennifer Lopez Has Nine Number",
+      "hook": "How Did Jennifer Lopez Hit Nine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Eight Celebrities With Famous Parents",
+      "hook": "What Makes Eight Celebrities Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Justin Bieber Has Six Number",
+      "hook": "How Did Justin Bieber Get Six...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Twelve Famous People With Famous",
+      "hook": "Why Do Twelve Famous People Succeed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Selena Gomez Has Nine Number",
+      "hook": "What Gives Selena Gomez Nine Number...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Six Celebrities With Mental Health",
+      "hook": "Can Six Celebrities Overcome Mental...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Taylor Swift Has Eight Number",
+      "hook": "How Does Taylor Swift Get Eight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Eleven Famous People Who Overcame",
+      "hook": "What Helps Eleven Famous People Overcome...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Chris Evans Has Nine Movies",
+      "hook": "Why Does Chris Evans Star In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Four Celebrities Who Were Rejected",
+      "hook": "How Did Four Celebrities Get Rejected...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Rihanna Has Six Number One",
+      "hook": "What Gives Rihanna Six Number One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Twenty Three Celebrities With Secret",
+      "hook": "Why Do Twenty Three Celebrities Hide...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Katy Perry Has Four Grammys",
+      "hook": "How Did Katy Perry Win Four...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Seven Famous People Who Were Bullied",
+      "hook": "What Happens To Seven Famous People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Jennifer Lawrence Has Seven Pets",
+      "hook": "Why Does Jennifer Lawrence Have Seven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Thirteen Celebrities With Unusual Habits",
+      "hook": "What Are Thirteen Celebrities Strange Habits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Justin Timberlake Has Six Movies",
+      "hook": "How Did Justin Timberlake Make Six...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Twelve Famous People With Hidden",
+      "hook": "What Are Twelve Famous People Hiding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Miley Cyrus Has Three Number",
+      "hook": "Why Does Miley Cyrus Have Three...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Eleven Celebrities With Famous Siblings",
+      "hook": "What Makes Eleven Celebrities Famous Siblings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Taylor Swift Has Seven Number",
+      "hook": "How Does Taylor Swift Get Seven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "channel_id": "kitchen_logic_lab",
+  "channel_name": "Kitchen Logic Lab",
+  "github_environment": "Kitchen Logic Lab",
+  "category": "Howto & Style",
+  "youtube_category_id": "26",
+  "default_tags": [
+    "cooking",
+    "food science",
+    "kitchen",
+    "recipes",
+    "hacks",
+    "shorts"
+  ],
+  "pexels_search_prefix": "cooking kitchen food preparation",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Maillard Reaction Explained Simply",
+      "hook": "What Causes Maillard At 300 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Cooking Steak At 130 Degrees",
+      "hook": "Why Cook Steak At Exactly 130 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Fermentation Secrets Of Kimchi Makers",
+      "hook": "Where Do Kimchi Makers Find Magic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Baking Science Behind Sourdough Bread",
+      "hook": "What Makes Sourdough Bread Always Rise...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Temperature Control In Slow Cooking",
+      "hook": "When Does Temperature Control Never Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Kitchen Myths About Boiling Water",
+      "hook": "Why Cant Boiling Water Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Flavor Pairing Logic Of Spices",
+      "hook": "What Spices Always Pair Perfectly Together...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Science Of Caramelizing Onions Fast",
+      "hook": "Can You Caramelize Onions In 5 Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Why Yeast Ferments In Warmth",
+      "hook": "Why Does Yeast Ferment At 25 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Cooking Techniques Of Michelin Chefs",
+      "hook": "What Techniques Do Michelin Chefs Always Use...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Chemistry Of Making Perfect Mayonnaise",
+      "hook": "What Makes Perfect Mayonnaise Every Time...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "5 Common Kitchen Mistakes Fixed",
+      "hook": "Why Cant You Fix These 5 Mistakes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Understanding Ph Levels In Cooking",
+      "hook": "Why Do Ph Levels Always Matter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Secrets Of Making Crunchy Fries",
+      "hook": "What Makes Fries Crunchy Every Single Time...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "How To Cook Eggs At 64",
+      "hook": "Can Eggs Cook Perfectly At 64 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "The Art Of Sauce Reduction",
+      "hook": "When Does Sauce Reduction Never Go Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Exploring Umami Flavor In Foods",
+      "hook": "What Foods Always Contain Umami Flavor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Why Some Fruits Dont Ripen",
+      "hook": "Why Cant Some Fruits Ever Ripen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "3 Ingredients For Perfect Emulsions",
+      "hook": "What 3 Ingredients Create Perfect Emulsions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Cooking With Liquid Nitrogen Safety",
+      "hook": "Why Is Liquid Nitrogen Never Safe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Science Behind Meat Tenderization",
+      "hook": "What Makes Meat Tender Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Baking Perfect Macarons Every Time",
+      "hook": "Can You Bake 12 Perfect Macarons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Temperature Science In Barbecuing",
+      "hook": "When Does Temperature Affect Barbecues...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Flavor Enhancement With Acidity",
+      "hook": "Can Acidity Enhance 7 Flavors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Debunking Kitchen Myths About Oil",
+      "hook": "Why Oil Myths Cant Be True...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Cooking Methods For Tough Meats",
+      "hook": "Why Are 5 Meats Always Tough...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Chemical Reactions In Pickling",
+      "hook": "What Happens During 30 Day Pickling...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "The Role Of Salt In Cooking",
+      "hook": "Why Salt Enhances 9 Dishes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Making Perfect Meringues Every Time",
+      "hook": "What Makes 3 Meringues Always Perfect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Food Safety And Cross Contamination",
+      "hook": "What Causes 90 Percent Contamination...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "7 Essential Cooking Techniques Learned",
+      "hook": "Can 7 Techniques Change Cooking...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Secrets Of Creating Flaky Pastry",
+      "hook": "What Makes Flaky Pastry Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Science Of Cooking Perfect Rice",
+      "hook": "Why Cant Most People Cook Rice...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "The Importance Of Resting Meat",
+      "hook": "Why Resting Meat Matters Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "How To Make Perfect Yogurt",
+      "hook": "Can You Make 1 Liter Yogurt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Chemistry Of Making Perfect Jelly",
+      "hook": "What Makes Perfect Jelly Everytime...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Cooking With Different Types Oil",
+      "hook": "Why Do Chefs Only Use 5 Oils...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "The Science Of Sous Vide Cooking",
+      "hook": "What Is Sous Vide Science...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Understanding Gelatin In Desserts",
+      "hook": "Why Gelatin Is Essential Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "4 Ways To Cook Perfect Chicken",
+      "hook": "Can You Cook Chicken 4 Ways...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "The Art Of Making Perfect Sushi",
+      "hook": "What Makes Perfect Sushi Rice Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Science Of Cooking Perfect Pasta",
+      "hook": "How Does 7 Minute Pasta Cooking Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Flavor Pairing With Herbs And Spices",
+      "hook": "Can 5 Herbs Create Unlimited Flavors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Cooking Techniques For Delicate Fish",
+      "hook": "Why Do Delicate Fish Require Low Heat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "The Role Of Sugar In Cooking",
+      "hook": "What Happens When Sugar Never Dissolves...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Debunking Myths About Microwave Cooking",
+      "hook": "Why Cant Microwave Cooking Be Trusted...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Science Of Making Perfect Popcorn",
+      "hook": "How Does 3 Second Popcorn Timing Matter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "The Chemistry Of Curing Meats",
+      "hook": "What Role Does Salt Play In Curing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Cooking With Smoked Ingredients Safely",
+      "hook": "Can Smoked Ingredients Always Be Safe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Understanding The Maillard Reaction",
+      "hook": "When Does The Maillard Reaction Occur Exactly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Secrets Of Creating Perfect Glazes",
+      "hook": "What Makes A 3 Ingredient Glaze Perfect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "6 Common Cooking Mistakes To Avoid",
+      "hook": "Why Do 6 Common Mistakes Always Happen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "The Importance Of Using Fresh Ingredients",
+      "hook": "How Does Freshness Always Impact Flavor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Science Of Cooking Perfect Burgers",
+      "hook": "What Makes A 5 Oz Burger Perfect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "The Art Of Making Perfect Crepes",
+      "hook": "Can 2 Minutes Create Perfect Crepes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Cooking Techniques For Tough Vegetables",
+      "hook": "Why Do Tough Vegetables Require High Pressure...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "The Role Of Water In Cooking",
+      "hook": "What Happens When Water Is Always Frozen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Debunking Myths About Raw Food",
+      "hook": "Why Does Raw Food Never Provide Enough...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Science Of Making Perfect Ice Cream",
+      "hook": "How Does 10 Percent Sugar Make Ice Cream...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Understanding The Science Of Foams",
+      "hook": "What Role Does Temperature Play In Foams Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Cooking With Fermented Ingredients",
+      "hook": "What Makes Fermented Food So Healthy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "The Chemistry Of Making Perfect Bread",
+      "hook": "What Makes Perfect Bread Rise Every Time...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "5 Essential Kitchen Tools Needed",
+      "hook": "Why You Need 5 Essential Tools...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "The Importance Of Sanitation In Kitchen",
+      "hook": "Can You Cook Without Sanitation Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Science Of Cooking Perfect Scrambled",
+      "hook": "What Makes Scrambled Eggs Never Dry...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "The Art Of Making Perfect Tarts",
+      "hook": "Why Is One Perfect Tart So Hard...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Cooking Techniques For Perfect Roasts",
+      "hook": "When To Use 7 Cooking Techniques...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "The Role Of Yeast In Baking",
+      "hook": "Why Yeast Is Always The Key...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Debunking Myths About Low Fat Cooking",
+      "hook": "What Are 3 Low Fat Myths...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Science Of Making Perfect Muffins",
+      "hook": "Can You Bake 12 Muffins Without Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Understanding The Science Of Emulsions",
+      "hook": "What Is The Emulsion Secret Ingredient...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Cooking With Different Types Of Salt",
+      "hook": "Can You Cook With Only Himalayan...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "The Importance Of Kitchen Organization",
+      "hook": "Why Kitchen Organization Is Never Easy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Science Of Cooking Perfect Quiches",
+      "hook": "What Makes A Perfect Quiche Every Time...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "The Chemistry Of Making Perfect Cakes",
+      "hook": "What Makes Cakes Always Moist Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "7 Common Kitchen Hazards To Avoid",
+      "hook": "Where Are 7 Hidden Kitchen Hazards...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "The Role Of Acidity In Cooking",
+      "hook": "Why Acidity Is Always The Answer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Cooking Techniques For Perfect Grills",
+      "hook": "Why Cant Most People Grill Right...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Debunking Myths About Cooking Oils",
+      "hook": "What Are 5 Cooking Oil Myths...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Science Of Making Perfect Fritters",
+      "hook": "Can You Make 20 Fritters Without Oil...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Understanding The Science Of Gels",
+      "hook": "What Makes Perfect Gels Never Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "The Importance Of Kitchen Ventilation",
+      "hook": "Why Kitchens Always Need Ventilation...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Science Of Cooking Perfect Soups",
+      "hook": "Why Do Soups Need Only 5 Ingredients...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "The Art Of Making Perfect Pies",
+      "hook": "Can You Make Perfect Pies With 3 Steps...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Cooking Techniques For Perfect Stews",
+      "hook": "What Makes Stews Cooked For 2 Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "The Role Of Starch In Cooking",
+      "hook": "Why Starch Is Always In Every Recipe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Debunking Myths About Organic Food",
+      "hook": "What Are The 5 Myths About Organic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Science Of Making Perfect Biscotti",
+      "hook": "What Makes Biscotti Need Only 4 Ingredients...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "The Chemistry Of Making Perfect Cookies",
+      "hook": "What Makes Cookies Chewy For 7 Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Understanding The Science Of Crystals",
+      "hook": "When Do Crystals Form In Every Solution...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Cooking With Different Types Of Flour",
+      "hook": "Can You Bake With 10 Types Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "The Importance Of Meal Planning",
+      "hook": "Why Meal Planning Saves You 2 Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Science Of Cooking Perfect Casseroles",
+      "hook": "Can You Cook Casseroles In 30 Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "The Art Of Making Perfect Truffles",
+      "hook": "What Makes Truffles Worth $100 Each...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Cooking Techniques For Perfect Skewers",
+      "hook": "Can You Grill Skewers In Just 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "The Role Of Enzymes In Cooking",
+      "hook": "Why Enzymes Are Used In Every Kitchen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Debunking Myths About Food Additives",
+      "hook": "What Are The 3 Myths About Additives...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Science Of Making Perfect Cream Puffs",
+      "hook": "Why Do Cream Puffs Need So Few...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Understanding The Science Of Colloids",
+      "hook": "What Are Colloids Made Of 3 Things...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "The Chemistry Of Making Perfect Candy",
+      "hook": "Why Candy Makers Use 5 Simple Chemicals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

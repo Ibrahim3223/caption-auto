@@ -1,0 +1,819 @@
+{
+  "channel_id": "orderly_home_60",
+  "channel_name": "Orderly Home 60",
+  "github_environment": "Orderly Home 60",
+  "category": "Howto & Style",
+  "youtube_category_id": "26",
+  "default_tags": [
+    "organization",
+    "home",
+    "declutter",
+    "cleaning",
+    "minimalism",
+    "shorts"
+  ],
+  "pexels_search_prefix": "clean organized home interior",
+  "music_mood": "calm",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Marie Kondo Folding Techniques",
+      "hook": "What Is Marie Kondo Folding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Five Minute Morning Routine",
+      "hook": "Can You Wake Up In Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Ten Closet Organization Tips",
+      "hook": "Can You Organize Ten Closets In Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Small Space Storage Solutions",
+      "hook": "Where To Find Small Space Solutions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Decluttering With Konmari Method",
+      "hook": "Why Does Konmari Method Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Minimalist Bedroom Decor Ideas",
+      "hook": "What Makes Minimalist Bedroom Decor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Organizing Kitchen Cabinets Fast",
+      "hook": "Why Are Kitchen Cabinets Always Messy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Twenty Dollar Storage Hacks",
+      "hook": "Can Twenty Dollars Buy Storage Hacks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Japanese Decluttering Philosophy",
+      "hook": "What Is Japanese Decluttering Philosophy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Five Shelf Book Organization",
+      "hook": "What Fills Five Shelves Perfectly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Closet Organization For Women",
+      "hook": "What Women Need For Closet Organization...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "DIY Pantry Shelving Systems",
+      "hook": "Can DIY Pantry Shelving Cost Less...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Science Of Minimalism Benefits",
+      "hook": "Why Minimalism Has Scientific Benefits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Ten Item Wardrobe Challenge",
+      "hook": "Can Ten Items Only Be Enough...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Color Coded File Organization",
+      "hook": "Why Does Color Coding Files Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Three Tier Shoe Rack",
+      "hook": "What Is A Three Tier Shoe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Decluttering Emotional Baggage",
+      "hook": "Why Cant We Declutter Emotional...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Custom Closet Design Ideas",
+      "hook": "What Makes Custom Closets Worth It...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Fifty Dollar Home Decor",
+      "hook": "What Can Fifty Dollars Buy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Kitchen Countertop Organization",
+      "hook": "Can Kitchen Countertops Always Be Organized...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Mindful Morning Routine Tips",
+      "hook": "What Are 5 Morning Routine Tips...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Under Bed Storage Solutions",
+      "hook": "Where Can I Find Under Bed Storage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Simple Living Room Decor",
+      "hook": "How Does Simple Living Room Decor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Eight Hour Cleaning Schedule",
+      "hook": "When Will I Finish 8 Hour Cleaning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Folding Fitted Sheets Easy",
+      "hook": "Can You Fold Fitted Sheets Easily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Bathroom Counter Storage Ideas",
+      "hook": "What Are 3 Bathroom Counter Storage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Marie Kondo Book Review",
+      "hook": "Why Does Marie Kondo Write Books...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Seven Day Declutter Challenge",
+      "hook": "How Can I Declutter In 7 Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "IKEA Hack Storage Solutions",
+      "hook": "What Are 5 IKEA Hack Storage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Four Step Declutter Process",
+      "hook": "How Does 4 Step Declutter Process...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Home Office Organization Tips",
+      "hook": "Where Can I Find Home Office...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Thirty Minute Meal Prep",
+      "hook": "What Are 3 Thirty Minute Meal...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Five Level Bookshelf Organization",
+      "hook": "How Does 5 Level Bookshelf Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Small Apartment Decorating Ideas",
+      "hook": "What Are 5 Small Apartment Decorating...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "DIY Closet Organizer System",
+      "hook": "Can I Build DIY Closet Organizer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Ten Minute Morning Workout",
+      "hook": "What Is 10 Minute Morning Workout...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Six Piece Wardrobe Essentials",
+      "hook": "Why Do I Need 6 Piece...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Customized Pantry Labels",
+      "hook": "How Can I Make Customized Pantry...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Three Bin Laundry System",
+      "hook": "What Is 3 Bin Laundry System...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Minimalist Home Office Decor",
+      "hook": "Why Does Minimalist Home Office Matter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Five Tier Storage Rack",
+      "hook": "What Is Behind Five Tier...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Kitchen Drawer Organization Ideas",
+      "hook": "Can You Organize Twenty Kitchen Items Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Decluttering And Mental Health",
+      "hook": "Can Clutter Always Affect Mental...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Twenty Five Dollar Decor",
+      "hook": "Where To Find Twenty Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Simple Closet Organization System",
+      "hook": "Why Is Simple Closet Organization...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Eighty Twenty Rule Explained",
+      "hook": "What Is The Eighty Twenty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "DIY Storage Cubes Ideas",
+      "hook": "What Makes Ten DIY Projects Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Marie Kondo Inspired Decor",
+      "hook": "What Makes Marie Kondo Inspired...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Four Shelf Bookcase Organization",
+      "hook": "Can Four Shelf Bookcase Be...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Customized Closet Design Tips",
+      "hook": "Why Does Your Closet Need Customizing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Ten Item Kitchen Essentials",
+      "hook": "What Are The Ten Essential...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Five Minute Evening Routine",
+      "hook": "When Is The Best Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Small Space Desk Organization",
+      "hook": "Why Is Small Space Desk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Three Level Closet System",
+      "hook": "Can You Build A Three Tier Shelf...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "DIY Home Decor Projects",
+      "hook": "What Are The Top Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Mindful Decluttering Techniques",
+      "hook": "Can Mindful Decluttering Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Six Step Cleaning Process",
+      "hook": "Why Clean Everything In Only Six Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Custom Pantry Organization Systems",
+      "hook": "What Is Custom Pantry Organization...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Twenty Minute Workout Routine",
+      "hook": "Can Twenty Minutes Be Enough...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Simple Living Room Storage",
+      "hook": "Why Is Simple Living Room...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Five Day Declutter Challenge",
+      "hook": "What Happens When You Declutter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "IKEA Storage Hacks Ideas",
+      "hook": "How Does IKEA Storage Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Four Tier Bookshelf Organization",
+      "hook": "Can Four Tier Bookshelves Hold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Minimalist Kitchen Decor Ideas",
+      "hook": "Why Minimalist Kitchens Always Look...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Ten Dollar Storage Solutions",
+      "hook": "Where Can You Find Ten...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "DIY Closet Organization Ideas",
+      "hook": "How Do DIY Closets Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Marie Kondo Folding Board",
+      "hook": "What Is Marie Kondo Folding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Eight Hour Work Schedule",
+      "hook": "When Does An Eight Hour...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Customized Home Office Decor",
+      "hook": "Why Customized Home Offices Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Three Bin Recycling System",
+      "hook": "How Does A Three Bin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Five Level Shoe Rack",
+      "hook": "Can A Five Level Shoe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Simple Bedroom Decor Ideas",
+      "hook": "What Makes Simple Bedrooms Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Decluttering And Productivity",
+      "hook": "Why Does Decluttering Increase Productivity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Twenty Five Minute Workout",
+      "hook": "How Can Twenty Five Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Six Piece Dining Set",
+      "hook": "What Is Included In A...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "DIY Pantry Organization System",
+      "hook": "How Do DIY Pantry Systems...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Mindful Morning Routine Habits",
+      "hook": "Why Mindful Mornings Always Start...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Four Shelf Closet Organization",
+      "hook": "Can Four Shelf Closets Hold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Customized Kitchen Decor Ideas",
+      "hook": "What Makes Customized Kitchens Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Ten Minute Declutter Session",
+      "hook": "How Can Ten Minutes Change...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Five Tier Closet System",
+      "hook": "What Is A Five Tier Closet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Small Space Organization Tips",
+      "hook": "How Can I Fit Everything...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Marie Kondo Inspired Clothing",
+      "hook": "What Makes Marie Kondo Inspired...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Three Level Bookcase Organization",
+      "hook": "Why Does A Three Level...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "DIY Storage Bins Ideas",
+      "hook": "Can I Make Ten DIY...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Minimalist Bathroom Decor Ideas",
+      "hook": "What Are The Top Minimalist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Eighty Dollar Home Decor",
+      "hook": "What Can You Decorate With Only Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Simple Closet Organization Tips",
+      "hook": "Why Cant I Organize My...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Four Step Cleaning Process",
+      "hook": "What Are The Four Step...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Customized Closet Organizer System",
+      "hook": "How Does A Customized Closet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Ten Item Bathroom Essentials",
+      "hook": "What Are The Essential Ten...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Five Minute Workout Routine",
+      "hook": "Can I Get Fit In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "DIY Home Organization Projects",
+      "hook": "Why Do Twenty DIY Ideas Always Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Mindful Decluttering And Meditation",
+      "hook": "What Is Mindful Decluttering And...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Six Piece Wardrobe Essentials",
+      "hook": "Why Do I Need Six...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Three Tier Closet Organization",
+      "hook": "Why Build A Three Section Organizer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Custom Pantry Storage Solutions",
+      "hook": "What Are Custom Pantry Storage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Twenty Minute Declutter Session",
+      "hook": "Can I Declutter In Twenty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Five Level Storage Solutions",
+      "hook": "Can You Build Five Level Storage Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Minimalist Living Room Decor",
+      "hook": "What Makes A Minimalist Living...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

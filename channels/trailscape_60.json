@@ -1,0 +1,819 @@
+{
+  "channel_id": "trailscape_60",
+  "channel_name": "TrailScape 60",
+  "github_environment": "TrailScape 60",
+  "category": "Travel & Events",
+  "youtube_category_id": "19",
+  "default_tags": [
+    "hiking",
+    "trails",
+    "nature",
+    "outdoor",
+    "adventure",
+    "shorts"
+  ],
+  "pexels_search_prefix": "hiking trail mountain nature",
+  "music_mood": "ambient",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Mount Everest Base Camp Secrets",
+      "hook": "What Lies At Everest Base...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Seven Deadly Hiking Mistakes",
+      "hook": "Why Hikers Always Make Mistakes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Kilimanjaro Summit Weather Forecast",
+      "hook": "When Will Kilimanjaro Weather Clear...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Hidden Waterfalls On Appalachian Trail",
+      "hook": "Where Are Hidden Appalachian Waterfalls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Five Most Treacherous Mountain Peaks",
+      "hook": "What Makes Five Peaks Deadly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Denali National Park Survival Tips",
+      "hook": "Can You Survive Denali National...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Lost City Of Machuigen Trail",
+      "hook": "What Is Hidden In Machuigen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Ten Essentials For Wilderness Survival",
+      "hook": "What Are Ten Wilderness Essentials...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Yellowstone River Trail Dangers",
+      "hook": "Why Is Yellowstone River So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Three Days On The Inca Trail",
+      "hook": "What Happens On Inca Trail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Angels Landing Hike Fatality Rate",
+      "hook": "Why Is Angels Landing So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Glacier National Park Bear Attacks",
+      "hook": "When Do Glacier Bears Attack...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Four Thousand Meter Peak Climbs",
+      "hook": "Can You Climb Four Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "New Zealand Fjordland National Park",
+      "hook": "What Is New Zealand Fjordland...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Hiking The 100 Mile Wilderness",
+      "hook": "Can You Hike 100 Miles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Six Highest Peaks In Colorado",
+      "hook": "What Are Six Highest Colorado...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Yosemite Valley Rockfall Hazards",
+      "hook": "Why Does Yosemite Valley Rockfall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "The Grand Canyon Skywalk Secrets",
+      "hook": "What Is Grand Canyon Skywalk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Eight Thousand Meter Mountain Ranges",
+      "hook": "Where Are Eight Thousand Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Australian Outback Desert Trails",
+      "hook": "Can You Cross Australian Outback...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Five Highest Waterfalls In World",
+      "hook": "What Are Worlds Highest 5 Waterfalls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "The Great Himalayan Trail Map",
+      "hook": "Where Is The Great Himalayan Trail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Twelve Most Scenic Hiking Trails",
+      "hook": "How Many Scenic Trails Are There...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Utah Canyonlands National Park",
+      "hook": "Can You Explore Utah Canyonlands...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "The Swiss Alps Haute Route",
+      "hook": "What Is The Swiss Alps Haute...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Nine Deadly Hiking Trail Mistakes",
+      "hook": "Why Do Hikers Always Make Mistakes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Iceland Laugavegur Trail Challenges",
+      "hook": "How Tough Is Iceland Laugavegur Trail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Seven Summits Of The World",
+      "hook": "What Are The 7 Summits Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "The Rocky Mountains Trail System",
+      "hook": "Where Are The Rocky Mountains Trails...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Eleven Most Beautiful Mountain Lakes",
+      "hook": "Can You Find 11 Beautiful Lakes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "The Appalachian Trail Thru Hike",
+      "hook": "How Long Is The Appalachian Trail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Four Most Treacherous River Crossings",
+      "hook": "What Are The 4 Most Treacherous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "The Tour Du Mont Blanc Trail",
+      "hook": "Where Does The Tour Du Mont...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "The Annapurna Circuit Trek",
+      "hook": "Why Hike The Annapurna Circuit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Six Most Remote Wilderness Areas",
+      "hook": "What Are The 6 Most Remote...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "The John Muir Trail Section Hikes",
+      "hook": "How Many Sections Has John Muir...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "The Dolomites Via Ferrata Routes",
+      "hook": "Can You Conquer The Dolomites Via...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Ten Most Challenging Hiking Trails",
+      "hook": "What Are The 10 Most Challenging...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "The Camino De Santiago Pilgrimage",
+      "hook": "Where Is The Camino De Santiago...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "The Pacific Crest Trail Thru Hike",
+      "hook": "How Long Does Pacific Crest Trail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "The Everest Base Camp Trek Cost",
+      "hook": "What Costs $1000 At Everest Base...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "The Inca Trail To Machuigen",
+      "hook": "Where Does Inca Trail Begin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "The Five Highest Peaks In Asia",
+      "hook": "How High Are Asias Five Peaks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "The Grand Canyon Rim To Rim",
+      "hook": "Can You Hike Grand Canyon Rim...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "The Seven Wonders Of Nature",
+      "hook": "What Are The Seven Natural Wonders...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "The Himalayan Mountain Range Map",
+      "hook": "Where Is Himalayan Mountain Range Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "The Appalachian Trail Section Hikes",
+      "hook": "How Long Are Appalachian Trail Sections...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "The Rocky Mountain National Park",
+      "hook": "What Animals Roam Rocky Mountain National...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "The Ten Most Scenic Mountain Passes",
+      "hook": "Which Passes Are The Ten Most...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "The Swiss Alps Jungfrau Region",
+      "hook": "Where Is Swiss Alps Jungfrau Region...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "The Australian Blue Mountains Trails",
+      "hook": "How Many Trails Are In Australian...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "The Twelve Apostles Mountain Range",
+      "hook": "What Formed Twelve Apostles Mountain Range...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "The New Zealand Southern Alps",
+      "hook": "Can You Hike New Zealand Southern...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "The Four Most Deadly Hiking Trails",
+      "hook": "What Makes Four Trails So Deadly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "The Yosemite National Park Trails",
+      "hook": "How Many Miles Of Trails Are...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "The Zion National Park Hiking Trails",
+      "hook": "What Lies On Zion National Park...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "The Bryce Canyon National Park",
+      "hook": "Where Is Bryce Canyon National Park...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "The Arches National Park Trails",
+      "hook": "How Many Arches Are In Arches...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "The Canyonlands National Park Trails",
+      "hook": "Can You Explore Canyonlands National Park...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "The Great Ocean Walk Trail Map",
+      "hook": "What Lies On Great Ocean Walk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "The Otter Trail South Africa",
+      "hook": "What Lies On Otter Trail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "The Fish River Canyon Trail",
+      "hook": "Can You Hike Fish River...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "The Drakensberg Mountain Range",
+      "hook": "Where Is Drakensberg Highest Peak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "The Table Mountain Hiking Trails",
+      "hook": "How Many Trails Has Table Mountain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "The Garden Route National Park",
+      "hook": "What Animals Roam Garden Route...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "The Tsitsikamma National Park Trails",
+      "hook": "Why Is Tsitsikamma So Dangerous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "The Addo Elephant National Park",
+      "hook": "How Big Is Addo Elephant...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "The Blyde River Canyon Trails",
+      "hook": "What Cant Be Missed At Blyde...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "The Magaliesberg Mountain Range",
+      "hook": "When To Hike Magaliesberg Mountains...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "The Pilanesberg National Park Trails",
+      "hook": "Would You Survive Pilanesberg Trails...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "The Kruger National Park Trails",
+      "hook": "How Many Lions Roam Kruger...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "The Sabi Sands Game Reserve",
+      "hook": "What Secrets Hide In Sabi Sands...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "The Okavango Delta Wilderness Trails",
+      "hook": "Can You Navigate Okavango Delta...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "The Chobe National Park Trails",
+      "hook": "Why Is Chobe National Park...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "The Moremi Game Reserve Trails",
+      "hook": "How Many Days To Explore Moremi...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "The Makgadikgadi Pans National Park",
+      "hook": "What Lies Beneath Makgadikgadi Pans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "The Nxai Pan National Park Trails",
+      "hook": "When To Visit Nxai Pan National...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "The Kgalagadi Transfrontier Park",
+      "hook": "Where Does Kgalagadi Park Begin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "The Augrabies Falls National Park",
+      "hook": "How High Are Augrabies Falls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "The Golden Gate Highlands Trails",
+      "hook": "What Awaits At Golden Gate Highlands...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "The Maluti Mountains Hiking Trails",
+      "hook": "What Lies At Maluti Mountains Peak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "The Free State Province Trails",
+      "hook": "Where Are Free State Trails Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "The Eastern Cape Province Trails",
+      "hook": "Can You Conquer Eastern Cape Peaks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "The Western Cape Province Trails",
+      "hook": "How Many Western Cape Trails Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "The Northern Cape Province Trails",
+      "hook": "What Secrets Does Northern Cape Hold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "The Limpopo Province Trails",
+      "hook": "Why Cant You Miss Limpopo Trails...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "The Mpumalanga Province Trails",
+      "hook": "When To Hike Mpumalanga Mountain Peaks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "The North West Province Trails",
+      "hook": "What Makes North West Trails Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "The Gauteng Province Trails",
+      "hook": "How Many Gauteng Trails Are There...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "The Mount Kilimanjaro Climbing Routes",
+      "hook": "What Is Kilimanjaro Climbing Route 1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "The Mount Everest North Face",
+      "hook": "Can You Scale Everest North Face...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "The Seven Summits Climbing Routes",
+      "hook": "How Many Seven Summits Are There...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "The K2 Mountain Climbing Routes",
+      "hook": "What Is K2 Mountain Climbing Route...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "The Mount Denali Climbing Routes",
+      "hook": "Why Cant You Solo Denali Climbs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "The Mount Elbrus Climbing Routes",
+      "hook": "What Is Elbrus Climbing Route Like...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "The Mount Aconcagua Climbing Routes",
+      "hook": "How High Is Aconcagua Mountain Peak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "The Mount Vinson Climbing Routes",
+      "hook": "What Makes Vinson Climbing Routes Hard...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "The Mount Carstensz Climbing Routes",
+      "hook": "Can You Find Carstensz Climbing Route...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "The Mount Kosciuszko Climbing Routes",
+      "hook": "What Is Kosciuszko Climbing Route Like...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "The Mount Kinabalu Climbing Routes",
+      "hook": "How Many Days To Climb Kinabalu...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

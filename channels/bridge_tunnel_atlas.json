@@ -1,0 +1,819 @@
+{
+  "channel_id": "bridge_tunnel_atlas",
+  "channel_name": "Bridge & Tunnel Atlas",
+  "github_environment": "Bridge & Tunnel Atlas",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "bridges",
+    "tunnels",
+    "infrastructure",
+    "engineering",
+    "construction",
+    "shorts"
+  ],
+  "pexels_search_prefix": "bridge tunnel engineering construction",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Golden Gate Bridge Construction",
+      "hook": "What Took Golden Gate 4 Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Tokyo Bay Aqua Tunnel System",
+      "hook": "How Does Tokyo Bay Handle 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Five Longest Suspension Bridges",
+      "hook": "What Are The 5 Longest Bridges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Ancient Roman Bridge Designs",
+      "hook": "Why Did Ancient Romans Build 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Fifty Tunnel Engineering Marvels",
+      "hook": "Can Fifty Tunnel Systems Fail Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Three Gorges Dam Bridge",
+      "hook": "When Was Three Gorges Dam Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "London Underground Tube Map",
+      "hook": "Where Is London Undergrounds Longest Tube...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "World Longest Rail Tunnel",
+      "hook": "How Long Is Worlds Longest Rail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Brooklyn Bridge Cable System",
+      "hook": "Why Cant Brooklyn Bridge Cables Break...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Ten Tallest Bridge Structures",
+      "hook": "What Are The Ten Tallest Bridges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Channel Tunnel Construction Story",
+      "hook": "How Was Channel Tunnel Built Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Seven Wonders Of Bridge",
+      "hook": "What Are The Seven Ancient Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Hong Kong Zhuhai Bridge",
+      "hook": "Where Is Hong Kong Zhuhai Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Four Hundred Meter Spans",
+      "hook": "Can Four Hundred Meter Spans Collapse...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Bridge Building In Antarctica",
+      "hook": "How Do Engineers Build Bridges In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Sydney Harbour Bridge Climb",
+      "hook": "What Is Sydney Harbour Bridge Climb...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Eighteen Kilometer Tunnel Project",
+      "hook": "When Will Eighteen Kilometer Tunnel Finish...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Beijing Subway Tunnel Network",
+      "hook": "How Does Beijing Subway Tunnel Network...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Akashi Kaikyo Bridge Japan",
+      "hook": "Why Is Akashi Kaikyo Bridge Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Twenty Five Bridge Collapses",
+      "hook": "What Caused Twenty Five Bridge Collapses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Ancient Stone Bridge Designs",
+      "hook": "What Makes Ancient Stone Bridges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "World Deepest Underwater Tunnel",
+      "hook": "How Deep Is Worlds Deepest Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Fifty Year Old Bridge",
+      "hook": "Why Does Fifty Year Old Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Millau Viaduct France Construction",
+      "hook": "Can Millau Viaduct Handle Strong Winds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Shanghai Maglev Train Tunnel",
+      "hook": "Where Is Shanghai Maglev Train Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Bridge Over Hoover Dam",
+      "hook": "How High Is Bridge Over Hoover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Thirty Kilometer Bridge Project",
+      "hook": "What Took Thirty Kilometer Bridge Project...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "New York City Tunnel System",
+      "hook": "When Was New York City Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Severn Bridge Wales Construction",
+      "hook": "Why Was Severn Bridge Construction Difficult...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Qingdao Haiwan Bridge China",
+      "hook": "How Long Is Qingdao Haiwan Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Twenty First Century Bridges",
+      "hook": "What Makes Twenty First Century Bridges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Bridge Construction In Desert",
+      "hook": "Can Bridges Be Built In Desert...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Oslo Fjord Tunnel System",
+      "hook": "How Deep Is Oslo Fjord Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Five Hundred Year Old Bridge",
+      "hook": "Why Does Five Hundred Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "World Highest Bridge Structure",
+      "hook": "What Is Worlds Highest Bridge Structure...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Lake Pontchartrain Bridge Louisiana",
+      "hook": "How Long Is Lake Pontchartrain Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Sixty Meter High Bridge",
+      "hook": "Why Is Sixty Meter High Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Ancient Chinese Bridge Designs",
+      "hook": "What Inspired Ancient Chinese Bridge Designs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Bristol Clifton Suspension Bridge",
+      "hook": "How Was Bristol Clifton Suspension Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Seventy Five Bridge Types",
+      "hook": "Can You Name Seventy Five Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "San Francisco Bay Bridge",
+      "hook": "What Makes San Francisco Bay...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Bridge Building With Robots",
+      "hook": "How Do Robots Build Bridges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Ninety Nine Meter Spans",
+      "hook": "Why Are Ninety Nine Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Tower Bridge London History",
+      "hook": "When Was Tower Bridge London...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Four Thousand Meter Tunnels",
+      "hook": "Can Four Thousand Meter Tunnels...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Mackinac Bridge Michigan Construction",
+      "hook": "How Was Mackinac Bridge Michigan...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "World Longest Cable Stayed",
+      "hook": "What Is World Longest Cable...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Eighty Kilometer Tunnel Project",
+      "hook": "Where Is Eighty Kilometer Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Ancient Greek Bridge Designs",
+      "hook": "Why Did Ancient Greek Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Fifty Meter High Bridge",
+      "hook": "How High Is Fifty Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Bridge Over The Amazon",
+      "hook": "What Crosses The Amazon Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Thirty Five Bridge Collapses",
+      "hook": "Why Cant Thirty Five Bridges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "World Most Expensive Bridge",
+      "hook": "What Is World Most Expensive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Tsing Ma Bridge Hong Kong",
+      "hook": "Where Is Tsing Ma Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Six Hundred Year Old Bridge",
+      "hook": "How Old Is Six Hundred...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "New York City Bridge Tour",
+      "hook": "Can You Tour New York...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Seventeen Kilometer Tunnel",
+      "hook": "When Will Seventeen Kilometer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Bridge Building In Mountains",
+      "hook": "How Are Mountains Built With...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Twenty Two Bridge Designs",
+      "hook": "What Are Twenty Two Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Ancient Roman Aqueducts",
+      "hook": "Why Did Ancient Roman Aqueducts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "World Largest Suspension Bridge",
+      "hook": "What Is Worlds Largest Suspension...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Four Hundred Year Old",
+      "hook": "When Was Four Hundred Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Bridge Over The Nile",
+      "hook": "Where Is Bridge Over Nile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Thirty Meter High Bridge",
+      "hook": "How High Is Thirty Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Ancient Egyptian Bridge Designs",
+      "hook": "What Are Ancient Egyptian Designs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Fifty Five Bridge Structures",
+      "hook": "Can Fifty Five Bridge Structures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "World Most Dangerous Bridge",
+      "hook": "Why Is Worlds Most Dangerous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Lake Baikal Railroad Tunnel",
+      "hook": "Where Is Lake Baikal Railroad...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Twenty Five Meter Spans",
+      "hook": "How Long Are Twenty Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Bridge Construction In Jungle",
+      "hook": "Can Bridge Construction Happen Jungle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "World Deepest Tunnel System",
+      "hook": "What Is Worlds Deepest Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Ancient Stone Bridge Repair",
+      "hook": "Why Cant Anyone Repair Ancient Stone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Eighty Five Bridge Types",
+      "hook": "What Are Eighty Five Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Bridge Over Grand Canyon",
+      "hook": "Where Is Bridge Over Grand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Thirty Nine Bridge Collapses",
+      "hook": "Why Cant Thirty Nine Bridges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "World Highest Railway Bridge",
+      "hook": "What Is Worlds Highest Railway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Fifty Two Bridge Designs",
+      "hook": "How Many Fifty Two Designs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Ancient Chinese Tunnel Systems",
+      "hook": "What Are Ancient Chinese Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Sixty Five Meter Spans",
+      "hook": "How Long Are Sixty Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Bridge Building With Drones",
+      "hook": "Can Drones Build Bridges Faster...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Twenty First Century Tunnels",
+      "hook": "What Lies Beneath Twenty First...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "World Longest Underwater Tunnel",
+      "hook": "Where Is Worlds Longest Underwater...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Ninety Meter High Bridge",
+      "hook": "How High Is Ninety Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Ancient Greek Tunnel Systems",
+      "hook": "What Secrets Hide In Ancient...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Four Thousand Year Old",
+      "hook": "When Was Four Thousand Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Bridge Over The Yangtze",
+      "hook": "Can You Cross Bridge Over...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Seventy Two Bridge Structures",
+      "hook": "Why Are Seventy Two Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "World Most Beautiful Bridge",
+      "hook": "What Makes Worlds Most Beautiful...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Thirty Seven Bridge Designs",
+      "hook": "How Many Thirty Seven Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Ancient Roman Bridge Repair",
+      "hook": "What Did Ancient Roman Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Fifty Eight Bridge Collapses",
+      "hook": "Why Did Fifty Eight Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "World Largest Cable Bridge",
+      "hook": "Where Is World Largest Cable...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Twenty Nine Meter Spans",
+      "hook": "How Wide Are Twenty Nine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Bridge Construction In Forest",
+      "hook": "Can You Build Bridge In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "World Highest Bridge Tower",
+      "hook": "What Tops World Highest Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Sixty Two Bridge Types",
+      "hook": "How Many Sixty Two Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Ancient Egyptian Tunnel Systems",
+      "hook": "What Lies In Ancient Egyptian...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Thirty Four Bridge Designs",
+      "hook": "Why Thirty Four Bridge Designs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "World Longest Railroad Tunnel",
+      "hook": "How Long Is World Longest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Fifty Nine Bridge Structures",
+      "hook": "What Supports Fifty Nine Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

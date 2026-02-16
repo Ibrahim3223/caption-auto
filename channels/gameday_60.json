@@ -1,0 +1,819 @@
+{
+  "channel_id": "gameday_60",
+  "channel_name": "GameDay 60",
+  "github_environment": "GameDay 60",
+  "category": "Sports",
+  "youtube_category_id": "17",
+  "default_tags": [
+    "sports",
+    "games",
+    "highlights",
+    "athletes",
+    "records",
+    "shorts"
+  ],
+  "pexels_search_prefix": "sports athletes competition",
+  "music_mood": "energetic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Michael Jordan Scores 69 Points",
+      "hook": "What Made Michael Jordan Score...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Usain Bolt Runs 100 Meters",
+      "hook": "How Fast Can Usain Bolt Run...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Tiger Woods Wins 15 Majors",
+      "hook": "When Will Tiger Woods Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "LeBron James Has 4 Nba Titles",
+      "hook": "Why Does LeBron James Have...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Cristiano Ronaldo Scores 750 Goals",
+      "hook": "Can Cristiano Ronaldo Score 800...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Tom Brady Throws 7 Touchdowns",
+      "hook": "How Many Touchdowns Can Tom...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Serena Williams Wins 23 Grand Slams",
+      "hook": "What Makes Serena Williams Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Floyd Mayweather Fights 50 Fights",
+      "hook": "When Will Floyd Mayweather Fight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Katie Ledecky Swims 1500 Meters",
+      "hook": "How Fast Can Katie Ledecky Swim...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Eliud Kipchoge Runs 2 Hour Marathon",
+      "hook": "Can Eliud Kipchoge Run Under...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Lionel Messi Scores 772 Goals",
+      "hook": "Why Does Lionel Messi Score...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Stephen Curry Makes 300 Three Pointers",
+      "hook": "How Many Three Pointers Can...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Roger Federer Wins 20 Grand Slams",
+      "hook": "When Will Roger Federer Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Simone Biles Wins 25 World Medals",
+      "hook": "What Makes Simone Biles Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Michael Phelps Wins 28 Olympic Medals",
+      "hook": "How Many Medals Can Michael...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Novak Djokovic Wins 85 Titles",
+      "hook": "Why Does Novak Djokovic Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Shaquille Oneal Scores 28 Points",
+      "hook": "Can Shaquille Oneal Score 30...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Wayne Gretzky Scores 894 Goals",
+      "hook": "How Many Goals Did Wayne...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Jerry Rice Catches 197 Touchdowns",
+      "hook": "What Makes Jerry Rice Catch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Pele Scores 1000 Goals",
+      "hook": "Can Pele Score 1000 Goals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Babe Ruth Hits 714 Home Runs",
+      "hook": "What Made Babe Ruth Unstoppable...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Jesse Owens Wins 4 Gold Medals",
+      "hook": "How Did Jesse Owens Win 4...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Muhammad Ali Wins 56 Fights",
+      "hook": "Why Did Muhammad Ali Win 56...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Michael Schumacher Wins 91 Races",
+      "hook": "Can Michael Schumacher Win 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Jack Nicklaus Wins 18 Majors",
+      "hook": "What Made Jack Nicklaus Win 18...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Mike Tyson Knocks Out 44 Opponents",
+      "hook": "How Did Mike Tyson Knock Out...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Larry Bird Scores 24 Points",
+      "hook": "When Did Larry Bird Score 24...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Magic Johnson Wins 5 Nba Titles",
+      "hook": "Why Did Magic Johnson Win 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Carl Lewis Wins 9 Gold Medals",
+      "hook": "How Did Carl Lewis Win 9...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Greg LeMond Wins 3 Tour Titles",
+      "hook": "What Made Greg LeMond Win 3...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Ian Thorpe Wins 5 Gold Medals",
+      "hook": "Can Ian Thorpe Win 6 Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Nadia Comaneci Scores 10 Points",
+      "hook": "Why Did Nadia Comaneci Score 10...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Bob Beamon Jumps 8 Meters",
+      "hook": "How Did Bob Beamon Jump 8...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Mark Spitz Wins 7 Gold Medals",
+      "hook": "What Made Mark Spitz Win 7...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Billie Jean King Wins 39 Titles",
+      "hook": "When Did Billie Jean King Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Alberto Juantorena Runs 400 Meters",
+      "hook": "How Fast Did Alberto Juantorena Run...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Paavo Nurmi Wins 9 Gold Medals",
+      "hook": "Why Did Paavo Nurmi Win 9...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Teofilo Stevenson Wins 3 Gold Medals",
+      "hook": "Can Teofilo Stevenson Win 4 Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Ray Leonard Wins 36 Fights",
+      "hook": "What Made Ray Leonard Win 36...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Sugar Ray Robinson Wins 173 Fights",
+      "hook": "How Did Sugar Ray Robinson Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Joe Louis Wins 66 Fights",
+      "hook": "What Made Joe Louis Win 66...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "George Foreman Wins 76 Fights",
+      "hook": "How Did George Foreman Win 76...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Wilma Rudolph Wins 3 Gold Medals",
+      "hook": "When Did Wilma Rudolph Win 3...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Jackie Joyner Kersee Wins 3 Gold Medals",
+      "hook": "Why Did Jackie Joyner Kersee Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Florence Griffith Joyner Runs 100 Meters",
+      "hook": "Can Florence Griffith Joyner Run 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Mary Lou Retton Scores 10 Points",
+      "hook": "How Does Mary Lou Retton Score...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Olga Korbut Wins 4 Gold Medals",
+      "hook": "What Made Olga Korbut Win 4...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Gert Fredriksson Wins 6 Gold Medals",
+      "hook": "Where Did Gert Fredriksson Win 6...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Lidiya Skoblikova Wins 6 Gold Medals",
+      "hook": "When Did Lidiya Skoblikova Win 6...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Eddie Eagan Wins 2 Gold Medals",
+      "hook": "Why Cant Eddie Eagan Win More...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Johnny Weissmuller Wins 5 Gold Medals",
+      "hook": "How Did Johnny Weissmuller Win 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Dara Torres Wins 12 Medals",
+      "hook": "What Made Dara Torres Win 12...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Ian Fleming Wins 1 Gold Medal",
+      "hook": "Can Ian Fleming Win Only 1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Larisa Latynina Wins 9 Gold Medals",
+      "hook": "Why Did Larisa Latynina Win 9...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Steve Redgrave Wins 5 Gold Medals",
+      "hook": "How Does Steve Redgrave Win 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Katarina Witt Wins 2 Gold Medals",
+      "hook": "What Made Katarina Witt Win 2...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Bonnie Blair Wins 5 Gold Medals",
+      "hook": "When Did Bonnie Blair Win 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Ekaterina Gordeeva Wins 2 Gold Medals",
+      "hook": "Why Cant Ekaterina Gordeeva Win More...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Viktor Petrenko Wins 1 Gold Medal",
+      "hook": "How Did Viktor Petrenko Win Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Scott Hamilton Wins 1 Gold Medal",
+      "hook": "Can Scott Hamilton Win Only 1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Robin Cousins Wins 1 Gold Medal",
+      "hook": "What Made Robin Cousins Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Jayne Torvill Wins 1 Gold Medal",
+      "hook": "How Did Jayne Torvill Get Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Brian Boitano Wins 1 Gold Medal",
+      "hook": "Why Did Brian Boitano Win Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Debi Thomas Wins 1 Bronze Medal",
+      "hook": "Can Debi Thomas Win More Bronze...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Rosalynn Sumners Wins 1 Silver Medal",
+      "hook": "Where Did Rosalynn Sumners Get Silver...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Jill Trenary Wins 1 Bronze Medal",
+      "hook": "When Will Jill Trenary Win Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Kristi Yamaguchi Wins 1 Gold Medal",
+      "hook": "What Made Kristi Yamaguchi Win Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Oksana Baiul Wins 1 Gold Medal",
+      "hook": "How Did Oksana Baiul Win At...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Nancy Kerrigan Wins 1 Silver Medal",
+      "hook": "Why Cant Nancy Kerrigan Win Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Todd Eldredge Wins 1 Bronze Medal",
+      "hook": "Can Todd Eldredge Win More Bronze...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Paul Wylie Wins 1 Silver Medal",
+      "hook": "What Made Paul Wylie Win Silver...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Kurt Browning Wins 1 Bronze Medal",
+      "hook": "How Did Kurt Browning Get Bronze...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Elvis Stojko Wins 1 Bronze Medal",
+      "hook": "Where Did Elvis Stojko Win Bronze...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Todd Martino Wins 1 Bronze Medal",
+      "hook": "When Will Todd Martino Win Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Tara Lipinski Wins 1 Gold Medal",
+      "hook": "What Made Tara Lipinski Win Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Michelle Kwan Wins 2 Bronze Medals",
+      "hook": "How Did Michelle Kwan Win Two...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Irina Slutskaya Wins 1 Bronze Medal",
+      "hook": "Why Does Irina Slutskaya Have Bronze...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Alexei Yagudin Wins 1 Gold Medal",
+      "hook": "Can Alexei Yagudin Win More Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Evgeni Plushenko Wins 1 Gold Medal",
+      "hook": "What Made Evgeni Plushenko Win Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Sarah Hughes Wins 1 Gold Medal",
+      "hook": "How Did Sarah Hughes Win At...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Shizuka Arakawa Wins 1 Gold Medal",
+      "hook": "What Made Shizuka Arakawa Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Sasha Cohen Wins 1 Silver Medal",
+      "hook": "How Did Sasha Cohen Get Silver...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Mao Asada Wins 1 Bronze Medal",
+      "hook": "Why Mao Asada Won Only Bronze...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Yu Na Kim Wins 1 Gold Medal",
+      "hook": "Can Yu Na Kim Win Again...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Patrick Chan Wins 1 Gold Medal",
+      "hook": "When Did Patrick Chan Win Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Meryl Davis Wins 1 Gold Medal",
+      "hook": "How Does Meryl Davis Always Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Charlie White Wins 1 Gold Medal",
+      "hook": "What Makes Charlie White So Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Tessa Virtue Wins 1 Gold Medal",
+      "hook": "Why Tessa Virtue Wins Every Time...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Scott Moir Wins 1 Gold Medal",
+      "hook": "Can Scott Moir Win Without Tessa...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Yuna Kim Scores 150 Points",
+      "hook": "How Did Yuna Kim Score 150...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Lindsey Vonn Wins 82 Races",
+      "hook": "Where Did Lindsey Vonn Win 82...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Bode Miller Wins 33 Races",
+      "hook": "Why Bode Miller Won Only 33...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Ted Ligety Wins 25 Races",
+      "hook": "What Made Ted Ligety Win 25...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Mikaela Shiffrin Wins 70 Races",
+      "hook": "How Does Mikaela Shiffrin Win 70...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Marcel Hirscher Wins 67 Races",
+      "hook": "When Will Marcel Hirscher Win 68...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Hermann Maier Wins 54 Races",
+      "hook": "Why Hermann Maier Cant Win 55...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Ingemar Stenmark Wins 86 Races",
+      "hook": "What Made Ingemar Stenmark Win 86...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Annemarie Moser Pröll Wins 62 Races",
+      "hook": "How Did Annemarie Moser Proell Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Vreni Schneider Wins 55 Races",
+      "hook": "Can Vreni Schneider Win 56 Races...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Kjetil Andre Aamodt Wins 20 Medals",
+      "hook": "Why Kjetil Andre Aamodt Won 20...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

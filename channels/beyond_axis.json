@@ -1,0 +1,819 @@
+{
+  "channel_id": "beyond_axis",
+  "channel_name": "BeyondAxis",
+  "github_environment": "BeyondAxis",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "exploration",
+    "unknown",
+    "mysteries",
+    "discovery",
+    "science",
+    "shorts"
+  ],
+  "pexels_search_prefix": "exploration mystery",
+  "music_mood": "mysterious",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Giant Squid Live In Darkness",
+      "hook": "What Lives In Total Darkness...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Mars Has 12 Volcanic Regions",
+      "hook": "Where Are Mars 12 Volcanos...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "5000 Year Old Mummy Found",
+      "hook": "When Was 5000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Bacteria Thrive In Extreme Heat",
+      "hook": "How Do Bacteria Thrive Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Deep Sea Vents Support Life",
+      "hook": "What Supports Life In Vents...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Jupiter Moons Have Ice Caps",
+      "hook": "Why Does Jupiter Have Ice...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "90 Percent Of Ocean Unmapped",
+      "hook": "What Covers 90 Percent Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Black Holes Warp Space Time",
+      "hook": "How Do Black Holes Warp...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Antarctica Has 70 Active Volcanoes",
+      "hook": "Where Are 70 Active Volcanos...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Human Brain Has 86 Billion Cells",
+      "hook": "What Has 86 Billion Cells...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Saturns Rings Are Made Ice",
+      "hook": "What Are Saturns Rings Made...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Coral Reefs Support 25 Percent",
+      "hook": "Why Do Coral Reefs Support...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Scientists Discover New Species Daily",
+      "hook": "When Do Scientists Discover New...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "40 Percent Of Earth Is Desert",
+      "hook": "What Covers 40 Percent Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Mount Everest Is Still Growing",
+      "hook": "Why Is Mount Everest Growing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Space Station Orbits 16 Times",
+      "hook": "How Often Does Space Station...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Komodo Dragons Have Deadly Venom",
+      "hook": "What Makes Komodo Dragons Deadly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "20 Percent Of Water Is Frozen",
+      "hook": "Where Is 20 Percent Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Earthquakes Occur 50000 Times Yearly",
+      "hook": "How Often Do Earthquakes Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Blue Whales Can Live 90 Years",
+      "hook": "What Helps Blue Whales Live...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Amazon Rainforest Is 55 Million",
+      "hook": "What Is 55 Million Years Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Volcanic Eruptions Create New Land",
+      "hook": "How Do Volcanic Eruptions Create Land...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "75 Percent Of Fossils Are Insects",
+      "hook": "What Percent Of Fossils Are Insects...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Pluto Has Five Known Moons",
+      "hook": "How Many Moons Does Pluto Have...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Human Nose Can Detect 1000",
+      "hook": "What Can The Human Nose Detect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Great Barrier Reef Is 2000km",
+      "hook": "How Long Is The Great Barrier Reef...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Scientists Study 4000 Year Old",
+      "hook": "What Is 4000 Years Old And Still...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Yellowstone National Park Is Volcanic",
+      "hook": "Where Is The Volcanic National Park...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "60 Percent Of Animals Are Insects",
+      "hook": "What Percent Of Animals Are Insects...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Ocean Currents Move 1000km Per",
+      "hook": "How Far Do Ocean Currents Move...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Mars Rover Discovers Water Ice",
+      "hook": "What Did The Mars Rover Discover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "3000 Year Old City Uncovered",
+      "hook": "What Is 3000 Years Old And Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Space Telescopes See 13 Billion",
+      "hook": "What Can Space Telescopes See Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Octopuses Have Highly Developed Eyes",
+      "hook": "How Developed Are Octopuses Eyes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "80 Percent Of Light Is Absorbed",
+      "hook": "What Percent Of Light Is Absorbed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Earths Core Is 6000 Degrees",
+      "hook": "How Hot Is The Earths Core...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Human Body Has 60 Percent",
+      "hook": "What Percent Of The Body Is...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Scientists Find 100 Million Year",
+      "hook": "What Is 100 Million Years Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Grand Canyon Is 446km Long",
+      "hook": "How Long Is The Grand Canyon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "20 Percent Of Humans Are Left",
+      "hook": "What Percent Of Humans Are Left...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Dinosaurs Lived During 3 Eras",
+      "hook": "What Happened 250 Million Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Neptune Has 14 Known Moons",
+      "hook": "How Big Is Neptune Moon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "50 Percent Of Forests Are Gone",
+      "hook": "Why Are 50 Percent Gone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Great White Sharks Can Live",
+      "hook": "How Long Can Great Whites...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Mount St Helens Erupted 40 Times",
+      "hook": "When Did Mount St Helens...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "95 Percent Of Ocean Is Unexplored",
+      "hook": "What Lies In 95 Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Human Heart Beats 100000 Times",
+      "hook": "How Many Times Does Heart...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Scientists Discover New Element 118",
+      "hook": "What Is Element 118 Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "4000 Year Old Tree Still Lives",
+      "hook": "Where Is 4000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Venus Has 1000 Degrees Surface",
+      "hook": "Why Is Venus Surface 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "70 Percent Of Earth Is Ocean",
+      "hook": "What Covers 70 Percent Earth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Black Holes Have Event Horizons",
+      "hook": "What Is Beyond Black Hole...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Human Brain Uses 20 Percent",
+      "hook": "How Much Brain Do Humans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "10 Percent Of Humans Are Redheads",
+      "hook": "Why Are Only 10 Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Scientists Study 2000 Year Old",
+      "hook": "What Do Scientists Study 2000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Mars Has Polar Ice Caps",
+      "hook": "Where Are Mars Polar Ice...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "85 Percent Of Animals Are Cold",
+      "hook": "Why Are 85 Percent Cold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Ocean Depths Reach 11000 Meters",
+      "hook": "How Deep Are Ocean Depths...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Earth Has 8000 Volcanic Regions",
+      "hook": "Where Are Earths 8000 Volcanos...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Human Eyes Can See 1000",
+      "hook": "What Can Human Eyes See...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "50 Percent Of Water Is Underground",
+      "hook": "What Lies Beneath 50 Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "6000 Year Old Civilization Found",
+      "hook": "When Was 6000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Space Station Has 10000 Components",
+      "hook": "How Do 10000 Components Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Jupiter Has 79 Known Moons",
+      "hook": "What Has 79 Known Moons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Human Nose Can Smell 10000",
+      "hook": "Can Humans Smell 10000 Scents...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "30 Percent Of Earth Is Mountain",
+      "hook": "Where Is 30 Percent Mountain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Scientists Discover New Species 2019",
+      "hook": "What Did Scientists Discover 2019...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "40 Percent Of Humans Are Introverts",
+      "hook": "Why Are 40 Percent Introverts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Earthquakes Release 10000 Times Energy",
+      "hook": "How Much Energy Cant Earthquakes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Human Body Has 7000 Nerves",
+      "hook": "What Has 7000 Nerves Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "25 Percent Of Fossils Are Fish",
+      "hook": "Why Are 25 Percent Fossils...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Mars Has 10 Volcanic Regions",
+      "hook": "Where Are Mars 10 Volcanic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Space Telescopes See 100 Billion",
+      "hook": "What Can Space Telescopes See...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "80 Percent Of Humans Are Right",
+      "hook": "Why Are 80 Percent Humans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Human Brain Has 100 Billion Cells",
+      "hook": "How Many Cells Has Human...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "60 Percent Of Animals Are Mammals",
+      "hook": "What Percent Of Animals Are...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "9000 Year Old Village Uncovered",
+      "hook": "When Was 9000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Scientists Study 3000 Year Old",
+      "hook": "What Do Scientists Study 3000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Earths Atmosphere Is 500km Thick",
+      "hook": "How Thick Is Earths Atmosphere...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Human Heart Pumps 2000 Gallons",
+      "hook": "Can Human Heart Pump 2000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "50 Percent Of Forests Are Burning",
+      "hook": "What Causes 50 Percent Burns...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "70 Percent Of Earth Is Wilderness",
+      "hook": "Where Is 70 Percent Wilderness...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Jupiter Moons Have Subsurface Oceans",
+      "hook": "How Many Jupiter Moons Have Oceans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Human Eyes Can See Ultraviolet",
+      "hook": "Can Humans See Ultraviolet Light...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "30 Percent Of Humans Have Blue",
+      "hook": "What Percent Have Blue Eyes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "10000 Year Old Ice Core Found",
+      "hook": "When Was 10000 Year Old Ice Found...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Mars Has 3 Main Regions",
+      "hook": "What Are Mars Three Main Regions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Earth Has 1000 Active Volcanoes",
+      "hook": "How Many Active Volcanoes Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Human Body Has 200 Bones",
+      "hook": "Why Do Humans Have 200 Bones...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "40 Percent Of Water Is Polluted",
+      "hook": "What Percent Of Water Is Polluted...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Scientists Discover New Planet 2020",
+      "hook": "What Is The New Planet 2020...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "20 Percent Of Humans Are Vegetarians",
+      "hook": "How Many Humans Are Vegetarians...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Human Brain Uses 400 Calories",
+      "hook": "What Does 400 Calories Power...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "80 Percent Of Animals Are Herbivores",
+      "hook": "Why Are 80 Percent Herbivores...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Space Station Has 4000 Experiments",
+      "hook": "What Has 4000 Space Experiments...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Earths Core Is 12000km Deep",
+      "hook": "How Deep Is Earths Core...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "10 Percent Of Humans Are Twins",
+      "hook": "What Percent Of Humans Are Twins...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Human Nose Can Detect Poison",
+      "hook": "Can Human Nose Detect Poison...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "90 Percent Of Ocean Is Dark",
+      "hook": "What Percent Of Ocean Is Dark...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Jupiter Has 300 Storm Systems",
+      "hook": "How Many Storm Systems Has Jupiter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

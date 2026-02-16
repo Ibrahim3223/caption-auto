@@ -1,0 +1,819 @@
+{
+  "channel_id": "tiny_drama_dept",
+  "channel_name": "Tiny Drama Dept.",
+  "github_environment": "Tiny Drama Dept.",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": [
+    "drama",
+    "stories",
+    "micro fiction",
+    "narrative",
+    "storytelling",
+    "shorts"
+  ],
+  "pexels_search_prefix": "dramatic storytelling cinematic",
+  "music_mood": "dramatic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Seven Coffee Shops On Main",
+      "hook": "What Happens At Seven Coffee Shops...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Emma Finds Lost Phone Number",
+      "hook": "How Does Emma Find Lost Number...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Five People In Elevator Panic",
+      "hook": "Why Cant Five People Fit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Mark Waits 27 Minutes For Bus",
+      "hook": "When Will Mark Catch The Bus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Rachel Eats Last Donut Again",
+      "hook": "What If Rachel Eats Last Donut...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Twelve Kids In Small Classroom",
+      "hook": "How Many Kids Fit In Twelve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "David Gets Stuck In Revolving",
+      "hook": "Where Is David Stuck Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Four Friends Order Different Pizzas",
+      "hook": "Can Four Friends Agree On Pizza...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Olivia Spills Coffee On Shirt",
+      "hook": "Why Does Olivia Always Spill Coffee...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Nine To Five Job Stress",
+      "hook": "What Causes Nine To Five Stress...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Benjamin Forgets Wallet At Home",
+      "hook": "How Does Benjamin Forget His Wallet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Six People Argue Over Parking",
+      "hook": "Why Cant Six People Share Parking...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Laura Buys Wrong Grocery Items",
+      "hook": "What If Laura Buys Wrong Groceries...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Eight Hours In Traffic Jam",
+      "hook": "When Will Eight Hours End In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Michael Loses Favorite Pen Again",
+      "hook": "Why Does Michael Lose His Pen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Three Friends Betray Each Other",
+      "hook": "How Do Three Friends Betray Each...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Twenty Five Minutes Late Meeting",
+      "hook": "What If Twenty Five Minutes Are...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Samantha Gets Last Minute Invitation",
+      "hook": "Why Does Samantha Get Last Invite...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Fourteen Days Without Internet Connection",
+      "hook": "Can Fourteen Days Pass Without Internet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Jackson Finds Hidden Camera Lens",
+      "hook": "What Is Jackson Hiding From Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Nine Hundred Dollars Overdraft Fee",
+      "hook": "What Causes Nine Hundred...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Abigail Accidentally Sends Wrong Text",
+      "hook": "Why Does Abigail Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Seventeen Minutes Of Awkward Silence",
+      "hook": "Can Seventeen Minutes Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Five Strangers On Small Plane",
+      "hook": "Where Are Five Strangers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Christopher Wakes Up Late Again",
+      "hook": "When Will Christopher Wake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Twelve Oclock Lunch Break Rush",
+      "hook": "How Busy Is Twelve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Elizabeth Faces Public Speaking Fear",
+      "hook": "What Fears Elizabeth Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Sixty Nine Percent Chance Of Rain",
+      "hook": "Will Sixty Nine Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "David Gets Into Fender Bender",
+      "hook": "Why Does David Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Four People In Tiny Apartment",
+      "hook": "How Fit Four People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Rachel Runs Into Ex Boyfriend",
+      "hook": "Where Will Rachel Run...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Twenty One Gun Salute Ceremony",
+      "hook": "What Honors Twenty One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Eighty Five Degrees Outside Today",
+      "hook": "Can Eighty Five Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Benjamin Gets Food Poisoning Again",
+      "hook": "Why Does Benjamin Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Five Minutes To Presentation Time",
+      "hook": "What If Five Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Olivia Finds Old Love Letter",
+      "hook": "Who Wrote Olivia Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Nine Inch Nails Concert Tickets",
+      "hook": "Can Nine Inch Nails...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Michael Gets Into Heated Argument",
+      "hook": "Why Does Michael Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Fourteen Hour Road Trip Ahead",
+      "hook": "How Long Is Fourteen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Laura Gets Scammed Online Again",
+      "hook": "What Scams Laura Again...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Seven Days Without Sleep Deprivation",
+      "hook": "What Happens After Seven Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Jackson Faces Fear Of Heights",
+      "hook": "How Does Jackson Face Heights...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Three Hundred Dollars Rent Increase",
+      "hook": "Why Cant Christopher Pay $300...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Samantha Gets Lost In City",
+      "hook": "Where Is Samantha Getting Lost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Twenty Five Percent Discount Sale",
+      "hook": "What Is 25% Off Today...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Christopher Wears Wrong Shoes Again",
+      "hook": "Why Does Christopher Wear Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Eleven Oclock Curfew Time Tonight",
+      "hook": "When Is 11 Oclock Tonight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Abigail Gets Into Car Accident",
+      "hook": "How Did Abigail Get Into...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Six People In Small Conference",
+      "hook": "What Fits Six People Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Elizabeth Gets Rejected Again Today",
+      "hook": "Why Does Elizabeth Always Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Four Minutes To Deadline Time",
+      "hook": "Can David Beat Four Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "David Gets Stuck In Loop",
+      "hook": "How Is David Stuck Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Seventy Five Percent Off Sale",
+      "hook": "What Is 75% Off Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Rachel Forgets Important Password Again",
+      "hook": "Why Cant Rachel Remember Password...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Nine People In Tiny Room",
+      "hook": "How Fit Nine People Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Michael Loses Car Keys Again",
+      "hook": "Where Did Michael Lose Keys...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Twenty Six Minutes Of Silence",
+      "hook": "What Happens After Twenty Six...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Laura Gets Into Verbal Fight",
+      "hook": "Why Does Laura Get Into...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Eighty Percent Chance Of Success",
+      "hook": "Can Benjamin Achieve 80% Success...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Benjamin Faces Fear Of Failure",
+      "hook": "What Fears Does Benjamin Face...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Five Hours Of Traffic Ahead",
+      "hook": "What Causes Five Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Olivia Finds Forgotten Photographs",
+      "hook": "Where Did Olivia Find...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Three People In Love Triangle",
+      "hook": "How Can Three People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Jackson Gets Robbed At Gunpoint",
+      "hook": "Why Does Jackson Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Fourteen Minutes To Train Departure",
+      "hook": "Can Fourteen Minutes Save...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Samantha Gets Last Minute Warning",
+      "hook": "What Warns Samantha Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Twenty Two Degrees Outside Today",
+      "hook": "Why Is Twenty Two...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Christopher Gets Into Cycle Accident",
+      "hook": "How Does Christopher Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Eleven People In Small Space",
+      "hook": "What Happens With Eleven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Abigail Faces Fear Of Water",
+      "hook": "Can Abigail Face Water...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Sixty Minutes Of Pure Chaos",
+      "hook": "What Happens In Sixty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Elizabeth Gets Stranded Alone",
+      "hook": "Why Is Elizabeth Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Michael Gets Scammed By Friend",
+      "hook": "How Did Michael Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Seven Hundred Dollars Debt Collect",
+      "hook": "What Costs Seven Hundred...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Rachel Gets Lost In Thought",
+      "hook": "Where Is Rachel Lost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Four People In Small Car",
+      "hook": "Can Four Fit Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "David Faces Public Humiliation Again",
+      "hook": "Why Does David Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Nine To One Job Interview",
+      "hook": "What Happens At Nine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Laura Gets Rejected By Crush",
+      "hook": "Why Does Laura Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Twenty Four Hours Without Sleep",
+      "hook": "What Happens After Twenty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Jackson Gets Into Fist Fight",
+      "hook": "What Happens To Jackson Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Five Minutes To Game Time",
+      "hook": "When Will Game Time Start...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Olivia Finds Hidden Diary Entry",
+      "hook": "Where Is Olivias Diary Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Eight People In Conference Room",
+      "hook": "How Many People Cant Fit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Benjamin Gets Into Heated Debate",
+      "hook": "Why Does Benjamin Get Heated...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Seventeen Minutes Of Pure Anxiety",
+      "hook": "Can Seventeen Minutes Last Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Christopher Wears Same Outfit Again",
+      "hook": "Why Does Christopher Wear Same...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Fourteen Days Without Social Media",
+      "hook": "What Happens After Fourteen Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Samantha Gets Into Road Rage",
+      "hook": "How Does Samantha Stay Calm Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Twenty One Days Without Exercise",
+      "hook": "When Will Michael Exercise Again...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Michael Gets Into Love Affair",
+      "hook": "What Is Michaels Secret Love...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Sixty Nine Percent Chance Of Failure",
+      "hook": "Can Sixty Nine Percent Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Elizabeth Faces Fear Of Rejection",
+      "hook": "Why Does Elizabeth Fear Rejection...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "David Gets Into Cycle Crash",
+      "hook": "How Fast Was David Going...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Seven People In Small Kitchen",
+      "hook": "What Happens With Seven People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Rachel Gets Stranded In Airport",
+      "hook": "Where Is Rachel Stranded Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Jackson Gets Into Verbal Abuse",
+      "hook": "Why Does Jackson Get Verbal...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Five Hours Of Pure Boredom",
+      "hook": "How Long Is Five Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Abigail Gets Lost In Forest",
+      "hook": "Where Is Abigail Lost Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Christopher Faces Fear Of Darkness",
+      "hook": "What Fears Christopher At Night...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

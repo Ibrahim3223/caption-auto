@@ -1,0 +1,819 @@
+{
+  "channel_id": "spacevista_60",
+  "channel_name": "SpaceVista 60",
+  "github_environment": "SpaceVista 60",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "space",
+    "astronomy",
+    "universe",
+    "planets",
+    "cosmos",
+    "shorts"
+  ],
+  "pexels_search_prefix": "space stars universe galaxy",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Mars Has 12 Volcanic Regions",
+      "hook": "What Lies On Mars 12 Volcanic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Jupiter Is 890 Million Miles Away",
+      "hook": "How Far Is Jupiter 890 Million...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Black Hole Swallows 4 Stars",
+      "hook": "When Will Black Hole Swallow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Space Station Orbiting 250 Miles High",
+      "hook": "Where Is Space Station Orbiting...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "7 New Planets Discovered Near Kepler",
+      "hook": "What Hides Near Kepler 7 Planets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Saturns Moon Has Liquid Water",
+      "hook": "Can Saturns Moon Hold Liquid...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Cosmic Rays Hit Earth 1000 Times",
+      "hook": "Why Do Cosmic Rays Hit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "International Space Station Costs 150 Billion",
+      "hook": "How Much Does Space Station...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Mars Curiosity Rover Finds Water Ice",
+      "hook": "What Did Mars Curiosity Rover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "5000 Asteroids Are Potentially Hazardous",
+      "hook": "Can 5000 Asteroids Hit Earth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Galaxy Cluster Contains 1000 Galaxies",
+      "hook": "How Big Is Galaxy Cluster...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Space Debris Traveling 17000 Miles Per Hour",
+      "hook": "What Travels 17000 Miles Per...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Europa Moon Has Subsurface Ocean",
+      "hook": "Where Is Europa Moon Subsurface...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "NASA Spends 20 Billion Per Year",
+      "hook": "Why Does NASA Spend 20 Billion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "3 Comets Will Pass Earth In 2025",
+      "hook": "When Will 3 Comets Pass...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Dark Matter Makes Up 27 Percent",
+      "hook": "What Makes Up 27 Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Sun Emits 1000000 Solar Flares",
+      "hook": "How Many Solar Flares Emit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Space X Launches 1000 Satellites",
+      "hook": "Can Space X Launch 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Mars Colonization Will Take 20 Years",
+      "hook": "When Will Mars Colonization Begin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Jupiter Great Red Spot Shrinking",
+      "hook": "Why Is Jupiter Great Red...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Alien Planet Has 3 Suns",
+      "hook": "What Has 3 Suns Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Spacewalk Lasts 8 Hours Long",
+      "hook": "How Long Can Spacewalks Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Pluto Has 5 Moons Orbiting",
+      "hook": "Where Are Pluto 5 Moons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Earths Magnetic Field Is Weakening",
+      "hook": "Why Is Earths Field Weakening...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "10 Space Agencies Collaborate On Project",
+      "hook": "What Can 10 Agencies Collaborate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Black Hole Has 10 Billion Solar Mass",
+      "hook": "How Big Is Black Hole...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Saturn Rings Are Made Of Ice",
+      "hook": "What Are Saturn Rings Made...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Mars Rover Discovers Fossilized Bones",
+      "hook": "Where Did Mars Rover Discover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Space Station Has 1000 Experiments",
+      "hook": "How Many Experiments Are On...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Galaxy Is 13000 Light Years Away",
+      "hook": "Where Is Galaxy 13000 Away...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "NASA Finds Water On Moon",
+      "hook": "What Did NASA Find On...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "50 Years Of Space Exploration",
+      "hook": "When Did Space Exploration Start...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Jupiter Moon Has Volcanic Eruptions",
+      "hook": "Why Does Jupiter Moon Erupt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Space X Falcon 9Rocket Launches",
+      "hook": "When Will Space X Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "International Space Station Has 15 Modules",
+      "hook": "What Has 15 Space Modules...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Mars Planet Has Thin Atmosphere",
+      "hook": "Why Is Mars Atmosphere Thin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "2000 Near Earth Asteroids Exist",
+      "hook": "How Many Asteroids Are Near...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Space Debris Is Major Concern",
+      "hook": "What Causes Space Debris Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Earths Atmosphere Extends 6300 Miles",
+      "hook": "How Far Does Earth Atmosphere...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Cosmic Microwave Background Radiation Detected",
+      "hook": "What Is Cosmic Background Radiation...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Mars Valley Is 4000 Miles Long",
+      "hook": "What Is Mars 4000 Mile Valley...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Jupiter Storm Is 1000 Miles Wide",
+      "hook": "How Wide Is Jupiter 1000 Mile Storm...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Space X Reusable Rockets Save Money",
+      "hook": "Can Space X Save Money Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Black Holes Have Event Horizons",
+      "hook": "What Is Black Hole Event Horizon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "NASA Plans Mission To Europa",
+      "hook": "When Will NASA Reach Europa...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "100000 Galaxies Are Visible",
+      "hook": "How Many Galaxies Are Visible Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Space Station Crew Sleeps 7 Hours",
+      "hook": "Why Do Space Crews Sleep Only 7 Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Mars Surface Temperature Drops 125 Degrees",
+      "hook": "Where Does Mars Temperature Drop 125 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Jupiter Atmosphere Has Strong Winds",
+      "hook": "How Strong Are Jupiter Atmosphere Winds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Spacewalk Training Takes 2 Years",
+      "hook": "Can Spacewalk Training Take 2 Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Saturn Has 62 Confirmed Moons",
+      "hook": "What Has Saturn 62 Confirmed Moons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Mars Has Polar Ice Caps",
+      "hook": "Why Does Mars Have Polar Ice Caps...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Black Hole Information Paradox Solved",
+      "hook": "How Is Black Hole Paradox Solved Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Space X Starship Will Travel 10000 Miles",
+      "hook": "Where Will Space X Starship Travel 10000 Miles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Earths Rotation Is Slowing Down",
+      "hook": "Why Is Earth Rotation Slowing Down...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Galaxy Clusters Are Held Together",
+      "hook": "What Holds Galaxy Clusters Together Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Mars Rover Finds Evidence Of Water",
+      "hook": "How Did Mars Rover Find Water Evidence...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "500 Astronauts Have Traveled Space",
+      "hook": "Can 500 Astronauts Travel Space Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Space Station Has 4 Solar Arrays",
+      "hook": "What Powers Space Station 4 Solar Arrays...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Jupiter Moons Have Subsurface Oceans",
+      "hook": "Where Are Jupiter Moons Subsurface Oceans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "NASA Budget Is 20 Billion Dollars",
+      "hook": "What Is 20 Billion Dollars Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Mars Colonization Faces Many Challenges",
+      "hook": "Why Cant Mars Colonization Happen Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Black Hole Singularity Is Point",
+      "hook": "Where Is The Black Hole Singularity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Space X Launches Satellite Constellation",
+      "hook": "When Will Space X Launch 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "International Space Station Is 357 Feet Long",
+      "hook": "How Long Is The Space Station...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Galaxy Has 100 Billion Stars",
+      "hook": "What Has 100 Billion Stars Inside...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Space Debris Removal Is Necessary",
+      "hook": "Can Space Debris Be Removed Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Mars Surface Has 1000 Times Less Pressure",
+      "hook": "Why Is Mars Surface Pressure Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Jupiter Atmosphere Is Mostly Hydrogen",
+      "hook": "What Is Jupiter Atmosphere Made Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Space Station Has 2 Billion Dollar Budget",
+      "hook": "How Much Does Space Station Cost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "NASA Plans Mission To Mars 2026",
+      "hook": "When Will NASA Reach Mars In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Black Holes Can Merge Together",
+      "hook": "Can Two Black Holes Merge Together...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Space X Falcon Heavy Rocket Launches",
+      "hook": "What Is Space X Falcon Heavy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Earths Core Is 6000 Degrees Hot",
+      "hook": "How Hot Is Earths Core Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Mars Planet Has No Magnetic Field",
+      "hook": "Why Does Mars Planet Have No...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Space Station Crew Works 12 Hour Shifts",
+      "hook": "How Long Do Space Station Crews...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Jupiter Has Strong Magnetic Field",
+      "hook": "What Makes Jupiter Magnetic Field Strong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Cosmic Rays Come From Outside Galaxy",
+      "hook": "Where Do Cosmic Rays Come From...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Space X Reusable Rockets Reduce Waste",
+      "hook": "Can Space X Reduce Rocket Waste...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Mars Has Largest Volcano In Solar System",
+      "hook": "What Is The Largest Volcano On...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Black Hole Has Accretion Disk",
+      "hook": "What Fuels Black Hole Accretion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "NASA Develops New Space Suit",
+      "hook": "How Does NASA New Space Suit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Space Station Has 100 Cameras",
+      "hook": "Where Are 100 Space Station Cameras...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Galaxy Is Moving At 600 Miles Per Second",
+      "hook": "Why Galaxy Moves 600 Miles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Mars Colonization Requires 10000 Tonnes",
+      "hook": "Can Mars Colonization Require 10000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Jupiter Moon Has Geysers Erupting",
+      "hook": "What Triggers Jupiter Moon Geysers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Space X Plans Mission To Moon",
+      "hook": "When Will Space X Reach Moon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Earths Atmosphere Protects From Radiation",
+      "hook": "How Does Earths Atmosphere Protect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Black Holes Have Hawking Radiation",
+      "hook": "What Is Black Hole Hawking...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Space Station Crew Experiences 16 Sunrises",
+      "hook": "Why Crew Sees 16 Sunrises...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Mars Surface Has Many Valleys",
+      "hook": "What Created Mars Valleys...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Jupiter Atmosphere Has Cloud Layers",
+      "hook": "How Thick Are Jupiter Cloud...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Space X Develops Raptor Engine",
+      "hook": "What Powers Space X Raptor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "NASA Spends 5 Billion On Research",
+      "hook": "Why NASA Spends 5 Billion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Mars Planet Has Extreme Temperatures",
+      "hook": "What Causes Mars Extreme Temps...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Black Hole Is 4 Million Solar Mass",
+      "hook": "How Big Is 4 Million...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Space Station Has 3 Modules Connected",
+      "hook": "What Connects 3 Space Modules...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Galaxy Has 10 Billion Years Of Gas",
+      "hook": "What Fuels Galaxy 10 Billion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Mars Colonization Will Require Robots",
+      "hook": "Can Robots Colonize Mars Alone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Jupiter Has Massive Storm Systems",
+      "hook": "Why Jupiter Has Massive Storms...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

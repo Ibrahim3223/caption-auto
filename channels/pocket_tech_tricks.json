@@ -1,0 +1,819 @@
+{
+  "channel_id": "pocket_tech_tricks",
+  "channel_name": "Pocket Tech Tricks",
+  "github_environment": "Pocket Tech Tricks",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "tech tips",
+    "smartphone",
+    "gadgets",
+    "tricks",
+    "technology",
+    "shorts"
+  ],
+  "pexels_search_prefix": "smartphone technology gadget",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Samsung Hidden Menu Options",
+      "hook": "What Are Samsungs Hidden Menu Options...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Iphone 13 Secret Codes",
+      "hook": "How Do Iphone 13 Secret Codes Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Android 12 Beta Features",
+      "hook": "When Will Android 12 Beta Features Drop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Wifi 6 Router Settings",
+      "hook": "Can Wifi 6 Routers Always Boost Speed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Ipad Pro Battery Life",
+      "hook": "Why Does Ipad Pro Battery Life Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Google Pixel 6 Tricks",
+      "hook": "What Are Google Pixel 6 Hidden Tricks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Amazon Alexa Hacks 2023",
+      "hook": "How Does Amazon Alexa Hack Your Home...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "5g Network Speed Tests",
+      "hook": "Where Are 5g Networks Always Faster...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Nokia Phone Hidden Features",
+      "hook": "What Are Nokias Best Hidden Phone Features...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Mac Os Monterey Updates",
+      "hook": "When Will Mac Os Monterey Updates Arrive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Huawei P40 Pro Secrets",
+      "hook": "How Do Huawei P40 Pro Secrets Unlock...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "One Plus 9 Pro Tips",
+      "hook": "Why Cant One Plus 9 Pro Users...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Windows 11 Hidden Features",
+      "hook": "What Are Windows 11 Hidden Features Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Sony Xperia 1 Iii Tricks",
+      "hook": "Can Sony Xperia 1 Iii Always Outperform...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Lg G8x ThinQ Hacks",
+      "hook": "How Do Lg G8x ThinQ Hacks Never Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Xiaomi Redmi Note 11",
+      "hook": "What Are Xiaomis Redmi Note 11 Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Oppo Find X4 Pro",
+      "hook": "When Will Oppo Find X4 Pro Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Vivo V23 Pro Secrets",
+      "hook": "Why Does Vivo V23 Pro Always Outlast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Realme Gt 2 Pro Tips",
+      "hook": "How Can Realme Gt 2 Pro Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Asus Rog Phone 5",
+      "hook": "What Are Asus Rog Phone 5 Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Motorola Edge 20 Pro",
+      "hook": "What Makes Motorola Edge 20 Pro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Google Chrome 100 Updates",
+      "hook": "When Will Google Chrome 100 Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Firefox 97 New Features",
+      "hook": "How Fast Is Firefox 97 Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Microsoft Edge 98 Tips",
+      "hook": "Can Microsoft Edge 98 Replace Chrome...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Samsung Galaxy S22 Ultra",
+      "hook": "What Powers Samsung Galaxy S22 Ultra...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Iphone 14 Pro Max Rumors",
+      "hook": "Why Is Iphone 14 Pro Max...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Android 13 Developer Preview",
+      "hook": "What Does Android 13 Developer Preview...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Wifi 7 Router Technology",
+      "hook": "How Does Wifi 7 Router Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Ipad Air 5th Gen Review",
+      "hook": "Is Ipad Air 5th Gen Worth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Google Home Mini Hacks",
+      "hook": "What Are Google Home Mini Hacks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Amazon Fire Tv Stick",
+      "hook": "Can Amazon Fire Tv Stick Replace...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "10 Gbps Ethernet Speed",
+      "hook": "How Fast Is 10 Gbps Ethernet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Samsung DeX Mode Tips",
+      "hook": "What Is Samsung DeX Mode Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Iphone 12 Mini Secrets",
+      "hook": "What Are Iphone 12 Mini Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Huawei Matepad Pro 12",
+      "hook": "Why Buy Huawei Matepad Pro 12...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Windows 10 Hidden Features",
+      "hook": "What Are Windows 10 Hidden Features...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Lg Webos 6 0 Updates",
+      "hook": "When Will Lg Webos 6 0...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Sony Smartwatch 2 Tricks",
+      "hook": "How Does Sony Smartwatch 2 Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Fitbit Charge 5 Tips",
+      "hook": "What Makes Fitbit Charge 5 Special...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Garmin Forerunner 955 Hacks",
+      "hook": "Can Garmin Forerunner 955 Track Everything...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Apple Watch Series 8",
+      "hook": "What Makes Apple Watch Series 8...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Samsung Galaxy Watch 5",
+      "hook": "How Does Samsung Galaxy Watch 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Google Pixel Watch Tips",
+      "hook": "Can Google Pixel Watch Tips...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Amazon Echo Show 15",
+      "hook": "Where Is Amazon Echo Show 15...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "8k Tv Resolution Explained",
+      "hook": "When Will 8k Tv Resolution...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Qled Vs Oled Displays",
+      "hook": "Why Choose Qled Over Oled...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Samsung Odyssey Ark Monitor",
+      "hook": "What Is Samsung Odyssey Ark...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Asus Vg278q Monitor Review",
+      "hook": "How Fast Is Asus Vg278q...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Logitech G502 Mouse Tips",
+      "hook": "Can Logitech G502 Mouse Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Razer Blackwidow Keyboard",
+      "hook": "What Makes Razer Blackwidow Keyboard...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Hyperx Cloud Ii Headset",
+      "hook": "How Loud Is Hyperx Cloud...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Steelseries Arctis 7 Tips",
+      "hook": "When To Use Steelseries Arctis...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Jbl Reflect Flow Pro",
+      "hook": "Why Buy Jbl Reflect Flow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Sony Wh1000xm5 Headphones",
+      "hook": "What Makes Sony Wh1000xm5 Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Bose Quietcomfort 45 Review",
+      "hook": "Can Bose Quietcomfort 45 Compare...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Sennheiser Hd 4 50 Bt",
+      "hook": "How Long Does Sennheiser Hd...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Google Pixel Buds Pro",
+      "hook": "What Are Google Pixel Buds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Apple Airpods Pro 2",
+      "hook": "When Will Apple Airpods Pro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Samsung Galaxy Buds 2",
+      "hook": "Why Choose Samsung Galaxy Buds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Amazon Echo Buds 2",
+      "hook": "Can Amazon Echo Buds 2...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "10TB Hard Drive Capacity",
+      "hook": "What Is 10tb Hard Drive Capacity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "1TB Ssd Drive Prices",
+      "hook": "How Much Are 1tb Ssd Drives...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Western Digital Wd Black",
+      "hook": "Why Choose Western Digital Wd Black...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Seagate Backup Plus Hub",
+      "hook": "What Is Seagate Backup Plus Hub...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Toshiba N300 4tb Review",
+      "hook": "Can Toshiba N300 4tb Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "SanDisk Extreme 1tb Ssd",
+      "hook": "How Fast Is SanDisk Extreme 1tb...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Crucial Mx500 1tb Ssd",
+      "hook": "What Makes Crucial Mx500 1tb Special...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Intel Core I9 12900K",
+      "hook": "When Will Intel Core I9 12900K...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Amd Ryzen 9 5900X Review",
+      "hook": "Why Choose Amd Ryzen 9 5900X...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Nvidia Geforce Rtx 3080",
+      "hook": "Can Nvidia Geforce Rtx 3080 Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Amd Radeon Rx 6800 Xt",
+      "hook": "How Does Amd Radeon Rx 6800...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Intel Core I5 12600K",
+      "hook": "What Is Intel Core I5 12600K...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "16gb Ram Upgrade Tips",
+      "hook": "Why Cant 16gb Ram Upgrade...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "32gb Ram Kit Review",
+      "hook": "How Much Does 32gb Ram...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Ddr5 Ram Speed Tests",
+      "hook": "What Are Ddr5 Ram Speed Limits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Samsung 970 Evo Plus",
+      "hook": "Why Choose Samsung 970 Evo Plus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Western Digital Wd Blue",
+      "hook": "Can Western Digital Wd Blue Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Seagate Ironwolf 4tb Review",
+      "hook": "How Fast Is Seagate Ironwolf 4tb...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Toshiba X300 4tb Ssd",
+      "hook": "What Is Toshiba X300 4tb Ssd...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Lg C9 Oled Tv Review",
+      "hook": "When Will Lg C9 Oled Tv...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Sony A80j Oled Tv",
+      "hook": "What Makes Sony A80j So Expensive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Samsung Qn90a Qled Tv",
+      "hook": "How Does Samsung Qn90a Outperform Others...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Vizio P Series Quantum",
+      "hook": "Can Vizio P Series Quantum Compete...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Hisense H10e Oled Tv",
+      "hook": "Why Is Hisense H10e Always Sold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "TCL 8K Qled Tv Review",
+      "hook": "When Will TCL 8K Qled Tv...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "iPhone 13 Pro Camera",
+      "hook": "What Makes iPhone 13 Pro Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Samsung Galaxy S21 Ultra",
+      "hook": "How Does Samsung Galaxy S21 Ultra...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Google Pixel 6 Pro Camera",
+      "hook": "Can Google Pixel 6 Pro Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "One Plus 9 Pro Camera",
+      "hook": "Why Is One Plus 9 Pro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Huawei P40 Pro Camera Tips",
+      "hook": "What Makes Huawei P40 Pro Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Xiaomi Mi 11 Ultra Camera",
+      "hook": "How Does Xiaomi Mi 11 Ultra...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Oppo Find X3 Pro Camera",
+      "hook": "Can Oppo Find X3 Pro Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Vivo X60 Pro Camera Review",
+      "hook": "What Makes Vivo X60 Pro Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Realme Gt 2 Pro Camera",
+      "hook": "Why Is Realme Gt 2 Pro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Asus Zenfone 8 Camera",
+      "hook": "How Does Asus Zenfone 8 Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Motorola Edge 20 Pro Camera",
+      "hook": "Can Motorola Edge 20 Pro Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Google Camera 8 2 Updates",
+      "hook": "What Makes Google Camera 8 2...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Adobe Lightroom Mobile Tips",
+      "hook": "How Does Adobe Lightroom Mobile Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Samsung Galaxy Note 20",
+      "hook": "Why Is Samsung Galaxy Note 20...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Microsoft Surface Duo 2",
+      "hook": "Can Microsoft Surface Duo 2 Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

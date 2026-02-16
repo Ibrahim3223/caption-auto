@@ -1,0 +1,819 @@
+{
+  "channel_id": "nextgen_update",
+  "channel_name": "NextGen Update",
+  "github_environment": "NextGen Update",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "technology",
+    "innovation",
+    "future",
+    "gadgets",
+    "tech news",
+    "shorts"
+  ],
+  "pexels_search_prefix": "technology innovation",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Amazon Alexa Gets Smarter",
+      "hook": "What Makes Alexa Smarter Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Google Tensor Chip Unveiled",
+      "hook": "How Fast Is Google Tensor Chip...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "NASA Mars Rover Discovers Water",
+      "hook": "Where Is Nasa Mars Water Found...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "IBM Quantum Computer Breaks Record",
+      "hook": "Can Ibm Quantum Break 100Q...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Microsoft HoloLens 2 Released",
+      "hook": "When Will Microsoft HoloLens 2 Ship...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Tesla Model S Plaid Launches",
+      "hook": "How Fast Is Tesla Model S Plaid...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Facebook Meta Unveils New Logo",
+      "hook": "What Does Meta New Logo Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Apple M1 Chip Performance Tested",
+      "hook": "Can Apple M1 Chip Beat Intel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Samsung Galaxy Z Fold3 Review",
+      "hook": "What Makes Samsung Z Fold3 Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Boston Dynamics Robot Dog Released",
+      "hook": "How Does Boston Dynamics Robot Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Intel Core I9 Processor Unleashed",
+      "hook": "What Powers Intel Core I9 Processor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "SpaceX Starship Successfully Lands",
+      "hook": "When Will SpaceX Starship Launch Next...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Sony Ps5 Console Revealed",
+      "hook": "What Features Sony Ps5 Console Has...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Huawei P40 Pro Camera Tested",
+      "hook": "How Good Is Huawei P40 Pro Camera...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Dell Xps 13 Laptop Reviewed",
+      "hook": "Is Dell Xps 13 Laptop Worth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Nvidia Geforce Rtx 3080 Released",
+      "hook": "What Makes Nvidia Geforce Rtx 3080...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Cisco Webex Meetings Get Update",
+      "hook": "Can Cisco Webex Meetings Be Hacked...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "LG OLED Tv Panels Improved",
+      "hook": "Why Are Lg Oled Tv Panels Better...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Xiaomi Mi 11 Ultra Launches",
+      "hook": "What Makes Xiaomi Mi 11 Ultra...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Oracle Autonomous Database Updated",
+      "hook": "How Does Oracle Autonomous Database Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Fujitsu Ai Chip Developed",
+      "hook": "What Powers Fujitsu Ai Chip...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "HP Envy Laptop Lineup Expanded",
+      "hook": "How Fast Is Hp Envy Laptop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Lenovo Thinkpad X1 Carbon Released",
+      "hook": "When Will Lenovo Thinkpad X1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Asus Rog Phone 5 Unveiled",
+      "hook": "What Makes Asus Rog Phone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Qualcomm Snapdragon 888 Released",
+      "hook": "Can Qualcomm Snapdragon 888 Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Ericsson 5G Network Deployed",
+      "hook": "Where Is Ericsson 5G Network...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Panasonic Lumix Gh6 Camera",
+      "hook": "Why Does Panasonic Lumix Gh6...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Volkswagen Id4 Electric Car",
+      "hook": "How Far Can Volkswagen Id4...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Boeing 777X Aircraft Takes Flight",
+      "hook": "When Will Boeing 777X Fly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Caterpillar Autonomous Trucks Launched",
+      "hook": "What Drives Caterpillar Autonomous Trucks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Siemens Healthineers Medical Imaging",
+      "hook": "How Does Siemens Healthineers Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Hitachi Rail Autonomous Trains",
+      "hook": "Where Are Hitachi Rail Trains...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Toshiba Quantum Computer Developed",
+      "hook": "What Is Toshiba Quantum Computer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "NEC Facial Recognition Tech",
+      "hook": "Can Nec Facial Recognition Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "3M Advanced Materials Introduced",
+      "hook": "What Makes 3M Materials Special...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "DuPont Electronic Materials Unveiled",
+      "hook": "How Does Dupont Electronic Material...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Corning Gorilla Glass Victor",
+      "hook": "Why Is Corning Gorilla Glass...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Sharp 8K Tv Panels Released",
+      "hook": "When Will Sharp 8K Tv...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Jpmorgan Chase Ai Platform",
+      "hook": "What Powers Jpmorgan Chase Ai...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Siemens MindSphere Iot Platform",
+      "hook": "How Does Siemens Mindsphere Iot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Intel Nuc 11 Pro Kit",
+      "hook": "What Is Intel Nuc 11 Pro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Epson Smart Glasses Released",
+      "hook": "When Will Epson Smart Glasses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Ricoh Theta Z1 Camera",
+      "hook": "How Does Ricoh Theta Z1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Brother Hl L8360Cdwt Printer",
+      "hook": "Can Brother Hl L8360Cdwt Print...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Konica Minolta Iq 501",
+      "hook": "Where Is Konica Minolta Iq...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Kyocera DuraXv Extreme Phone",
+      "hook": "Why Cant Kyocera DuraXv Extreme...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Netgear Nighthawk Rax80 Router",
+      "hook": "What Makes Netgear Nighthawk Rax80...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Asml Euvl Technology Advances",
+      "hook": "How Does Asml Euvl Technology...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Amd Ryzen 9 5900X Processor",
+      "hook": "Why Is Amd Ryzen 9...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Amazon SageMaker Autopilot Launched",
+      "hook": "When Will Amazon SageMaker Autopilot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Arm Cortex X1 Processor Core",
+      "hook": "What Is Arm Cortex X1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Tsmc 3Nm Chip Production",
+      "hook": "Can Tsmc 3Nm Chip Production...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Micron 176L 3D Xpoint",
+      "hook": "How Fast Is Micron 176L...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Western Digital Wd Black Sn750",
+      "hook": "Why Choose Western Digital Wd...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Seagate Exos X18 Hard Drive",
+      "hook": "What Is Seagate Exos X18...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Toyota Mirai Fuel Cell Car",
+      "hook": "When Will Toyota Mirai Fuel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Honda Clarity Electric Vehicle",
+      "hook": "Can Honda Clarity Electric Vehicle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Lockheed Martin F35 Fighter Jet",
+      "hook": "Why Does Lockheed Martin F35...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Northrop Grumman B21 Bomber",
+      "hook": "What Makes Northrop Grumman B21...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Boeing X51 Waverider Hypersonic",
+      "hook": "How Fast Is Boeing X51...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Raytheon Technologies Ai Solutions",
+      "hook": "What Makes Raytheon Ai Solutions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "General Dynamics Ai Systems",
+      "hook": "How Does General Dynamics Ai Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Bae Systems Intelligent Systems",
+      "hook": "Can Bae Systems Intelligent Systems Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "United Technologies Digital Solutions",
+      "hook": "When Will United Technologies Go Digital...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Rolls Royce Trent 1000 Engine",
+      "hook": "Why Is Rolls Royce Trent 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Pratt Whitney Ge9x Engine Test",
+      "hook": "How Fast Is Pratt Whitney Ge9x...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Safran Helicopter Engines Arrano",
+      "hook": "What Powers Safran Helicopter Engines Arrano...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Mtu Aero Engines Tech Update",
+      "hook": "Can Mtu Aero Engines Tech Improve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Siemens Gamesa Renewable Energy",
+      "hook": "Where Is Siemens Gamesa Renewable Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Vestas Wind Turbine Technology",
+      "hook": "How Efficient Is Vestas Wind Turbine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "General Electric Haliade X",
+      "hook": "What Makes General Electric Haliade X...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Ibm Watson Health Imaging",
+      "hook": "Can Ibm Watson Health Imaging Diagnose...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Philips Healthcare Informatics",
+      "hook": "How Accurate Is Philips Healthcare Informatics...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Medtronic Insulin Pump Systems",
+      "hook": "Why Does Medtronic Insulin Pump Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Abbott Freestyle Libre Sensor",
+      "hook": "What Is Abbott Freestyle Libre Sensor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Stryker Spine Ip Fusion System",
+      "hook": "How Does Stryker Spine Ip Fusion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Becton Dickinson Alaris System",
+      "hook": "Can Becton Dickinson Alaris System Error...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Cardinal Health Navix Radcliffe",
+      "hook": "When Will Cardinal Health Navix Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Edwards Lifesciences Hemo Device",
+      "hook": "What Is Edwards Lifesciences Hemo Device...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Olympus Eus Endoscopy System",
+      "hook": "How Does Olympus Eus Endoscopy System...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Varian Halcyon Radiation Therapy",
+      "hook": "What Is Varian Halcyon Therapy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "GE Healthcare Prisma Mri",
+      "hook": "How Does Ge Prisma Mri Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Hitachi Scenaria View Mri",
+      "hook": "Can Hitachi Scenaria View See...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Siemens Somatom Go Top",
+      "hook": "When Will Siemens Somatom Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Canon Medical Vantage Galan",
+      "hook": "Why Choose Canon Vantage Galan...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Konica Minolta Sonimage P3",
+      "hook": "Where Is Konica Minolta Sonimage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Carestream Onsight 3D Extremity",
+      "hook": "How Fast Is Carestream Onsight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Samsung Neurologica Bodytom Rf",
+      "hook": "What Powers Samsung Neurologica Bodytom...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Hologic Fluoroscan Inscribe",
+      "hook": "Can Hologic Fluoroscan Inscribe Help...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Zebra Medical Vision Ai1",
+      "hook": "What Is Zebra Medical Ai1 Capable...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Imec Neuropixels Probe Tech",
+      "hook": "How Does Imec Neuropixels Probe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Intel Loihi Neuromorphic Chip",
+      "hook": "When Will Intel Loihi Be...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Google Brain Tensor Processing",
+      "hook": "What Drives Google Brain Tensor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Nasa Parker Solar Probe Data",
+      "hook": "Why Is Nasa Parker Data...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Esas Gaia Spacecraft Mission",
+      "hook": "Can Esas Gaia Spacecraft See...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Spacex Starlink Satellite Const",
+      "hook": "How Many Spacex Starlink Satellites...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Blue Origin New Glenn Rocket",
+      "hook": "When Will Blue Origin New...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Lockheed Martin Orion Spacecraft",
+      "hook": "What Is Lockheed Martin Orion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Nasa Artemis Space Suit Design",
+      "hook": "Why Does Nasa Need Artemis...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "European Space Agency Bepicolombo",
+      "hook": "Where Is European Space Bepicolombo...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

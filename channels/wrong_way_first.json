@@ -1,0 +1,819 @@
+{
+  "channel_id": "wrong_way_first",
+  "channel_name": "Wrong Way First",
+  "github_environment": "Wrong Way First",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": [
+    "mistakes",
+    "wrong way",
+    "learning",
+    "failures",
+    "lessons",
+    "shorts"
+  ],
+  "pexels_search_prefix": "mistake failure learning lesson",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Alexander Fleming Discovers Penicillin",
+      "hook": "What Killed Alexander Fleming...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Wright Brothers First Flight Fails",
+      "hook": "How Did Wright Brothers Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Marie Curie Finds Radium",
+      "hook": "Where Did Marie Curie Find Radium...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Google Starts As Backrub",
+      "hook": "When Does Google Become Backrub...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Thomas Edison Fails 1000 Times",
+      "hook": "Why Does Thomas Edison Fail 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "5000 Year Old Beer Recipe",
+      "hook": "What Makes 5000 Year Old Beer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Isaac Newton Gets It Wrong",
+      "hook": "Why Does Isaac Newton Get Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Coca Cola Original Recipe Lost",
+      "hook": "What Happens If Coca Cola Loses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Einstein Loves Playing Violin",
+      "hook": "Can Einstein Play Violin Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Steve Jobs Gets Fired",
+      "hook": "Why Does Steve Jobs Get Fired...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Napoleon Bonaparte Wins By Mistake",
+      "hook": "How Does Napoleon Win By Mistake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Alexander Graham Bell Invents Harmonica",
+      "hook": "What Instrument Does Alexander Graham Bell...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Henry Ford Builds Wrong Car",
+      "hook": "Why Does Henry Ford Build Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "First Computer Bugs Are Moths",
+      "hook": "What Are First Computer Bugs Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Leonardo Da Vinci Flies Wrong",
+      "hook": "Can Leonardo Da Vinci Fly Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Charles Darwin Finds Giant Tortoise",
+      "hook": "Where Does Charles Darwin Find Tortoise...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Benjamin Franklin Flies Kite",
+      "hook": "What Happens When Benjamin Franklin Flies...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "3000 Year Old Mummy Found",
+      "hook": "What Is Inside 3000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Nikola Tesla Loves Pigeons",
+      "hook": "Why Does Nikola Tesla Love Pigeons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Mark Zuckerberg Creates Failbook",
+      "hook": "What Is Mark Zuckerberg Original Failbook...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Wright Brothers Fly 12 Seconds",
+      "hook": "What Took Wright Brothers 12 Seconds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "First Robot Is Called Golem",
+      "hook": "Where Did Golem Robot Originate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Van Gogh Sells One Painting",
+      "hook": "Why Van Gogh Sold Only One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Darwin Finches Have 13 Species",
+      "hook": "How Many Darwin Finches Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Gutenberg Prints Wrong Bible",
+      "hook": "When Did Gutenberg Print Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "100 Year Old Light Bulb",
+      "hook": "Why Does 100 Year Old Bulb...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "First Telephone Call Is Wrong",
+      "hook": "What Was First Telephone Call...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Louis Pasteur Finds Vaccine",
+      "hook": "How Did Louis Pasteur Discover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Albert Einstein Loves Sailing",
+      "hook": "What Made Albert Einstein Sail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "First Email Is Sent Wrong",
+      "hook": "Why Was First Email Sent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "8000 Year Old Village Found",
+      "hook": "Where Is 8000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Galileo Galilei Sees Four Moons",
+      "hook": "What Did Galileo See Four...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Samuel Morse Codes Wrong Message",
+      "hook": "How Did Samuel Morse Code...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Alexander The Great Gets Lost",
+      "hook": "Where Did Alexander Get Lost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "First Laser Is Built Wrong",
+      "hook": "Why Was First Laser Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Charles Dickens Writes Wrong Novel",
+      "hook": "What Novel Did Charles Dickens...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "4000 Year Old City Discovered",
+      "hook": "Where Is 4000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "George Washington Gets Lost",
+      "hook": "Why Did George Washington Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "First Microscope Is Built Wrong",
+      "hook": "How Was First Microscope Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Aristotle Gets It Wrong Sometimes",
+      "hook": "What Did Aristotle Get Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "2000 Year Old Computer Found",
+      "hook": "What Is 2000 Year Old Computer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Leonardo Da Vinci Draws Machines",
+      "hook": "How Did Leonardo Da Vinci Draw...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "First Camera Takes Wrong Picture",
+      "hook": "Why Does First Camera Fail Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Benjamin Franklin Loves Electricity",
+      "hook": "What Drives Benjamin Franklin To Electricity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Thomas Alva Edison Loves Cats",
+      "hook": "Can Thomas Alva Edison Love Cats...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "6000 Year Old Wine Found",
+      "hook": "Where Is 6000 Year Old Wine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "First Submarine Is Built Wrong",
+      "hook": "How Wrong Is First Submarine Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Johannes Kepler Finds Three Laws",
+      "hook": "What Are Johannes Kepler Three Laws...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "First Robot Kills Human",
+      "hook": "When Will First Robot Kill Human...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "10 Year Old Boy Finds Dinosaur",
+      "hook": "How Can 10 Year Old Boy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Christopher Columbus Gets Lost",
+      "hook": "Why Does Christopher Columbus Get Lost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "First Telephone Booth Is Wrong",
+      "hook": "What Is Wrong With First Telephone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Archimedes Finds Principle Wrong",
+      "hook": "How Did Archimedes Find Principle Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "500 Year Old Book Found",
+      "hook": "Where Is 500 Year Old Book...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "First Car Is Built Wrong",
+      "hook": "Why Is First Car Built Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "George Orwell Writes Wrong Novel",
+      "hook": "What Is George Orwell Wrong Novel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "300 Year Old Tree Found",
+      "hook": "How Old Is 300 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "First Computer Virus Is Born",
+      "hook": "When Is First Computer Virus Born...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Nikola Tesla Loves Electricity",
+      "hook": "Why Does Nikola Tesla Love Electricity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "First Bicycle Is Built Wrong",
+      "hook": "How Is First Bicycle Built Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Charles Darwin Finds Giant Squid",
+      "hook": "What Did Charles Darwin Discover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "9000 Year Old Village Found",
+      "hook": "Where Is 9000 Year Old Village...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "First X Ray Is Taken Wrong",
+      "hook": "How Did First X Ray Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Benjamin Franklin Loves Kites",
+      "hook": "Why Does Benjamin Franklin Fly Kites...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "First Microchip Is Built Wrong",
+      "hook": "What Went Wrong With First Microchip...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Leonardo Da Vinci Loves Art",
+      "hook": "How Did Leonardo Da Vinci Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "7000 Year Old Pottery Found",
+      "hook": "What Is Inside 7000 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "First Train Is Built Wrong",
+      "hook": "Why Did First Train Derail Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Thomas Edison Loves Experiments",
+      "hook": "What Drives Thomas Edison To Experiment...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "First Plane Is Built Wrong",
+      "hook": "How Did First Plane Crash Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "400 Year Old Ship Found",
+      "hook": "Where Was 400 Year Old Ship...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Johannes Kepler Loves Astronomy",
+      "hook": "What Did Johannes Kepler Discover First...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "First Satellite Is Launched Wrong",
+      "hook": "Why Did First Satellite Launch Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Alexander The Great Gets Famous",
+      "hook": "How Did Alexander The Great Rise...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "200 Year Old Lighthouse Found",
+      "hook": "What Lies Inside 200 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "First Roller Coaster Is Built",
+      "hook": "When Was First Roller Coaster Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "George Washington Loves Horses",
+      "hook": "Why Does George Washington Love Horses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "First Parachute Is Jumped Wrong",
+      "hook": "How Did First Parachute Jump Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Charles Dickens Loves London",
+      "hook": "What Inspired Charles Dickens To Write...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "1000 Year Old Castle Found",
+      "hook": "What Secrets Hide In 1000 Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Benjamin Franklin Loves Books",
+      "hook": "What Drives Benjamin Franklin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "First Guitar Is Built Wrong",
+      "hook": "How Wrong Is First Guitar...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Leonardo Da Vinci Finds Code",
+      "hook": "Where Did Leonardo Da Vinci...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "600 Year Old Bridge Found",
+      "hook": "When Was 600 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "First Train Crash Happens",
+      "hook": "Why Does First Train Crash...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Thomas Alva Edison Loves Music",
+      "hook": "What Inspires Thomas Alva Edison...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "500 Year Old Painting Found",
+      "hook": "How Old Is 500 Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "First Car Accident Happens",
+      "hook": "Can First Car Accident Happen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Alexander Graham Bell Loves Speech",
+      "hook": "What Motivates Alexander Graham Bell...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "300 Year Old Clock Found",
+      "hook": "When Was 300 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "First Computer Mouse Is Built",
+      "hook": "How Does First Computer Mouse...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "George Orwell Loves Writing",
+      "hook": "What Fuels George Orwell Writing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "800 Year Old Cathedral Found",
+      "hook": "Where Is 800 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "First Telephone Is Built Wrong",
+      "hook": "Why Is First Telephone Wrong...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Nikola Tesla Loves Future",
+      "hook": "What Drives Nikola Tesla Future...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "700 Year Old Manuscript Found",
+      "hook": "How Old Is 700 Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "First Robot Walks Wrong",
+      "hook": "Can First Robot Walk Alone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Charles Darwin Loves Nature",
+      "hook": "What Inspires Charles Darwin Nature...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "900 Year Old Monastery Found",
+      "hook": "When Was 900 Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Benjamin Franklin Loves Inventions",
+      "hook": "Why Does Benjamin Franklin Invent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

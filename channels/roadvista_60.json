@@ -1,0 +1,819 @@
+{
+  "channel_id": "roadvista_60",
+  "channel_name": "RoadVista 60",
+  "github_environment": "RoadVista 60",
+  "category": "Travel & Events",
+  "youtube_category_id": "19",
+  "default_tags": [
+    "roads",
+    "driving",
+    "scenic",
+    "travel",
+    "road trip",
+    "shorts"
+  ],
+  "pexels_search_prefix": "scenic road driving landscape",
+  "music_mood": "ambient",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Mount Everest Highway Construction",
+      "hook": "What Lies Beyond Mount Everest Highway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Seven Mile Bridge Engineering",
+      "hook": "How Does Seven Mile Bridge Stand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Tokyo City Highway System",
+      "hook": "Where Does Tokyo City Highway Begin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Grand Canyon Scenic Drive",
+      "hook": "Can You Drive Grand Canyon Scenic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Five Tallest Bridges Worldwide",
+      "hook": "What Are Five Tallest Bridges Worldwide...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Norway Tunnel Boring Machines",
+      "hook": "When Will Norway Tunnel Boring Machines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Worlds Longest Highway Tunnel",
+      "hook": "How Long Is Worlds Longest Highway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Three Gorges Dam Road",
+      "hook": "What Lies Beneath Three Gorges Dam...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Golden Gate Bridge Facts",
+      "hook": "Why Is Golden Gate Bridge Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Australia Great Ocean Road",
+      "hook": "Where Does Australia Great Ocean Road...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Swiss Alps Mountain Passes",
+      "hook": "How High Are Swiss Alps Mountain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Four Level Interchange Design",
+      "hook": "What Makes Four Level Interchange Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Shanghai Maglev Train Route",
+      "hook": "Where Does Shanghai Maglev Train Go...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Atlanterhavsveien Road Norway",
+      "hook": "Can You Drive Atlanterhavsveien Road Norway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Six Lane Highway Expansion",
+      "hook": "Why Is Six Lane Highway Expansion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Trans Siberian Railway Route",
+      "hook": "How Long Is Trans Siberian Railway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Hoover Dam Bypass Road",
+      "hook": "What Lies Above Hoover Dam Bypass...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Millau Viaduct Bridge France",
+      "hook": "How High Is Millau Viaduct Bridge France...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Nine Arch Bridge Sri Lanka",
+      "hook": "Where Is Nine Arch Bridge Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "German Autobahn Speed Limits",
+      "hook": "Why Are German Autobahn Speed Limits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Lake Pontchartrain Bridge Louisiana",
+      "hook": "What Lies Beneath Lake Pontchartrain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Italian Mountain Road Signs",
+      "hook": "How Do Italian Mountain Signs Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Qinghai Tibet Railway Tunnel",
+      "hook": "Where Is Qinghai Tibet Railway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Eight Thousand Feet Highway",
+      "hook": "Can You Drive Eight Thousand Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Sydney Harbour Bridge Climb",
+      "hook": "When Is Sydney Harbour Bridge Open...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Chinese Di Shui Lake Tunnel",
+      "hook": "What Is Chinese Di Shui Lake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Worlds Highest Motorable Road",
+      "hook": "Why Is This Road Worlds Highest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "New York City Highway Closures",
+      "hook": "How Does New York City Close...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Rio Antirrio Bridge Greece",
+      "hook": "Where Is Rio Antirrio Bridge Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Ten Most Dangerous Roads",
+      "hook": "What Makes These Roads So Dangerous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Furka Pass Mountain Road",
+      "hook": "How Steep Is Furka Pass Mountain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Interstate 10 Highway Expansion",
+      "hook": "When Will Interstate 10 Be Finished...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Zhangjiajie Glass Bridge China",
+      "hook": "Can You Walk Zhangjiajie Glass Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Seattle Tunnels And Bridges",
+      "hook": "What Lies Beneath Seattle Tunnels...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Seven Wonders Of Road Engineering",
+      "hook": "How Were Seven Wonders Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Indian Highway One Expansion",
+      "hook": "When Is Indian Highway One Finished...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Guatemalan Volcanic Road Conditions",
+      "hook": "What Are Guatemalan Volcanic Road Conditions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Five Level Stack Interchange",
+      "hook": "How Does Five Level Stack Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Tianjin Binhai Bridge China",
+      "hook": "Where Is Tianjin Binhai Bridge Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Australian Outback Road Signs",
+      "hook": "What Do Australian Outback Signs Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "World Longest Suspension Bridge",
+      "hook": "What Is Worlds Longest Suspension...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Sixty Mile Per Hour Limits",
+      "hook": "Why Are Sixty Mile Limits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Colorado Mountain Pass Closures",
+      "hook": "When Do Colorado Mountain Pass...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Channel Tunnel Engineering Facts",
+      "hook": "How Does Channel Tunnel Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Worlds Highest Railway Bridge",
+      "hook": "What Is Worlds Highest Railway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Italian Autostrade Highway System",
+      "hook": "Where Is Italian Autostrade Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Twelve Thousand Feet Tunnel",
+      "hook": "How Deep Is Twelve Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "San Francisco Bay Bridge Construction",
+      "hook": "Why Was San Francisco Bay...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "North Yungas Road Bolivia",
+      "hook": "Can You Drive North Yungas...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Russian Trans Polar Highway",
+      "hook": "What Is Russian Trans Polar...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Three Hundred Meter Bridge",
+      "hook": "How Long Is Three Hundred...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Brazilian Highway BR116 Expansion",
+      "hook": "Why Is Brazilian Highway Expanding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "A86 Duplex Tunnel France",
+      "hook": "What Is A86 Duplex Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Bangkok Elevated Highway System",
+      "hook": "How High Is Bangkok Elevated...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Nine Thousand Ton Bridge",
+      "hook": "What Weighs Nine Thousand Tons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "South African Mountain Passes",
+      "hook": "Where Are South African Mountain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Worlds Longest Cable Stayed Bridge",
+      "hook": "How Long Is Worlds Longest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Interstate 80 Highway Conditions",
+      "hook": "When Does Interstate 80 Close...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Halsema Highway Philippines",
+      "hook": "What Is Halsema Highway Like...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Eighty Thousand Pound Load Limits",
+      "hook": "Why Are Eighty Thousand Pound...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Vancouver Island Highway Expansion",
+      "hook": "What Lies Beyond Vancouver Island...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Portuguese Scenic Coastal Route",
+      "hook": "Where Does Portuguese Scenic Route...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Five Hundred Meter Tunnel",
+      "hook": "How Long Is Five Hundred Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Egyptian Desert Highway Expansion",
+      "hook": "When Will Egyptian Desert Highway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Turkish Bosphorus Bridge Facts",
+      "hook": "What Makes Turkish Bosphorus Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Worlds Highest Altitude Road",
+      "hook": "Why Is Worlds Highest Altitude...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Italian Amalfi Coast Drive",
+      "hook": "Can You Drive Italian Amalfi...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Ten Thousand Feet Mountain Pass",
+      "hook": "Where Is Ten Thousand Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Beipanjiang Bridge China Facts",
+      "hook": "How High Is Beipanjiang Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Dubai Highway Expansion Project",
+      "hook": "What Drives Dubai Highway Expansion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Sixty Five Mile Per Hour Limits",
+      "hook": "Why Cant You Exceed Sixty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Colorado River Bridge Construction",
+      "hook": "When Will Colorado River Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Worlds Longest Arch Bridge",
+      "hook": "What Makes Worlds Longest Arch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Brazilian BR040 Highway Expansion",
+      "hook": "How Far Is Brazilian BR040...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Italian Dolomite Mountain Roads",
+      "hook": "Can You Conquer Italian Dolomite...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Thousand Islands Parkway Canada",
+      "hook": "Where Is Thousand Islands Parkway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Worlds Highest Road Tunnel",
+      "hook": "What Lies Inside Worlds Highest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Russian Highway M53 Expansion",
+      "hook": "Why Does Russian Highway M53...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Eighteen Wheeler Load Limits",
+      "hook": "How Much Cant Eighteen Wheeler...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Australian Great Alpine Road",
+      "hook": "What Awaits On Australian Great...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Worlds Longest Suspension Bridge",
+      "hook": "What Is Worlds Longest Suspension...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Hanoi Highway Expansion Project",
+      "hook": "When Will Hanoi Highway Finish...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Five Mile Bridge Construction",
+      "hook": "How Long Is Five Mile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Turkish Istanbul Bosphorus Tunnel",
+      "hook": "Where Is Turkish Istanbul Tunnel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "New Zealand South Island Drive",
+      "hook": "Can You Drive New Zealand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Italian Tuscany Scenic Route",
+      "hook": "What Makes Italian Tuscany Scenic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Seven Thousand Feet Mountain",
+      "hook": "Why Climb Seven Thousand Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Worlds Longest Underwater Tunnel",
+      "hook": "How Deep Is Worlds Longest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Brazilian Pantanal Highway Expansion",
+      "hook": "When Will Brazilian Pantanal Highway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Vancouver Highway One Expansion",
+      "hook": "What Is Vancouver Highway One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Nine Thousand Foot Mountain",
+      "hook": "Can You Reach Nine Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "San Juan Skyway Scenic Route",
+      "hook": "Why Take San Juan Skyway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Italian A22 Highway Expansion",
+      "hook": "How Far Is Italian A22...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Eighty Mile Per Hour Limits",
+      "hook": "What Are Eighty Mile Per...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Russian Moscow Ring Road",
+      "hook": "Where Is Russian Moscow Ring...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Worlds Highest Cable Car Road",
+      "hook": "What Is Worlds Highest Cable...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "A4 Highway Italy Expansion",
+      "hook": "When Will A4 Highway Italy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Thousand Meter Bridge Construction",
+      "hook": "How Wide Is Thousand Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Chinese Gobi Desert Highway Expansion",
+      "hook": "What Crosses Chinese Gobi Desert...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Worlds Longest Sea Crossing Bridge",
+      "hook": "Can You Cross Worlds Longest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

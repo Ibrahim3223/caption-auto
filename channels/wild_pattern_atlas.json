@@ -1,0 +1,819 @@
+{
+  "channel_id": "wild_pattern_atlas",
+  "channel_name": "Wild Pattern Atlas",
+  "github_environment": "Wild Pattern Atlas",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "patterns",
+    "nature",
+    "design",
+    "fractals",
+    "symmetry",
+    "shorts"
+  ],
+  "pexels_search_prefix": "nature patterns fractals symmetry",
+  "music_mood": "ambient",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Giraffes Have Fibonacci Spots",
+      "hook": "What Makes Giraffes Have 13 Spots...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Six Petals On Rose Flowers",
+      "hook": "How Do Roses Always Have Six...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Golden Ratio In Nautilus Shells",
+      "hook": "Why Are Nautilus Shells Always Golden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Fractals In Romanesco Broccoli",
+      "hook": "Can Romanesco Broccoli Only Grow Fractals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Seven Colors Of Rainbow Spectrum",
+      "hook": "What Are The Seven Colors Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Hexagonal Cells In Honeycombs",
+      "hook": "Why Do Honeycombs Always Have Hexagons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Spiral Patterns On Snail Shells",
+      "hook": "How Do Snail Shells Always Spiral...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Symmetry In Butterfly Wings",
+      "hook": "What Makes Butterfly Wings Always Symmetric...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Five Fingers On Human Hands",
+      "hook": "Why Do Humans Always Have Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Tessellations In Islamic Art",
+      "hook": "How Does Islamic Art Use Tessellations...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Eight Sides Of Snowflakes",
+      "hook": "What Makes Snowflakes Always Have Eight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Pi Ratio In Circle Shapes",
+      "hook": "Why Is Pi Always In Circles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Thirteen Vertebrae In Human Spine",
+      "hook": "How Many Vertebrae Cant Humans Have...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Geodesic Domes In Nature",
+      "hook": "What Are Geodesic Domes Found In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Four Chambers In Animal Hearts",
+      "hook": "Why Do Animal Hearts Only Have...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Fractal Branching In Trees",
+      "hook": "Can Trees Only Grow Fractal Branches...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Seventy Percent Water In Humans",
+      "hook": "What Percent Of Humans Is Water...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Icosahedron Shapes In Viruses",
+      "hook": "How Do Viruses Always Form Icosahedrons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Three Dimensions In Space",
+      "hook": "What Are The Three Dimensions Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Twelve Hours On Clock Faces",
+      "hook": "Why Are Clock Faces Always Twelve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Fibonacci Sequence In Sunflowers",
+      "hook": "What Makes Sunflowers Follow Fibonacci...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Six Sided Snowflakes Formations",
+      "hook": "How Do Snowflakes Always Form Six Sides...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Golden Angles In Phyllotaxis",
+      "hook": "Why Are Golden Angles Always Present...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Five Pointed Starfish Shapes",
+      "hook": "Can Starfish Only Have Five Points...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Eleven Dimensions In String Theory",
+      "hook": "What Lies Beyond Eleven Dimensions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Tessellations In Mosaic Art",
+      "hook": "How Are Mosaic Artists Using Tessellations...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Eighteen Karat Gold Ratios",
+      "hook": "Why Is Eighteen Karat Gold Rare...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Symmetry In Animal Markings",
+      "hook": "Where Is Symmetry Hidden In Animals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Ninety Degree Angles In Squares",
+      "hook": "Can Squares Only Have Ninety Degree...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Seven Chakras In Human Bodies",
+      "hook": "What Are The Seven Chakras Hiding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Hexagonal Patterns In Rock Formations",
+      "hook": "How Are Hexagons Formed In Rocks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Fractals In Coastal Erosion",
+      "hook": "Why Cant Fractals Be Predicted...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Thirteen Crystal Systems",
+      "hook": "What Are The Thirteen Crystal Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Four Color Theorem Applications",
+      "hook": "How Does The Four Color Theorem Apply...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Iridescence In Butterfly Wings",
+      "hook": "Why Do Butterfly Wings Shine Iridescence...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Sixteen Sided Polygons",
+      "hook": "Can Sixteen Sided Polygons Be Useful...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Geodesic Patterns In Nature",
+      "hook": "Where Are Geodesic Patterns Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Twenty Four Karat Gold",
+      "hook": "What Makes Twenty Four Karat Gold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Five Fold Symmetry In Stars",
+      "hook": "How Does Five Fold Symmetry Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Eleven Sided Polygons",
+      "hook": "Can Eleven Sided Polygons Be Possible...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Pi Approximations In Math",
+      "hook": "What Is Pi Approximated To...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Golden Mean In Design",
+      "hook": "How Does Golden Mean Apply...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Twelve Fold Symmetry",
+      "hook": "Why Cant Twelve Fold Symmetry...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Eighty Percent Of Ocean",
+      "hook": "What Covers Eighty Percent Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Seven Layered Atmosphere",
+      "hook": "How Many Layers Are Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Tessellations In Architecture",
+      "hook": "What Tessellations Are Used In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Thirteen Sided Polygons",
+      "hook": "Can Thirteen Sided Polygons Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Fractals In Mountain Ranges",
+      "hook": "Where Are Fractals Found In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Sixteen Sided Shapes",
+      "hook": "How Are Sixteen Sided Shapes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Fibonacci Numbers In Finance",
+      "hook": "What Makes Fibonacci Numbers Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Ninety Nine Percent Accuracy",
+      "hook": "Why Is Ninety Nine Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Five Senses In Humans",
+      "hook": "How Do Five Senses Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Symmetry In Flower Petals",
+      "hook": "What Creates Symmetry In Flowers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Eleven Fractals In Nature",
+      "hook": "Where Are Eleven Fractals Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Geometric Patterns In Art",
+      "hook": "How Are Geometric Patterns Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Eighteen Wheelers On Highways",
+      "hook": "Why Are Eighteen Wheelers Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Seven Wonders Of World",
+      "hook": "What Made Seven Wonders Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Fourteen Lines In Sonnets",
+      "hook": "How Are Fourteen Lines Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Icosahedron Shapes In Chemistry",
+      "hook": "What Is Icosahedron Shape Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Twenty Six Letters In Alphabet",
+      "hook": "Why Are Twenty Six Letters...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Five Element Theory",
+      "hook": "What Is Five Element Theory...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Twelve Signs In Zodiac",
+      "hook": "How Do Twelve Zodiac Signs Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Hexagonal Cells In Graphite",
+      "hook": "Why Are Hexagonal Cells Always Stronger...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Thirteen Zodiac Constellations",
+      "hook": "What Are Thirteen Zodiac Constellations Called...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Golden Ratio In Architecture",
+      "hook": "Where Is Golden Ratio Used Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Six Sided Polygons",
+      "hook": "Can Six Sided Polygons Be Broken...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Eighty Five Percent Efficiency",
+      "hook": "Why Is Eighty Five Percent Never Reached...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Seven Pointed Stars",
+      "hook": "How Are Seven Pointed Stars Created...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Fractals In River Networks",
+      "hook": "What Causes Fractals In River Networks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Five Sided Shapes",
+      "hook": "Why Are Five Sided Shapes Never Simple...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Iridescence In Peacock Feathers",
+      "hook": "How Does Iridescence In Peacock Feathers Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Geodesic Domes In Architecture",
+      "hook": "Where Are Geodesic Domes Always Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Eleven Sided Shapes",
+      "hook": "What Is Special About Eleven Sided Shapes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Symmetry In Human Faces",
+      "hook": "Why Is Symmetry In Human Faces Important...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Fourteen Sided Polygons",
+      "hook": "Can Fourteen Sided Polygons Be Perfect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Fibonacci Sequence In Music",
+      "hook": "How Is Fibonacci Sequence Used In Music...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Twelve Tone Music Theory",
+      "hook": "What Is Twelve Tone Music Theory Based...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Golden Mean In Art",
+      "hook": "Why Is Golden Mean Used Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Seven Colors In Prism",
+      "hook": "How Are Seven Colors In Prism Created...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Tessellations In Nature",
+      "hook": "What Causes Tessellations In Nature Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Eighteen Sided Polygons",
+      "hook": "What Is An 18 Sided Polygon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Thirteen Sided Shapes",
+      "hook": "How Many 13 Sided Shapes Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Five Layered Ocean",
+      "hook": "Where Is The Five Layered Ocean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Icosahedron Shapes In Biology",
+      "hook": "Why Do Icosahedron Shapes Appear...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Sixty Four Bit Computing",
+      "hook": "Can 64 Bit Computing Be Improved...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Geometric Patterns In Design",
+      "hook": "What Makes Geometric Patterns Beautiful...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Eleven Dimensional Space",
+      "hook": "When Was 11 Dimensional Space Discovered...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Four Color Theorem Proof",
+      "hook": "How Does The Four Color Theorem Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Hexagonal Patterns In Insects",
+      "hook": "Why Do Insects Have Hexagonal Patterns...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Seven Chakra System",
+      "hook": "What Are The 7 Chakra System...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Fibonacci Numbers In Nature",
+      "hook": "How Are Fibonacci Numbers Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Twenty Four Hour Clock",
+      "hook": "Can We Live Without A 24 Hour...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Golden Ratio In Human Body",
+      "hook": "What Is The Golden Ratio In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Eight Sided Polygons",
+      "hook": "How Many 8 Sided Polygons Are...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Thirteen Crystal Structures",
+      "hook": "Where Are The 13 Crystal Structures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Five Fold Symmetry",
+      "hook": "Why Does Five Fold Symmetry Matter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Iridescence In Oil Slicks",
+      "hook": "What Causes Iridescence In Oil Slicks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Twelve Sided Shapes",
+      "hook": "How Many 12 Sided Shapes Are...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Geodesic Patterns In Art",
+      "hook": "Can Geodesic Patterns Be Used In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Sixteen Sided Polygons",
+      "hook": "What Is Special About 16 Sided...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "channel_id": "focus_rituals",
+  "channel_name": "Focus Rituals",
+  "github_environment": "Focus Rituals",
+  "category": "Howto & Style",
+  "youtube_category_id": "26",
+  "default_tags": [
+    "productivity",
+    "focus",
+    "mindfulness",
+    "habits",
+    "self improvement",
+    "shorts"
+  ],
+  "pexels_search_prefix": "meditation focus productivity",
+  "music_mood": "calm",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Elon Musk Morning Routine",
+      "hook": "What Makes Elon Musk So Productive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Seven Brain Focus Tricks",
+      "hook": "How Can You Focus Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Bill Gates Productivity Hacks",
+      "hook": "What Are Bill Gates Top Hacks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Five Minute Flow State",
+      "hook": "When Can You Enter Flow State...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Dopamine Management For Success",
+      "hook": "Why Cant You Manage Dopamine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Mark Zuckerberg Daily Schedule",
+      "hook": "How Does Mark Zuckerberg Schedule Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Six Deep Work Strategies",
+      "hook": "What Are Six Deep Work Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Richard Branson Focus Techniques",
+      "hook": "How Does Richard Branson Stay Focused...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Ten Brain Concentration Exercises",
+      "hook": "Can You Concentrate With Ten Exercises...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Jeff Bezos Time Management",
+      "hook": "What Is Jeff Bezos Time Management...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Four Hour Work Week",
+      "hook": "Can You Work Only Four Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Neil Armstrong Attention Span",
+      "hook": "When Did Neil Armstrong Lose Focus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Warren Buffett Morning Habits",
+      "hook": "What Are Warren Buffetts Morning Habits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Three Step Focus Formula",
+      "hook": "Can You Focus In Three Steps...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Steve Jobs Daily Rituals",
+      "hook": "What Were Steve Jobs Daily Rituals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Five Science Backed Hacks",
+      "hook": "What Are Five Science Backed Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Oprah Winfrey Productivity Tips",
+      "hook": "How Does Oprah Winfrey Stay Productive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Eight Flow State Triggers",
+      "hook": "What Triggers Eight Flow State Moments...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Tim Ferriss Brain Tricks",
+      "hook": "How Does Tim Ferriss Trick His Brain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Seven CEOs Morning Routines",
+      "hook": "What Do Seven CEOs Do Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Mark Cuban Focus Rituals",
+      "hook": "What Makes Mark Cuban So Focused...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Six Dopamine Boosting Foods",
+      "hook": "How Can Six Foods Boost Dopamine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Elon Musk Favorite Books",
+      "hook": "What Books Does Elon Musk Read...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Five Minute Meditation Hack",
+      "hook": "Can Five Minutes Change Your Mind...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Richard Branson Brain Training",
+      "hook": "How Does Richard Branson Train Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Ten Productivity Apps Used",
+      "hook": "What Are The Top Ten Productivity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Bill Gates Favorite Tools",
+      "hook": "What Tools Does Bill Gates Use...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Four Science Backed Techniques",
+      "hook": "How Do Four Techniques Change Lives...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Jeff Bezos Reading List",
+      "hook": "What Books Are On Jeff Bezos List...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Seven Habits Of Successful",
+      "hook": "What Habits Do Seven Successful Have...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Neil DeGrasse Tyson Focus",
+      "hook": "How Does Neil DeGrasse Tyson Focus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Warren Buffett Daily Routine",
+      "hook": "What Is Warren Buffetts Daily Routine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Six Morning Routine Tips",
+      "hook": "What Are The Six Morning Routine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Steve Jobs Productivity Secrets",
+      "hook": "How Did Steve Jobs Stay Productive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Five Brain Function Exercises",
+      "hook": "Can Five Exercises Improve Brain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Oprah Winfrey Focus Techniques",
+      "hook": "What Focus Techniques Does Oprah Use...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Eight CEOs Daily Schedules",
+      "hook": "How Do Eight CEOs Schedule Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Mark Zuckerberg Brain Hacks",
+      "hook": "What Brain Hacks Does Mark Zuckerberg...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Ten Flow State Activities",
+      "hook": "What Are The Ten Flow State...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Elon Musk Favorite Podcasts",
+      "hook": "What Podcasts Does Elon Musk Listen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Four Hour Focus Block",
+      "hook": "What Is Four Hour Focus Block...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Richard Branson Success Habits",
+      "hook": "How Does Richard Branson Succeed Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Seven Dopamine Management Tips",
+      "hook": "Can You Manage Dopamine With Seven Tips...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Bill Gates Morning Exercise",
+      "hook": "When Does Bill Gates Exercise Every Morning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Six Science Backed Rituals",
+      "hook": "What Are Six Science Backed Rituals Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Jeff Bezos Time Blocking",
+      "hook": "How Does Jeff Bezos Block Time Effectively...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Five Minute Journaling Hack",
+      "hook": "What Is Five Minute Journaling Hack Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Warren Buffett Brain Training",
+      "hook": "Can Warren Buffett Train His Brain Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Ten Productivity Hacks Used",
+      "hook": "What Are Ten Productivity Hacks Used Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Neil Armstrong Focus Strategies",
+      "hook": "How Did Neil Armstrong Focus Always Successfully...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Steve Jobs Daily Habits",
+      "hook": "What Are Steve Jobs Daily Habits Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Eight Brain Concentration Games",
+      "hook": "Can You Improve Brain Concentration With Eight Games...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Oprah Winfrey Morning Routine",
+      "hook": "What Is Oprah Winfrey Morning Routine Like...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Mark Cuban Focus Formula",
+      "hook": "How Does Mark Cuban Focus With One Formula...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Seven CEOs Productivity Tips",
+      "hook": "What Do Seven CEOs Use For Productivity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Elon Musk Brain Function",
+      "hook": "Can Elon Musk Boost Brain Function Naturally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Four Science Backed Books",
+      "hook": "What Are Four Science Backed Book Recommendations...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Richard Branson Daily Routine",
+      "hook": "How Does Richard Branson Plan His Daily Routine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Six Flow State Exercises",
+      "hook": "What Are Six Flow State Exercises You Cant...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Bill Gates Favorite Apps",
+      "hook": "What Are Bill Gates Favorite Productivity Apps...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Ten Dopamine Boosting Activities",
+      "hook": "What Boosts Dopamine Naturally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Jeff Bezos Morning Rituals",
+      "hook": "How Does Jeff Bezos Wake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Five Brain Function Tests",
+      "hook": "Can You Pass Five Tests...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Warren Buffett Productivity Secrets",
+      "hook": "What Makes Warren Buffett Productive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Seven Morning Routine Tips",
+      "hook": "When Are Seven Morning Tips...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Steve Jobs Focus Techniques",
+      "hook": "How Did Steve Jobs Focus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Eight CEOs Brain Training",
+      "hook": "What Do Eight CEOs Train...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Mark Zuckerberg Daily Habits",
+      "hook": "What Are Mark Zuckerbergs Habits...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Ten Science Backed Hacks",
+      "hook": "What Are Ten Science Hacks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Elon Musk Favorite Tools",
+      "hook": "What Tools Does Elon Musk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Four Hour Work Day",
+      "hook": "Can You Work Only Four...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Richard Branson Brain Tricks",
+      "hook": "How Does Richard Branson Think...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Six Productivity Apps Used",
+      "hook": "What Six Apps Are Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Bill Gates Daily Schedule",
+      "hook": "When Is Bill Gates Most...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Seven Focus Rituals Used",
+      "hook": "What Are Seven Focus Rituals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Jeff Bezos Brain Function",
+      "hook": "How Does Jeff Bezos Think...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Five Minute Focus Hack",
+      "hook": "What Is Five Minute Focus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Warren Buffett Daily Routine",
+      "hook": "What Is Warren Buffetts Routine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Ten Flow State Triggers",
+      "hook": "What Triggers Ten Flow States...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Steve Jobs Productivity Tips",
+      "hook": "What Were Steve Jobs Tips...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Eight Brain Training Exercises",
+      "hook": "What Are Eight Brain Exercises...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Oprah Winfrey Focus Formula",
+      "hook": "How Does Oprah Winfrey Focus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Mark Cuban Daily Habits",
+      "hook": "When Does Mark Cuban Wake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Seven CEOs Morning Routines",
+      "hook": "What Do Seven CEOs Do...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Elon Musk Brain Training",
+      "hook": "Can Elon Musk Train Brain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Four Science Backed Techniques",
+      "hook": "How Do Four Techniques Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Richard Branson Productivity Secrets",
+      "hook": "What Are Richard Branson Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Six Dopamine Management Tips",
+      "hook": "Why Cant You Manage Dopamine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Bill Gates Favorite Books",
+      "hook": "What Are Bill Gates Favorite...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Ten Morning Routine Tips",
+      "hook": "How Can You Boost Morning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Jeff Bezos Focus Strategies",
+      "hook": "What Are Jeff Bezos Strategies...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Five Brain Concentration Games",
+      "hook": "Can You Play Five Games...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Warren Buffett Brain Tricks",
+      "hook": "How Does Warren Buffett Think...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Seven Productivity Hacks Used",
+      "hook": "What Are Seven Hacks Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Steve Jobs Daily Routine",
+      "hook": "When Does Steve Jobs Wake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Eight Flow State Activities",
+      "hook": "What Are Eight Flow Activities...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Oprah Winfrey Brain Function",
+      "hook": "How Does Oprah Winfrey Function...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Mark Zuckerberg Focus Rituals",
+      "hook": "What Are Mark Zuckerberg Rituals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Six Science Backed Rituals",
+      "hook": "Can You Use Six Rituals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Elon Musk Daily Schedule",
+      "hook": "What Is Elon Musks Schedule...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

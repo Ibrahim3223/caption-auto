@@ -1,0 +1,819 @@
+{
+  "channel_id": "timelapse_lab",
+  "channel_name": "Timelapse Lab",
+  "github_environment": "Timelapse Lab",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "timelapse",
+    "time",
+    "transformation",
+    "change",
+    "science",
+    "shorts"
+  ],
+  "pexels_search_prefix": "timelapse nature transformation",
+  "music_mood": "ambient",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Great Barrier Reef Decay",
+      "hook": "What Kills Great Barrier Reef...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Fifty Year City Transformation",
+      "hook": "How Fifty Years Transform Cities...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Bamboo Growth Rate Test",
+      "hook": "Can Bamboo Grow Three Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Seven Colorful Rainbow Formation",
+      "hook": "When Do Seven Colors Appear...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Erosion Of Grand Canyon",
+      "hook": "Why Does Grand Canyon Erode...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Ten Thousand Year Old Ice",
+      "hook": "What Lies In Ten Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "London City Evolution Timeline",
+      "hook": "How Did London Evolve Overnight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Redwood Tree Growth Patterns",
+      "hook": "Where Do Redwood Trees Grow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Decomposition Of Plastic Bags",
+      "hook": "Why Cant Plastic Bags Decay...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Twenty Four Hour Flower Bloom",
+      "hook": "When Will Flowers Bloom In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Giant Crystal Cave Formation",
+      "hook": "How Are Giant Crystals Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Mount Everest Snow Melt",
+      "hook": "What Melts Mount Everest Snow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Desert Cactus Growth Speed",
+      "hook": "Can Desert Cacti Grow One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Ninety Day Time Lapse Experiment",
+      "hook": "What Happens In Ninety Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "San Francisco Fog Roll",
+      "hook": "Why Does San Francisco Fog...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Copper Rust Formation Process",
+      "hook": "How Fast Does Copper Rust...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Fourteen Thousand Year Old Forest",
+      "hook": "What Lies In Fourteen Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Glacier National Park Melting",
+      "hook": "When Will Glacier National Park...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Three Hundred Year Old Tree",
+      "hook": "How Old Is The Oldest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "New York City Skyscraper Construction",
+      "hook": "What Builds New York City...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Venus Flytrap Speed Capture",
+      "hook": "What Makes Venus Flytrap So Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Five Hundred Year Old Coral",
+      "hook": "How Old Is Five Hundred Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Chicago River Water Flow",
+      "hook": "Where Does Chicago River Flow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Sixty Minute Firework Explosion",
+      "hook": "When Will Sixty Minutes Be Over...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Australian Great Barrier Reef",
+      "hook": "What Hides In Australian Great Barrier...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Seventy Five Year Old Fossil",
+      "hook": "How Old Is Seventy Five Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Iron Oxidation Reaction Time",
+      "hook": "Can Iron Oxidate In One Second...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Twenty Five Thousand Year Glacier",
+      "hook": "Where Is Twenty Five Thousand Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Giant Sequoia Tree Growth",
+      "hook": "How Tall Is Giant Sequoia Tree...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Los Angeles Traffic Pattern",
+      "hook": "Why Is Los Angeles Traffic Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Eighty Year Old Volcano Eruption",
+      "hook": "When Will Eighty Year Old Volcano...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Flower Bloom In Slow Motion",
+      "hook": "What Happens When Flowers Bloom Slow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Fifty Thousand Year Old Iceberg",
+      "hook": "How Big Is Fifty Thousand Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Golden Gate Bridge Construction",
+      "hook": "What Took Golden Gate Bridge Thirty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Thirty Day Plant Growth Experiment",
+      "hook": "Can Plants Grow In Thirty Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Grand Canyon Colorado River Flow",
+      "hook": "Where Does Grand Canyon River Flow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Hundred Year Old Shipwreck Decay",
+      "hook": "What Happens To Hundred Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Paris City Evolution History",
+      "hook": "How Has Paris City Always Changed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Ten Thousand Year Old Forest",
+      "hook": "What Lives In Ten Thousand Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Water Droplet Surface Tension",
+      "hook": "Why Does Water Droplet Always Bounce...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Seventeen Year Locust Lifecycle",
+      "hook": "What Happens Every Seventeen Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Giant Pumpkin Growth Rate",
+      "hook": "How Does A Giant Pumpkin Grow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Twenty Five Year Old Erosion",
+      "hook": "When Does Erosion Happen In Twentyfive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Yellowstone National Park Geysers",
+      "hook": "Where Are Yellowstone Geysers Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Four Season Tree Change",
+      "hook": "Why Do Four Season Trees Change...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Thirty Thousand Year Old Fossil",
+      "hook": "What Is Inside A Thirty Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Copper Wire Corrosion Process",
+      "hook": "How Fast Does Copper Wire Corrode...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Giant Wave Crash Slow Motion",
+      "hook": "Can A Giant Wave Crash Slowly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Fifty Year Old Coral Reef",
+      "hook": "What Happens To A Fifty Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Beijing City Air Pollution",
+      "hook": "Why Is Beijing City Air Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Sixty Thousand Year Old Glacier",
+      "hook": "When Was The Sixty Thousand Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Giant Squid Camouflage Ability",
+      "hook": "How Does A Giant Squid Camouflage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Twenty Four Hour Cloud Formation",
+      "hook": "What Forms In Twenty Four Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "New Orleans City Flood Pattern",
+      "hook": "Where Does New Orleans Flood Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Seventy Year Old Tree Growth",
+      "hook": "Why Does A Seventy Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Giant Waterfall Erosion Process",
+      "hook": "How Fast Is Giant Waterfall Erosion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Thirty Five Thousand Year Ice",
+      "hook": "What Is Inside Thirty Five Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "London City Fog Formation",
+      "hook": "Why Does London City Fog Form...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Hundred Year Old Building Decay",
+      "hook": "What Happens To A Hundred Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Ten Minute Fire Ant Hill",
+      "hook": "Can Fire Ants Build In Ten...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Giant Crystal Growth Rate",
+      "hook": "What Drives Giant Crystal Growth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Twenty Five Thousand Year Glacier",
+      "hook": "Where Is Twenty Five Thousand Year Glacier...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Paris City Seine River Flow",
+      "hook": "How Fast Does Seine River Flow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Fifty Thousand Year Old Volcano",
+      "hook": "When Will Fifty Thousand Year Old Volcano...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Giant Redwood Tree Fall",
+      "hook": "Why Cant Giant Redwood Trees Stand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Twenty Year Old Erosion Pattern",
+      "hook": "What Causes Twenty Year Old Erosion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Yellowstone National Park Wildlife",
+      "hook": "Where Do Yellowstone National Park Animals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Four Thousand Year Old Tree",
+      "hook": "How Old Is Four Thousand Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Giant Wave Surfing Slow Motion",
+      "hook": "Can You Surf Giant Waves Slow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Seventy Five Thousand Year Fossil",
+      "hook": "What Lies In Seventy Five Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Copper Pipe Corrosion Time",
+      "hook": "Why Does Copper Pipe Corrode Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Giant Sequoia Tree Decay",
+      "hook": "How Long Do Giant Sequoia Trees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Thirty Year Old City Growth",
+      "hook": "What Drives Thirty Year Old City...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Giant Cactus Growth Speed",
+      "hook": "How Fast Can Giant Cactus Grow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Fifty Year Old Shipwreck Decay",
+      "hook": "When Will Fifty Year Old Shipwreck...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Los Angeles City Traffic Jam",
+      "hook": "Why Is Los Angeles City Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Twenty Thousand Year Old Forest",
+      "hook": "What Hides In Twenty Thousand Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Giant Water Droplet Formation",
+      "hook": "How Are Giant Water Droplets Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Hundred Thousand Year Old Glacier",
+      "hook": "Where Is Hundred Thousand Year Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Beijing City Pollution Solution",
+      "hook": "Can Beijing City Solve Pollution...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Seventeen Year Cicada Lifecycle",
+      "hook": "What Happens Every Seventeen Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Giant Pumpkin Decay Process",
+      "hook": "How Does A Giant Pumpkin Decay...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Thirty Five Year Old Volcano",
+      "hook": "When Will The Thirty Five Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Giant Wave Tsunami Formation",
+      "hook": "Can A Giant Wave Reach...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Fifty Thousand Year Old Coral",
+      "hook": "What Lives In Fifty Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Paris City Eiffel Tower Construction",
+      "hook": "How Was The Eiffel Tower...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Twenty Four Hour Time Lapse",
+      "hook": "What Happens In Twenty Four...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Giant Squid Ink Cloud Formation",
+      "hook": "Why Do Giant Squids Release...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Sixty Year Old Tree Growth",
+      "hook": "How Tall Can A Sixty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Giant Redwood Tree Growth",
+      "hook": "What Makes Giant Redwoods Grow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Thirty Thousand Year Old Fossil",
+      "hook": "Where Is The Thirty Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Copper Wire Rust Formation",
+      "hook": "Why Does Copper Wire Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Giant Crystal Cave Discovery",
+      "hook": "What Lies Inside The Giant...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Twenty Five Year Old Erosion",
+      "hook": "How Much Land Is Lost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Yellowstone National Park Geology",
+      "hook": "What Secrets Does Yellowstone Hold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Hundred Year Old Fossil Discovery",
+      "hook": "What Is Hidden In Hundred...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Giant Cactus Flower Bloom",
+      "hook": "When Does A Giant Cactus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Fifty Year Old City Evolution",
+      "hook": "How Has The City Changed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Giant Wave Surfing Championship",
+      "hook": "Can You Surf A Giant...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Seventy Five Year Old Tree Decay",
+      "hook": "What Kills A Seventy Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

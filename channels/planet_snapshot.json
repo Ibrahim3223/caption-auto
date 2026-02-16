@@ -1,0 +1,819 @@
+{
+  "channel_id": "planet_snapshot",
+  "channel_name": "Planet Snapshot",
+  "github_environment": "Planet Snapshot",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "geography",
+    "earth",
+    "nature",
+    "planet",
+    "landscapes",
+    "shorts"
+  ],
+  "pexels_search_prefix": "earth landscape nature aerial",
+  "music_mood": "ambient",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Grand Canyon Deepens Slowly",
+      "hook": "What Causes Grand Canyon Deepening...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Mount Everest Grows Taller",
+      "hook": "How Tall Is Mount Everest Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Yellowstone Volcano Erupts Infrequently",
+      "hook": "When Will Yellowstone Erupt Next...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Great Barrier Reef Shrinks",
+      "hook": "Why Is Great Barrier Reef Shrinking...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Dead Sea Water Levels Drop",
+      "hook": "Where Is Dead Sea Water Going...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "African Desert Expands Rapidly",
+      "hook": "How Fast Is African Desert Expanding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Giant Crystal Cave Discovered",
+      "hook": "What Lies Inside Giant Crystal Cave...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "New Zealand Fjords Formed",
+      "hook": "How Were New Zealand Fjords Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Rio Grande River Flooding",
+      "hook": "Can Rio Grande River Flooding Stop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Swiss Alps Mountain Building",
+      "hook": "Why Are Swiss Alps Still Rising...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "World Largest Waterfall Found",
+      "hook": "Where Is Worlds Largest Waterfall Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Australia Great Reef Destruction",
+      "hook": "What Destroyed Australias Great Reef...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Seven Natural Wonders Listed",
+      "hook": "What Are Seven Natural Wonders...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Kilimanjaro Snow Melting Fast",
+      "hook": "How Fast Is Kilimanjaro Snow Melting...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Giant Sinkholes In Mexico",
+      "hook": "Why Do Giant Sinkholes Form In Mexico...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Utah Natural Bridges Forming",
+      "hook": "How Are Utah Natural Bridges Created...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Iceland Volcanic Activities Increase",
+      "hook": "When Will Iceland Volcanic Activities Stop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Amazon Rainforest Burning Rapidly",
+      "hook": "Can Amazon Rainforest Burning Be Stopped...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Himalayan Mountain Range Formed",
+      "hook": "How Was Himalayan Mountain Range Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Victoria Falls Water Volume",
+      "hook": "What Is Victoria Falls Water Volume...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Black Forest Soil Eroding",
+      "hook": "What Causes Black Forest Soil...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Colorado River Carving Canyon",
+      "hook": "How Did Colorado River Carve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Mount St Helens Erupting Violently",
+      "hook": "When Will Mount St Helens...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "China Longest Mountain Range",
+      "hook": "What Makes China Mountain Range...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Antarctica Ice Sheet Melting",
+      "hook": "Can Antarctica Ice Sheet Recover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Redwood Trees Growing Taller",
+      "hook": "How Tall Can Redwood Trees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Africa Highest Mountain Peak",
+      "hook": "Where Is Africa Highest Peak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Angel Falls Water Dropping",
+      "hook": "Why Does Angel Falls Drop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Italian Supervolcano Awakens Slowly",
+      "hook": "When Will Italian Supervolcano Erupt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Galapagos Islands Unique Wildlife",
+      "hook": "What Lives On Galapagos Islands...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Indian Ocean Tsunami Warning",
+      "hook": "Can Indian Ocean Tsunami Be...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Valley Of Fire Formation",
+      "hook": "How Was Valley Of Fire...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Giant Geysers In Iceland",
+      "hook": "What Fuels Giant Geysers In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Tasmanian Wilderness Preservation",
+      "hook": "Why Preserve Tasmanian Wilderness...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Lake Baikal Water Level",
+      "hook": "What Affects Lake Baikal Water...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Swiss Mountain Tunnel Construction",
+      "hook": "How Deep Is Swiss Mountain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Costa Rica Volcanic Activity",
+      "hook": "What Triggers Costa Rica Volcanic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "African Rift Valley Expanding",
+      "hook": "Where Is African Rift Valley...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "World Largest Desert Expanding",
+      "hook": "Why Is World Largest Desert...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "New Mexico Carlsbad Caverns",
+      "hook": "What Lies Inside New Mexico...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Giant Crystals In Naica",
+      "hook": "What Lies Beneath Naica...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Arizona Meteor Crater Formed",
+      "hook": "How Was Arizona Crater Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Greenland Ice Sheet Melting",
+      "hook": "Can Greenland Ice Melt Completely...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Turkey Strange Landscape Formed",
+      "hook": "Where Is Turkeys Strange Landscape...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Italian Mountain Village Destroyed",
+      "hook": "Why Was Italian Village Destroyed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Australia Pinnacles Desert Formed",
+      "hook": "How Did Australia Pinnacles Form...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Giant Waterfalls In Zambia",
+      "hook": "What Drives Zambias Giant Waterfalls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Hawaiian Volcanic Eruptions Increase",
+      "hook": "When Will Hawaii Volcanos Erupt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Red Sea Coral Reef Destruction",
+      "hook": "Why Is Red Sea Reef Dying...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "China Tarim Basin Oil",
+      "hook": "Where Is Chinas Tarim Basin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Mount Fuji Eruption History",
+      "hook": "How Often Does Mount Fuji...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Namib Desert Sand Dunes",
+      "hook": "What Shapes Namib Desert Dunes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "World Largest Cave System",
+      "hook": "What Is Worlds Largest Cave...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Italian Dolomite Mountain Range",
+      "hook": "Why Is Italian Dolomite Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Giant Landslides In Switzerland",
+      "hook": "Can Switzerland Landslides Be Stopped...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Australian Great Dividing Range",
+      "hook": "How Long Is Australian Dividing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Giant Fjords In Norway Formed",
+      "hook": "What Carved Norways Giant Fjords...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Mexican Cave Of Crystals",
+      "hook": "What Lies In Mexican Cave...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "World Deepest Lake Baikal",
+      "hook": "How Deep Is Lake Baikal...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Giant Tornado Alley Formed",
+      "hook": "Why Is Tornado Alley Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "African Mountain Gorilla Habitat",
+      "hook": "What Lies Beneath African Mountains...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Brazilian Amazon Rainforest Fires",
+      "hook": "How Does Brazil Lose 1000 Acres...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Giant Glacier Calving Events",
+      "hook": "When Will Giant Glaciers Completely...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Italian Volcanic Island Formed",
+      "hook": "Where Is Italys New Volcanic Island...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "World Largest Saltwater Lake",
+      "hook": "What Covers 18000 Square Miles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Giant Sandstone Formations Erode",
+      "hook": "Why Cant Giant Sandstone Formations...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "New Zealand Geothermal Activity",
+      "hook": "How Does New Zealand Stay Geothermally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Giant Hydrothermal Vents Formed",
+      "hook": "What Fuels Giant Hydrothermal Vents...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Indian Himalayan Mountain Range",
+      "hook": "Where Are Indias Highest Peaks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Giant Rock Formations In Utah",
+      "hook": "What Carves Giants Rocks In Utah...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Turkey Cappadocia Landscape Formed",
+      "hook": "How Was Turkey Formed 6000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "World Largest Water Reservoir",
+      "hook": "What Holds 39000 Cubic Miles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Giant Earthquakes In Chile",
+      "hook": "When Will Chile Experience 9...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Australian Blue Mountains Formed",
+      "hook": "Why Cant Australia Stop Eroding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Giant Volcanic Fields In Hawaii",
+      "hook": "What Fuels Hawaiis Giant Volcanoes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Italian Apennine Mountain Range",
+      "hook": "How Old Is Italys Apennine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "World Largest Desert Oasis",
+      "hook": "What Hides In 20000 Square...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Giant Landslides In Peru",
+      "hook": "Why Cant Peru Stop Giant...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Giant Crystal Formations Found",
+      "hook": "What Creates Giants Crystals Naturally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "African Savanna Wildlife Preserve",
+      "hook": "Where Roams 1000 African Lions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Giant Fissures In Earth Surface",
+      "hook": "What Causes Giant Fissures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Brazilian Iguazu Waterfalls Formed",
+      "hook": "How Was Iguazu Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "World Largest Canyon System",
+      "hook": "Where Is Worlds Largest Canyon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Giant Glaciers In Patagonia",
+      "hook": "Why Are Patagonia Glaciers Melting...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Italian Active Volcanoes Listed",
+      "hook": "What Are Italys Most Active...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Giant Rock Formations In Australia",
+      "hook": "How Were Australian Rocks Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "New Zealand Fjord Formation",
+      "hook": "When Did New Zealand Fjords...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Giant Hydroelectric Dams Built",
+      "hook": "Can Giant Dams Power Cities...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "World Largest Coral Atoll",
+      "hook": "What Is Worlds Largest Coral...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Giant Sand Dunes In Sahara",
+      "hook": "Why Are Sahara Dunes Growing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Italian Mountain Villages Abandoned",
+      "hook": "Where Are Italys Abandoned Villages...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Giant Volcanic Ash Clouds Formed",
+      "hook": "How Do Volcanic Ash Clouds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Australian Pinnacles Desert Formed",
+      "hook": "What Formed Australian Pinnacles Desert...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "World Largest Impact Crater",
+      "hook": "Where Is Worlds Largest Impact...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Giant Tectonic Plate Boundaries",
+      "hook": "How Do Tectonic Plates Move...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "African Mountain Ranges Formed",
+      "hook": "What Shaped African Mountain Ranges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Giant Geothermal Power Plants",
+      "hook": "Can Geothermal Plants Power Nations...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Italian Dolomite Mountain Peaks",
+      "hook": "What Are Italys Tallest Peaks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "World Largest Ice Cap Melting",
+      "hook": "Why Is Worlds Largest Ice...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Giant Natural Arches Formed",
+      "hook": "How Are Giant Arches Formed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

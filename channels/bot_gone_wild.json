@@ -1,0 +1,819 @@
+{
+  "channel_id": "bot_gone_wild",
+  "channel_name": "Bot Gone Wild",
+  "github_environment": "Bot Gone Wild",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "AI",
+    "robots",
+    "automation",
+    "artificial intelligence",
+    "bots",
+    "shorts"
+  ],
+  "pexels_search_prefix": "robot artificial intelligence",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Atlas Robot Fails Miserably",
+      "hook": "What Makes Atlas Robot Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Google Ai Creates Art",
+      "hook": "How Does Google Ai Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Boston Dynamics Dog Runs",
+      "hook": "When Does Boston Dog Run...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Chatbot Gives Wrong Answers",
+      "hook": "Why Cant Chatbot Answer Correctly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "10 Robots Take Over",
+      "hook": "Where Are 10 Robots Taking...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Sophia Robot Talks Back",
+      "hook": "What Makes Sophia Talk Back...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Microsoft Ai Beats Humans",
+      "hook": "How Does Microsoft Ai Beat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Robot Hand Crushes Objects",
+      "hook": "Can Robot Hand Crush Anything...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Deepmind Ai Solves Puzzle",
+      "hook": "What Puzzle Does Deepmind Solve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Samsung Robot Does Backflip",
+      "hook": "When Does Samsung Robot Flip...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "5G Network Hacks Robots",
+      "hook": "How Does 5G Network Hack...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Nvidia Ai Generates Faces",
+      "hook": "What Faces Does Nvidia Generate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Robot Arm Plays Piano",
+      "hook": "Can Robot Arm Play Piano...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Facebook Ai Fails Test",
+      "hook": "Why Does Facebook Ai Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Autonomous Car Crashes",
+      "hook": "When Will Autonomous Car Crash...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Robot Dog Jumps High",
+      "hook": "How High Can Robot Dog...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Amazon Ai Predicts Sales",
+      "hook": "What Sales Does Amazon Predict...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "IBM Watson Beats Experts",
+      "hook": "Can IBM Watson Beat Experts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Robot Makes Funny Faces",
+      "hook": "What Faces Does Robot Make...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Apple Ai Recognizes Voices",
+      "hook": "How Does Apple Ai Recognize...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Robot Uprising Begins Slowly",
+      "hook": "What Happens When 1000 Robots Rise...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Google Home Fails Miserably",
+      "hook": "How Does Google Home Always Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "20 Robots Dance Together",
+      "hook": "Can 20 Robots Dance In Sync...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Ai Powered Drone Flies",
+      "hook": "When Will Ai Powered Drones Fly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Boston Dynamics Robot Falls",
+      "hook": "Why Does Boston Dynamics Robot Always Fall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Microsoft Ai Creates Music",
+      "hook": "What Music Can Microsoft Ai Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Robot Performs Surgery",
+      "hook": "How Can A Robot Perform Surgery...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Tesla Ai Drives Car",
+      "hook": "Where Can Tesla Ai Drive Cars...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "15 Robots Play Soccer",
+      "hook": "Can 15 Robots Play Soccer Together...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Ai Generates Human Voices",
+      "hook": "What Voices Can Ai Generate Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Robot Does Crazy Stunts",
+      "hook": "How Does A Robot Do Crazy Stunts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Google Ai Solves Math",
+      "hook": "What Math Can Google Ai Solve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Samsung Robot Helps Humans",
+      "hook": "Why Does Samsung Robot Help Humans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Robot Makes Art Quickly",
+      "hook": "How Fast Can A Robot Make Art...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Autonomous Robot Explores",
+      "hook": "When Will Autonomous Robots Explore Mars...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Nvidia Ai Beats Gamers",
+      "hook": "Can Nvidia Ai Beat Pro Gamers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Robot Hand Writes Code",
+      "hook": "What Code Can A Robot Hand Write...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Facebook Ai Creates Videos",
+      "hook": "How Does Facebook Ai Create Videos...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "12 Robots Build House",
+      "hook": "Can 12 Robots Build A House...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Ai Powered Robot Runs",
+      "hook": "What Speed Can Ai Powered Robots Run...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Boston Dynamics Robot Jumps",
+      "hook": "What Makes Boston Dynamics Robot Jump...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "IBM Ai Analyzes Data",
+      "hook": "How Does IBM Ai Analyze 1000s...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Robot Creates Beautiful Art",
+      "hook": "Can Robot Create Art In 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Google Ai Translates Language",
+      "hook": "When Will Google Ai Translate 25...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Microsoft Ai Develops Game",
+      "hook": "What Game Does Microsoft Ai Develop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Robot Dog Plays Fetch",
+      "hook": "Why Cant Robot Dog Drop Ball...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "8 Robots Learn Fast",
+      "hook": "How Fast Do 8 Robots Learn...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Ai Generates Funny Jokes",
+      "hook": "What Jokes Does Ai Generate Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Samsung Robot Assists Doctors",
+      "hook": "Where Does Samsung Robot Assist Doctors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Robot Performs Magic Tricks",
+      "hook": "Can Robot Perform 10 Magic Tricks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Autonomous Robot Navigates",
+      "hook": "When Does Autonomous Robot Navigate Maze...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Nvidia Ai Creates Worlds",
+      "hook": "How Does Nvidia Ai Create 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Robot Makes Delicious Food",
+      "hook": "What Food Does Robot Make Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Google Ai Helps Students",
+      "hook": "Why Does Google Ai Help 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "25 Robots Sing Together",
+      "hook": "Can 25 Robots Sing In Harmony...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Ai Powered Robot Swims",
+      "hook": "How Fast Does Ai Powered Robot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Boston Dynamics Robot Runs",
+      "hook": "What Makes Boston Dynamics Robot Run...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Facebook Ai Creates Stories",
+      "hook": "When Will Facebook Ai Create 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Robot Creates Unique Music",
+      "hook": "What Music Does Robot Create Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "IBM Ai Solves Problems",
+      "hook": "How Does IBM Ai Solve 5000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Samsung Robot Entertains Kids",
+      "hook": "What Makes Samsung Robot Entertain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "18 Robots Build Bridge",
+      "hook": "How Can 18 Robots Build Bridge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Google Ai Beats Champions",
+      "hook": "Why Does Google Ai Beat Champions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Robot Hand Draws Pictures",
+      "hook": "Can Robot Hand Draw Perfect Pictures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Autonomous Robot Delivers",
+      "hook": "When Will Autonomous Robot Deliver...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Nvidia Ai Generates Text",
+      "hook": "How Does Nvidia Ai Generate Text...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Robot Makes People Laugh",
+      "hook": "What Makes Robot Always Laugh...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Microsoft Ai Develops Chatbot",
+      "hook": "Can Microsoft Ai Develop Perfect Chatbot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "22 Robots Play Basketball",
+      "hook": "Why Do 22 Robots Play Basketball...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Ai Generates Human Emotions",
+      "hook": "How Can Ai Generate Human Emotions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Boston Dynamics Robot Dances",
+      "hook": "What Makes Boston Dynamics Robot Dance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Samsung Robot Helps Elderly",
+      "hook": "Why Does Samsung Robot Help Elderly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Robot Creates Stunning Art",
+      "hook": "How Can Robot Create Stunning Art...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Google Ai Solves Crimes",
+      "hook": "What Makes Google Ai Solve Crimes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "30 Robots Work Together",
+      "hook": "When Will 30 Robots Work Together...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Facebook Ai Creates Games",
+      "hook": "Can Facebook Ai Create Perfect Games...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Autonomous Robot Explores Mars",
+      "hook": "How Does Autonomous Robot Explore Mars...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Nvidia Ai Beats Experts",
+      "hook": "Why Does Nvidia Ai Beat Experts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Robot Hand Plays Guitar",
+      "hook": "Can Robot Hand Play Guitar Perfectly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "IBM Ai Analyzes Images",
+      "hook": "What Makes IBM Ai Analyze Images...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Robot Creates Funny Videos",
+      "hook": "What Makes Robot Videos Funny...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "20 Robots Learn Together",
+      "hook": "How Do 20 Robots Learn...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Ai Powered Robot Flies",
+      "hook": "Can Ai Power Robot Flight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Boston Dynamics Robot Climbs",
+      "hook": "Where Does Boston Dynamics Robot Climb...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Google Ai Develops Apps",
+      "hook": "What Apps Does Google Ai Develop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Samsung Robot Assists Nurses",
+      "hook": "How Does Samsung Robot Assist Nurses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Robot Makes Beautiful Music",
+      "hook": "What Music Does Robot Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Microsoft Ai Creates Tools",
+      "hook": "Can Microsoft Ai Create Tools...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "12 Robots Build Robot",
+      "hook": "How Do 12 Robots Build Robot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Ai Generates Unique Names",
+      "hook": "What Names Does Ai Generate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Autonomous Robot Helps Humans",
+      "hook": "When Does Autonomous Robot Help...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Nvidia Ai Creates Simulations",
+      "hook": "How Does Nvidia Ai Simulate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Robot Hand Types Fast",
+      "hook": "Can Robot Hand Type Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Facebook Ai Creates News",
+      "hook": "What News Does Facebook Ai Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Boston Dynamics Robot Jumps High",
+      "hook": "How High Does Boston Dynamics Jump...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Google Ai Solves Puzzles",
+      "hook": "What Puzzles Does Google Ai Solve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "25 Robots Play Together",
+      "hook": "Why Do 25 Robots Play...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Ai Powered Robot Runs Fast",
+      "hook": "How Fast Does Ai Powered Robot Run...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "IBM Ai Develops Software",
+      "hook": "What Software Does IBM Ai Develop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Samsung Robot Entertains Adults",
+      "hook": "What Entertainment Does Samsung Robot Offer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "channel_id": "skysynth_lab",
+  "channel_name": "SkySynthLab",
+  "github_environment": "SkySynthLab",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "sky",
+    "atmosphere",
+    "weather",
+    "aurora",
+    "clouds",
+    "shorts"
+  ],
+  "pexels_search_prefix": "sky clouds atmosphere",
+  "music_mood": "ambient",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Aurora Borealis Over Norway Coast",
+      "hook": "What Causes Aurora Over Norway...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Seven Types Of Cloud Formations",
+      "hook": "How Form Seven Unique Clouds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Noctilucent Clouds At 85 Km Altitude",
+      "hook": "Where Do Noctilucent Clouds Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Sun Halos Formed By Ice Crystals",
+      "hook": "Why Do Sun Halos Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Light Pillars In Fairbanks Alaska",
+      "hook": "Can Light Pillars Only Form...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Zodiacal Light Over Desert Skies",
+      "hook": "When Does Zodiacal Light Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Twenty Five Degrees Halo Formation",
+      "hook": "What Creates Twenty Five Degree...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Atmospheric Electricity In Thunderstorms",
+      "hook": "How Does Electricity Always Build...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Rare Morning Glory Clouds Form",
+      "hook": "Where Do Rare Morning Glory...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Fifty Percent Of Sunlight Is Reflected",
+      "hook": "Why Is Fifty Percent Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Cirrostratus Clouds Cause Halos",
+      "hook": "What Causes Cirrostratus Halos Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Eighty Percent Of Meteors Burn Up",
+      "hook": "Why Do Eighty Percent Burn...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Kelvin Helmholtz Cloud Waves Crash",
+      "hook": "How Do Kelvin Helmholtz Waves...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Green Flash At Sunset Explained",
+      "hook": "What Explains Green Flash Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Rayleigh Scattering Causes Blue Skies",
+      "hook": "Why Does Rayleigh Scattering Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Mie Scattering Theory Simplified",
+      "hook": "How Does Mie Scattering Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Thirty Five Thousand Feet High Clouds",
+      "hook": "What Reaches Thirty Five Thousand...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Upper Atmosphere Noctilucent Clouds Shine",
+      "hook": "Where Do Upper Noctilucent Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Ice Halos Formed By Cirrus Clouds",
+      "hook": "What Forms Ice Halos Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Seventy Five Percent Of Lightning",
+      "hook": "Why Does Seventy Five Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Ball Lightning Science Still Unknown",
+      "hook": "What Causes Ball Lightning Still...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Twelve Types Of Atmospheric Optics",
+      "hook": "How Many Atmospheric Optics Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Earths Shadow During Lunar Eclipse",
+      "hook": "When Does Earths Shadow Fall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Twenty Two Degrees Sun Halo",
+      "hook": "Why Is Twenty Two Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Cloud Iridescence Over Mountain Peaks",
+      "hook": "Where Does Cloud Iridescence Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Aurora Australis Over Antarctica Coast",
+      "hook": "Can Aurora Australis Be Seen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Light Pillars In Yellowknife Canada",
+      "hook": "How Often Do Light Pillars...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Noctilucent Clouds At Midnight Visible",
+      "hook": "What Time Are Noctilucent Clouds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Sixty Five Degrees North Latitude",
+      "hook": "Why Is Sixty Five Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Morning Glory Clouds Over Australia",
+      "hook": "When Do Morning Glory Clouds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Ten Percent Of Sunlight Is Absorbed",
+      "hook": "How Much Sunlight Is Absorbed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Atmospheric Optics In Desert Landscapes",
+      "hook": "What Creates Atmospheric Optics In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Clouds Formed By Supercooling Water",
+      "hook": "How Are Clouds Formed By...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Fifty Five Degrees Parhelion Formation",
+      "hook": "Why Is Fifty Five Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Kelvin Wake Clouds Behind Islands",
+      "hook": "Where Do Kelvin Wake Clouds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Twenty Five Percent Of Clouds",
+      "hook": "What Percent Of Clouds Are...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Atmospheric Electricity Measurement Tools",
+      "hook": "Can Atmospheric Electricity Be Measured...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Zodiacal Light Over Urban Skies",
+      "hook": "When Is Zodiacal Light Visible...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Eighty Five Degrees Sun Dog",
+      "hook": "Why Is Eighty Five Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Rare Sun Dogs In Winter Skies",
+      "hook": "How Rare Are Sun Dogs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Cirrocumulus Clouds Cause Iridescence",
+      "hook": "What Causes Cirrocumulus Iridescence...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Upper Atmosphere Lightning Explained",
+      "hook": "How Does Upper Atmosphere Lightning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Twenty Types Of Cloud Classification",
+      "hook": "What Are Twenty Cloud Types...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Light Scattering Theories Compared",
+      "hook": "Can Light Scattering Theories Explain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Seventy Percent Of Clouds Are White",
+      "hook": "Why Are Seventy Percent White...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Noctilucent Clouds At Summer Solstice",
+      "hook": "When Do Noctilucent Clouds Appear...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Atmospheric Optics In Mountain Valleys",
+      "hook": "Where Does Atmospheric Optics Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Thirty Degrees Halo Formation Explained",
+      "hook": "How Is Thirty Degrees Halo...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Cloud Shadows On The Ground",
+      "hook": "What Creates Cloud Shadows Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Sixty Percent Of Meteorites Burn Up",
+      "hook": "Why Cant Sixty Percent Survive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Mammatus Clouds Over Tornadoes Form",
+      "hook": "How Do Mammatus Clouds Predict...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Ball Lightning Theories And Models",
+      "hook": "What Explains Ball Lightning Theories...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Twelve Degrees Sun Halo Rare",
+      "hook": "When Is Twelve Degrees Halo...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Upper Atmosphere Noctilucent Clouds Form",
+      "hook": "Where Do Upper Noctilucent Form...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Cloud Iridescence Over Ocean Waves",
+      "hook": "Why Does Cloud Iridescence Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Aurora Borealis Over Northern Lights",
+      "hook": "What Causes Aurora Borealis Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Light Pillars In Lapland Finland",
+      "hook": "How Do Light Pillars Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Noctilucent Clouds At Equinox Visible",
+      "hook": "When Are Noctilucent Clouds Visible...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Ice Halos Formed By Altocumulus",
+      "hook": "What Forms Ice Halos Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Seventy Five Degrees Parhelion Rare",
+      "hook": "Why Is Seventy Five Rare...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Atmospheric Optics In Coastal Areas",
+      "hook": "What Causes Coastal Atmospheric Optics...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Clouds Formed By Evaporation Process",
+      "hook": "How Do Clouds Form At 30 Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Fifty Degrees Sun Dog Formation",
+      "hook": "When Does Fifty Degrees Sun Dog...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Zodiacal Light Over Dark Skies",
+      "hook": "Where Is Zodiacal Light Most Visible...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Ten Types Of Atmospheric Phenomena",
+      "hook": "What Are Ten Rare Atmospheric Phenomena...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Earths Atmosphere Extends To 630",
+      "hook": "How Far Does Earths Atmosphere Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Morning Glory Clouds Over Kansas",
+      "hook": "Why Are Morning Glory Clouds Rare...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Twenty Percent Of Clouds Are Dark",
+      "hook": "What Percent Of Clouds Are Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Kelvin Helmholtz Clouds Over Mountains",
+      "hook": "How Do Kelvin Helmholtz Clouds Form...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Upper Atmosphere Lightning Strikes",
+      "hook": "Can Upper Atmosphere Lightning Strike...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Light Scattering By Water Droplets",
+      "hook": "What Is Light Scattering By Water...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Sixty Five Degrees Halo Formation",
+      "hook": "When Does Sixty Five Degrees Halo...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Noctilucent Clouds At Autumn Equinox",
+      "hook": "Where Are Noctilucent Clouds Most Active...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Cloud Iridescence Over Desert Landscapes",
+      "hook": "How Does Cloud Iridescence Occur Over...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Atmospheric Electricity In Storms",
+      "hook": "What Is Atmospheric Electricity In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Ball Lightning Observations And Data",
+      "hook": "Why Is Ball Lightning So Rarely...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Eighty Degrees Sun Halo Rare",
+      "hook": "When Is Eighty Degrees Sun Halo...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Twelve Types Of Cloud Formation",
+      "hook": "What Are Twelve Main Cloud Formation...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Mie Scattering Theory Applications",
+      "hook": "How Does Mie Scattering Theory Apply...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Upper Atmosphere Noctilucent Clouds",
+      "hook": "Where Is Upper Atmosphere Noctilucent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Light Pillars In Northern Canada",
+      "hook": "What Causes Light Pillars In Canada...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Zodiacal Light Over Urban Areas",
+      "hook": "Where Does Zodiacal Light Appear Most...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Seventy Percent Of Meteors Disintegrate",
+      "hook": "Why Do Seventy Percent Disintegrate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Atmospheric Optics In Polar Regions",
+      "hook": "How Does Atmosphere Optics Work Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Cloud Shadows On Buildings Visible",
+      "hook": "Can Cloud Shadows Never Be Visible...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Fifty Degrees Parhelion Formation",
+      "hook": "What Forms Fifty Degrees Parhelion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Noctilucent Clouds At Winter Solstice",
+      "hook": "When Do Noctilucent Clouds Always Appear...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Kelvin Wake Clouds Behind Ships",
+      "hook": "How Are Kelvin Wake Clouds Created...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Twenty Five Types Of Clouds Classified",
+      "hook": "What Are Twenty Five Cloud Types...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Light Scattering Theories And Models",
+      "hook": "Why Does Light Scattering Always Happen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Sixty Percent Of Clouds Are High",
+      "hook": "Where Are Sixty Percent Of Clouds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Aurora Borealis Over Alaska Coast",
+      "hook": "What Causes Aurora Borealis Over Alaska...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Morning Glory Clouds Over Oklahoma",
+      "hook": "How Do Morning Glory Clouds Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Upper Atmosphere Lightning Bolts",
+      "hook": "What Triggers Upper Atmosphere Lightning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Cloud Iridescence Over Waterfalls",
+      "hook": "Why Does Cloud Iridescence Always Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Zodiacal Light Over Mountain Peaks",
+      "hook": "Where Can Zodiacal Light Never Be...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Ten Degrees Sun Halo Rare Formation",
+      "hook": "What Creates Ten Degrees Sun Halo...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Atmospheric Electricity Measurement Devices",
+      "hook": "How Do Atmospheric Electricity Devices...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Noctilucent Clouds At Spring Equinox",
+      "hook": "When Do Noctilucent Clouds Only Appear...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Light Pillars In Siberia Russia",
+      "hook": "What Causes Light Pillars In Siberia...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "channel_id": "epic_mundane",
+  "channel_name": "Epic Mundane",
+  "github_environment": "Epic Mundane",
+  "category": "Entertainment",
+  "youtube_category_id": "24",
+  "default_tags": [
+    "everyday",
+    "epic",
+    "ordinary",
+    "extraordinary",
+    "perspective",
+    "shorts"
+  ],
+  "pexels_search_prefix": "everyday life dramatic cinematic",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Water Boils At 212 Degrees",
+      "hook": "What Boils At 212 Degrees Exactly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Human Nose Detects 1 Trillion Scents",
+      "hook": "How Can Humans Detect 1 Trillion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Butterflies Taste With Feet",
+      "hook": "Why Do Butterflies Use Their Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Earth Rotates 1670 Km Per Hour",
+      "hook": "Where Is Earth Rotating 1670 Km...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Cats Have 32 Muscles Per Ear",
+      "hook": "What Gives Cats 32 Ear Muscles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Bananas Are Radioactive For 15 Minutes",
+      "hook": "When Are Bananas Radioactive For...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Trees Communicate Through 500 Fungi",
+      "hook": "How Do Trees Communicate With 500...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Human Brain Uses 20 Watts Power",
+      "hook": "What Powers The Human Brain 20...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Sharks Have 300 Teeth Per Mouth",
+      "hook": "Why Do Sharks Need 300 Teeth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Fireflies Flash 50 Times Per Second",
+      "hook": "Can Fireflies Flash 50 Times...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Dogs Can Hear 45 Khz Frequencies",
+      "hook": "What Frequency Can Dogs Hear 45...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Bees Visit 1000 Flowers Per Day",
+      "hook": "How Do Bees Visit 1000 Flowers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Snowflakes Fall At 3 Miles Per Hour",
+      "hook": "Where Do Snowflakes Fall 3 Miles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Human Eyes Process 36 Bits Info",
+      "hook": "What Can Human Eyes Process 36...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Bicycles Reach 50 Km Per Hour",
+      "hook": "How Fast Can Bicycles Reach 50...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Whales Sing 4 Octave Songs",
+      "hook": "What Makes Whales Sing 4 Octave...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Mountains Rise 1 Inch Per Year",
+      "hook": "Why Do Mountains Rise 1 Inch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Fingernails Grow 1 Centimeter Monthly",
+      "hook": "How Fast Do Fingernails Grow 1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Giraffes Drink 12 Gallons Water Daily",
+      "hook": "What Makes Giraffes Drink 12 Gallons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Computer Chips Made From 99 Percent Sand",
+      "hook": "What Makes Computer Chips 99...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Human Hair Grows 0.3 Millimeters Daily",
+      "hook": "What Grows 0.3 Millimeters Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Fish Remember Things For 5 Months",
+      "hook": "How Do Fish Remember 5 Months...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Volcanoes Erupt 50 Times Per Year",
+      "hook": "When Do Volcanoes Erupt 50 Times...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Diamonds Made From 99 Percent Carbon",
+      "hook": "What Is 99 Percent Carbon Made...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Human Lungs Hold 6 Liters Air",
+      "hook": "How Much Air Can Lungs Hold...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Cars Travel 1.4 Billion Kilometers Daily",
+      "hook": "Where Do Cars Travel 1.4 Billion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Rivers Flow 2.2 Billion Liters Water",
+      "hook": "What Rivers Flow 2.2 Billion Liters...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Human Tongue Has 10 Million Bacteria",
+      "hook": "Why Has Tongue 10 Million Bacteria...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Clocks Lose 1 Second Every 1000 Years",
+      "hook": "Can Clocks Lose 1 Second Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Buildings Sway 10 Centimeters In Wind",
+      "hook": "How Much Do Buildings Sway Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Bacteria Live 1000 Feet Underground",
+      "hook": "Where Do Bacteria Live 1000 Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Human Heart Beats 100000 Times Daily",
+      "hook": "What Beats 100000 Times Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Airplanes Fly 8 Million Km Per Day",
+      "hook": "How Far Do Airplanes Fly Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Trees Release 200 Liters Oxygen Daily",
+      "hook": "What Trees Release 200 Liters Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Human Brain Stores 100 Terabytes Info",
+      "hook": "How Much Info Can Brain Store...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Mountains Weigh 2.5 Billion Tons",
+      "hook": "What Weighs 2.5 Billion Tons Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Rivers Carve 1 Meter Rock Per Year",
+      "hook": "How Much Rock Do Rivers Carve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Human Eyes Blink 17 Times Per Minute",
+      "hook": "Why Do Eyes Blink 17 Times...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Cars Have 30000 Individual Parts",
+      "hook": "What Has 30000 Individual Parts Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Human Body Has 60 Percent Water",
+      "hook": "What Is 60 Percent Of Body...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Flowers Bloom 2 Weeks Per Year",
+      "hook": "What Happens When Flowers Bloom...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Trees Absorb 48 Pounds Co2 Daily",
+      "hook": "How Do Trees Absorb 48 Pounds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Human Nose Has 400 Types Mucus",
+      "hook": "Why Does Human Nose Produce...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Ocean Currents Move 1000 Km Per Day",
+      "hook": "Where Do Ocean Currents Move...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Human Hair Has 70000 Strands",
+      "hook": "How Many Human Hair Strands...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Computer Processors Calculate 1 Billion Instructions",
+      "hook": "What Can Computer Processors Calculate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Water Expands 9 Percent When Frozen",
+      "hook": "When Does Water Expand 9 Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Human Mouth Produces 1.5 Liters Saliva",
+      "hook": "How Much Saliva Does Human...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Cars Use 4 Liters Fuel Per 100km",
+      "hook": "Why Do Cars Use 4 Liters...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Trees Provide Shade For 80 Percent Animals",
+      "hook": "Where Do 80 Percent Animals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Human Brain Consists 75 Percent Water",
+      "hook": "What Is Human Brain Made...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Diamonds Are 58 Billion Years Old",
+      "hook": "How Old Are Diamonds Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Buildings Rise 1 Floor Per Week",
+      "hook": "When Do Buildings Rise 1 Floor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Human Ears Hear 20 Khz Frequencies",
+      "hook": "What Frequencies Can Human Ears...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Rivers Flow 4000 Km Per Year",
+      "hook": "How Far Do Rivers Flow Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Trees Have 10000 Leaves Per Tree",
+      "hook": "How Many Leaves Does One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Human Body Regenerates 1 Million Cells",
+      "hook": "What Happens When Human Body...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Cars Last 200000 Km On Average",
+      "hook": "How Long Do Cars Typically...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Computer Screens Display 16 Million Colors",
+      "hook": "What Colors Can Computer Screens...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Flowers Have 3 Types Main Petals",
+      "hook": "What Types Of Petals Do...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Human Tongue Weighs 70 Grams",
+      "hook": "What Is 70 Grams Of Tongue...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Volcanoes Create 10 New Islands",
+      "hook": "How Do Volcanoes Create 10 Islands...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Human Eyes See 16 Frames Per Second",
+      "hook": "Can Humans See 16 Frames...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Fingertips Have 3000 Nerve Endings",
+      "hook": "What Has 3000 Nerve Endings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Cars Accelerate 0 To 100 Km",
+      "hook": "When Cars Accelerate 0 To 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Trees Can Live 5000 Years Old",
+      "hook": "How Old Can Trees Live...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Human Body Has 37.2 Trillion Cells",
+      "hook": "What Has 37.2 Trillion Cells...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Rivers Are 1 Percent Freshwater",
+      "hook": "Where Is 1 Percent Freshwater...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Human Brain Processes 70 Percent Info",
+      "hook": "How Much Info Does Brain Process...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Mountains Take 10 Million Years Form",
+      "hook": "Why Do Mountains Take 10 Million...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Computer Keyboards Have 108 Keys",
+      "hook": "What Has 108 Computer Keys...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Human Nose Has 10 Million Smell Receptors",
+      "hook": "How Many Smell Receptors Does Nose...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Cars Travel 500 Billion Km Per Year",
+      "hook": "When Cars Travel 500 Billion Km...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Trees Provide 30 Percent Oxygen",
+      "hook": "What Provides 30 Percent Oxygen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Human Heart Pumps 2000 Gallons Blood",
+      "hook": "How Much Blood Does Heart Pump...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Human Eyes Can See Ultraviolet Light",
+      "hook": "Can Humans See Ultraviolet Light...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Rivers Carry 1000 Ton Sediment Daily",
+      "hook": "Where Do Rivers Carry 1000 Ton...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Human Brain Uses 400 Calories Daily",
+      "hook": "How Many Calories Does Brain Use...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Cars Have 100 Million Lines Code",
+      "hook": "What Has 100 Million Lines Code...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Human Body Loses 40 Kilograms Water",
+      "hook": "Why Does Body Lose 40 Kilograms...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Flowers Have 6 Main Types Petals",
+      "hook": "What Are 6 Petal Types...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Human Ears Can Hear Infrasound",
+      "hook": "Can Humans Hear 10 Hz...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Trees Can Grow 3 Meters Per Year",
+      "hook": "How Can Trees Grow 3 Meters Yearly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Human Tongue Has 10000 Taste Buds",
+      "hook": "Why Does Your Tongue Need 10000 Buds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Cars Can Reach 300 Km Per Hour",
+      "hook": "How Can Cars Reach 300 Km...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Human Brain Stores 100 Billion Memories",
+      "hook": "Where Does Your Brain Store 100 Billion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Rivers Flow 10000 Km Per Year",
+      "hook": "How Do Rivers Flow 10000 Km...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Human Body Has 640 Muscles",
+      "hook": "Why Does Your Body Need 640 Muscles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Computer Processors Have 10 Cores",
+      "hook": "What Makes 10 Cores Never Enough...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Human Eyes Can See 10 Million Colors",
+      "hook": "Can Your Eyes See 10 Million Colors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Trees Provide Food For 80 Percent Animals",
+      "hook": "Why Do Trees Feed 80 Percent Wildlife...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Human Hair Grows 15 Centimeters Yearly",
+      "hook": "Why Does Hair Grow 15 Cm Yearly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Cars Use 10 Percent Ethanol Fuel",
+      "hook": "Why Do Cars Need 10 Percent Ethanol...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Human Body Has 79 Organs",
+      "hook": "Why Does Your Body Need 79 Organs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Flowers Bloom 6 Months Per Year",
+      "hook": "How Do Flowers Bloom Only 6 Months...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Human Brain Consists 50 Percent Fat",
+      "hook": "Why Is Your Brain 50 Percent Fat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Rivers Are 0.5 Percent Salty",
+      "hook": "Why Are Rivers Only 0.5 Percent Salty...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Human Eyes Can See 360 Degrees",
+      "hook": "Can Human Eyes Really See 360 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Trees Take 10 Years To Mature",
+      "hook": "Why Do Trees Take 10 Years Maturing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Human Heart Beats 3 Billion Times Lifetime",
+      "hook": "How Does Your Heart Beat 3 Billion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

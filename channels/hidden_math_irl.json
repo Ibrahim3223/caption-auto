@@ -1,0 +1,819 @@
+{
+  "channel_id": "hidden_math_irl",
+  "channel_name": "Hidden Math IRL",
+  "github_environment": "Hidden Math IRL",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "math",
+    "mathematics",
+    "real life",
+    "numbers",
+    "education",
+    "shorts"
+  ],
+  "pexels_search_prefix": "mathematics numbers geometry",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Fibonacci Sequence In Nature",
+      "hook": "What Lies Behind Fibonacci 13...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Eiffel Tower Math Secrets",
+      "hook": "How Does Eiffel Tower Defy 3000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "7 Wonders Of Geometric World",
+      "hook": "Where Are 7 Geometric Wonders...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Probability Of Winning Lottery",
+      "hook": "Can You Win Lottery With 6...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "3D Printing With Math Codes",
+      "hook": "How Does 3D Printing Use 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Golden Ratio In Architecture",
+      "hook": "Why Is Golden Ratio In 80...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Statistics Of Shark Attacks",
+      "hook": "What Are Odds Of Shark Attack...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Math Behind Bridge Designs",
+      "hook": "How Do Math Codes Build 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "10 Most Mysterious Numbers",
+      "hook": "What Are 10 Most Mysterious Numbers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Leonardo Da Vinci Codes",
+      "hook": "What Secrets Did Da Vinci Hide...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Fractals In Romanesco Broccoli",
+      "hook": "Why Does Romanesco Broccoli Have 13...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "5 Famous Math Problems Solved",
+      "hook": "How Did Euler Solve Famous 5...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Geometry Of Egyptian Pyramids",
+      "hook": "What Geometry Built The 481 Foot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "11 Dimensions Of String Theory",
+      "hook": "Where Do 11 Dimensions Of String...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Calculating Pi To 1000 Digits",
+      "hook": "Can You Calculate Pi To 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Hidden Patterns In Stock Market",
+      "hook": "What Patterns Hide In Stock Market...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "8 Bit Math Tricks For Kids",
+      "hook": "How Do 8 Bit Codes Trick...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Symmetry In Islamic Art",
+      "hook": "Why Is Symmetry Key To Islamic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "4D Geometry Explained Simply",
+      "hook": "What Is 4D Geometry In Simple...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Famous Mathematicians Born In June",
+      "hook": "Who Are Famous Mathematicians Born June...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Codebreaking With Number Theory",
+      "hook": "What Is Codebreaking With 7 Numbers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Math Of Perfect Free Throws",
+      "hook": "How Do 9 Out Of 10 Free Throws...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "6 Most Famous Paradoxes",
+      "hook": "Why Only 3 Paradoxes Are Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Statistics Of Climate Change",
+      "hook": "Can 10 Degrees Change Climate Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Geometry Of Soccer Ball",
+      "hook": "Where Does Soccer Ball Geometry Begin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "9 Types Of Mathematical Proof",
+      "hook": "What Are 5 Types Of Proof...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Math Behind Roller Coaster",
+      "hook": "How Does 100 Feet Per Second...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "2 Billion People Use Math",
+      "hook": "Why Do 2 Billion People Need...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Secrets Of The Kryptos Sculpture",
+      "hook": "What Is Hidden In Kryptos Sculpture...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "13 Most Beautiful Equations",
+      "hook": "Which 5 Equations Are Most Beautiful...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Math Of Musical Compositions",
+      "hook": "How Do 4 Notes Create Music...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "5 Most Important Math Theorems",
+      "hook": "What Are 3 Theorems You Must Know...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Probability Of Coin Toss",
+      "hook": "Can You Win 10 Coin Tosses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Math Of Medical Imaging",
+      "hook": "How Does Math Create Medical Images...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "7 Famous Female Mathematicians",
+      "hook": "Who Are 3 Famous Female Mathematicians...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Geometry Of Snowflakes Formation",
+      "hook": "Why Do Snowflakes Always Form Hexagons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "3D Math In Video Games",
+      "hook": "What Is 3D Math In Fortnite...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Statistics Of Social Media",
+      "hook": "How Do 1 Billion People Use...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Math Of Wind Turbine Design",
+      "hook": "Can Wind Turbines Reach 100 Meters...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Famous Math Problems Unsolved",
+      "hook": "Why Cant We Solve 7 Math...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "10 Most Interesting Math Facts",
+      "hook": "What Makes Math So Interesting...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Math Of Navigation Systems",
+      "hook": "How Does Navigation Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Codebreaking With Algebra",
+      "hook": "Can Algebra Crack Any Code...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Math Behind Water Slides",
+      "hook": "Why Are Water Slides Never Safe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "6 Types Of Mathematical Functions",
+      "hook": "What Are Six Math Functions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Geometry Of Molecules Structure",
+      "hook": "How Are Molecules Structured Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Math Of Data Compression",
+      "hook": "Where Does Data Compression Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "9 Most Famous Math Books",
+      "hook": "What Are Nine Famous Math Books...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Statistics Of Sports Injuries",
+      "hook": "When Do Sports Injuries Happen Most...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Math Of Solar Panel Efficiency",
+      "hook": "Why Are Solar Panels Never 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "5 Most Important Math Symbols",
+      "hook": "What Do Five Math Symbols Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Math Of Computer Networks",
+      "hook": "How Do Computer Networks Always Connect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Geometry Of City Planning",
+      "hook": "Where Is Geometry Used Most...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "11 Most Famous Math Quotes",
+      "hook": "What Do Eleven Math Quotes Say...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Math Of Medical Research",
+      "hook": "Can Math Cure Any Disease...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "7 Types Of Mathematical Models",
+      "hook": "What Are Seven Math Models...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Probability Of Natural Disasters",
+      "hook": "When Will Natural Disasters Strike Next...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Math Of Sound Wave Patterns",
+      "hook": "How Do Sound Waves Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "3 Most Famous Math Competitions",
+      "hook": "What Are Three Famous Math Competitions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Statistics Of Population Growth",
+      "hook": "Why Does Population Growth Never Stop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Math Of Image Recognition",
+      "hook": "What Makes Image Recognition Possible...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Geometry Of Bridge Collapse",
+      "hook": "How Does Geometry Predict Bridge Collapse...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "10 Most Famous Math Puzzles",
+      "hook": "What Are The Top 5 Math Puzzles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Math Of Chess Strategies",
+      "hook": "Can Chess Strategies Be Mathematically Perfect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Codebreaking With Geometry",
+      "hook": "Where Does Geometry Meet Codebreaking...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "6 Most Famous Math Journals",
+      "hook": "What Are The 3 Most Famous Journals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Math Of Traffic Flow Patterns",
+      "hook": "Why Cant Traffic Flow Be Predicted...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Statistics Of Economic Trends",
+      "hook": "How Do Economists Use Statistical Trends...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Math Of Cloud Formation",
+      "hook": "What Causes Cloud Formation Patterns Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "9 Most Important Math Concepts",
+      "hook": "What Are The 5 Most Important Concepts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Geometry Of Crystal Structures",
+      "hook": "How Does Geometry Shape Crystal Structures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Math Of Laser Technology",
+      "hook": "Can Laser Technology Be Mathematically Controlled...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "5 Most Famous Math Scandals",
+      "hook": "What Are The 3 Biggest Math Scandals...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Probability Of Random Events",
+      "hook": "When Does Probability Predict Random Events...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Math Of GPS Technology",
+      "hook": "How Does GPS Technology Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "7 Types Of Mathematical Proof",
+      "hook": "What Are The 5 Types Of Proofs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Math Of Medical Diagnostic",
+      "hook": "Can Medical Diagnostics Be Mathematically Accurate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Statistics Of Student Performance",
+      "hook": "Why Cant Student Performance Be Predicted...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Geometry Of Aircraft Design",
+      "hook": "How Does Geometry Improve Aircraft Design...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "11 Most Famous Math Software",
+      "hook": "What Are The Top 5 Math Software...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Math Of Computer Vision",
+      "hook": "What Is Math Of Computer Vision...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "3 Most Famous Math Museums",
+      "hook": "Where Are 3 Famous Math Museums...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Codebreaking With Statistics",
+      "hook": "How Does Codebreaking Use Statistics...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Math Of Water Purification",
+      "hook": "Can Water Purification Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "10 Most Interesting Math Careers",
+      "hook": "What Are 10 Most Interesting Careers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Geometry Of Seashell Formation",
+      "hook": "Why Does Seashell Formation Need Geometry...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Math Of Robotics Engineering",
+      "hook": "How Does Robotics Engineering Use Math...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "6 Most Famous Math Prizes",
+      "hook": "What Are 6 Most Famous Math Prizes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Statistics Of Environmental Impact",
+      "hook": "When Does Environmental Impact Need Stats...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Math Of Thermal Energy",
+      "hook": "Why Is Thermal Energy Always Math...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "9 Most Famous Math Discoveries",
+      "hook": "What Are 9 Most Famous Discoveries...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Geometry Of Musical Instruments",
+      "hook": "How Do Musical Instruments Use Geometry...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Math Of Data Analysis Tools",
+      "hook": "Can Data Analysis Tools Never Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "5 Most Famous Math Theorists",
+      "hook": "Who Are 5 Most Famous Theorists...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Probability Of Machine Learning",
+      "hook": "What Is Probability Of Machine Learning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Math Of Cyber Security Systems",
+      "hook": "Why Cant Cyber Systems Be Secure...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Statistics Of Human Behavior",
+      "hook": "How Does Human Behavior Use Stats...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "7 Most Famous Math Textbooks",
+      "hook": "What Are 7 Most Famous Textbooks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Math Of Materials Science",
+      "hook": "Where Does Materials Science Need Math...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Geometry Of Fractal Landscapes",
+      "hook": "Why Are Fractal Landscapes Always Geometric...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

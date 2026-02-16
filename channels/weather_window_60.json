@@ -1,0 +1,819 @@
+{
+  "channel_id": "weather_window_60",
+  "channel_name": "Weather Window 60",
+  "github_environment": "Weather Window 60",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "weather",
+    "climate",
+    "storms",
+    "meteorology",
+    "nature",
+    "shorts"
+  ],
+  "pexels_search_prefix": "weather storm clouds nature",
+  "music_mood": "dramatic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Hurricane Katrina Made Landfall",
+      "hook": "What Caused Katrina To Destroy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Lightning Strikes Eiffel Tower",
+      "hook": "When Will Eiffel Tower Lightning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Tornado Alley Sees Increase",
+      "hook": "Where Is Tornado Alley Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Category 5 Cyclone Forms",
+      "hook": "Can Category 5 Cyclones Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Mount St Helens Erupts Again",
+      "hook": "How Does Mount St Helens...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Japan Experiences Heavy Snowfall",
+      "hook": "Why Does Japan Get Heavy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Storm Surge Floods Coastal Cities",
+      "hook": "What Causes Storm Surge Flooding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "El Nino Causes Drought",
+      "hook": "Why Cant El Nino Bring...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Antarctic Ice Sheet Melts",
+      "hook": "When Will Antarctic Ice Melt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Derecho Storm Hits Midwest",
+      "hook": "How Does Derecho Storm Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Blizzards Dump 10 Feet Snow",
+      "hook": "What Drops 10 Feet Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Giant Hailstones Fall Oklahoma",
+      "hook": "Where Do Giant Hailstones Fall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Wildfires Burn 1000 Acres",
+      "hook": "Why Does Wildfire Burn 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Floods Displace 10000 People",
+      "hook": "How Many People Cant Escape...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Ice Storm Freezes Toronto",
+      "hook": "What Freezes Toronto Every Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Typhoon Haiyan Makes Landfall",
+      "hook": "When Will Typhoon Haiyan Hit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Sahara Desert Sees Snow",
+      "hook": "Where Does Sahara Desert Snow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Meteorologists Predict Weather Patterns",
+      "hook": "Can Meteorologists Always Predict...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Climate Change Affects Oceans",
+      "hook": "How Does Climate Change Affect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "100 Year Flood Event",
+      "hook": "What Causes 100 Year Flood...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Sudden Frost Kills Crops",
+      "hook": "What Kills 1000 Acres...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Storm Chasers Track Tornadoes",
+      "hook": "How Do Storm Chasers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Heatwave Hits Death Valley",
+      "hook": "When Does Death Valley...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Polar Vortex Brings Cold",
+      "hook": "Where Is Polar Vortex...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Tsunami Waves Hit Japan",
+      "hook": "Can Tsunami Waves Reach...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Hurricane Season Starts Early",
+      "hook": "Why Starts Hurricane Season...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Severe Thunderstorm Warning Issued",
+      "hook": "What Triggers Severe Warning...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Tornado Outbreak Kills 100",
+      "hook": "How Many Tornadoes Hit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Winter Storm Brings Heavy Snow",
+      "hook": "What Brings 10 Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Flash Floods Kill 50 People",
+      "hook": "Why Cant We Stop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Meteor Shower Peaks Tonight",
+      "hook": "When Is Meteor Shower...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Weather Radar Detects Tornado",
+      "hook": "How Does Radar Detect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "La Nina Event Occurs",
+      "hook": "What Causes La Nina...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Dust Storm Reduces Visibility",
+      "hook": "Where Does Dust Storm...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "5 Major Hurricanes Form",
+      "hook": "Can 5 Hurricanes Form...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Blizzard Conditions Shut Down",
+      "hook": "What Causes Blizzard Conditions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Climate Change Impacts Wildlife",
+      "hook": "How Does Climate Change...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Extreme Weather Events Increase",
+      "hook": "Why Do Events Increase...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Storm Surge Barriers Fail",
+      "hook": "What Happens When Barriers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Weather Forecast Models Improve",
+      "hook": "Can Models Always Predict...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Ice Age Cometh Again",
+      "hook": "What Causes Ice Age...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Heavy Rainfall Causes Landslides",
+      "hook": "How Heavy Is 10 Inches...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Tornado Touches Down Chicago",
+      "hook": "When Will Chicago Recover...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Weather Satellites Launch Today",
+      "hook": "Can 5 Satellites Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Category 4 Hurricane Hits",
+      "hook": "Where Is Category 4...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Drought Affects 10 Million",
+      "hook": "Why Affect 10 Million People...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "500 Year Flood Event",
+      "hook": "What Is 500 Year...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Hail Storm Damages Crops",
+      "hook": "How Much Hail Falls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Weather Warning Systems Fail",
+      "hook": "Why Systems Fail Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Meteorologists Track Storm Systems",
+      "hook": "Can Meteorologists Track 10...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Tropical Storm Forms Atlantic",
+      "hook": "When Forms Tropical Storm...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Wildfire Season Starts Early",
+      "hook": "What Starts Wildfire Season...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "6 Feet Of Snow Falls",
+      "hook": "How Much 6 Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Severe Weather Outlook Issued",
+      "hook": "What Is Severe Weather...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Hurricane Hunters Fly Plane",
+      "hook": "Where Do Hunters Fly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Climate Record Broken Again",
+      "hook": "Why Records Break Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Tornado Alley Sees Decrease",
+      "hook": "What Decreases In Tornado...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Lightning Strike Kills 5 People",
+      "hook": "How Many Killed By...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Storm Chaser Gets Close",
+      "hook": "Can Chaser Get Closer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Weather Pattern Changes Suddenly",
+      "hook": "When Changes Weather Pattern...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Heavy Snowfall Hits Denver",
+      "hook": "What Causes Denver Snowfall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Flash Flooding Kills 20 People",
+      "hook": "How Many Flash Flood Deaths...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Heatwave Breaks Temperature Record",
+      "hook": "When Will Heatwave Records Break...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Weather Forecasting Improves",
+      "hook": "Can Forecasting Always Be Accurate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "7 Major Earthquakes Occur",
+      "hook": "Where Do 7 Major Earthquakes Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Iceberg Breaks Off Antarctica",
+      "hook": "Why Does Antarctica Iceberg Break...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Weather Disrupts Air Travel",
+      "hook": "What Disrupts Air Travel Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Tornado Season Starts Late",
+      "hook": "When Does Tornado Season Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Heavy Rain Causes Flooding",
+      "hook": "How Much Rain Causes Flooding...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Climate Change Affects Humans",
+      "hook": "Why Does Climate Change Affect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Storm Surge Protection Fails",
+      "hook": "What Fails Storm Surge Protection...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Meteor Shower Peaks Monday",
+      "hook": "When Will Meteor Shower Peak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Weather Radar Upgrades Coming",
+      "hook": "How Soon Are Radar Upgrades...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Extreme Weather Events Cost",
+      "hook": "What Costs Extreme Weather Events...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "8 Inches Of Rain Falls",
+      "hook": "Where Falls 8 Inches Rain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Weather Warning Systems Work",
+      "hook": "Can Warning Systems Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Category 3 Hurricane Forms",
+      "hook": "What Forms Category 3 Hurricane...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Drought Ends After 10 Years",
+      "hook": "When Does 10 Year Drought...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Weather Satellites Malfunction",
+      "hook": "Why Do Weather Satellites Malfunction...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Tornado Touches Down Dallas",
+      "hook": "Where Does Tornado Touch Down...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Weather Forecast Models Fail",
+      "hook": "What Causes Models To Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Climate Change Impacts Economy",
+      "hook": "How Climate Change Costs Billions...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "9 Major Hurricanes Hit",
+      "hook": "When Will 9 Hurricanes Hit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Heavy Snowfall Hits Boston",
+      "hook": "Where Does Boston Get 4ft...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Storm Chasers Get Too Close",
+      "hook": "Can Storm Chasers Get Too...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Lightning Strike Causes Fire",
+      "hook": "Why Does Lightning Strike Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Weather Pattern Stays Same",
+      "hook": "What Keeps Patterns Same Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Tornado Season Ends Early",
+      "hook": "When Does Tornado Season End...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Weather Warning Systems Improve",
+      "hook": "How Do Warning Systems Improve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Meteorologists Predict El Nino",
+      "hook": "What Triggers El Nino Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Category 2 Hurricane Hits",
+      "hook": "Where Does Category 2 Hit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "10 Feet Of Snow Expected",
+      "hook": "How Much Snow Falls In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Weather Disrupts Daily Life",
+      "hook": "Why Does Weather Disrupt Life...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Climate Record Broken Again",
+      "hook": "What Breaks Climate Records Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Storm Surge Barriers Work",
+      "hook": "Can Barriers Stop 10ft Surges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Weather Satellites Launch Soon",
+      "hook": "When Do New Satellites Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Tornado Outbreak Expected Today",
+      "hook": "What Causes Tornado Outbreak Today...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Heavy Rainfall Causes Damage",
+      "hook": "How Much Rain Causes Damage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Weather Forecasting Becomes Better",
+      "hook": "What Makes Forecasting Better Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Hurricane Season Ends Late",
+      "hook": "When Does Hurricane Season End...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

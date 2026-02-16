@@ -1,0 +1,819 @@
+{
+  "channel_id": "corporate_jargon_translator",
+  "channel_name": "Corporate Jargon Translator",
+  "github_environment": "Corporate Jargon Translator",
+  "category": "Comedy",
+  "youtube_category_id": "23",
+  "default_tags": [
+    "corporate",
+    "office",
+    "humor",
+    "business",
+    "jargon",
+    "shorts"
+  ],
+  "pexels_search_prefix": "office business corporate meeting",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Monday Morning Meeting Disasters",
+      "hook": "What Happens On Monday Mornings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Seven Types Of Office Liars",
+      "hook": "How Many Office Liars Work Here...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Five Phrases Your Boss Hates",
+      "hook": "Why Does My Boss Hate Phrases...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Twenty Five Corporate Buzzwords",
+      "hook": "What Are 25 Corporate Buzzwords...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Three Am Email Meanings Decoded",
+      "hook": "When Does A 3am Email Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Google Employee Perks Revealed",
+      "hook": "What Perks Do Google Employees Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Eight Signs Youre Getting Fired",
+      "hook": "Can You Spot 8 Termination Signs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Four Meeting Phrases To Avoid",
+      "hook": "Why Avoid These 4 Meeting Phrases...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Twenty Office Jargon Words Defined",
+      "hook": "What Do 20 Office Jargon Words Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "CEO Salaries Compared To Employees",
+      "hook": "How Much More Does CEO Earn...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Six Types Of Difficult Colleagues",
+      "hook": "Where Are The 6 Difficult Colleagues...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Facebooks Worst Management Decisions",
+      "hook": "What Went Wrong At Facebook...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Nine Ways To Say No At Work",
+      "hook": "How Can You Say No 9 Times...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Five Things Not To Say In Meetings",
+      "hook": "What 5 Phrases Never Say In Meetings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Amazon Employee Benefits Exposed",
+      "hook": "What Benefits Do Amazon Employees Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Seven Corporate Clichés To Avoid",
+      "hook": "Why Avoid 7 Corporate Cliches Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Forty Hours Of Overtime Per Month",
+      "hook": "Can You Work 40 Overtime Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Three Ways To Translate Email Sarcasm",
+      "hook": "Why Does Everyone Translate 3 Email Sarcasms...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Microsofts Biggest Failures In History",
+      "hook": "What Are Microsofts 3 Biggest Failures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Eight Signs Your Coworker Is Lying",
+      "hook": "Can You Spot 8 Lying Coworker Signs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Five Office Phrases With Hidden Meanings",
+      "hook": "What Are Five Hidden Phrases...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Twenty Five Things To Never Say",
+      "hook": "How Can You Never Say Twenty Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Apple Employees Favorite Perks Revealed",
+      "hook": "What Are Apple Employees Favorite Seven Perks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Nine Types Of Office Politics Players",
+      "hook": "Can You Handle Nine Office Politics Players...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Four Ways To Decode Passive Aggressive",
+      "hook": "Why Are Four Passive Aggressive Signs Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Seven Ways To Deal With Office Drama",
+      "hook": "Why Does Everyone Deal With Seven Office Drama...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Six Figures Salary Expectations Vs Reality",
+      "hook": "What Is Six Figures Salary Reality Like...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Eight Most Hated Corporate Buzzwords",
+      "hook": "Why Are Eight Corporate Buzzwords Always Hated...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Five Signs Your Job Is At Risk",
+      "hook": "Can You Spot Five Job Risk Signs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Twenty One Corporate Jargon Words Defined",
+      "hook": "How Do Twenty One Corporate Jargon Words...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Three Hours Of Commute Time Per Day",
+      "hook": "What Happens After Three Hours Commute...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Nine Ways To Survive Office Meetings",
+      "hook": "Can You Survive Nine Office Meeting Types...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Fifteen Types Of Office Personalities",
+      "hook": "Why Are Fifteen Office Personalities So Different...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Four Signs Your Boss Is A Micromanager",
+      "hook": "Why Does Everyone Identify Four Micromanager Boss Signs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Seven Ways To Translate Corporate Speak",
+      "hook": "What Are Seven Corporate Speak Translation Secrets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Twenty Five Office Slang Terms Defined",
+      "hook": "Can You Define Twenty Five Office Slang...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Eight Types Of Office Conflict Resolvers",
+      "hook": "How Do Eight Conflict Resolvers Save Offices...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Five Signs Youre In A Toxic Workplace",
+      "hook": "Why Are Five Toxic Workplace Signs Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Six Ways To Deal With Office Gossip",
+      "hook": "Can You Stop Six Office Gossip Types...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Nine Corporate Clichés To Laugh At",
+      "hook": "What Are Nine Corporate Clichés To Laugh...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Four Hours Of Productivity Per Day",
+      "hook": "What Happens After Four Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Twenty One Things To Never Email",
+      "hook": "Why You Never Email Twenty One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Seven Types Of Office Motivators Defined",
+      "hook": "How Seven Motivators Change Offices...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Three Signs Your Coworker Is Burning Out",
+      "hook": "Can You Spot Three Burning Signs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Five Ways To Decode Email Tone",
+      "hook": "What Do Five Email Tones Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Eight Signs Youre A Workaholic Defined",
+      "hook": "Why Eight Signs Define Workaholics Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Nine Types Of Office Time Wasters",
+      "hook": "How Nine Time Wasters Destroy Offices...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Six Figures Salary Vs Job Satisfaction",
+      "hook": "What Is Six Figures Salary Worth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Twenty Five Corporate Jargon Phrases",
+      "hook": "Why Twenty Five Jargon Phrases Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Four Types Of Office Communication Styles",
+      "hook": "How Four Communication Styles Always Clash...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Seven Signs Your Job Is Not Secure",
+      "hook": "When Do Seven Signs Indicate Job Loss...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Three Hours Of Screen Time Per Day",
+      "hook": "Can Three Hours Screen Time Kill...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Nine Ways To Improve Office Morale",
+      "hook": "What Nine Ways Improve Office Morale...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Five Types Of Office Team Players",
+      "hook": "Why Five Team Players Always Succeed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Eight Signs Your Boss Is A Bad Leader",
+      "hook": "How Eight Signs Reveal Bad Leaders...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Twenty One Corporate Buzzwords Defined",
+      "hook": "What Do Twenty One Buzzwords Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Six Ways To Translate Meeting Jargon",
+      "hook": "Can Six Ways Translate Meeting Jargon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Four Signs Youre In A Dead End Job",
+      "hook": "Why Four Signs Indicate Dead End...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Seven Types Of Office Networkers Defined",
+      "hook": "How Seven Networkers Take Over Offices...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Nine Corporate Phrases To Avoid Using",
+      "hook": "What Nine Phrases Should You Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Five Hours Of Overtime Per Week",
+      "hook": "What Causes Five Hours Overtime...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Three Signs Your Coworker Is Underperforming",
+      "hook": "Can You Spot Three Underperforming...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Twenty Five Office Acronyms Defined",
+      "hook": "How Do Twenty Five Acronyms...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Eight Types Of Office Technology Users",
+      "hook": "What Are Eight Types Of Users...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Seven Ways To Deal With Office Stress",
+      "hook": "Why Do Seven Stress Relief...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Four Signs Your Job Is Not Fulfilling",
+      "hook": "When Does A Job Feel Unfulfilling...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Nine Types Of Office Conflict Styles",
+      "hook": "How Do Nine Conflict Styles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Six Figures Salary Vs Work Life Balance",
+      "hook": "Can Six Figures Buy Worklife...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Twenty One Corporate Clichés Defined",
+      "hook": "What Do Twenty One Cliches...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Five Ways To Decode Office Body Language",
+      "hook": "Why Does Everyone Decode Five Body...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Eight Signs Youre A High Achiever",
+      "hook": "Why Are Eight High Achievers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Three Hours Of Exercise Per Week",
+      "hook": "Can Three Hours Exercise Change...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Seven Types Of Office Motivation Theories",
+      "hook": "What Drives Seven Motivation Theories...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Nine Corporate Jargon Words To Laugh At",
+      "hook": "Why Do Nine Jargon Words...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Four Signs Your Boss Is Unapproachable",
+      "hook": "Can You Approach Four Unapproachable...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Twenty Five Office Productivity Hacks",
+      "hook": "Why Does Everyone Apply Twenty Five...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Six Ways To Translate Corporate Reports",
+      "hook": "What Do Six Corporate Reports...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Five Types Of Office Time Management",
+      "hook": "Can Five Time Management Styles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Eight Signs Youre A Perfectionist Defined",
+      "hook": "Why Are Eight Perfectionists Defined...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Nine Corporate Phrases To Use Carefully",
+      "hook": "When To Use Nine Corporate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Seven Hours Of Sleep Per Night",
+      "hook": "What Happens After Seven Hours...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Three Signs Your Coworker Is Overworked",
+      "hook": "Can You Spot Overworked Coworkers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Twenty One Office Slang Terms Defined",
+      "hook": "What Do Twenty One Slang...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Four Types Of Office Communication Barriers",
+      "hook": "How Many Barriers Block Communication...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Nine Ways To Improve Office Relationships",
+      "hook": "Why Do Nine Relationships Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Five Signs Youre In A Competitive Workplace",
+      "hook": "Why Is Your Office Always Competitive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Eight Corporate Clichés To Avoid Using",
+      "hook": "What Eight Clichés Should You...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Six Figures Salary Vs Happiness Levels",
+      "hook": "Can Six Figures Buy Happiness...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Twenty Five Corporate Jargon Phrases Defined",
+      "hook": "What Do Twenty Five Jargon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Seven Types Of Office Leadership Styles",
+      "hook": "Which Seven Leadership Styles Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Three Signs Your Job Is Not Challenging",
+      "hook": "Why Are Three Signs Ignored...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Nine Corporate Buzzwords To Know Defined",
+      "hook": "What Do Nine Buzzwords Mean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Four Hours Of Focus Per Day",
+      "hook": "Can Four Hours Change Everything...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Eight Signs Youre A Creative Thinker",
+      "hook": "What Makes Eight People Always Agree...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Five Types Of Office Problem Solvers",
+      "hook": "How Do Five Problem Solvers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Twenty One Corporate Acronyms Defined",
+      "hook": "What Do Twenty One Acronyms...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Seven Ways To Deal With Office Burnout",
+      "hook": "Can Seven Ways Stop Burnout...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Six Signs Youre A Team Player Defined",
+      "hook": "Why Are You One Of Six...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Nine Corporate Phrases To Use Confidently",
+      "hook": "What Nine Phrases Make You...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Four Signs Your Coworker Is Underpaid",
+      "hook": "Can Four Signs Save Coworkers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

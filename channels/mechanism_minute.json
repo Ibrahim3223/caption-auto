@@ -1,0 +1,819 @@
+{
+  "channel_id": "mechanism_minute",
+  "channel_name": "Mechanism Minute",
+  "github_environment": "Mechanism Minute",
+  "category": "Science & Technology",
+  "youtube_category_id": "28",
+  "default_tags": [
+    "mechanics",
+    "engineering",
+    "machines",
+    "how it works",
+    "gears",
+    "shorts"
+  ],
+  "pexels_search_prefix": "mechanical gears engineering machine",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Airbus A380 Engine Mechanics",
+      "hook": "What Powers Airbus A380 Engines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Kelsey Hydraulic Pump Systems",
+      "hook": "How Does Kelsey Hydraulic Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Rolex Watch Gear Train",
+      "hook": "Can Rolex Watch Gear Train Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Toyota 2Jz Engine Blocks",
+      "hook": "Why Toyota 2Jz Engine Blocks Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Da Vinci Clockwork Designs",
+      "hook": "When Did Da Vinci Design Clockwork...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "MIT 3D Printed Robots",
+      "hook": "What Makes MIT 3D Printed Robots...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Boeing 747 Landing Gear",
+      "hook": "How Boeing 747 Landing Gear Works...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Ford V8 Engine Cylinders",
+      "hook": "Can Ford V8 Engine Cylinders Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "NASA Mars Rover Gears",
+      "hook": "What Drives NASA Mars Rover Gears...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Harley Davidson V Twin",
+      "hook": "Why Harley Davidson V Twin Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "ancient Greek Water Clocks",
+      "hook": "How Ancient Greek Water Clocks Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Lego Mindstorms Robotics Kit",
+      "hook": "What Makes Lego Mindstorms Robotics...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Ferrari 488 Engine Layout",
+      "hook": "Can Ferrari 488 Engine Layout Improve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "International Space Station Solar",
+      "hook": "When Will International Space Station...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "General Electric Turbine Blades",
+      "hook": "How General Electric Turbine Blades...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Caterpillar Hydraulic Excavators",
+      "hook": "What Powers Caterpillar Hydraulic Excavators...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Sony Playstation 5 Cooling",
+      "hook": "Why Sony Playstation 5 Cooling Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Lamborghini V12 Engine Sound",
+      "hook": "Can Lamborghini V12 Engine Sound...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Tesla Model S Electric Motors",
+      "hook": "How Tesla Model S Electric Motors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Wright Brothers Flyer Propellers",
+      "hook": "What Made Wright Brothers Flyer Propellers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "John Deere Tractor Transmissions",
+      "hook": "What Powers John Deere Tractors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "NASA Jet Propulsion Systems",
+      "hook": "How Does NASA Achieve Jet Propulsion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Mazda Rx7 Rotary Engine",
+      "hook": "Why Mazda Rx7 Engines Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Ducati 1199 Engine Design",
+      "hook": "Can Ducati 1199 Engines Reach...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Boeing 787 Dreamliner Wings",
+      "hook": "What Makes Boeing 787 Wings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Porsche 911 Gearbox Ratio",
+      "hook": "How Porsche 911 Gearbox Ratios...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Dell Computer Cooling Fans",
+      "hook": "Why Dell Computers Need Cooling...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Honda Vtec Engine Technology",
+      "hook": "What Is Honda Vtec Technology...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Lockheed Martin F35 Engines",
+      "hook": "How Lockheed Martin F35 Engines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Apple Macbook Air Hinges",
+      "hook": "What Holds Apple Macbook Air...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Volkswagen 1 Liter Car",
+      "hook": "Can Volkswagen 1 Liter Cars...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Microsoft Xbox One Hardware",
+      "hook": "What Powers Microsoft Xbox One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Kawasaki Ninja 650 Engine",
+      "hook": "How Kawasaki Ninja 650 Engines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Ford Mustang Shelby Gt500",
+      "hook": "Why Ford Mustang Shelby Gt500...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Samsung Galaxy Smartphone Cameras",
+      "hook": "What Makes Samsung Galaxy Cameras...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "General Motors Electric Motors",
+      "hook": "Can General Motors Electric Motors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Airbus A320 Autothrottle System",
+      "hook": "How Airbus A320 Autothrottle Systems...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Yamaha R6 Engine Performance",
+      "hook": "What Gives Yamaha R6 Engines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Intel Core I7 Processors",
+      "hook": "Why Intel Core I7 Processors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Chevrolet Corvette Zr1 Engine",
+      "hook": "How Chevrolet Corvette Zr1 Engines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Amazon Robotics Warehouse Systems",
+      "hook": "What Powers Amazon Robotics...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Cisco Networking Router Hardware",
+      "hook": "How Does Cisco Router Hardware...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Nissan Gtr Twin Turbo",
+      "hook": "Can Nissan Gtr Hit 300...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Oracle Database Server Hardware",
+      "hook": "Why Does Oracle Database Server...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Microsoft Hololens Display Technology",
+      "hook": "What Makes Microsoft Hololens Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Dell Inspiron Laptop Hinges",
+      "hook": "How Strong Are Dell Inspiron...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "John Deere Combine Harvesters",
+      "hook": "When Will John Deere Combine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Ferrari F40 Engine Sound",
+      "hook": "What Makes Ferrari F40 Sound...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Sony Bravia Tv Panels",
+      "hook": "Can Sony Bravia Tv Panels...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Boeing 777 Engine Cowlings",
+      "hook": "Why Are Boeing 777 Engines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Mercedes Amg Engine Blocks",
+      "hook": "How Are Mercedes Amg Blocks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Google Pixel Smartphone Cameras",
+      "hook": "What Makes Google Pixel Cameras...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Tesla Powerwall Battery Systems",
+      "hook": "Can Tesla Powerwall Last Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Honda Civic Type R Engine",
+      "hook": "What Fuels Honda Civic Type...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Lockheed Martin Skunk Works",
+      "hook": "Where Is Lockheed Martin Skunk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Apple Iphone 13 Pro Cameras",
+      "hook": "How Does Apple Iphone 13...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Ford F150 Engine Options",
+      "hook": "What Are Ford F150 Engine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Nintendo Switch Console Hardware",
+      "hook": "Can Nintendo Switch Console Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Harley Davidson Softail Frames",
+      "hook": "How Strong Are Harley Davidson...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Microsoft Surface Laptop Hinges",
+      "hook": "Why Are Microsoft Surface Hinges...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Ducati Panigale V4 Engine",
+      "hook": "What Powers Ducati Panigale V4...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Samsung Qled Tv Panels",
+      "hook": "How Does Samsung Qled Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "General Electric Wind Turbines",
+      "hook": "When Will General Electric Turbines Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Porsche 918 Spyder Engine",
+      "hook": "Can Porsche 918 Spyder Reach 900hp...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Boeing 747 Jumbo Jet Engines",
+      "hook": "Why Are Boeing 747 Engines Massive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Dell Alienware Laptop Cooling",
+      "hook": "How Does Dell Alienware Stay Cool...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Yamaha Mt07 Engine Performance",
+      "hook": "What Makes Yamaha Mt07 So Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Cisco Webex Conference Systems",
+      "hook": "Where Is Cisco Webex Most Secure...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Ford Mustang EcoBoost Engine",
+      "hook": "Can Ford Mustang EcoBoost Hit 500hp...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Microsoft Azure Server Hardware",
+      "hook": "What Drives Microsoft Azure Server Speed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Honda Cbr500R Engine Design",
+      "hook": "How Does Honda Cbr500R Engine Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Apple Watch Series 7 Hinges",
+      "hook": "What Holds Apple Watch Series 7...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Volkswagen Golf Gti Engine",
+      "hook": "Why Is Volkswagen Golf Gti So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Intel Xeon Processor Family",
+      "hook": "When Will Intel Xeon Processors Upgrade...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Mercedes Benz S Class Suspension",
+      "hook": "Can Mercedes Benz S Class Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Boeing 787 Dreamliner Engines",
+      "hook": "How Do Boeing 787 Dreamliner Engines...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Google Nexus Smartphone Cameras",
+      "hook": "What Makes Google Nexus Cameras Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Ferrari 250 Gto Engine Sound",
+      "hook": "Why Does Ferrari 250 Gto Sound...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Dell Poweredge Server Hardware",
+      "hook": "How Does Dell Poweredge Server Scale...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Nissan 370Z Engine Performance",
+      "hook": "Can Nissan 370Z Engine Reach 400hp...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Microsoft Xbox Series X Hardware",
+      "hook": "What Powers Xbox Series X...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Honda Accord Hybrid Engine",
+      "hook": "How Does Honda Accord Hybrid...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Cisco Asa Firewall Hardware",
+      "hook": "Can Cisco Asa Firewall Handle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Porsche Cayman Gt4 Engine",
+      "hook": "Why Is Porsche Cayman Gt4...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Samsung Galaxy Note Cameras",
+      "hook": "What Makes Samsung Galaxy Note...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "General Motors Bolt Ev Battery",
+      "hook": "When Will General Motors Bolt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Boeing 737 Max Engine Cowlings",
+      "hook": "How Do Boeing 737 Max...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Apple Mac Pro Computer Hardware",
+      "hook": "What Drives Apple Mac Pro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Yamaha Fz6R Engine Design",
+      "hook": "Why Does Yamaha Fz6R Engine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Lockheed Martin F22 Raptor",
+      "hook": "Where Is Lockheed Martin F22...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Dell Inspiron Laptop Cooling",
+      "hook": "Can Dell Inspiron Laptop Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Ford Focus Rs Engine Options",
+      "hook": "What Fuels Ford Focus Rs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Microsoft Surface Pro Hinges",
+      "hook": "How Strong Are Microsoft Surface...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Mercedes Amg Gt Engine Blocks",
+      "hook": "Why Are Mercedes Amg Gt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Google Pixelbook Laptop Hardware",
+      "hook": "What Powers Google Pixelbook Laptop...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Boeing 767 Engine Thrust",
+      "hook": "When Will Boeing 767 Engine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Honda Gold Wing Engine Sound",
+      "hook": "Why Doesnt Honda Gold Wing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Cisco Catalyst Switch Hardware",
+      "hook": "How Secure Is Cisco Catalyst...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Porsche 911 Turbo Engine",
+      "hook": "What Makes Porsche 911 Turbo...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Nintendo Wii U Console Hardware",
+      "hook": "Can Nintendo Wii U Console...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

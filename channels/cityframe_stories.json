@@ -1,0 +1,819 @@
+{
+  "channel_id": "cityframe_stories",
+  "channel_name": "CityFrame Stories",
+  "github_environment": "CityFrame Stories",
+  "category": "Travel & Events",
+  "youtube_category_id": "19",
+  "default_tags": [
+    "cities",
+    "urban",
+    "architecture",
+    "city life",
+    "travel",
+    "shorts"
+  ],
+  "pexels_search_prefix": "city urban architecture",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Paris Hidden Underground Tunnels",
+      "hook": "What Lies Beneath Paris...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Tokyo Narrowest Alleyway Found",
+      "hook": "Where Is Tokyos Narrowest Alley...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "New York City Secret Gardens",
+      "hook": "Can You Find New Yorks Secret...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "London Abandoned Ghost Stations",
+      "hook": "When Did London Abandon Ghost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Sydney Opera House Design Flaw",
+      "hook": "Why Does Sydney Opera House...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Beijing Ancient City Walls",
+      "hook": "How Old Are Beijings Ancient...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Moscow Hidden Metro Tunnels",
+      "hook": "What Hides In Moscows Metro...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Barcelona Strange Building Shapes",
+      "hook": "Why Are Barcelonas Buildings So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Vancouver Underground City Tours",
+      "hook": "Can You Explore Vancouvers Underground...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Rome 2000 Year Old Sewers",
+      "hook": "What Lies Within Romes 2000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Shanghai Towering Skyscrapers Rise",
+      "hook": "How High Are Shanghais Towering...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Chicago Hidden Speakeasy Bars",
+      "hook": "Where Are Chicagos Hidden Speakeasy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Berlin Wall Last Remaining Section",
+      "hook": "What Remains Of Berlins Last...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Athens Ancient Ruins Uncovered",
+      "hook": "When Were Athens Ancient Ruins...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Stockholm City Hall Secret Rooms",
+      "hook": "What Secrets Hide In Stockholms...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Copenhagen Hidden Harbor Views",
+      "hook": "Can You Find Copenhagens Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Mexico City Ancient Aztec Temples",
+      "hook": "What Lies Within Mexico Citys...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "San Francisco Steepest Hills",
+      "hook": "Why Are San Franciscos Hills...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Budapest Hidden Thermal Baths",
+      "hook": "How Hot Are Budapests Hidden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Mumbai Narrowest Street Found",
+      "hook": "Where Is Mumbais Narrowest Street...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Dubai World Tallest Building",
+      "hook": "What Lies Inside Burj Khalifa...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Hong Kong Densest Neighborhoods",
+      "hook": "How Dense Is Mong Kok...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Singapore Gardens By Bay",
+      "hook": "Where Are The Tallest Supertrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Melbourne Street Art Laneways",
+      "hook": "Why Is Hosier Lane Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Vienna Grand Palace Secrets",
+      "hook": "What Secrets Hide In Schonbrunn...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Prague Charles Bridge Statues",
+      "hook": "How Many Statues Line Charles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Bangkok Floating Market Tours",
+      "hook": "Can You Find Damnoen Saduak...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Seoul Hidden K Pop Studios",
+      "hook": "What Happens Inside SM Studios...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Istanbul Ancient Hagia Sophia",
+      "hook": "When Was Hagia Sophia Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Buenos Aires Colorful Street Art",
+      "hook": "Why Is La Boca So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Cape Town Table Mountain Hike",
+      "hook": "How High Is Table Mountain...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Jerusalem Old City Walls",
+      "hook": "What Lies Behind Old City...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Kuala Lumpur Petronas Twin Towers",
+      "hook": "How Tall Are Petronas Towers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Edinburgh Castle Hidden Tunnels",
+      "hook": "What Hides Beneath Edinburgh Castle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Munich English Garden Secrets",
+      "hook": "Where Is The English Garden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Rio De Janeiro Hidden Beaches",
+      "hook": "Can You Find Praia Do...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Brisbane Riverwalk Pathways",
+      "hook": "How Long Is Brisbane Riverwalk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Warsaw Old Town Reconstruction",
+      "hook": "What Rebuilt Warsaw Old Town...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Lyon Hidden Roman Ruins",
+      "hook": "Where Are Lyons Roman Ruins...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Auckland Harbour Bridge Climb",
+      "hook": "Can You Climb Auckland Harbour...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Chennai Hidden Temples Found",
+      "hook": "What Lies Inside Chennai Temples...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Boston Freedom Trail Walk",
+      "hook": "How Long Is Boston Freedom...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Dallas Reunion Tower Views",
+      "hook": "Where Is Dallas Reunion Tower...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Toronto Underground City Maps",
+      "hook": "Can You Navigate Toronto Underground...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Miami Beach Art Deco District",
+      "hook": "What Makes Miami Art Deco...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Portland Hidden Food Cart Pods",
+      "hook": "How Many Food Carts Are...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Nashville Music City Landmarks",
+      "hook": "What Is Nashville Music City...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Atlanta World Of Coca Cola",
+      "hook": "Why Does Atlanta Love Coca...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Minneapolis Skyway System Tour",
+      "hook": "When Does Minneapolis Skyway Open...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Denver Union Station Revitalized",
+      "hook": "What Revitalized Denver Union Station...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Seattle Space Needle Views",
+      "hook": "How High Is Seattle Space...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Washington Dc Hidden Monuments",
+      "hook": "Where Are Washington Dc Monuments...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Cleveland Rock And Roll Hall",
+      "hook": "What Rocks At Cleveland Hall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Detroit Street Art Murals",
+      "hook": "Why Does Detroit Love Street...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Pittsburgh Hidden Neighborhoods",
+      "hook": "What Hides In Pittsburgh Neighborhoods...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Sacramento Golden Gate Bridge",
+      "hook": "How Far Is Sacramento Golden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Dallas Cowboy Stadium Tour",
+      "hook": "Can You Tour Dallas Cowboy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Indianapolis Motor Speedway Track",
+      "hook": "When Does Indianapolis Track Open...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Columbus Ohio Statehouse Tours",
+      "hook": "What Makes Columbus Ohio Unique...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Phoenix Desert Botanical Garden",
+      "hook": "Why Does Phoenix Have Desert...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Oklahoma City National Memorial",
+      "hook": "What Lies Behind Oklahoma City...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Kansas City Barbecue Joints",
+      "hook": "Where Can You Find Kansas...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "St Louis Gateway Arch Views",
+      "hook": "How Tall Is St Louis...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Raleigh Durham City Skylines",
+      "hook": "When Does Raleigh Durham Shine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Milwaukee Harley Davidson Museum",
+      "hook": "What Drives Milwaukee Harley Davidson...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "New Orleans French Quarter Walk",
+      "hook": "Can You Walk New Orleans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Salt Lake City Temple Square",
+      "hook": "Why Does Salt Lake City...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Virginia Beach Boardwalk Views",
+      "hook": "What Views Await Virginia Beach...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Providence Waterfire Festival",
+      "hook": "When Does Providence Waterfire Glow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Albuquerque International Balloon",
+      "hook": "How High Can Albuquerque Balloons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Anchorage Northern Lights Views",
+      "hook": "Where Can You See Anchorage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Hartford Connecticut River Walk",
+      "hook": "What Secrets Hartford River Walk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Boise Idaho State Capitol",
+      "hook": "Why Visit Boise Idaho State...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Richmond Virginia State Capitol",
+      "hook": "What Makes Richmond Virginia Special...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Des Moines Iowa State Fair",
+      "hook": "When Is Des Moines Iowa...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Spokane Washington Riverfront",
+      "hook": "Can You Explore Spokane Riverfront...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Wichita Kansas Keeper Aquarium",
+      "hook": "What Lives In Wichita Keeper...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Montgomery Alabama State Capitol",
+      "hook": "Why Does Montgomery Alabama Matter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Omaha Henry Doorly Zoo",
+      "hook": "How Big Is Omaha Henry...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Tulsa Oklahoma Aquarium Tour",
+      "hook": "What Lies Inside Tulsa Oklahoma...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Honolulu Hawaii State Capitol",
+      "hook": "What Lies Inside Honolulu State...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Santa Fe New Mexico Art",
+      "hook": "Where Is Santa Fe Art...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Charleston South Carolina Homes",
+      "hook": "How Many Charleston Homes Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Madison Wisconsin State Street",
+      "hook": "When Does Madison State Street...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Memphis Tennessee Music Scene",
+      "hook": "Can Memphis Music Be Found...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Colorado Springs Olympic Training",
+      "hook": "Why Does Colorado Train Olympians...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Jackson Mississippi State Capitol",
+      "hook": "What Is Jackson State Capitol...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Wichita Falls Texas Waterfall",
+      "hook": "Where Is Wichita Falls Waterfall...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Little Rock Arkansas Clinton",
+      "hook": "How Many Clinton Sites Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Fargo North Dakota Plains",
+      "hook": "What Lies In Fargo Plains...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Bismarck North Dakota Capitol",
+      "hook": "Why Visit Bismarck North Dakota...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Cheyenne Wyoming State Capitol",
+      "hook": "How Old Is Cheyenne Capitol...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Pierre South Dakota Capitol",
+      "hook": "What Is Pierre South Dakota...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Helena Montana State Capitol",
+      "hook": "Where Is Helena Montana Located...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Topeka Kansas State Capitol",
+      "hook": "Can You Tour Topeka Kansas...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Lincoln Nebraska State Capitol",
+      "hook": "Why Is Lincoln Nebraska Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Concord New Hampshire Capitol",
+      "hook": "What Is Concord New Hampshire...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Trenton New Jersey State Capitol",
+      "hook": "How Many Trenton New Jersey...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Dover Delaware State Capitol",
+      "hook": "When Was Dover Delaware Built...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Olympia Washington State Capitol",
+      "hook": "What Lies Inside Olympia Washington...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

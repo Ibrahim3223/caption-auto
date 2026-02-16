@@ -1,0 +1,819 @@
+{
+  "channel_id": "gods_unleashed",
+  "channel_name": "Gods Unleashed",
+  "github_environment": "Gods Unleashed",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "mythology",
+    "gods",
+    "legends",
+    "ancient",
+    "myths",
+    "shorts"
+  ],
+  "pexels_search_prefix": "ancient mythology temple",
+  "music_mood": "epic",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Zeus Battles Typhon Monster",
+      "hook": "What Happens When Zeus Battles Typhon...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Odin Rides Eight Legged Horse",
+      "hook": "How Does Odin Ride Eight Legged...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Anubis Weighs Human Hearts",
+      "hook": "Why Does Anubis Weigh Every Heart...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Shiva Destroys Cosmic Dancer",
+      "hook": "Can Shiva Destroy Cosmic Dancer Nataraja...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Athena Fights Medusa Snake",
+      "hook": "Where Does Athena Find Medusa Snake...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Thor Wields Mjolnir Hammer",
+      "hook": "What Makes Thor Wield Mjolnir Alone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Isis Heals Wounded Osiris",
+      "hook": "How Does Isis Heal Osiris Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Brahma Creates Four Heads",
+      "hook": "Why Does Brahma Create Four Heads...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Poseidon Controls Ocean Tides",
+      "hook": "When Does Poseidon Control Ocean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Loki Tricks Norse Gods",
+      "hook": "Can Loki Trick All Norse Gods...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Apollo Plays Lyre Music",
+      "hook": "What Makes Apollo Play Lyre...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Krishna Shows Divine Powers",
+      "hook": "How Does Krishna Show Divine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Artemis Hunts Wild Boar",
+      "hook": "Where Does Artemis Hunt Wild...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Egyptian Gods Build Pyramids",
+      "hook": "Why Do Egyptian Gods Build...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Ares Starts Trojan War",
+      "hook": "What Starts Ares Trojan War...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Freyja Wears Brisingamen Necklace",
+      "hook": "How Does Freyja Wear Brisingamen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Ganesha Removes Obstacles",
+      "hook": "Can Ganesha Remove Every Obstacle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Hephaestus Forges Metal Armor",
+      "hook": "What Does Hephaestus Forge In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Norse Gods Fight Giants",
+      "hook": "When Do Norse Gods Fight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Vishnu Takes Ten Avatars",
+      "hook": "How Does Vishnu Take Ten...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Demeter Finds Lost Daughter",
+      "hook": "What Happens When Demeter Finds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Hermes Delivers Divine Messages",
+      "hook": "How Does Hermes Deliver 1000 Messages...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Ra Sails Solar Barge",
+      "hook": "When Does Ra Sail Solar Barge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Dionysus Celebrates Wine Festival",
+      "hook": "Why Does Dionysus Celebrate Wine Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Kali Dances On Shiva",
+      "hook": "Where Does Kali Dance On Shiva...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Hercules Completes Labors",
+      "hook": "Can Hercules Complete 12 Labors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Baldur Dies From Blindness",
+      "hook": "Why Does Baldur Die At 17...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Egyptian Book Of Dead",
+      "hook": "What Secrets Hide In Egyptian Book...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Varaha Saves Earth Goddess",
+      "hook": "How Does Varaha Save Earth Goddess...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Hermes Steals Apollo Cattle",
+      "hook": "Why Does Hermes Steal 50 Cattle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Athena Builds Parthenon Temple",
+      "hook": "What Takes Athena 15 Years Building...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Osiris Rules Underworld Kingdom",
+      "hook": "Where Does Osiris Rule Underworld Kingdom...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Thor Travels To Jotunheim",
+      "hook": "When Does Thor Travel To Jotunheim...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Ravana Abducts Sita Queen",
+      "hook": "Why Does Ravana Abduct Sita Queen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Norse End Of World",
+      "hook": "What Happens During Norse End Time...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Shiva Dances Cosmic Cycle",
+      "hook": "How Does Shiva Dance Cosmic Cycle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Apollo Kills Python Monster",
+      "hook": "Can Apollo Kill Python Monster Alone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Anubis Guards Tomb Treasures",
+      "hook": "What Treasures Does Anubis Guard Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Ganesha Writes Mahabharata",
+      "hook": "Why Does Ganesha Write 100000 Verses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Odin Hangs From Tree",
+      "hook": "What Does Odin Discover Hanging 9 Days...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Zeus Releases Titans Prison",
+      "hook": "What Happens When Zeus Releases...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Egyptian Creation Myth Story",
+      "hook": "How Did Egyptian Gods Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Krishna Teaches Bhagavad Gita",
+      "hook": "Why Does Krishna Teach Arjuna...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Poseidon Creates Earthquakes",
+      "hook": "Can Poseidon Control 1000 Earthquakes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Loki Betrays Norse Gods",
+      "hook": "What Makes Loki Betray 12 Gods...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Isis Protects Pharaoh Sons",
+      "hook": "How Does Isis Protect 2 Pharaoh...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Arjuna Fights Kaurava Army",
+      "hook": "When Does Arjuna Fight 100 Kaurava...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Hephaestus Builds Robot Talos",
+      "hook": "What Is Hephaestus Building With 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Hermes Guides Dead Souls",
+      "hook": "Where Does Hermes Guide 1000 Souls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Athena Invents Olive Tree",
+      "hook": "Why Does Athena Invent Only 1...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Vishnu Takes Fish Avatar",
+      "hook": "What Fish Form Does Vishnu Take...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Thor Fights Giant Hrungnir",
+      "hook": "Can Thor Defeat Giant Hrungnir Alone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Demeter Finds Persephone Daughter",
+      "hook": "How Does Demeter Find 1 Daughter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Shiva Drinks Poison Halahala",
+      "hook": "What Happens When Shiva Drinks Poison...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Ra Battles Apep Snake",
+      "hook": "When Does Ra Battle 1000 Apep...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Ganesha Removes Karma Obstacles",
+      "hook": "How Does Ganesha Remove 10 Karma...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Apollo Plays Musical Instrument",
+      "hook": "What Instrument Does Apollo Play Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Odin Meets Valkyrie Warriors",
+      "hook": "Where Does Odin Meet 12 Valkyrie...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Kali Destroys Time Cycle",
+      "hook": "What Cycle Does Kali Destroy Forever...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Egyptian Gods Punish Humans",
+      "hook": "Why Do Egyptian Gods Punish 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Zeus Controls Weather Storms",
+      "hook": "What Powers Does Zeus Control...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Anubis Protects Mummy Tombs",
+      "hook": "Where Does Anubis Guard Mummies...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Norse Gods Fight Fenrir",
+      "hook": "When Will Norse Gods Fight...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Varaha Saves Humanity Earth",
+      "hook": "How Can Varaha Save Humanity...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Athena Teaches Hero Odysseus",
+      "hook": "What Secrets Does Athena Teach...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Hermes Steals Divine Fire",
+      "hook": "Why Does Hermes Steal Fire...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Shiva Marries Parvati Goddess",
+      "hook": "Who Does Shiva Marry Next...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Osiris Judges Human Souls",
+      "hook": "What Does Osiris Judge Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Thor Loses Hammer Mjolnir",
+      "hook": "Where Is Thors Hammer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Krishna Shows Cosmic Form",
+      "hook": "What Form Will Krishna Show...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Poseidon Creates Horse Animals",
+      "hook": "How Does Poseidon Create Horses...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Isis Heals Wounded Horus",
+      "hook": "Can Isis Heal Any Wound...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Loki Tricks Baldur God",
+      "hook": "Why Does Loki Trick Baldur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Hephaestus Forges Divine Weapons",
+      "hook": "What Weapons Does Hephaestus Forge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Ares Starts Greek War",
+      "hook": "When Will Ares Start War...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Ganesha Removes Life Obstacles",
+      "hook": "How Can Ganesha Remove Obstacles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Ra Sails Through Duat",
+      "hook": "Where Does Ra Sail Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Apollo Kills Niobe Children",
+      "hook": "Why Does Apollo Kill Niobe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Athena Builds Trojan Horse",
+      "hook": "What Is Athena Building Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Vishnu Takes Boar Avatar",
+      "hook": "What Avatar Will Vishnu Take...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Odin Rides Through Nine",
+      "hook": "What Happens When Odin Rides...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Demeter Finds Lost Harvest",
+      "hook": "How Does Demeter Find Persephone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Shiva Drinks Cosmic Ocean",
+      "hook": "Can Shiva Drink The Entire Ocean...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Egyptian Gods Create Humans",
+      "hook": "Where Did Egyptian Gods Create Humans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Zeus Releases Cyclops Prison",
+      "hook": "When Will Zeus Release The Cyclops...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Anubis Weighs Animal Hearts",
+      "hook": "What Does Anubis Weigh In Souls...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Norse Gods Fight Fire",
+      "hook": "How Cant Norse Gods Stop Fire...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Krishna Teaches Yoga Philosophy",
+      "hook": "Why Does Krishna Teach 8 Yogas...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Poseidon Creates Tsunami Waves",
+      "hook": "Can Poseidon Create 1000 Tsunami Waves...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Isis Protects Pharaoh Throne",
+      "hook": "How Does Isis Protect The Pharaoh...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Arjuna Fights Bhishma Warrior",
+      "hook": "When Will Arjuna Defeat Bhishma Warrior...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Hephaestus Builds Divine Chariot",
+      "hook": "What Does Hephaestus Build For Zeus...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Hermes Guides Hero Perseus",
+      "hook": "Where Does Hermes Guide Perseus Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Athena Invents Divine Armor",
+      "hook": "How Does Athena Invent Divine Armor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Vishnu Takes Turtle Avatar",
+      "hook": "Why Does Vishnu Take Turtle Form...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Thor Fights Giant Skadi",
+      "hook": "Can Thor Defeat The Giant Skadi...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Demeter Finds Persephone Smile",
+      "hook": "What Makes Demeter Find Persephone Smile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Shiva Dances With Parvati",
+      "hook": "How Does Shiva Dance With Parvati...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Ra Battles Chaos Gods",
+      "hook": "When Will Ra Battle The Chaos Gods...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Odin Meets Norns Goddesses",
+      "hook": "What Do The Norns Goddesses Tell Odin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

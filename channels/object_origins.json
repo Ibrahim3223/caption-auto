@@ -1,0 +1,819 @@
+{
+  "channel_id": "object_origins",
+  "channel_name": "Object Origins",
+  "github_environment": "Object Origins",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "origins",
+    "history",
+    "everyday objects",
+    "invention",
+    "design",
+    "shorts"
+  ],
+  "pexels_search_prefix": "everyday objects vintage invention",
+  "music_mood": "upbeat",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Alexander Graham Bell Invents Telephone",
+      "hook": "What Inspired Alexander Graham Bell...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "First Computer Weighs 27 Tons",
+      "hook": "How Did A 27 Ton Computer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Coca Cola Original Recipe Found",
+      "hook": "Where Is Coca Cola Original...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Microscope Invented By Hans Jansen",
+      "hook": "Who Helped Hans Jansen Invent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Thomas Edison Creates Light Bulb",
+      "hook": "When Did Thomas Edison Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "First Television Broadcasts In 1927",
+      "hook": "What Happened In 1927 Television...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Paper Clips Were Originally Earings",
+      "hook": "Why Were Paper Clips Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Leonardo Da Vinci Designs Plane",
+      "hook": "How Did Leonardo Da Vinci...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Jelly Beans Originated In 1869",
+      "hook": "What Made 1869 Jelly Beans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Bicycle Evolves From Wooden Horse",
+      "hook": "Can A Wooden Horse Become...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "George Washington Carver Loves Peanuts",
+      "hook": "Why Does George Washington Love...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "First Credit Card Introduced 1950",
+      "hook": "When Was The First Credit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Roller Skates Invented By James Plimpton",
+      "hook": "Who Invented Roller Skates First...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Nintendo Founded In 1889 Japan",
+      "hook": "What Made Nintendo Found In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Radar Technology Developed In 1935",
+      "hook": "How Was Radar Developed In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "First Microwave Oven Built 1947",
+      "hook": "What Powered The 1947 Oven...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Levi Strauss Creates Jeans 1873",
+      "hook": "Why Did Levi Strauss Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Aspirin Invented By Felix Hoffmann",
+      "hook": "What Made Felix Hoffmann Invent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "First Email Sent In 1971",
+      "hook": "Who Sent The First Email...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Google Founded By Larry Page",
+      "hook": "What Made Larry Page Found...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Post It Notes Invented Accidentally",
+      "hook": "What Inspired Post It Notes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "First Camera Takes Picture 1826",
+      "hook": "When Was First Photo Taken...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "William Shakespeare Writes 38 Plays",
+      "hook": "How Did Shakespeare Write 38...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Bicycle Helmet Saves Many Lives",
+      "hook": "Can Helmets Save Every Life...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "First Satellite Launches In 1957",
+      "hook": "What Launched In 1957 Space...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Coca Cola Bottle Design Evolves",
+      "hook": "Why Does Coca Cola Evolve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Lego Bricks Invented By Ole Kirk",
+      "hook": "Who Invented Lego Bricks Originally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "First Telephone Booth Installed 1880",
+      "hook": "When Was First Phone Booth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Qwerty Keyboard Layout Still Used",
+      "hook": "Why Is Qwerty Still Used...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "First Computer Mouse Invented 1964",
+      "hook": "How Was Mouse Invented First...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Samuel Morse Creates Morse Code",
+      "hook": "What Is Morse Code Secret...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "First Traffic Light Installed 1914",
+      "hook": "When Did First Traffic Light...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Nintendo Creates Iconic Characters",
+      "hook": "Who Created Nintendo Characters Originally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "First Mobile Phone Call Made 1973",
+      "hook": "What Happened In 1973 Mobile...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "First Credit Card Machine Introduced",
+      "hook": "How Was First Credit Machine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "George Eastman Invents Kodak Camera",
+      "hook": "Who Invented Kodak Camera First...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "First Television Remote Control 1956",
+      "hook": "What Changed Tv In 1956...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Ray Kroc Buys McDonalds 1961",
+      "hook": "Why Did Kroc Buy Mcdonalds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "First Laser Printer Introduced 1969",
+      "hook": "What Printed In 1969 First...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Email Spam Becomes Big Problem",
+      "hook": "Can Email Spam Be Stopped...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "First Apple Computer Released 1976",
+      "hook": "What Made Apple Succeed In 1976...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Coca Cola Becomes Global Brand",
+      "hook": "How Did Coca Cola Reach 200 Countries...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "First Digital Watch Released 1972",
+      "hook": "When Was First Digital Watch Released...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "First Payphone Installed 1889",
+      "hook": "Where Was First Payphone Installed Exactly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Thomas Crapper Invents Toilet Handle",
+      "hook": "Who Invented Toilet Handle In 1900s...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "IBM Creates First Pc 1981",
+      "hook": "What Made IBM Pc So Popular...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "First Vending Machine Installed 1888",
+      "hook": "How Did First Vending Machine Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Samuel Slater Builds First Factory",
+      "hook": "Why Did Samuel Slater Build Factory...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "First Automatic Door Invented 1954",
+      "hook": "What Made Automatic Doors Possible In 1954...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Procter And Gamble Founded 1837",
+      "hook": "How Old Is Procter And Gamble Now...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "First Pocket Protector Invented 1952",
+      "hook": "What Was First Pocket Protector Made Of...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "First Touch Tone Phone Released",
+      "hook": "When Was Touch Tone Phone Released Exactly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "First Car Phone Installed 1947",
+      "hook": "How Much Did First Car Phone Cost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "First Answering Machine Introduced",
+      "hook": "What Was First Answering Machine Called...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Nintendo Entertains Millions Worldwide",
+      "hook": "Why Does Nintendo Entertain Millions Still...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "First Electric Toothbrush Released 1960",
+      "hook": "What Made Electric Toothbrush So Innovative...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "First Plasma Tv Released 1996",
+      "hook": "How Big Was First Plasma Tv Screen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "First Digital Camera Released 1975",
+      "hook": "What Was First Digital Camera Resolution...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "First Satellite Radio Launched 2001",
+      "hook": "When Was Satellite Radio First Launched...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "First Solar Panel Invented 1954",
+      "hook": "What Made First Solar Panel So Efficient...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "First Automatic Elevator Installed",
+      "hook": "What Powered First Automatic Elevator...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "First Cordless Phone Released 1969",
+      "hook": "When Was First Cordless Phone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "First Dishwasher Invented 1850",
+      "hook": "How Did 1850 Dishwasher Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "First Garbage Disposal Invented 1935",
+      "hook": "Why Was 1935 Garbage Disposal...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "First Air Conditioner Installed 1902",
+      "hook": "What Year Was First Air...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "First Electric Fan Invented 1882",
+      "hook": "How Fast Was 1882 Electric...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "First Vacuum Cleaner Invented 1901",
+      "hook": "What Powered First Vacuum Cleaner...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "First Central Heating System 1919",
+      "hook": "Can 1919 Central Heating Still...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "First Refrigerator Invented 1834",
+      "hook": "What Fueled First 1834 Refrigerator...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "First Washing Machine Invented 1851",
+      "hook": "How Did 1851 Washing Machine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "First Dryer Invented 1915",
+      "hook": "When Was First Electric Dryer...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "First Ice Maker Invented 1855",
+      "hook": "What Made 1855 Ice Maker...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "First Pinball Machine Invented 1933",
+      "hook": "Why Was 1933 Pinball Machine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "First Slot Machine Invented 1887",
+      "hook": "How Much Did 1887 Slot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "First Pacman Game Released 1980",
+      "hook": "What Made 1980 Pacman Famous...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "First Donkey Kong Game Released",
+      "hook": "When Did Donkey Kong Release...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "First Qbert Game Released 1982",
+      "hook": "What Inspired 1982 Qbert Game...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "First Joystick Invented 1944",
+      "hook": "How Did 1944 Joystick Change...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "First Game Boy Released 1989",
+      "hook": "What Made 1989 Game Boy...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "First Nintendo 64 Released 1996",
+      "hook": "Can 1996 Nintendo 64 Still...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "First Xbox Released 2001",
+      "hook": "What Made Xbox Debut In 2001...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "First Playstation Released 1994",
+      "hook": "When Did Playstation First Launch...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "First Sega Genesis Released 1989",
+      "hook": "How Did Sega Genesis Start...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "First Atari 2600 Released 1977",
+      "hook": "What Year Was Atari 2600 Born...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "First Intellivision Released 1980",
+      "hook": "Can Intellivision Still Be Played...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "First Coleco Vision Released 1982",
+      "hook": "Where Did Coleco Vision Originate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "First Computer Virus Created 1971",
+      "hook": "Why Was First Virus Created...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "First Internet Service Provider 1989",
+      "hook": "What Launched Internet In 1989...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "First Web Browser Released 1990",
+      "hook": "How Did Web Browser Emerge...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "First Social Media Site Launched",
+      "hook": "What Was First Social Media...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "First Online Shopping Platform 1995",
+      "hook": "When Did Online Shopping Begin...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "First Digital Music Player Released",
+      "hook": "What Powered First Digital Player...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "First Mp3 Player Released 1997",
+      "hook": "How Did Mp3 Player Evolve...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "First Iphone Released 2007",
+      "hook": "What Made Iphone So Revolutionary...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "First Tablet Computer Released 2001",
+      "hook": "When Was First Tablet Released...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "First Smartwatch Released 1998",
+      "hook": "What Made Smartwatch Tick In 1998...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "First Fitness Tracker Released 2009",
+      "hook": "Can Fitness Tracker Always Track...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "First Virtual Reality Headset 2016",
+      "hook": "What Powered First Virtual Reality...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "First 3d Printer Released 2004",
+      "hook": "How Did 3d Printing Start In 2004...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "First Robot Vacuum Cleaner Released",
+      "hook": "What Launched First Robot Vacuum...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

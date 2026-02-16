@@ -1,0 +1,819 @@
+{
+  "channel_id": "micronature_minute",
+  "channel_name": "MicroNature Minute",
+  "github_environment": "MicroNature Minute",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "nature",
+    "insects",
+    "small creatures",
+    "biology",
+    "micro",
+    "shorts"
+  ],
+  "pexels_search_prefix": "insects macro nature closeup",
+  "music_mood": "calm",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Butterflies Taste With Feet",
+      "hook": "What Do Butterflies Taste With...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Ants Build 10 Foot Tunnels",
+      "hook": "How Do Ants Build 10 Foot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Spiders Weave 20 Types Silk",
+      "hook": "Why Do Spiders Weave 20 Types...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Fireflies Flash 300 Times Per Minute",
+      "hook": "Can Fireflies Flash 300 Times...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Beetles Have 4000 Species",
+      "hook": "What Has 4000 Beetle Species...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Parasitic Wasps Control Minds",
+      "hook": "How Do Parasitic Wasps Control...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Honeybees Communicate Through Dance",
+      "hook": "When Do Honeybees Dance Together...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Dragonflies Fly 30 Miles Per Hour",
+      "hook": "Where Can Dragonflies Fly 30...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Praying Mantis Turn Heads 180 Degrees",
+      "hook": "Why Cant Praying Mantis Turn...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Ladybugs Eat 60 Aphids Per Day",
+      "hook": "How Many Aphids Can Ladybugs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Tarantulas Live 20 Years In Captivity",
+      "hook": "What Lives 20 Years In...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Crickets Chirp 4000 Times Per Night",
+      "hook": "When Do Crickets Chirp 4000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Stick Insects Mimic Twigs Perfectly",
+      "hook": "How Do Stick Insects Mimic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Leafcutter Ants Farm Fungi",
+      "hook": "What Do Leafcutter Ants Farm...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Asian Giant Hornets Kill 40 People",
+      "hook": "Where Do Asian Giant Hornets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Migrating Monarchs Travel 3000 Miles",
+      "hook": "How Far Can Migrating Monarchs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Bullet Ants Have Painful Stingers",
+      "hook": "What Makes Bullet Ant Stingers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Robber Flies Steal Food From Spiders",
+      "hook": "When Do Robber Flies Steal...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "17 Year Cicadas Emerge Simultaneously",
+      "hook": "Why Do 17 Year Cicadas...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Giant Centipedes Eat Small Lizards",
+      "hook": "What Can Giant Centipedes Eat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Katydids Have 200 Species",
+      "hook": "What Has 200 Katydids Species...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Earwigs Have Pincers On Abdomen",
+      "hook": "How Do Earwigs Use Pincers...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Carpenter Bees Drill Holes Quickly",
+      "hook": "Can Carpenter Bees Drill Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Assassin Bugs Ambush Prey",
+      "hook": "When Do Assassin Bugs Attack...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Thorn Bug Camouflage Is Perfect",
+      "hook": "Why Is Thorn Bug Camouflage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Leafroller Moths Roll Leaves Tight",
+      "hook": "How Do Leafroller Moths Roll...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Green June Beetles Eat 100 Leaves",
+      "hook": "What Do Green June Beetles Eat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Fungus Gnat Larvae Eat Roots",
+      "hook": "Where Do Fungus Gnat Larvae Feed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Flower Flies Mimic Bees Perfectly",
+      "hook": "Can Flower Flies Mimic Bees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Hoverflies Are Important Pollinators",
+      "hook": "Why Are Hoverflies Important...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Red Harvester Ants Farm Seeds",
+      "hook": "How Do Red Harvester Ants Farm...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "500 Million Years Old Insect Fossils",
+      "hook": "What Lived 500 Million Years...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Damselflies Have 3000 Species",
+      "hook": "How Many Damselflies Species Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Water Striders Walk On Water",
+      "hook": "Can Water Striders Walk Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Horse Flies Bite Large Mammals",
+      "hook": "Why Do Horse Flies Bite...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Bot Flies Lay Eggs On Skin",
+      "hook": "Where Do Bot Flies Lay...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Cockroaches Have 4000 Species",
+      "hook": "How Many Cockroach Species Exist...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Weevils Eat 1000 Types Plants",
+      "hook": "What Do Weevils Eat Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Sawflies Have No Stingers",
+      "hook": "Why Do Sawflies Have None...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Ground Beetles Are Nocturnal Hunters",
+      "hook": "When Are Ground Beetles Most...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Flea Beetles Jump 100 Times",
+      "hook": "What Makes Flea Beetles Jump 100...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Bee Flies Mimic Bees Exactly",
+      "hook": "How Do Bee Flies Mimic Bees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Ichneumon Wasps Are Parasitic",
+      "hook": "Why Are Ichneumon Wasps So Parasitic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Caddisflies Build Underwater Shelters",
+      "hook": "Where Do Caddisflies Build Underwater...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Mayflies Live One Day Only",
+      "hook": "Why Do Mayflies Only Live One...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Tachinid Flies Parasitize Caterpillars",
+      "hook": "How Can Tachinid Flies Parasitize...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Spider Wasps Build Mud Nests",
+      "hook": "What Makes Spider Wasps Build Mud...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Silkworms Produce 3000 Feet Silk",
+      "hook": "How Do Silkworms Produce 3000 Feet...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Thrips Have Fringed Wings",
+      "hook": "What Gives Thrips Their Fringed Wings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Chalcid Wasps Are Important Parasites",
+      "hook": "Why Are Chalcid Wasps Important Parasites...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Mole Crickets Have Powerful Front Legs",
+      "hook": "How Do Mole Crickets Get Powerful...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Fruit Flies Have Red Eyes",
+      "hook": "What Makes Fruit Flies Have Red...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Lacewings Are Delicate Insects",
+      "hook": "Why Are Lacewings So Delicate Insects...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Mealybugs Have White Powdery Coating",
+      "hook": "What Gives Mealybugs Their White Coating...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Pirate Bugs Are Small Predators",
+      "hook": "How Can Pirate Bugs Be Predators...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Psocids Have Transparent Wings",
+      "hook": "What Makes Psocids Have Transparent Wings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Springtails Have Tail Like Appendage",
+      "hook": "Why Do Springtails Have Tail Appendage...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Book Lice Eat Old Books",
+      "hook": "What Makes Book Lice Eat Old...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Ant Lions Build Cone Shaped Traps",
+      "hook": "How Do Ant Lions Build Cone...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Scorpionflies Have Long Mouthparts",
+      "hook": "Why Do Scorpionflies Have Long Mouthparts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Blister Beetles Contain Toxic Fluid",
+      "hook": "What Makes Blister Beetles Toxic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Gall Wasps Induce Plant Growth",
+      "hook": "How Do Gall Wasps Induce Growth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Horsehair Worms Control Hosts",
+      "hook": "Can Horsehair Worms Control Humans...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Aphid Wasps Are Small Parasites",
+      "hook": "What Do Aphid Wasps Prey On...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Fritillary Butterflies Migrate Long",
+      "hook": "When Do Fritillary Butterflies Migrate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Clearwing Moths Mimic Wasps",
+      "hook": "Why Do Clearwing Moths Mimic...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Metallic Wood Boring Beetles",
+      "hook": "What Makes Metallic Beetles Shine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Longhorned Beetles Have Antennae",
+      "hook": "How Long Are Longhorned Beetles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Spittlebugs Produce Foam Protection",
+      "hook": "Why Do Spittlebugs Produce Foam...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Treehoppers Have Enlarged Hind Legs",
+      "hook": "What Makes Treehoppers Jump So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Web Spinners Produce Silk Threads",
+      "hook": "How Do Web Spinners Produce Silk...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Bagworms Eat 100 Leaves Daily",
+      "hook": "Can Bagworms Eat 100 Leaves...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Neuropterans Have Large Eyes",
+      "hook": "What Do Neuropterans Use Large Eyes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Jewel Beetles Have Iridescent Colors",
+      "hook": "Why Are Jewel Beetles Iridescent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Click Beetles Make Loud Noise",
+      "hook": "How Loud Can Click Beetles...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Stink Bugs Have Strong Odor",
+      "hook": "What Makes Stink Bugs Smell...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Kissing Bugs Transmit Disease",
+      "hook": "Can Kissing Bugs Transmit Disease...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Ground Nesting Bees Are Solitary",
+      "hook": "Where Do Ground Nesting Bees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Plasterer Bees Use Mud",
+      "hook": "How Do Plasterer Bees Use Mud...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Digger Wasps Are Solitary Hunters",
+      "hook": "What Makes Digger Wasps Solitary...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Mud Daubers Build Complex Nests",
+      "hook": "What Makes Mud Daubers Build...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Potter Wasps Make Pot Like Nests",
+      "hook": "How Do Potter Wasps Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Paper Wasps Build Large Nests",
+      "hook": "Why Do Paper Wasps Build...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Yellowjackets Are Aggressive Insects",
+      "hook": "When Are Yellowjackets Most Aggressive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Bald Faced Hornets Are Large",
+      "hook": "What Makes Bald Faced Hornets...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Cicada Killers Are Solitary Wasps",
+      "hook": "Where Do Cicada Killers Nest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Robber Fly Larvae Eat Insect Eggs",
+      "hook": "How Do Robber Fly Larvae Eat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Assassin Bug Nymphs Look Different",
+      "hook": "What Do Assassin Bug Nymphs Look...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Ambush Bugs Have Spiny Legs",
+      "hook": "Why Do Ambush Bugs Have Spiny...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Big Eyed Bugs Are Important Predators",
+      "hook": "Can Big Eyed Bugs Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Bed Bugs Have Flat Bodies",
+      "hook": "What Makes Bed Bugs So Flat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Boxelder Bugs Have Red Stripes",
+      "hook": "Why Do Boxelder Bugs Have Red...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Seed Bugs Are Small Insects",
+      "hook": "How Small Are Seed Bugs Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Scentless Plant Bugs Are Harmless",
+      "hook": "Are Scentless Plant Bugs Always Harmless...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Plant Hoppers Have Enlarged Hind Legs",
+      "hook": "What Makes Plant Hoppers So Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Delphacid Planthoppers Are Small",
+      "hook": "How Do Delphacid Planthoppers Jump So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Mirid Bugs Are Plant Feeders",
+      "hook": "What Do Mirid Bugs Feed On...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Coreid Bugs Have Enlarged Mouthparts",
+      "hook": "Why Do Coreid Bugs Have Large...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Burrower Bugs Are Nocturnal Insects",
+      "hook": "When Are Burrower Bugs Most Active...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Seed Weevils Eat Plant Seeds",
+      "hook": "Can Seed Weevils Eat Only Plant...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "channel_id": "lightcraft_studio",
+  "channel_name": "LightCraft Studio",
+  "github_environment": "LightCraft Studio",
+  "category": "Howto & Style",
+  "youtube_category_id": "26",
+  "default_tags": [
+    "lighting",
+    "photography",
+    "visual",
+    "creative",
+    "design",
+    "shorts"
+  ],
+  "pexels_search_prefix": "lighting photography creative studio",
+  "music_mood": "calm",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Golden Hour Lasts 60 Minutes",
+      "hook": "What Happens During 60 Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Kelvin 5500 Light Temperature Matters",
+      "hook": "Why 5500 Kelvin Matters Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Nikon D850 Studio Lighting Setup",
+      "hook": "How Does Nikon D850 Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Softbox Lights For Portrait Photography",
+      "hook": "What Are Softbox Lights For...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Morning Light Boosts Productivity Levels",
+      "hook": "When Does Morning Light Boost...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Canon EOS R6 Natural Light Hacks",
+      "hook": "Can Canon EOS R6 Use...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "10 Stop Neutral Density Filter Tricks",
+      "hook": "Why Use A 10 Stop Filter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "LED Lights For Home Studio Setup",
+      "hook": "Where To Place LED Lights...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Color Temperature Affects Human Mood",
+      "hook": "Why Color Temperature Always Affects...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Fujifilm X100V Low Light Performance",
+      "hook": "What Is Fujifilm X100V Limit...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "North Facing Windows Provide Soft Light",
+      "hook": "Where Are North Facing Windows...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "500 Watt Strobe Light For Photography",
+      "hook": "What Can 500 Watts Of Light Do...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Warm Light Colors For Cozy Atmosphere",
+      "hook": "What Creates Warm Light Colors...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Light Painting With 30 Second Exposure",
+      "hook": "Can You Paint With 30...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Sony A7R IV High ISO Capabilities",
+      "hook": "What Is Sony A7R IV...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Optical Illusions Using Prism Lenses",
+      "hook": "How Do Prism Lenses Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Daylight Saving Time Affects Photography",
+      "hook": "When Does Daylight Saving Affect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "24 Inch Softbox For Indoor Portraits",
+      "hook": "What Is 24 Inch Softbox...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "West Facing Windows Provide Warm Light",
+      "hook": "Where Do West Facing Windows...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Light Meter Apps For Smartphone Cameras",
+      "hook": "Can You Use Light Meter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "5 Common Lighting Mistakes To Avoid",
+      "hook": "What Are 5 Lighting Mistakes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Lens Flare Effects With 50mm Lens",
+      "hook": "Why Does Lens Flare Change Everything...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "20 Minute Golden Hour Photography Session",
+      "hook": "Can 20 Minutes Change Photography...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "East Facing Windows Provide Cool Light",
+      "hook": "Where Is Cool Light Found...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "DIY Softbox For Under 50 Dollars",
+      "hook": "Can You Build A Softbox Cheap...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Light Wave Frequencies And Photography",
+      "hook": "What Are Light Wave Frequencies...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Color Grading With 3 Point Lighting",
+      "hook": "Can 3 Point Lighting Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Backlight For Separating Subject From Background",
+      "hook": "Why Use Backlight Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "16 Bit Color Depth For Photography",
+      "hook": "What Is 16 Bit Color...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "South Facing Windows Provide Bright Light",
+      "hook": "Where Is Bright Light Found...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Light Leaks In Photography Composition",
+      "hook": "How Do Light Leaks Happen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "F Stop 2.8 For Shallow Depth Field",
+      "hook": "Why Use F Stop 2...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Overcast Skies Provide Diffused Light",
+      "hook": "What Causes Diffused Light Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "8 Hour Photography Workshop Schedule",
+      "hook": "Can 8 Hours Change Photography...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Light Painting With Fiber Optic Cables",
+      "hook": "What Makes Fiber Optic Light Special...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "1000 Watt Halogen Light For Studio",
+      "hook": "What Is 1000 Watt Halogen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Side Lighting For Accentuating Texture",
+      "hook": "Why Use Side Lighting Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Light And Shadow In Still Life",
+      "hook": "What Is Light And Shadow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Natural Light For Food Photography Setup",
+      "hook": "Where Is Natural Light Best...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "30 Degree Angle For Dramatic Lighting",
+      "hook": "Why Use 30 Degree Angle...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Light Pollution And Nighttime Photography",
+      "hook": "What Causes Light Pollution At Night...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Macro Photography With LED Light Rings",
+      "hook": "Why Do Photographers Need 12 LED Rings...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "High Key Lighting For Minimalist Look",
+      "hook": "Can High Key Lighting Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Light Trails With 30 Second Shutter",
+      "hook": "When To Use 30 Second Shutter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "5D Mark IV Studio Lighting Setup",
+      "hook": "What Is 5D Mark IV Setup...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Soft Focus Lens For Dreamy Effect",
+      "hook": "Why Soft Focus Lens Is Needed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Light Scattering And Atmospheric Conditions",
+      "hook": "Where Does Light Scattering Always Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "24 Hour Timelapse Photography Project",
+      "hook": "Can You Finish A 24 Hour Shoot...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Light Intensity And Subject Placement",
+      "hook": "What Is Perfect Light Intensity Level...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Flash Sync Speed For Freeze Motion",
+      "hook": "Can Flash Sync Speed Never Fail...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Light Painting With Glow Sticks And LED",
+      "hook": "What Can 20 Glow Sticks Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "10 Minute Photography Challenge Rules",
+      "hook": "What Are 10 Minute Challenge Rules...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Natural Light For Indoor Portrait Setup",
+      "hook": "Why Natural Light Is Always Best...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Lightroom Presets For Color Grading",
+      "hook": "Can Lightroom Presets Never Fail Color...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Studio Strobe Lights For Fashion Photography",
+      "hook": "What Is Studio Strobe Lights Secret...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Light Falloff And Inverse Square Law",
+      "hook": "How Does Light Falloff Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "50mm Lens For Street Photography Style",
+      "hook": "Why 50mm Lens Is Always Preferred...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "High Contrast Lighting For Dramatic Effect",
+      "hook": "What Creates High Contrast Lighting Effect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Light And Shadow In Portrait Photography",
+      "hook": "Where Is Light And Shadow Balance...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "3 Point Lighting Setup For Interviews",
+      "hook": "Can 3 Point Lighting Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "LED Light Panels For Green Screen",
+      "hook": "What Is The Best Led Panel...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Warm White Light For Cozy Ambiance",
+      "hook": "Can You Achieve Cozy Ambiance Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "20 Stop Neutral Density Filter Effects",
+      "hook": "How Does 20 Stop Nd Filter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Light Painting With Long Exposure Times",
+      "hook": "When To Use Long Exposure Times...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Flicker Free Lighting For Video Production",
+      "hook": "Why Flicker Free Lighting Is Never...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "4K Resolution For High Detail Photography",
+      "hook": "What Makes 4K Resolution So Detailed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Soft Light For Flattering Portrait Subject",
+      "hook": "Why Is Soft Light Always Better...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Light Waves And Ripple Effects Photography",
+      "hook": "What Causes Light Waves And Ripples...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "12 Inch Reflector For Outdoor Portraits",
+      "hook": "Where To Position 12 Inch Reflector...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Low Angle Lighting For Powerful Look",
+      "hook": "Can Low Angle Lighting Make You...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Light Tunnels And Optical Illusions Photography",
+      "hook": "What Makes Light Tunnels So Mesmerizing...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "5 Second Rule For Photography Composition",
+      "hook": "What Is The 5 Second Rule...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "North Light For Soft And Warm Tones",
+      "hook": "Why North Light Is Always Soft...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Light Box For Product Photography Setup",
+      "hook": "Why Does Every Photographer Need A Lightbox...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "100mm Macro Lens For Extreme Closeup",
+      "hook": "What Can 100mm Macro Lens Capture...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "High Speed Sync For Flash Photography",
+      "hook": "When To Use High Speed Sync...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Light And Shadow In Black And White",
+      "hook": "How Light And Shadow Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "30 Minute Photography Session Schedule",
+      "hook": "Can You Shoot In 30 Minutes...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "LED Strip Lights For Creative Effects",
+      "hook": "What Can Led Strip Lights Do...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Light Painting With Steel Wool And LED",
+      "hook": "What Happens When Steel Wool Catches Fire...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "10 Bit Color Depth For Photography",
+      "hook": "What Is 10 Bit Color Depth...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Side Lighting For Accentuating Form And Texture",
+      "hook": "Why Does Side Lighting Always Win...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Light Leaks And Lens Flare Effects Photography",
+      "hook": "Can Light Leaks Never Be Fixed...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "24 Inch Beauty Dish For Soft Light",
+      "hook": "Why Use 24 Inch Beauty Dish...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Light Scattering And Haze Effects Photography",
+      "hook": "When Does Light Scattering Always Occur...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "3 Hour Golden Hour Photography Session",
+      "hook": "Can You Capture 3 Hours Of Golden...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "F Stop 1.4 For Extreme Shallow Depth",
+      "hook": "What Is F Stop 1.4 For...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Light Metering Modes For Accurate Exposure",
+      "hook": "Can Light Metering Modes Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "50mm F1.8 Lens For Low Light Photography",
+      "hook": "Why Choose 50mm F1.8 Lens Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Light Painting With Glow In The Dark",
+      "hook": "What Makes Glow In Dark Photography Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "High Key Lighting For Clean And Simple",
+      "hook": "What Is High Key Lighting For...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Light And Shadow In Urban Landscapes",
+      "hook": "Where Is Light And Shadow Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "10 Stop Graduated Neutral Density Filter",
+      "hook": "Why Use 10 Stop Graduated Filter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Soft Focus Lens For Romantic Effect Photography",
+      "hook": "Can Soft Focus Lens Always Work...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Light Trails With 10 Second Shutter Speed",
+      "hook": "Why Do Light Trails Need 10 Seconds...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "5D Mark III Studio Lighting Setup Tutorial",
+      "hook": "What Is 5D Mark III Studio...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Light Intensity And Subject Distance Relationship",
+      "hook": "When Does Light Intensity Always Matter...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "LED Light For Photography On The Go",
+      "hook": "Why Use LED Light For Photography...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Light Painting With Colored Gels And LED",
+      "hook": "What Can Colored Gels Do To Light...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Natural Light For Outdoor Portrait Setup Tips",
+      "hook": "What Is Natural Light For Outdoor...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}

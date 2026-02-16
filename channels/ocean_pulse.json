@@ -1,0 +1,819 @@
+{
+  "channel_id": "ocean_pulse",
+  "channel_name": "Ocean Pulse",
+  "github_environment": "Ocean Pulse",
+  "category": "Education",
+  "youtube_category_id": "27",
+  "default_tags": [
+    "ocean",
+    "marine",
+    "sea life",
+    "deep sea",
+    "underwater",
+    "shorts"
+  ],
+  "pexels_search_prefix": "ocean underwater marine life",
+  "music_mood": "mysterious",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Giant Squid Have Large Eyes",
+      "hook": "What Makes Giant Squid Eyes So Large...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 2,
+      "title": "Mariana Trench Is 36000 Feet",
+      "hook": "How Deep Is The Mariana Trench Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 3,
+      "title": "Vampire Squid Live In Darkness",
+      "hook": "Where Do Vampire Squid Live In Darkness...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 4,
+      "title": "Coral Reefs Support 25000 Species",
+      "hook": "What Supports 25000 Species On Coral...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 5,
+      "title": "Ocean Currents Move 1000 Km",
+      "hook": "How Far Do Ocean Currents Move Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 6,
+      "title": "Deep Sea Vents Emit Hydrogen",
+      "hook": "What Do Deep Sea Vents Emit Mostly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 7,
+      "title": "Bioluminescent Fish Glow Brightly",
+      "hook": "Why Do Bioluminescent Fish Glow So...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 8,
+      "title": "Colossal Squid Weigh 750 Kg",
+      "hook": "How Heavy Can A Colossal Squid Get...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 9,
+      "title": "Pacific Ocean Is 155 Million",
+      "hook": "When Was The Pacific Ocean Formed Exactly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 10,
+      "title": "Sea Cucumbers Expel Internal Organs",
+      "hook": "What Do Sea Cucumbers Expel To Survive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 11,
+      "title": "Hydrothermal Vents Support Unique Life",
+      "hook": "Where Do Hydrothermal Vents Support Life...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 12,
+      "title": "Gulf Stream Warms Western Europe",
+      "hook": "Why Does The Gulf Stream Warm Europe...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 13,
+      "title": "Anglerfish Have Bioluminescent Lures",
+      "hook": "What Attracts Prey To Anglerfish Lures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 14,
+      "title": "Ocean Floor Covers 70 Percent",
+      "hook": "What Covers 70 Percent Of Our...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 15,
+      "title": "Blue Whales Eat 40000 Krill",
+      "hook": "How Many Krill Do Blue Whales Eat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 16,
+      "title": "Deep Sea Creatures Live Slowly",
+      "hook": "Why Do Deep Sea Creatures Live Slowly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 17,
+      "title": "Kelp Forests Support 1000 Species",
+      "hook": "What Supports 1000 Species In Kelp...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 18,
+      "title": "Ocean Acidity Increases By 30",
+      "hook": "How Much Does Ocean Acidity Increase...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 19,
+      "title": "Giant Kelp Grows 3 Feet",
+      "hook": "How Fast Does Giant Kelp Grow Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 20,
+      "title": "Seahorses Swim Very Slowly Always",
+      "hook": "Why Do Seahorses Swim So Slowly Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 21,
+      "title": "Deep Sea Pressure Is 1000",
+      "hook": "What Causes 1000 Times Pressure...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 22,
+      "title": "Box Jellyfish Have 600 Stingers",
+      "hook": "How Do 600 Stingers Kill...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 23,
+      "title": "Marine Life Adapts To Pressure",
+      "hook": "Why Cant Marine Life Adapt...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 24,
+      "title": "Ocean Salinity Affects Marine Life",
+      "hook": "What Affects Ocean Salinity Levels...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 25,
+      "title": "Sea Stars Regrow Lost Arms",
+      "hook": "Can Sea Stars Regrow 5 Arms...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 26,
+      "title": "Underwater Volcanoes Erupt Daily Now",
+      "hook": "When Do Underwater Volcanoes Erupt Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 27,
+      "title": "Marine Worms Live 500 Years",
+      "hook": "How Do Marine Worms Live 500...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 28,
+      "title": "Giant Clams Weigh 200 Kg",
+      "hook": "What Weighs 200 Kg Underwater...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 29,
+      "title": "Ocean Currents Move 1500 Ton",
+      "hook": "Where Do 1500 Ton Currents Move...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 30,
+      "title": "Frilled Sharks Live 1500 Meters",
+      "hook": "Why Do Frilled Sharks Dive 1500...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 31,
+      "title": "Coral Reefs Protect Coastlines From",
+      "hook": "What Protects Coastlines From Erosion...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 32,
+      "title": "Sea Turtles Migrate 20000 Km",
+      "hook": "How Far Do Sea Turtles Migrate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 33,
+      "title": "Deep Sea Fish Have Large",
+      "hook": "What Makes Deep Sea Fish Large...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 34,
+      "title": "Ocean Waves Reach 30 Meters",
+      "hook": "When Do Ocean Waves Reach 30...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 35,
+      "title": "Giant Isopods Eat Decaying Matter",
+      "hook": "What Do Giant Isopods Eat Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 36,
+      "title": "Marine Bacteria Clean Oil Spills",
+      "hook": "How Do Marine Bacteria Clean Oil...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 37,
+      "title": "Leatherback Turtles Dive 1200 M",
+      "hook": "What Depths Can Leatherback Turtles Dive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 38,
+      "title": "Hydrothermal Fluids Reach 400 Degrees",
+      "hook": "Why Does Hydrothermal Fluid Reach 400...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 39,
+      "title": "Ocean Dead Zones Increase By",
+      "hook": "What Increases Ocean Dead Zones By...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 40,
+      "title": "Sea Slugs Steal Chloroplasts From",
+      "hook": "How Do Sea Slugs Steal Chloroplasts...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 41,
+      "title": "Deep Sea Corals Live 4000",
+      "hook": "What Lives 4000 Years Underwater...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 42,
+      "title": "Marine Mammals Use Echolocation Always",
+      "hook": "How Do Marine Mammals Always Navigate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 43,
+      "title": "Ocean Algae Produce 70 Percent",
+      "hook": "What Produces 70 Percent Of Oxygen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 44,
+      "title": "Giant Oysters Filter 50 Gallons",
+      "hook": "Can Giant Oysters Filter 50 Gallons...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 45,
+      "title": "Underwater Landslides Trigger Tsunamis Sometimes",
+      "hook": "When Do Underwater Landslides Trigger Tsunamis...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 46,
+      "title": "Bioluminescent Plankton Glow In Darkness",
+      "hook": "What Glows In Complete Darkness Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 47,
+      "title": "Colossal Octopuses Weigh 500 Kg",
+      "hook": "How Big Can Colossal Octopuses Really...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 48,
+      "title": "Ocean Currents Affect Global Climate",
+      "hook": "Why Do Ocean Currents Affect Climate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 49,
+      "title": "Sea Hares Release Ink Clouds",
+      "hook": "What Do Sea Hares Release To Escape...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 50,
+      "title": "Deep Sea Vent Creatures Thrive",
+      "hook": "How Do Deep Sea Vent Creatures Thrive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 51,
+      "title": "Marine Fungi Decompose Organic Matter",
+      "hook": "What Helps Decompose Organic Matter Fast...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 52,
+      "title": "Giant Squid Have Powerful Beaks",
+      "hook": "Why Do Giant Squid Have Powerful Beaks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 53,
+      "title": "Coral Reefs Provide Shoreline Protection",
+      "hook": "Can Coral Reefs Protect Shorelines Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 54,
+      "title": "Ocean Acidity Affects Shellfish Growth",
+      "hook": "How Does Ocean Acidity Affect Shellfish...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 55,
+      "title": "Deep Sea Fish Have Slow",
+      "hook": "What Happens To Deep Sea Fish Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 56,
+      "title": "Leatherback Turtles Eat 2000 Jelly",
+      "hook": "How Many Jellyfish Do Leatherbacks Eat...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 57,
+      "title": "Underwater Mountains Support Unique Ecosystem",
+      "hook": "What Unique Ecosystems Exist Underwater...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 58,
+      "title": "Marine Life Adapts To Temperature",
+      "hook": "Can Marine Life Adapt To Temperature...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 59,
+      "title": "Giant Clams Live 100 Years",
+      "hook": "How Long Can Giant Clams Live Normally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 60,
+      "title": "Ocean Currents Move Heat Globally",
+      "hook": "Why Do Ocean Currents Move Heat Globally...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 61,
+      "title": "Sea Cucumbers Clean Ocean Floors",
+      "hook": "What Cleans Ocean Floors Daily...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 62,
+      "title": "Bioluminescent Sharks Glow In Darkness",
+      "hook": "How Do Bioluminescent Sharks Glow...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 63,
+      "title": "Deep Sea Trenches Are Unexplored",
+      "hook": "Where Are Deep Sea Trenches...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 64,
+      "title": "Marine Worms Build Complex Tunnels",
+      "hook": "What Marine Worms Build Complexly...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 65,
+      "title": "Ocean Salinity Affects Fish Migration",
+      "hook": "When Does Ocean Salinity Affect...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 66,
+      "title": "Giant Isopods Live 10 Years",
+      "hook": "How Long Cant Giant Isopods Live...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 67,
+      "title": "Underwater Volcanoes Create New Land",
+      "hook": "What Creates New Land Underwater...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 68,
+      "title": "Coral Reefs Support Commercial Fisheries",
+      "hook": "Why Do Coral Reefs Support...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 69,
+      "title": "Deep Sea Creatures Have Large",
+      "hook": "What Makes Deep Sea Creatures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 70,
+      "title": "Sea Stars Live 35 Years",
+      "hook": "How Long Can Sea Stars...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 71,
+      "title": "Ocean Dead Zones Harm Marine",
+      "hook": "What Harms Marine Life Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 72,
+      "title": "Marine Bacteria Produce Antibiotics Naturally",
+      "hook": "Where Does Marine Bacteria Produce...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 73,
+      "title": "Giant Squid Have Long Tentacles",
+      "hook": "How Long Are Giant Squid...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 74,
+      "title": "Ocean Currents Affect Weather Patterns",
+      "hook": "What Affects Weather Patterns Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 75,
+      "title": "Bioluminescent Fish Communicate With Light",
+      "hook": "How Do Bioluminescent Fish Communicate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 76,
+      "title": "Deep Sea Corals Provide Habitats",
+      "hook": "What Provides Habitats For Creatures...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 77,
+      "title": "Leatherback Turtles Nest On Beaches",
+      "hook": "Where Do Leatherback Turtles Nest...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 78,
+      "title": "Underwater Landslides Pose Tsunami Threat",
+      "hook": "What Poses Tsunami Threat Always...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 79,
+      "title": "Marine Life Depends On Phytoplankton",
+      "hook": "What Depends On Phytoplankton Only...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 80,
+      "title": "Giant Oysters Live 20 Years",
+      "hook": "How Long Cant Giant Oysters...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 81,
+      "title": "Ocean Algae Produce Oxygen Globally",
+      "hook": "What Produces 70 Percent Oxygen...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 82,
+      "title": "Sea Hares Have Powerful Jaws",
+      "hook": "How Do Sea Hares Eat Rocks...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 83,
+      "title": "Deep Sea Vent Creatures Survive",
+      "hook": "Where Can Creatures Survive 400 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 84,
+      "title": "Coral Reefs Face Climate Threats",
+      "hook": "Can Coral Reefs Survive 2 Degrees...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 85,
+      "title": "Ocean Currents Move Nutrient Rich",
+      "hook": "What Moves 1000 Times More Nutrients...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 86,
+      "title": "Marine Fungi Help Decompose Waste",
+      "hook": "How Do Marine Fungi Break Down...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 87,
+      "title": "Giant Clams Are Filter Feeders",
+      "hook": "What Filters 1000 Liters Of Water...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 88,
+      "title": "Underwater Mountains Support Diverse Life",
+      "hook": "Where Do 1000 Species Call Home...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 89,
+      "title": "Bioluminescent Plankton Bloom In Summer",
+      "hook": "When Do Bioluminescent Plankton Bloom...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 90,
+      "title": "Deep Sea Trenches Are Extreme",
+      "hook": "What Lies 36000 Feet Below...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 91,
+      "title": "Leatherback Turtles Dive To 4000",
+      "hook": "How Deep Can Leatherback Turtles Dive...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 92,
+      "title": "Ocean Salinity Affects Marine Ecosystem",
+      "hook": "What Affects 70 Percent Of Marine...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 93,
+      "title": "Giant Isopods Have Seven Pairs",
+      "hook": "What Has Seven Pairs Of Legs...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 94,
+      "title": "Marine Worms Help Clean Oceans",
+      "hook": "How Do Marine Worms Clean 1000...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 95,
+      "title": "Coral Reefs Support 25 Percent",
+      "hook": "What Supports 25 Percent Of Life...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 96,
+      "title": "Deep Sea Fish Have Specialized",
+      "hook": "How Do Deep Sea Fish See...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 97,
+      "title": "Sea Cucumbers Help Maintain Ecosystem",
+      "hook": "What Helps Maintain 75 Percent...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 98,
+      "title": "Underwater Volcanoes Create Mineral Rich",
+      "hook": "Where Do Underwater Volcanoes Create...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 99,
+      "title": "Ocean Currents Play Crucial Role",
+      "hook": "What Plays Crucial Role In Climate...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    },
+    {
+      "id": 100,
+      "title": "Bioluminescent Sharks Have Specialized Eyes",
+      "hook": "What Gives Bioluminescent Sharks Special...",
+      "status": "pending",
+      "published_date": null,
+      "video_id": null
+    }
+  ]
+}
