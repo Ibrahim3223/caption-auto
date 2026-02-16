@@ -8,6 +8,7 @@ on:
         required: true
         type: choice
         options:
+          # Original 15 channels
           - pet_inner_monologue
           - wt_facts_about_countries
           - tales_of_the_forgotten_realms
@@ -23,37 +24,67 @@ on:
           - cinematic_echo
           - critter_fact
           - wild_wonder_caps
+          # 34 new channels
+          - nextgen_update
+          - beyond_axis
+          - behind_the_fame
+          - one_day_inside
+          - gods_unleashed
+          - microworld_stories
+          - bot_gone_wild
+          - skysynth_lab
+          - fixit_fast
+          - gameday_60
+          - planet_snapshot
+          - cityframe_stories
+          - eco_habit_hacks
+          - pocket_tech_tricks
+          - spacevista_60
+          - micronature_minute
+          - kitchen_logic_lab
+          - weather_window_60
+          - focus_rituals
+          - trailscape_60
+          - ocean_pulse
+          - timelapse_lab
+          - orderly_home_60
+          - roadvista_60
+          - wild_pattern_atlas
+          - hidden_math_irl
+          - mechanism_minute
+          - lightcraft_studio
+          - bridge_tunnel_atlas
+          - object_origins
+          - epic_mundane
+          - corporate_jargon_translator
+          - tiny_drama_dept
+          - wrong_way_first
 
 permissions:
   contents: write
 
 jobs:
-  # Map channel ID to environment name
+  # Read github_environment directly from the channel JSON
   setup:
     runs-on: ubuntu-latest
     outputs:
       environment: ${{ steps.map-env.outputs.environment }}
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Map channel to environment
         id: map-env
         run: |
-          case "${{ inputs.channel }}" in
-            "pet_inner_monologue") echo "environment=Pet Inner Monologue" >> "$GITHUB_OUTPUT" ;;
-            "wt_facts_about_countries") echo "environment=WT Facts About Countries" >> "$GITHUB_OUTPUT" ;;
-            "tales_of_the_forgotten_realms") echo "environment=Tales of The Forgotten Realms" >> "$GITHUB_OUTPUT" ;;
-            "famous_quotes_explained") echo "environment=Famous Quotes Explained" >> "$GITHUB_OUTPUT" ;;
-            "taxwise_usa") echo "environment=TaxWise USA" >> "$GITHUB_OUTPUT" ;;
-            "echo_of_the_unknown") echo "environment=Echo of the Unknown" >> "$GITHUB_OUTPUT" ;;
-            "flashback_minute") echo "environment=Flashback Minute" >> "$GITHUB_OUTPUT" ;;
-            "universe_jumper") echo "environment=Universe Jumper" >> "$GITHUB_OUTPUT" ;;
-            "if_they_lived_today") echo "environment=If They Lived Today" >> "$GITHUB_OUTPUT" ;;
-            "rewind_retro_media") echo "environment=Rewind Retro Media" >> "$GITHUB_OUTPUT" ;;
-            "cricket_queens") echo "environment=Cricket Queens" >> "$GITHUB_OUTPUT" ;;
-            "galactic_update") echo "environment=GalacticUpdate" >> "$GITHUB_OUTPUT" ;;
-            "cinematic_echo") echo "environment=Cinematic Echo" >> "$GITHUB_OUTPUT" ;;
-            "critter_fact") echo "environment=CritterFact" >> "$GITHUB_OUTPUT" ;;
-            "wild_wonder_caps") echo "environment=WildWonderCaps" >> "$GITHUB_OUTPUT" ;;
-          esac
+          python3 -c "
+          import json
+          with open('channels/${{ inputs.channel }}.json') as f:
+              data = json.load(f)
+          env = data['github_environment']
+          with open('$GITHUB_OUTPUT', 'a') as out:
+              out.write(f'environment={env}\n')
+          print(f'Environment: {env}')
+          "
 
   process-channel:
     needs: setup
