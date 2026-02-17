@@ -100,7 +100,9 @@
       "id": 11,
       "title": "The Book That Writes Your Future",
       "hook": "What Book Predicts Your Future...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-17T20:25:33.967809+00:00",
+      "video_id": "wZ2VzFwnZ3w"
     },
     {
       "id": 12,
