@@ -91,9 +91,9 @@
       "id": 10,
       "title": "The Chernobyl Nuclear Disaster",
       "hook": "What Really Happened At Chernobyl...",
-      "status": "pending",
-      "published_date": null,
-      "video_id": null
+      "status": "published",
+      "published_date": "2026-02-18T20:27:46.033356+00:00",
+      "video_id": "oi1SbPO157o"
     },
     {
       "id": 11,
