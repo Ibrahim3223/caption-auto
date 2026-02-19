@@ -99,9 +99,9 @@
       "id": 11,
       "title": "Beethoven With Spotify",
       "hook": "What Songs Would Beethoven Stream...",
-      "status": "pending",
-      "published_date": null,
-      "video_id": null
+      "status": "published",
+      "published_date": "2026-02-19T08:31:53.736764+00:00",
+      "video_id": "QRLqBxBtdk4"
     },
     {
       "id": 12,
