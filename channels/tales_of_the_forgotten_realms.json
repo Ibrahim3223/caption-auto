@@ -100,7 +100,9 @@
       "id": 11,
       "title": "The Ancient Computer from 100 BC",
       "hook": "What Powered 100 BC Computers...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-19T08:31:51.674453+00:00",
+      "video_id": "LaWTrxa4Nig"
     },
     {
       "id": 12,
