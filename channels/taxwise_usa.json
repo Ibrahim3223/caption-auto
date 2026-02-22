@@ -133,7 +133,9 @@
       "id": 15,
       "title": "Retirement Account Withdrawal Penalty",
       "hook": "What Happens When You Withdraw At 50...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-22T20:15:58.584783+00:00",
+      "video_id": "4_mWsIWZisw"
     },
     {
       "id": 16,
