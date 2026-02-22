@@ -140,7 +140,9 @@
       "id": 16,
       "title": "The Real Author Behind This Famous Quote",
       "hook": "How Did Shakespeare Really Write His Quotes...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-22T20:15:24.742285+00:00",
+      "video_id": "VeRMrxsLets"
     },
     {
       "id": 17,
