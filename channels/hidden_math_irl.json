@@ -131,9 +131,9 @@
       "id": 15,
       "title": "Calculating Pi To 1000 Digits",
       "hook": "Can You Calculate Pi To 1000...",
-      "status": "pending",
-      "published_date": null,
-      "video_id": null
+      "status": "published",
+      "published_date": "2026-02-23T20:33:38.789603+00:00",
+      "video_id": "gPQTmU3AlPM"
     },
     {
       "id": 16,
