@@ -164,7 +164,9 @@
       "id": 19,
       "title": "The Clock That Counts Down Your Life",
       "hook": "When Will Your Countdown Hit Zero...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-23T20:35:42.150237+00:00",
+      "video_id": "pnqGYyctpz8"
     },
     {
       "id": 20,
