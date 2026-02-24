@@ -180,7 +180,9 @@
       "id": 21,
       "title": "The Hospital Room Where Patients Never Die",
       "hook": "What Happens In Room 314...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-24T20:25:22.731311+00:00",
+      "video_id": "m4ZfkCBVo3I"
     },
     {
       "id": 22,
