@@ -165,7 +165,9 @@
       "id": 19,
       "title": "Dependent Claim Rules You Miss",
       "hook": "When Does Adult Child Not Count...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-27T08:29:49.019931+00:00",
+      "video_id": "9yvx6RKxcQw"
     },
     {
       "id": 20,
