@@ -173,7 +173,9 @@
       "id": 20,
       "title": "IRA Contribution Deadline Extension",
       "hook": "When Is IRA Deadline Extended...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-27T20:18:01.403406+00:00",
+      "video_id": "N0WE4Ul4p7Q"
     },
     {
       "id": 21,
