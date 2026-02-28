@@ -196,7 +196,9 @@
       "id": 23,
       "title": "The Voynich Manuscript Mystery",
       "hook": "What Secrets Hide In Voynich...",
-      "status": "pending"
+      "status": "published",
+      "published_date": "2026-02-28T08:16:37.759139+00:00",
+      "video_id": "7gOWqbcYcrk"
     },
     {
       "id": 24,
